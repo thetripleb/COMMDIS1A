@@ -225,6 +225,14 @@
       "source": "Lecture Ch. 7, Kidwell, SJDC"
     },
     {
+      "id": "slp-ch15-g018",
+      "term": "Alexia and Agraphia",
+      "def": "ALEXIA (reading impairment in aphasia): difficulty comprehending written material, difficulty recognizing words by sight, inability to sound out words, substituting associated words, difficulty reading functor words. AGRAPHIA (writing impairment in aphasia): difficulty writing or copying letters/words/sentences, writing single words only, substituting incorrect letters or words, spelling or writing nonsense syllables, writing run-on sentences that do not make sense, writing sentences with incorrect grammar.",
+      "chapter": "15",
+      "source": "Ch. 15 PPTX",
+      "module": "mod-11"
+    },
+    {
       "id": "ch5-g006",
       "term": "Allophone",
       "def": "A slight variation in the way different people produce individual phonemes, which can be affected by the initial, middle, or final position of a word, or by what sounds precede or follow an individual phoneme. Example: the /b/ in 'lab' vs. the /b/ in 'boy' sound slightly different — both are allophones of /b/.",
@@ -263,6 +271,30 @@
       "module": "mod-2",
       "chapter": "3",
       "source": "Lecture 2.2 — Ch. 3, Kidwell, SJDC Comm Dis 1A"
+    },
+    {
+      "id": "slp-ch15-g009",
+      "term": "Anomia (Anomic Aphasia) — Types",
+      "def": "Anomia = consistent inability to recall the appropriate word to identify an object, person's name, or numbers. A deficit of EXPRESSIVE language; receptive language (understanding) is not impaired. THREE TYPES: (1) LEXICAL ANOMIA — patient knows how to use an object and can select it from a group but cannot name it; may have selective impairment for specific categories (e.g., animals or colors). (2) PHONOLOGICAL ANOMIA (Conduction Aphasia) — patient knows the word but selects wrong sounds; long words especially difficult. (3) SEMANTIC ANOMIA — meaning of words becomes lost; patient cannot select the correct object from a group even when given the name.",
+      "chapter": "15",
+      "source": "Handy Handout #435; Ch. 15 PPTX",
+      "module": "mod-11"
+    },
+    {
+      "id": "slp-ch15-g024",
+      "term": "Anomia Treatment Strategies",
+      "def": "SLP goals for anomia treatment: preserve existing language skills, restore lost skills, and discover new ways of communicating. Ultimate goal: increase INDEPENDENCE. Treatment activities: using writing or gestures to cue word retrieval; flash cards with pictures and words; repeating words back to therapist; computer programs for speech/reading/writing. WORD RETRIEVAL CUEING STRATEGIES: giving first sound or first letter; asking questions about the word's meaning; pointing to a corresponding picture from a choice; structured fill-in-the-blank sentences ('I don't want salt, I want ___'). CAREGIVER CAUTION: providing words for the patient makes conversations easier but creates a cycle of dependence — patience and positive reinforcement are essential.",
+      "chapter": "15",
+      "source": "Handy Handout #435",
+      "module": "mod-11"
+    },
+    {
+      "id": "slp-ch15-g008",
+      "term": "Anomic Aphasia",
+      "def": "A fluent aphasia characterized by a persistent, severe word-retrieval problem (anomia) while other areas of language may be relatively intact. The most common residual symptom of people who have had any type of aphasia — word retrieval difficulties often continue after other symptoms have been rehabilitated. Features: good auditory comprehension, good repetition, circumlocutions, use of generic fillers ('you know,' 'like,' 'uh'), nonspecific nouns and pronouns ('thing,' 'they'), speech full of vague expressions of frustration. Fluency: +, Comprehension: +, Repetition: +, Naming: −.",
+      "chapter": "15",
+      "source": "Ch. 15 PPTX; Kidwell lecture notes; Handy Handout #435",
+      "module": "mod-11"
     },
     {
       "id": "ch3-g056",
@@ -351,6 +383,30 @@
       "module": "mod-1",
       "chapter": "1",
       "source": "Lecture 1.2.1 — Chapter 1, Kidwell, SJDC Comm Dis 1A"
+    },
+    {
+      "id": "slp-ch15-g001",
+      "term": "Aphasia",
+      "def": "An acquired language impairment resulting from neurological damage in the absence of sensory, motor, intellectual, or cognitive impairments. A language processing deficit that may affect all input modalities (auditory, visual, tactile) and output modalities (speaking, writing, gesturing). Most SLPs label patients as having 'aphasia' though technically most have 'dysphasia' — a partial rather than complete loss of language. More than 100,000 people in the U.S. get aphasia each year; affects 1 in 250 people — more common than cerebral palsy, Parkinson's disease, or muscular dystrophy.",
+      "chapter": "15",
+      "source": "Ch. 15 PPTX; Kidwell lecture notes; Handy Handout #177",
+      "module": "mod-11"
+    },
+    {
+      "id": "slp-ch15-g019",
+      "term": "Aphasia Assessment: Evidence-Based Practice",
+      "def": "Comprehensive assessment process: (1) careful review of medical chart; (2) interview patient and family to verify history; (3) formal assessment of receptive and expressive language. RECEPTIVE abilities assessed: hearing acuity, visual acuity, pointing to named objects/pictures, answering simple to complex questions, following simple to complex spoken directions, following conversational speech. EXPRESSIVE abilities assessed: confrontation naming, responsive naming (completing phrases), word fluency, repetition, sentence formulation, discourse, picture description, nonverbal communication. READING and WRITING abilities also formally assessed.",
+      "chapter": "15",
+      "source": "Ch. 15 PPTX; Kidwell lecture notes",
+      "module": "mod-11"
+    },
+    {
+      "id": "slp-ch15-g020",
+      "term": "Aphasia Treatment: Restorative vs. Compensatory Approaches",
+      "def": "Two primary treatment approaches: RESTORATIVE — aims to improve the underlying impaired process; attempts to retrain damaged skills and restore pre-injury function. COMPENSATORY — teaches strategies to cope with persistent language deficits; focuses on daily functional communication (e.g., teaching gestures or use of a communication board when word-finding does not improve). Most programs use a combination. Overall goal: improve QUALITY OF LIFE and FUNCTIONAL OUTCOMES. Factors affecting treatment: age, prior language/literacy skills, nature and size of lesion, severity, timing, length, intensity, appropriateness of goals, and family involvement.",
+      "chapter": "15",
+      "source": "Ch. 15 PPTX; Kidwell lecture notes",
+      "module": "mod-11"
     },
     {
       "id": "ch17-g002",
@@ -557,6 +613,14 @@
       "module": "mod-2",
       "chapter": "3",
       "source": "Lecture 2.2 — Ch. 3, Kidwell, SJDC Comm Dis 1A"
+    },
+    {
+      "id": "slp-ch15-g012",
+      "term": "Broca's Aphasia (Expressive Aphasia)",
+      "def": "A nonfluent aphasia with lesion in or around Broca's area in the left frontal lobe. Characteristics: effortful, trial-and-error groping of articulators; AGRAMMATISM — impaired syntax; TELEGRAPHIC SPEECH — content words (nouns, verbs) are preserved but functor words (articles, prepositions) are omitted; poor repetition; mildly to moderately impaired comprehension. Patient knows what they want to say but finds it very difficult to produce the words. May be limited to single words or very short sentences (under 4 words). Also features limited vocabulary, clumsy sound formation, and difficulty writing. Fluency: −, Comprehension: +, Repetition: −, Naming: −.",
+      "chapter": "15",
+      "source": "Ch. 15 PPTX; Kidwell lecture notes",
+      "module": "mod-11"
     },
     {
       "id": "ch3-g047",
@@ -807,6 +871,14 @@
       "source": "Lecture 1.2.1 — Chapter 1, Kidwell, SJDC Comm Dis 1A"
     },
     {
+      "id": "slp-ch15-g023",
+      "term": "Communication Partner Training for Aphasia",
+      "def": "Training caregivers, family members, and communication partners to optimize interactions with persons with aphasia. Strategies: speak slowly; pause between topics; use short utterances; repeat and rephrase; use gestures and facial expressions; paraphrase; use multiple modalities; create equality in conversation. Specific strategies: have the person watch your face as you speak; use natural tone (do not exaggerate or shout); insert short pauses between sentences; if not understood, repeat verbatim first then change a few words; use writing; ask yes/no questions whenever possible; limit figurative language; avoid using numbers. Do not finish their sentences.",
+      "chapter": "15",
+      "source": "Ch. 15 PPTX; Handy Handout #177",
+      "module": "mod-11"
+    },
+    {
       "id": "ch4-g016",
       "term": "Communicative Competence",
       "def": "The ability to use language(s) and/or dialect(s) — including phonology, morphology, syntax, semantics, and pragmatics — and to know when, where, and with whom to use them. Emerges around 18–24 months with two-word utterances (e.g., requests: 'more milk'; negation: 'no more'; commentary: 'me home').",
@@ -821,6 +893,14 @@
       "module": "mod-9",
       "chapter": "12",
       "source": "Lecture Ch. 12, Kidwell, SJDC"
+    },
+    {
+      "id": "slp-ch15-g010",
+      "term": "Conduction Aphasia",
+      "def": "A fluent aphasia resulting from damage to the arcuate fasciculus — the fibers connecting Wernicke's area to Broca's area. Key characteristic: SIGNIFICANT DIFFICULTY REPEATING multisyllabic words, phrases, and sentences (repetition is impaired despite relatively intact comprehension and fluency). Also features phonemic and verbal paraphasias, some word-finding problems, and comprehension that is functional but may be mildly impaired. Increased complexity of utterance increases difficulty. Fluency: +, Comprehension: +, Repetition: −, Naming: −.",
+      "chapter": "15",
+      "source": "Ch. 15 PPTX; Kidwell lecture notes",
+      "module": "mod-11"
     },
     {
       "id": "ch1-g039",
@@ -1206,6 +1286,14 @@
       "source": "Ch. 9 PPTX — Fogle/SJDC"
     },
     {
+      "id": "slp-ch15-g022",
+      "term": "Emotional and Social Effects of Aphasia (Kübler-Ross Stages)",
+      "def": "Aphasia has profound emotional and social effects on both patient and family. Patients experience loss of functions, altered appearance, and dependency on others. Social and financial effects include job loss and social isolation as friends may avoid the patient. Elisabeth Kübler-Ross (1969) described FIVE STAGES OF GRIEF relevant to acquired disability: (1) DENIAL, (2) ANGER, (3) BARGAINING, (4) DEPRESSION, (5) ACCEPTANCE. FAMILY SYSTEMS THEORY recognizes that the family goes through stages: passive role during medical procedures → helping role during rehabilitation → adjusting to permanently altered functioning of their loved one.",
+      "chapter": "15",
+      "source": "Ch. 15 PPTX; Kidwell lecture notes",
+      "module": "mod-11"
+    },
+    {
       "id": "ch7-g024",
       "term": "Emotional and Social Effects of Language Disorders",
       "def": "Language disorders affect children emotionally and socially — impacts that may continue into adulthood. Short-term: difficulty with peer interactions, frustration at not being understood, poor academic performance. Long-term: adverse effects on educational adjustment, academic achievement, career choices, psychosocial functioning, increased probability of psychiatric disorders, and marital/peer relationships. A child who struggles with reading in early elementary may feel like a failure by high school — potentially dropping out, affecting future employment, relationships, and quality of life. Early identification and treatment are critical.",
@@ -1294,6 +1382,14 @@
       "source": "Lecture Ch. 7, Kidwell / Ch. 7 slides"
     },
     {
+      "id": "slp-ch15-g003",
+      "term": "F.A.S.T. (Stroke Warning Signs)",
+      "def": "Acronym for rapid stroke recognition: FACE — ask the person to smile; drooping on one side indicates stroke. ARMS — ask the person to raise both arms; if one arm drifts downward or cannot be raised, stroke may be present. SPEECH — ask the person to repeat a simple sentence; listen for slurred words or trouble speaking/understanding. TIME — if any symptoms are present, call 911 immediately. Time is of the essence. Additional general warning signs: sudden numbness/weakness especially on one side; sudden confusion; sudden visual difficulty; sudden trouble walking or loss of balance; sudden severe headache.",
+      "chapter": "15",
+      "source": "Ch. 15 PPTX; Kidwell lecture notes",
+      "module": "mod-11"
+    },
+    {
       "id": "ch5-g031",
       "term": "Failure to Thrive",
       "def": "The abnormal retardation of growth and development of an infant resulting from conditions that interfere with normal metabolism, appetite, and activity. A postnatal condition associated with neglect, malnutrition, or medical problems that can impact speech, language, and cognitive development.",
@@ -1348,6 +1444,14 @@
       "module": "mod-9",
       "chapter": "12",
       "source": "Lecture Ch. 12, Kidwell / Fluency_Disorders.pdf"
+    },
+    {
+      "id": "slp-ch15-g006",
+      "term": "Fluent vs. Nonfluent Aphasia Classification",
+      "def": "Two broad classification systems for aphasia based on lesion site and speech output characteristics. FLUENT aphasia: lesions posterior to the Fissure of Rolando (central sulcus), often near left temporal lobe; speaking rate, words per phrase, articulation, and intonation may be normal but auditory comprehension is impaired. Includes: Wernicke's, anomic, conduction, and transcortical sensory aphasia. NONFLUENT aphasia: lesions in or around Broca's area in the left frontal lobe; good auditory and reading comprehension but difficulty initiating speech, maintaining rate (often only 50 words/minute), and omission of functor words (articles: a, an, the). Includes: Broca's, transcortical motor, and global aphasia.",
+      "chapter": "15",
+      "source": "Ch. 15 PPTX; Kidwell lecture notes",
+      "module": "mod-11"
     },
     {
       "id": "ch7-g021",
@@ -1468,6 +1572,14 @@
       "module": "mod-4",
       "chapter": "5",
       "source": "Lecture 4.2, Kidwell, SJDC"
+    },
+    {
+      "id": "slp-ch15-g014",
+      "term": "Global Aphasia",
+      "def": "The most severe form of aphasia — a combination of fluent and nonfluent features with severe impairments of BOTH receptive and expressive abilities. Large lesion affecting multiple language areas. All modalities are severely impaired: auditory comprehension, verbal expression, reading, and writing. Repetition is poor. The patient may retain some ability for self-expression through facial expressions, intonation, and gestures. Apraxia or dysarthria may also be present. Prognosis is often poor due to the severe extent of the damage. Fluency: −, Comprehension: −, Repetition: −, Naming: −.",
+      "chapter": "15",
+      "source": "Ch. 15 PPTX; Kidwell lecture notes",
+      "module": "mod-11"
     },
     {
       "id": "ch3-g019",
@@ -1861,6 +1973,14 @@
       "source": "Ch. 4 PDF — Prof. Handy, SJDC"
     },
     {
+      "id": "slp-ch15-g021",
+      "term": "Life Participation Approach to Aphasia (LPAA)",
+      "def": "A philosophy and conceptual framework for aphasia intervention that emphasizes COMPETENCE and INCLUSION in activities of daily living (ADLs) and reintegration into the community. Goes beyond impairment-level treatment to address quality of life and social participation. Considered best practice (person-centered care). Focuses on what the patient CAN do and how to support meaningful participation in daily life rather than exclusively targeting the language impairment itself.",
+      "chapter": "15",
+      "source": "Ch. 15 PPTX",
+      "module": "mod-11"
+    },
+    {
       "id": "ch6-g022",
       "term": "Limb Apraxia",
       "def": "Impaired volitional movement of the limbs (arms, hands) that may co-occur with CAS or acquired AOS. A person with limb apraxia cannot perform purposeful limb movements on command — similar to oral apraxia but affecting limbs rather than articulators.",
@@ -2107,6 +2227,14 @@
       "source": "Lecture 3.2 — Ch. 4, Kidwell / Ch. 4 PDF — Prof. Handy"
     },
     {
+      "id": "slp-ch15-g004",
+      "term": "Neural Plasticity (Spontaneous Recovery)",
+      "def": "The brain's ability to reroute neural pathways following injury, allowing recovery from brain damage. The greatest gains occur within the first few weeks or months post-stroke. Recovery may continue at a slower pace for years. Factors affecting recovery: chronological age (younger is generally better), overall physical health, site of lesion (location), and size of lesion (larger lesion = more severe damage). An injury on the right side of the brain affects motor movement on the LEFT side of the body and vice versa.",
+      "chapter": "15",
+      "source": "Ch. 15 PPTX; Kidwell lecture notes",
+      "module": "mod-11"
+    },
+    {
       "id": "ch13-g014",
       "term": "Neurological Voice Disorders — Hypoadduction and Hyperadduction",
       "def": "Voice disorders caused by neurological problems affecting muscle control and innervation of respiration and phonation:\n\nHYPOADDUCTION (vocal folds do NOT close strongly/long enough):\n• Vocal fold PARESIS (weakness) or PARALYSIS\n• Unilateral: causes breathiness or DIPLOPHONIA (two simultaneous pitches)\n• Bilateral: can PREVENT RESPIRATION — life-threatening\n\nHYPERADDUCTION (vocal folds close TOO tightly or for TOO LONG):\n• Results in SPASMODIC DYSPHONIA (SD): rare CNS disorder with strained, strangled, or harsh voice quality\n• SD does NOT respond to voice therapy alone\n• Treatment: BOTULINUM TOXIN (Botox) injection to weaken the vocal fold muscles OR surgical severing of the recurrent laryngeal nerve",
@@ -2241,6 +2369,14 @@
       "module": "mod-3",
       "chapter": "4",
       "source": "Ch. 4 PDF — Prof. Handy / Quiz answer key"
+    },
+    {
+      "id": "slp-ch15-g016",
+      "term": "Paraphasias",
+      "def": "Substitution errors in aphasia. LITERAL (PHONEMIC) PARAPHASIA: substituting sounds within a word (e.g., saying 'treen' for 'tree'). VERBAL (SEMANTIC) PARAPHASIA: substituting a related word (e.g., saying 'chair' for 'table'). NEOLOGISMS: making up entirely new words that do not exist. JARGON APHASIA: fluently stringing together nonsense words and real words, but with insufficient relevant content — the output sounds fluent but is semantically meaningless. CIRCUMLOCUTIONS: talking around a word the patient cannot retrieve (e.g., 'the thing you write with' instead of 'pen').",
+      "chapter": "15",
+      "source": "Ch. 15 PPTX; Kidwell lecture notes",
+      "module": "mod-11"
     },
     {
       "id": "ch4-g010",
@@ -2448,6 +2584,14 @@
       "module": "mod-2",
       "chapter": "3",
       "source": "CSD Ch3 PP (Fogle 3rd ed.)"
+    },
+    {
+      "id": "slp-ch15-g015",
+      "term": "Primary Progressive Aphasia (PPA)",
+      "def": "Unlike other types of aphasia, PPA is DEGENERATIVE — it gets progressively worse over time rather than occurring suddenly. Language capabilities become slowly and progressively impaired, leading to gradual loss of ability to read, write, speak, and understand others. Deterioration can happen over a period of years. Other mental functions such as memory, reasoning, insight, and judgment are usually NOT affected in early stages (distinguishing it from Alzheimer's disease). There is no cure; management focuses on communication tools and support strategies.",
+      "chapter": "15",
+      "source": "Kidwell lecture notes",
+      "module": "mod-11"
     },
     {
       "id": "ch7-g005",
@@ -2752,6 +2896,14 @@
       "source": "Lecture 4.2, Kidwell, SJDC"
     },
     {
+      "id": "slp-ch15-g002",
+      "term": "Stroke (Cerebrovascular Accident / CVA)",
+      "def": "Disruption of blood flow to the brain, preventing oxygenated blood and nutrients from reaching brain areas. The second most common cause of death in the world and the most common cause of aphasia in older adults. Men have a higher risk but women are more likely to die from a stroke. Types: OCCLUSIVE (ISCHEMIC) stroke — blocked artery; CEREBRAL THROMBOSIS — artery blocked by debris (atherosclerosis); CEREBRAL EMBOLISM — blood clot lodged in a cerebral blood vessel; CEREBRAL HEMORRHAGE — ruptured blood vessel, most common in those with chronic hypertension. Time is critical — use F.A.S.T. (Face, Arms, Speech, Time).",
+      "chapter": "15",
+      "source": "Ch. 15 PPTX; Kidwell lecture notes",
+      "module": "mod-11"
+    },
+    {
       "id": "ch12-g008",
       "term": "Stuttering — Etiology (Theories)",
       "def": "No single theory explains everything; significant expert disagreement. Three main theoretical categories:\n1. BREAKDOWN THEORIES: early environmental stress combined with neurologic predisposition accounts for stuttering\n2. REPRESSED NEED THEORIES: stuttering stems from unmet/repressed emotional needs (Kidwell notes this as 'unfounded and antiquated')\n3. ANTICIPATORY STRUGGLE BEHAVIOR THEORIES: stuttering results from reactions to penalties applied to what would otherwise be normal disfluencies — fearing and struggling to avoid stuttering CREATES it\n\n★ Kidwell's view: MULTIFACTORIAL is most productive. Believes: neurological mistiming + genetic tendency → stuttering appears under stress → anxiety about stuttering causes avoidance → leads to overt struggle behaviors → more anxiety → more stuttering (vicious cycle).",
@@ -2896,6 +3048,14 @@
       "source": "Ch. 4 PDF — Prof. Handy / Quiz answer key"
     },
     {
+      "id": "slp-ch15-g017",
+      "term": "Telegraphic Speech and Agrammatism",
+      "def": "TELEGRAPHIC SPEECH: speech condensed to only the most essential content words (nouns, verbs), with functor words (articles a/an/the, prepositions, conjunctions) omitted — like the content of a telegram. Associated with Broca's aphasia. AGRAMMATISM: impaired syntax — difficulty formulating grammatically correct sentences; word order may be wrong, morphological markers omitted. FUNCTOR WORDS (noncontent words): grammatical function words such as 'the,' 'of,' 'was,' 'and' — tend to be omitted in nonfluent aphasias.",
+      "chapter": "15",
+      "source": "Ch. 15 PPTX; Kidwell lecture notes",
+      "module": "mod-11"
+    },
+    {
       "id": "ch3-g050",
       "term": "Temporal Lobe",
       "def": "Responsible for auditory processing. Receives auditory information and sends it to Wernicke's area for language interpretation. Located on the sides of the brain, below the lateral sulcus.",
@@ -3007,12 +3167,36 @@
       "source": "Lecture 2.2 — Ch. 3, Kidwell, SJDC Comm Dis 1A"
     },
     {
+      "id": "slp-ch15-g013",
+      "term": "Transcortical Motor Aphasia",
+      "def": "A nonfluent aphasia with lesion above and around Broca's area. Similar to Broca's aphasia EXCEPT repetition is intact (preserved). Features: nonfluent speech, difficulty spontaneously answering questions, mildly impaired auditory comprehension, but GOOD REPETITION of long utterances. Fluency: −, Comprehension: +, Repetition: +, Naming: −.",
+      "chapter": "15",
+      "source": "Ch. 15 PPTX; Kidwell lecture notes",
+      "module": "mod-11"
+    },
+    {
+      "id": "slp-ch15-g011",
+      "term": "Transcortical Sensory Aphasia",
+      "def": "A fluent aphasia similar to Wernicke's aphasia — impaired auditory comprehension and verbal expression — but with a KEY DIFFERENCE: good ability to repeat words and phrases (repetition is preserved). Patient may repeat questions rather than answer them (echolalia). Rare form of aphasia. Fluency: fluent (some sources list as nonfluent), Comprehension: −, Repetition: +, Naming: −.",
+      "chapter": "15",
+      "source": "Ch. 15 PPTX; Kidwell lecture notes",
+      "module": "mod-11"
+    },
+    {
       "id": "ch13-g020",
       "term": "Transgender Voice",
       "def": "Voice modification services for transgender and gender-diverse individuals are within the SLP scope of practice. This is NOT a voice disorder — it is helping individuals achieve a voice that better matches their gender identity (transmasculine or transfeminine goals). Requires increased awareness and sensitivity. Standardized training on supporting gender-diverse individuals' communication in SLP graduate curriculum has not yet been developed.",
       "module": "mod-10",
       "chapter": "13",
       "source": "Ch. 13 PPTX — Fogle/SJDC"
+    },
+    {
+      "id": "slp-ch15-g005",
+      "term": "Traumatic Brain Injury (TBI)",
+      "def": "An acquired brain injury; the most common cause of neurologic disability among people under 50 years old. One-third of survivors have permanent disabilities. Even mild TBI can cause long-lasting damage. Recovery from coma is gradual — not sudden as portrayed in TV/movies — and involves a slow regaining of awareness, feeling, emotions, and the ability to think and learn. The ability to follow simple commands (e.g., 'stick out your tongue') is a critical indicator of rehab potential.",
+      "chapter": "15",
+      "source": "Ch. 15 PPTX; Kidwell lecture notes",
+      "module": "mod-11"
     },
     {
       "id": "ch3-g017",
@@ -3155,6 +3339,14 @@
       "module": "mod-4",
       "chapter": "5",
       "source": "Ch. 5 slides — Fogle/SJDC / Lecture 4.2, Kidwell"
+    },
+    {
+      "id": "slp-ch15-g007",
+      "term": "Wernicke's Aphasia (Receptive Aphasia)",
+      "def": "A fluent aphasia caused by damage in or around Wernicke's area in the auditory association cortex of the left temporal lobe. Characteristics: impaired AUDITORY COMPREHENSION (cannot grasp meaning of spoken words), impaired verbal expression, impaired reading comprehension, impaired written language. Patient can speak fluently with normal rate and intonation but speech may not make sense; patient may not know their speech is wrong and get frustrated when misunderstood. Features include: literal and verbal paraphasias, neologisms, jargon, difficulty with yes/no questions, difficulty following rapid speech, lacking awareness of errors. Fluency: +, Comprehension: −, Repetition: −, Naming: −.",
+      "chapter": "15",
+      "source": "Ch. 15 PPTX; Kidwell lecture notes",
+      "module": "mod-11"
     },
     {
       "id": "ch3-g048",
@@ -4267,6 +4459,70 @@
       "module": "mod-10",
       "chapter": "13",
       "source": "Lecture Ch. 13, Kidwell / Ch. 13 PPTX"
+    },
+    {
+      "id": "slp-ch15-f001",
+      "front": "What are the 7 types of aphasia? For each, list: fluency, comprehension, and repetition (+ or −).",
+      "back": "FLUENT APHASIAS (lesions posterior to central sulcus / left temporal lobe):\n1. WERNICKE'S:      Fluent +  |  Comprehension −  |  Repetition −  |  Naming −\n2. ANOMIC:          Fluent +  |  Comprehension +  |  Repetition +  |  Naming −\n3. TRANSCORTICAL    Fluent +  |  Comprehension −  |  Repetition +  |  Naming −\n   SENSORY:\n4. CONDUCTION:      Fluent +  |  Comprehension +  |  Repetition −  |  Naming −\n\nNONFLUENT APHASIAS (lesions in/around Broca's area / left frontal lobe):\n5. BROCA'S:         Fluent −  |  Comprehension +  |  Repetition −  |  Naming −\n6. TRANSCORTICAL    Fluent −  |  Comprehension +  |  Repetition +  |  Naming −\n   MOTOR:\n7. GLOBAL:          Fluent −  |  Comprehension −  |  Repetition −  |  Naming −\n\nMEMORY TIP: Naming (−) in ALL types. The pattern of comprehension and repetition distinguishes the types.",
+      "chapter": "15",
+      "source": "Ch. 15 PPTX; Kidwell lecture notes",
+      "module": "mod-11"
+    },
+    {
+      "id": "slp-ch15-f002",
+      "front": "What are the key distinguishing features of Wernicke's vs. Broca's aphasia?",
+      "back": "WERNICKE'S (Receptive / Fluent):\n• Fluent speech — normal rate, articulation, intonation\n• Does NOT make sense — jargon, paraphasias, neologisms\n• Impaired auditory comprehension\n• Patient often unaware of errors\n• Gets frustrated when not understood\n• Lesion: Wernicke's area, left temporal lobe\n\nBROCA'S (Expressive / Nonfluent):\n• Effortful, halting speech — groping for articulation\n• Telegraphic speech — content words preserved, functors omitted\n• Relatively good comprehension\n• Patient KNOWS what they want to say but can't produce it\n• Very frustrated by inability to express themselves\n• Lesion: Broca's area, left frontal lobe\n\nKEY MEMORY: Wernicke's = flows but nonsense. Broca's = knows but can't say it.",
+      "chapter": "15",
+      "source": "Ch. 15 PPTX; Kidwell lecture notes",
+      "module": "mod-11"
+    },
+    {
+      "id": "slp-ch15-f003",
+      "front": "What makes conduction aphasia and transcortical aphasia unique compared to other aphasia types?",
+      "back": "CONDUCTION APHASIA — unique feature: REPETITION is disproportionately impaired despite relatively good fluency and comprehension.\n• Caused by damage to the arcuate fasciculus (connecting Wernicke's to Broca's area)\n• Patient can speak fluently and understand, but cannot repeat words/phrases\n• Phonemic paraphasias common; more errors with longer/more complex utterances\n\nTRANSCORTICAL SENSORY APHASIA — unique feature: REPETITION is preserved despite Wernicke's-like presentation.\n• Patient has poor comprehension and jargon speech (like Wernicke's)\n• BUT can repeat words and phrases accurately\n• May echo/repeat questions rather than answering them (echolalia)\n\nTRANSCORTICAL MOTOR APHASIA — unique feature: REPETITION is preserved despite Broca's-like presentation.\n• Nonfluent, effortful speech (like Broca's)\n• BUT good repetition of long utterances\n\nMEMORY TIP: 'Transcortical' types ALWAYS have preserved repetition (+).",
+      "chapter": "15",
+      "source": "Ch. 15 PPTX; Kidwell lecture notes",
+      "module": "mod-11"
+    },
+    {
+      "id": "slp-ch15-f004",
+      "front": "What are the three types of anomia? How does each differ?",
+      "back": "ANOMIA = consistent inability to recall the appropriate word. Expressive deficit; receptive language intact.\n\n1. LEXICAL ANOMIA:\n   • Knows the object and can SELECT it from a group\n   • Cannot NAME the object\n   • May have selective impairment for specific categories (animals, colors)\n\n2. PHONOLOGICAL ANOMIA (= Conduction Aphasia):\n   • Knows the WORD they want to say\n   • Selects WRONG SOUNDS when producing it\n   • Long words especially difficult\n\n3. SEMANTIC ANOMIA:\n   • Meaning of words becomes LOST\n   • Cannot select the correct object from a group\n   • Even when GIVEN the name, still cannot identify the object\n   • (Unlike lexical anomia where giving the name would help)\n\nKEY DIFFERENCE: Semantic anomia = comprehension also broken. Lexical/phonological = comprehension intact.",
+      "chapter": "15",
+      "source": "Handy Handout #435",
+      "module": "mod-11"
+    },
+    {
+      "id": "slp-ch15-f005",
+      "front": "What are the four types of strokes and how does each occur?",
+      "back": "All four disrupt blood flow to the brain, but by different mechanisms:\n\n1. CEREBRAL THROMBOSIS (occlusive/ischemic):\n   • Artery in the brain becomes blocked by debris\n   • Often due to atherosclerosis (plaque buildup)\n   • Most common type\n\n2. CEREBRAL EMBOLISM (occlusive/ischemic):\n   • Blood clot (or other material) travels from elsewhere and lodges in a cerebral artery\n   • Causes occlusion at the lodgment site\n\n3. CEREBRAL HEMORRHAGE (hemorrhagic):\n   • Blood vessel in the brain RUPTURES\n   • Blood leaks into brain tissue\n   • Most common in people with chronic hypertension\n\n4. TRANSIENT ISCHEMIC ATTACK (TIA):\n   • Brief, temporary disruption of blood flow\n   • Symptoms resolve — but is a major warning sign of future stroke\n\nMEMORY TIP: Thrombosis = blocked by local buildup. Embolism = clot traveled from elsewhere. Hemorrhage = vessel ruptured.",
+      "chapter": "15",
+      "source": "Ch. 15 PPTX; Kidwell lecture notes",
+      "module": "mod-11"
+    },
+    {
+      "id": "slp-ch15-f006",
+      "front": "What are the two primary treatment approaches for aphasia and what does each target?",
+      "back": "RESTORATIVE APPROACH:\n• Aims to IMPROVE the underlying impaired process\n• Goal: retrain damaged skills and restore function\n• Examples: auditory comprehension drills, naming tasks, sentence formulation exercises\n\nCOMPENSATORY APPROACH:\n• Teaches STRATEGIES to cope with persistent deficits\n• Goal: maximize functional communication in daily life\n• Examples: communication boards, gestures, AAC devices, drawing\n\nMost programs use BOTH approaches depending on severity and progress.\n\nOVERALL THERAPY GOALS (in order of priority):\n1. Basic understanding of language and basic communication\n2. Receptive language skills\n3. Expressive language skills\n4. Reading\n5. Writing\n\nFinal goal: improve QUALITY OF LIFE and FUNCTIONAL OUTCOMES across home, community, and vocational settings.",
+      "chapter": "15",
+      "source": "Ch. 15 PPTX; Kidwell lecture notes",
+      "module": "mod-11"
+    },
+    {
+      "id": "slp-ch15-f007",
+      "front": "What are the key communication strategies for a partner speaking WITH someone who has aphasia?",
+      "back": "COMPREHENSION STRATEGIES (helping them understand you):\n• Have them watch your face as you speak\n• Speak clearly with natural tone — do NOT shout or exaggerate\n• Insert short pauses between sentences for processing time\n• If not understood: repeat verbatim FIRST; then change a few words\n• Write key words to support comprehension\n• Ask yes/no questions whenever possible\n• Limit figurative language\n• Avoid using numbers (difficult for many with aphasia)\n\nGENERAL INTERACTION STRATEGIES:\n• Give plenty of time to speak — do NOT finish their sentences\n• Turn off background noise (TV, radio)\n• Use other communication modes: drawing, gesturing, writing\n• Confirm when you understand them\n• Speak simply and directly\n• Do not treat them as cognitively impaired — they understand more than they can express\n\nSOURCE: Handy Handout #177 and Ch. 15 Communication Partner Training",
+      "chapter": "15",
+      "source": "Ch. 15 PPTX; Handy Handout #177",
+      "module": "mod-11"
+    },
+    {
+      "id": "slp-ch15-f008",
+      "front": "What are the five stages of grief (Kübler-Ross, 1969) and why are they relevant to aphasia?",
+      "back": "Elisabeth Kübler-Ross (1969) described five stages people experience when facing loss — applicable to patients AND families dealing with acquired communication disorders:\n\n1. DENIAL — refusing to accept the reality of the diagnosis\n2. ANGER — directing frustration outward at others or the situation\n3. BARGAINING — 'if only' thinking; trying to negotiate a way out\n4. DEPRESSION — deep sadness and hopelessness about the loss\n5. ACCEPTANCE — coming to terms with the new reality\n\nRELEVANCE TO APHASIA:\n• Patient experiences loss of language, independence, and identity\n• Family transitions through three phases: passive (during medical care) → active helper (during rehab) → adjustment to permanently altered functioning\n• SLPs must understand and address the emotional dimension, not just the language impairment\n• Social effects: job loss, friendships lost, financial strain\n• Family-centered service models recognize that aphasia affects the entire family system",
+      "chapter": "15",
+      "source": "Ch. 15 PPTX; Kidwell lecture notes",
+      "module": "mod-11"
     }
   ],
   "questions": [
@@ -7634,9 +7890,360 @@
       "module": "mod-10",
       "chapter": "13",
       "source": "Lecture Ch. 13, Kidwell / Ch. 13 PPTX"
+    },
+    {
+      "id": "slp-ch15-q001",
+      "type": "mc",
+      "text": "Which aphasia type is characterized by fluent speech, impaired comprehension, and PRESERVED repetition — and may also involve echolalia?",
+      "options": [
+        "Transcortical sensory aphasia",
+        "Wernicke's aphasia",
+        "Conduction aphasia",
+        "Transcortical motor aphasia"
+      ],
+      "answer": "Transcortical sensory aphasia",
+      "chapter": "15",
+      "source": "Ch. 15 PPTX",
+      "module": "mod-11"
+    },
+    {
+      "id": "slp-ch15-q002",
+      "type": "mc",
+      "text": "A patient speaks fluently with normal rate and intonation, but their speech contains jargon and neologisms and they are unaware of their errors. They have severely impaired auditory comprehension. Which type of aphasia is this?",
+      "options": [
+        "Wernicke's aphasia",
+        "Broca's aphasia",
+        "Anomic aphasia",
+        "Global aphasia"
+      ],
+      "answer": "Wernicke's aphasia",
+      "chapter": "15",
+      "source": "Ch. 15 PPTX; Kidwell lecture notes",
+      "module": "mod-11"
+    },
+    {
+      "id": "slp-ch15-q003",
+      "type": "mc",
+      "text": "Which type of aphasia results from damage to the arcuate fasciculus — the fibers connecting Wernicke's area to Broca's area?",
+      "options": [
+        "Conduction aphasia",
+        "Transcortical sensory aphasia",
+        "Global aphasia",
+        "Anomic aphasia"
+      ],
+      "answer": "Conduction aphasia",
+      "chapter": "15",
+      "source": "Ch. 15 PPTX; Kidwell lecture notes",
+      "module": "mod-11"
+    },
+    {
+      "id": "slp-ch15-q004",
+      "type": "mc",
+      "text": "A patient knows exactly what they want to say, but their speech is effortful and halting. They omit functor words and speak in telegraphic phrases. Comprehension is relatively intact. This describes:",
+      "options": [
+        "Broca's aphasia",
+        "Wernicke's aphasia",
+        "Global aphasia",
+        "Transcortical sensory aphasia"
+      ],
+      "answer": "Broca's aphasia",
+      "chapter": "15",
+      "source": "Ch. 15 PPTX; Kidwell lecture notes",
+      "module": "mod-11"
+    },
+    {
+      "id": "slp-ch15-q005",
+      "type": "mc",
+      "text": "Which type of anomia involves the loss of word meaning, such that even when given the name of an object the patient cannot identify it from a group?",
+      "options": [
+        "Semantic anomia",
+        "Lexical anomia",
+        "Phonological anomia",
+        "Conduction anomia"
+      ],
+      "answer": "Semantic anomia",
+      "chapter": "15",
+      "source": "Handy Handout #435",
+      "module": "mod-11"
+    },
+    {
+      "id": "slp-ch15-q006",
+      "type": "mc",
+      "text": "Which type of stroke occurs when a blood clot formed elsewhere in the body travels to and becomes lodged in a cerebral blood vessel?",
+      "options": [
+        "Cerebral embolism",
+        "Cerebral thrombosis",
+        "Cerebral hemorrhage",
+        "Transient ischemic attack"
+      ],
+      "answer": "Cerebral embolism",
+      "chapter": "15",
+      "source": "Ch. 15 PPTX; Kidwell lecture notes",
+      "module": "mod-11"
+    },
+    {
+      "id": "slp-ch15-q007",
+      "type": "mc",
+      "text": "The Life Participation Approach to Aphasia (LPAA) is best described as:",
+      "options": [
+        "A philosophy emphasizing competence and inclusion in activities of daily living and community reintegration",
+        "A structured drill-based approach targeting specific linguistic impairments in the clinic",
+        "A compensatory approach using AAC devices to replace spoken language",
+        "A medical model focusing on lesion site identification before beginning treatment"
+      ],
+      "answer": "A philosophy emphasizing competence and inclusion in activities of daily living and community reintegration",
+      "chapter": "15",
+      "source": "Ch. 15 PPTX",
+      "module": "mod-11"
+    },
+    {
+      "id": "slp-ch15-q008",
+      "type": "mc",
+      "text": "What is the most common residual symptom after any type of aphasia, often persisting after other symptoms have resolved?",
+      "options": [
+        "Word-finding difficulty (anomia)",
+        "Impaired auditory comprehension",
+        "Telegraphic speech",
+        "Jargon and neologisms"
+      ],
+      "answer": "Word-finding difficulty (anomia)",
+      "chapter": "15",
+      "source": "Ch. 15 PPTX; Kidwell lecture notes",
+      "module": "mod-11"
+    },
+    {
+      "id": "slp-ch15-q009",
+      "type": "tf",
+      "text": "In anomic aphasia, the patient's receptive language (auditory comprehension) is also significantly impaired.",
+      "answer": "false",
+      "chapter": "15",
+      "source": "Handy Handout #435; Ch. 15 PPTX",
+      "module": "mod-11"
+    },
+    {
+      "id": "slp-ch15-q010",
+      "type": "tf",
+      "text": "In all seven types of aphasia, naming (confrontation naming) is impaired.",
+      "answer": "true",
+      "chapter": "15",
+      "source": "Ch. 15 PPTX",
+      "module": "mod-11"
+    },
+    {
+      "id": "slp-ch15-q011",
+      "type": "tf",
+      "text": "Transcortical motor aphasia has the same characteristics as Broca's aphasia in every way, including impaired repetition.",
+      "answer": "false",
+      "chapter": "15",
+      "source": "Ch. 15 PPTX",
+      "module": "mod-11"
+    },
+    {
+      "id": "slp-ch15-q012",
+      "type": "tf",
+      "text": "Primary Progressive Aphasia (PPA) is caused by a sudden neurological event such as a stroke.",
+      "answer": "false",
+      "chapter": "15",
+      "source": "Kidwell lecture notes",
+      "module": "mod-11"
+    },
+    {
+      "id": "slp-ch15-q013",
+      "type": "tf",
+      "text": "When a communication partner does not understand someone with aphasia, the best first strategy is to repeat the same message verbatim rather than immediately rephrasing.",
+      "answer": "true",
+      "chapter": "15",
+      "source": "Ch. 15 PPTX; Handy Handout #177",
+      "module": "mod-11"
+    },
+    {
+      "id": "slp-ch15-q014",
+      "type": "tf",
+      "text": "Global aphasia is the most severe type and involves severe impairment of both receptive AND expressive language abilities.",
+      "answer": "true",
+      "chapter": "15",
+      "source": "Ch. 15 PPTX; Kidwell lecture notes",
+      "module": "mod-11"
+    },
+    {
+      "id": "slp-ch15-q015",
+      "type": "fitb",
+      "text": "Fluent aphasias are associated with lesions __________ to the Fissure of Rolando (central sulcus), while nonfluent aphasias are associated with lesions in or around __________'s area.",
+      "answer": "posterior / Broca",
+      "chapter": "15",
+      "source": "Ch. 15 PPTX",
+      "module": "mod-11"
+    },
+    {
+      "id": "slp-ch15-q016",
+      "type": "fitb",
+      "text": "Speech that omits functor words but preserves content words (nouns and verbs), resulting in condensed output, is called __________ speech.",
+      "answer": "telegraphic",
+      "chapter": "15",
+      "source": "Ch. 15 PPTX; Kidwell lecture notes",
+      "module": "mod-11"
+    },
+    {
+      "id": "slp-ch15-q017",
+      "type": "fitb",
+      "text": "The SLP treatment approach that aims to IMPROVE the underlying impaired language process is called the __________ approach, while the approach that teaches strategies to cope with persistent deficits is called the __________ approach.",
+      "answer": "restorative / compensatory",
+      "chapter": "15",
+      "source": "Ch. 15 PPTX; Kidwell lecture notes",
+      "module": "mod-11"
+    },
+    {
+      "id": "slp-ch15-q018",
+      "type": "fitb",
+      "text": "Elisabeth Kübler-Ross described five stages of grief: denial, anger, __________, depression, and __________.",
+      "answer": "bargaining / acceptance",
+      "chapter": "15",
+      "source": "Ch. 15 PPTX",
+      "module": "mod-11"
+    },
+    {
+      "id": "slp-ch15-q019",
+      "type": "fitb",
+      "text": "The acronym F.A.S.T. used for stroke recognition stands for: F = __________, A = __________, S = __________, T = __________.",
+      "answer": "Face / Arms / Speech / Time",
+      "chapter": "15",
+      "source": "Ch. 15 PPTX",
+      "module": "mod-11"
+    },
+    {
+      "id": "slp-ch15-q020",
+      "type": "match",
+      "text": "Match each aphasia type to its most distinctive characteristic.",
+      "pairs": [
+        [
+          "Wernicke's aphasia",
+          "Fluent but meaningless speech; impaired comprehension; unaware of errors"
+        ],
+        [
+          "Broca's aphasia",
+          "Nonfluent, effortful telegraphic speech; good comprehension; patient knows what they want to say"
+        ],
+        [
+          "Conduction aphasia",
+          "Fluent speech and good comprehension BUT severely impaired repetition"
+        ],
+        [
+          "Anomic aphasia",
+          "Fluent speech with good comprehension and repetition BUT persistent severe word-finding difficulty"
+        ],
+        [
+          "Global aphasia",
+          "Most severe; all modalities severely impaired — fluency, comprehension, repetition, and naming"
+        ],
+        [
+          "Transcortical motor",
+          "Nonfluent like Broca's BUT repetition is preserved"
+        ]
+      ],
+      "answer": "Wernicke=fluent+meaningless, Broca=telegraphic+good comprehension, Conduction=repetition impaired, Anomic=word-finding only, Global=all impaired, TransMotor=nonfluent+repetition preserved",
+      "chapter": "15",
+      "source": "Ch. 15 PPTX",
+      "module": "mod-11"
+    },
+    {
+      "id": "slp-ch15-q021",
+      "type": "match",
+      "text": "Match each type of paraphasia or expressive error to its correct definition.",
+      "pairs": [
+        [
+          "Literal (phonemic) paraphasia",
+          "Substituting sounds within a word — e.g., saying 'treen' for 'tree'"
+        ],
+        [
+          "Verbal (semantic) paraphasia",
+          "Substituting a related but incorrect word — e.g., saying 'chair' for 'table'"
+        ],
+        [
+          "Neologism",
+          "Making up a completely new word that does not exist"
+        ],
+        [
+          "Jargon aphasia",
+          "Fluently stringing nonsense and real words together with insufficient meaningful content"
+        ],
+        [
+          "Circumlocution",
+          "Talking around a word that cannot be retrieved — e.g., 'the thing you write with' for 'pen'"
+        ]
+      ],
+      "answer": "Phonemic=sound substitution, Semantic=word substitution, Neologism=made-up word, Jargon=meaningless fluent output, Circumlocution=talking around the word",
+      "chapter": "15",
+      "source": "Ch. 15 PPTX",
+      "module": "mod-11"
+    },
+    {
+      "id": "slp-ch15-q022",
+      "type": "match",
+      "text": "Match each stroke type to how it occurs.",
+      "pairs": [
+        [
+          "Cerebral thrombosis",
+          "Artery blocked by local debris buildup (often atherosclerosis)"
+        ],
+        [
+          "Cerebral embolism",
+          "Clot or material travels from elsewhere and lodges in a cerebral vessel"
+        ],
+        [
+          "Cerebral hemorrhage",
+          "Blood vessel ruptures; most common in people with chronic hypertension"
+        ],
+        [
+          "TIA (Transient Ischemic Attack)",
+          "Temporary disruption of blood flow; symptoms resolve but is a major warning sign"
+        ]
+      ],
+      "answer": "Thrombosis=local blockage, Embolism=traveling clot, Hemorrhage=vessel rupture, TIA=temporary/warning",
+      "chapter": "15",
+      "source": "Ch. 15 PPTX; Kidwell lecture notes",
+      "module": "mod-11"
+    },
+    {
+      "id": "slp-ch15-q023",
+      "type": "sa",
+      "text": "Compare and contrast Wernicke's aphasia and Broca's aphasia across all four key dimensions: fluency, comprehension, repetition, and naming. Include the lesion site for each and describe the patient's subjective experience.",
+      "answer": "WERNICKE'S APHASIA (Receptive / Fluent):\nLesion: Wernicke's area in the auditory association cortex of the left temporal lobe (posterior to central sulcus)\nFluency: FLUENT — normal rate, prosody, articulation, and phrase length\nComprehension: IMPAIRED — cannot grasp meaning of spoken words; difficulty following rapid speech; unreliable yes/no responses\nRepetition: IMPAIRED\nNaming: IMPAIRED\nExpressive features: paraphasias (literal and verbal), neologisms, jargon; speech may be meaningless despite appearing normal\nPatient experience: Often UNAWARE of errors; gets frustrated when others do not understand; may seem confused why communication is breaking down\n\nBROCA'S APHASIA (Expressive / Nonfluent):\nLesion: Broca's area in the left frontal lobe (premotor speech area)\nFluency: NONFLUENT — effortful, halting, trial-and-error articulatory groping; reduced to short phrases (<4 words) or single words\nComprehension: MILDLY TO MODERATELY IMPAIRED but much better than expression\nRepetition: IMPAIRED\nNaming: IMPAIRED\nExpressive features: telegraphic speech (content words preserved, functors omitted), agrammatism, apraxia of speech, dysarthria may co-occur\nPatient experience: Fully AWARE of the communication breakdown; knows exactly what they want to say but cannot produce it; extremely frustrated by inability to express themselves\n\nKEY CLINICAL DISTINCTION: Wernicke's patients appear unaware and may produce fluent but meaningless speech. Broca's patients are painfully aware and produce halting but intentional communication attempts. Both require different counseling approaches from the SLP.",
+      "chapter": "15",
+      "source": "Ch. 15 PPTX; Kidwell lecture notes",
+      "module": "mod-11"
+    },
+    {
+      "id": "slp-ch15-q024",
+      "type": "sa",
+      "text": "Describe the comprehensive areas an SLP should assess when evaluating a patient with suspected aphasia. Include at least 4 areas of receptive ability, 4 areas of expressive ability, and the reading and writing domains.",
+      "answer": "An evidence-based aphasia assessment begins with: (1) careful review of the medical chart; (2) case history interview with patient and family.\n\nRECEPTIVE ABILITIES:\n1. Hearing acuity — with and without hearing aids\n2. Visual acuity — with and without glasses/contacts\n3. Pointing to objects or pictures named by the clinician (single word level)\n4. Answering simple to complex questions\n5. Following simple to complex spoken directions\n6. Answering questions about spoken discourse\n7. Following conversational speech\n\nEXPRESSIVE ABILITIES:\n1. Confrontation naming — naming common objects\n2. Responsive naming — completing common phrases (e.g., 'salt and ___')\n3. Word fluency — e.g., naming all animals in 1 minute\n4. Repetition — words, phrases, and sentences of different lengths\n5. Sentence formulation using a target word\n6. Picture description — describing what is happening in a scene\n7. Discourse — engaging in conversation\n8. Nonverbal communication — imitation of facial expressions and gestures; following simple nonverbal commands\n9. Automatic speech — days of week, months of year\n\nREADING: Matching pictures/letters/geometric forms; matching printed words to pictures; reading aloud; verbally answering printed questions; reading paragraph-length material and answering questions.\n\nWRITING: Copying forms, letters, words; writing to dictation; writing biographical information; writing names and functions of objects; writing narratives.\n\nMULTICULTURAL CONSIDERATIONS: Standardized tests may not be available in the patient's language; interpreters may be needed; results must be interpreted cautiously with cultural and linguistic background in mind.",
+      "chapter": "15",
+      "source": "Ch. 15 PPTX; Kidwell lecture notes",
+      "module": "mod-11"
     }
   ],
   "notes": [
+    {
+      "id": "slp-ch15-n003",
+      "title": "Ch. 15 — Aphasia Assessment and Treatment",
+      "chapter": "15",
+      "body": "SOURCE: Ch. 15 PPTX (Fogle textbook); Kidwell lecture notes, Comm Dis 1A, SJDC; Handy Handouts #177 and #435\n\nASSESSMENT OF APHASIA (Evidence-Based Practice)\nStep 1: Review medical chart\nStep 2: Interview patient and family\nStep 3: Formal assessment of receptive and expressive language\n\nRECEPTIVE ABILITIES:\nHearing acuity (with/without hearing aids)\nVisual acuity (with/without glasses)\nPointing to objects or pictures named by clinician\nAnswering simple to complex questions\nFollowing simple to complex spoken directions\nAnswering questions about spoken discourse\nFollowing conversational speech\n\nEXPRESSIVE ABILITIES:\nEvaluation of speech systems (respiratory, phonatory, resonatory, articulatory)\nConfrontation naming: naming common objects\nVerb association: providing the action associated with objects\nResponsive naming: completing phrases (e.g., 'salt and ___')\nWord fluency: e.g., name all animals in 1 minute\nRepetition: words, phrases, sentences of varying length\nSentence production using a target word\nPicture description (discourse)\nConversational speech\nNonverbal communication: imitation of facial expressions and gestures; following simple nonverbal commands\nAutomatic speech: days of week, months of year\n\nREADING: Matching; word-to-picture matching; reading aloud (numbers, letters, words, sentences); answering printed questions; reading paragraphs\nWRITING: Copying; writing to dictation; biographical information; object names and functions; written narratives\n\nMULTICULTURAL CONSIDERATIONS:\nStandardized tests often not translated into other languages\nUse interpreters and translators\nInterpret results cautiously considering cultural/linguistic background\nRecognize different beliefs about health and disability\nAvoid multicultural stereotyping\nConsider whether own background is influencing assessment\n\nTREATMENT OF APHASIA (Evidence-Based Practice)\nFACTORS AFFECTING TREATMENT SUCCESS:\nAge, prior language/literacy skills, site and size of lesion\nSeverity of impairments\nTiming, length, and intensity of therapy\nAppropriateness and effectiveness of goals and procedures\nFamily involvement\n\nTWO PRIMARY APPROACHES:\nRESTORATIVE: aims to improve the underlying impaired process; retrain damaged skills\nCOMPENSATORY: teaches strategies to cope with persistent deficits; maximize daily function\nExample: severe word-finding → try restorative word retrieval drills first; if insufficient → teach compensatory gestures or communication board\n\nGENERAL THERAPY GOAL ORDER:\n1. Basic language comprehension and communication\n2. Receptive language\n3. Expressive language\n4. Reading\n5. Writing\n\nSPECIFIC THERAPY AREAS:\nReceptive: auditory comprehension (words → sentences → discourse); following directions; answering questions\nExpressive: word-finding; sentence formulation; discourse; conversation\nReading: letter/word recognition → sentences → paragraph-length material → recreational/occupational reading\nWriting: individual letters → words → sentences → narratives\n\nCOMMUNICATION PARTNER TRAINING:\nSpeak slowly; pause between topics; use short utterances\nRepeat and rephrase; use gestures and facial expressions\nUse multiple modalities; create equality in conversation\nDo NOT finish sentences; do NOT shout; do NOT use figurative language\nAsk yes/no questions; avoid using numbers\nWrite key words for comprehension support\nDo not treat patient as cognitively impaired\n\nANOMIA TREATMENT (Handy Handout #435):\nGoal: INCREASE INDEPENDENCE — patient does as much as possible on their own\nSLP: preserve existing skills, restore lost skills, discover new communication strategies\nActivities: writing/gestures to cue retrieval; flash cards; word repetition; computer programs\nWord retrieval cueing strategies: first sound/letter; meaning questions; picture pointing; fill-in-the-blank sentences\nCAREGIVER CAUTION: providing words for patient creates cycle of dependence — patience and positive reinforcement are essential\n\nPERSON-CENTERED CARE / LIFE PARTICIPATION APPROACH TO APHASIA (LPAA):\nEmphasizes competence and inclusion in ADLs and community reintegration\nIntegrate patient back into community as primary goal\nGoes beyond impairment-level treatment to quality of life\n\nEMOTIONAL AND SOCIAL EFFECTS:\nPatient: loss of language, identity, independence; altered appearance; dependency\nFamily: passive (medical) → active helper (rehab) → permanent adjustment\nSocial: job loss, friendship loss, financial strain\nKübler-Ross 5 stages of grief: Denial → Anger → Bargaining → Depression → Acceptance\nFamily systems theory and family-centered service models apply",
+      "module": "mod-11"
+    },
+    {
+      "id": "slp-ch15-n002",
+      "title": "Ch. 15 — Aphasia Classification and Types",
+      "chapter": "15",
+      "body": "SOURCE: Ch. 15 PPTX (Fogle textbook); Kidwell lecture notes, Comm Dis 1A, SJDC; Handy Handouts #177 and #435\n\nAPHASIA DEFINED\nAcquired language impairment resulting from neurological damage in the absence of sensory, motor, intellectual, or cognitive impairments\nMay affect ALL input (auditory, visual, tactile) and output (speaking, writing, gesturing) modalities\nNote: technically 'dysphasia' (partial loss) but 'aphasia' is clinical convention\nAffects 1 in 250 people; more than 100,000 new cases per year in U.S.\nMore common than cerebral palsy, Parkinson's disease, or muscular dystrophy\n\nAPHASIA SYNDROME CHARACTERISTICS TABLE:\nType                    | Fluency | Comprehension | Repetition | Naming\nWernicke's              |   +     |      -        |     -      |   -\nAnomic                  |   +     |      +        |     +      |   -\nTranscortical Sensory   |   +     |      -        |     +      |   -\nConduction              |   +     |      +        |     -      |   -\nBroca's                 |   -     |      +        |     -      |   -\nTranscortical Motor     |   -     |      +        |     +      |   -\nGlobal                  |   -     |      -        |     -      |   -\n\nKEY RULE: Naming (-) in ALL types. Transcortical types ALWAYS have preserved repetition (+).\n\nFLUENT APHASIAS (lesions posterior to central sulcus / left temporal lobe)\n\nWERNICKE'S APHASIA:\nImpaired auditory comprehension, verbal expression, reading, and writing\nSpeech is fluent but meaningless — jargon, neologisms, paraphasias\nPatient unaware of errors; gets frustrated when misunderstood\nFeatures: literal paraphasias, verbal paraphasias, neologisms, jargon, poor yes/no reliability\n\nANOMIC APHASIA:\nMost common RESIDUAL symptom after any aphasia\nPersistent severe word-retrieval problem — other areas relatively intact\nCircumlocutions, generic fillers ('you know,' 'uh'), nonspecific pronouns ('thing,' 'they')\nGood comprehension and repetition\nAnomic aphasia exists as a standalone type but anomia is a symptom in all aphasia types\n\nTHREE TYPES OF ANOMIA (Handy Handout #435):\n1. Lexical anomia: knows and can select object, cannot name it\n2. Phonological anomia (= Conduction aphasia): knows the word, produces wrong sounds\n3. Semantic anomia: meaning is lost; cannot select even when given the name\n\nTRANSCORTICAL SENSORY APHASIA:\nSimilar to Wernicke's but repetition is PRESERVED\nMay repeat questions rather than answer (echolalia)\nRarest of fluent aphasias\n\nCONDUCTION APHASIA:\nDamage to arcuate fasciculus (connecting Wernicke's area to Broca's area)\nFluent speech, good comprehension, BUT severely impaired repetition\nPhonemic paraphasias; more errors with longer utterances\n\nNONFLUENT APHASIAS (lesions in/around Broca's area / left frontal lobe)\n\nBROCA'S APHASIA (most common nonfluent):\nEffortful, halting, trial-and-error articulatory groping\nTelegraphic speech: content words preserved; functors (a, an, the) omitted\nAgrammatism: impaired syntax\nPatient knows what they want to say but cannot produce it\nOften limited to <4 words; clumsy sound formation\nPoor repetition; relatively preserved comprehension\nMay co-occur with apraxia of speech or dysarthria\n\nTRANSCORTICAL MOTOR APHASIA:\nSimilar to Broca's EXCEPT repetition is INTACT\nNonfluent; difficulty spontaneously answering questions\nMildly impaired auditory comprehension\n\nGLOBAL APHASIA:\nMost severe form; large lesion affecting multiple language areas\nAll modalities severely impaired: comprehension, expression, reading, writing\nPoor prognosis; may retain nonverbal expression through intonation and gestures\n\nPRIMARY PROGRESSIVE APHASIA (PPA):\nDegenerative — gets WORSE over time (unlike other aphasia types)\nSlow, progressive loss of reading, writing, speaking, and understanding\nOther cognitive functions (memory, reasoning) typically spared early\nNo cure; management with tools and support\n\nVERBAL EXPRESSION IMPAIRMENT TERMINOLOGY:\nCircumlocutions: talking around an unretrievable word\nLiteral (phonemic) paraphasia: wrong sounds within a word\nVerbal (semantic) paraphasia: substituting a related word\nNeologisms: made-up words\nJargon aphasia: fluent but meaningless output\nTelegraphic speech: functor words omitted\nAgrammatism: impaired syntax\nAlexia: reading impairment\nAgraphia: writing impairment",
+      "module": "mod-11"
+    },
+    {
+      "id": "slp-ch15-n001",
+      "title": "Ch. 15 — Language Disorders in Adults: Etiologies and Stroke",
+      "chapter": "15",
+      "body": "SOURCE: Ch. 15 PPTX (Fogle textbook); Kidwell lecture notes, Comm Dis 1A, SJDC\n\nETIOLOGIES OF NEUROGENIC COMMUNICATION DISORDERS\nYoung adults: most common = traumatic brain injury (TBI)\nOlder adults (65+): most common = stroke, tumor, or degenerative disorder\nIncreased prevalence due to improved medical care and longer life spans\nSLP works in: convalescent hospitals, acute/subacute hospitals, inpatient/outpatient clinics, rehab centers, home health, private practice, university clinics\n\nSTROKE (Cerebrovascular Accident / CVA)\n2nd most common cause of death in the world\nMen: higher RISK. Women: more likely to DIE from stroke\nBlood flow to the brain is disrupted — oxygenated blood and nutrients cannot reach the area\nStrokes can occur in: brain, cerebellum, or brainstem\nLocation and SIZE of lesion determine the characteristics and extent of damage\n\nFOUR TYPES OF STROKE:\n1. CEREBRAL THROMBOSIS (most common occlusive): artery blocked by local debris — atherosclerosis plaque\n2. CEREBRAL EMBOLISM (occlusive): traveling clot lodges in a cerebral blood vessel\n3. CEREBRAL HEMORRHAGE (hemorrhagic): blood vessel RUPTURES — most common with chronic hypertension\n4. TIA (Transient Ischemic Attack): temporary disruption; symptoms resolve; MAJOR warning sign of future stroke\n\nF.A.S.T. ACRONYM:\nFace — droop on one side?\nArms — one drifts down?\nSpeech — slurred or confused?\nTime — CALL 911 IMMEDIATELY\n\nWOMEN'S UNIQUE STROKE RISK FACTORS:\nOral contraceptives (especially with age, smoking, hypertension, diabetes)\nMigraine headaches with aura (2.5x increased risk)\nPregnancy (increased blood pressure, cardiac stress)\nHormone replacement therapy (progestin + estrogen)\n\nWomen's unique symptoms also include: fainting, general weakness, shortness of breath, confusion/disorientation, behavioral change, agitation, hallucinations, nausea, seizures\n\nRECOVERY FACTORS:\nGreatest gains: first weeks to months post-stroke\nNeural plasticity: brain reroutes pathways — continues for years\nFactors: age (younger generally better), overall physical health, site and size of lesion\nRight hemisphere lesion → left side of body affected (and vice versa)\n\nOTHER ETIOLOGIES:\nTBI: most common neurologic disability in people under 50; 1/3 have permanent disability; even mild TBI = lasting damage\nTumors (neoplasms): benign or malignant; site and size determine impairment\nToxins: alcohol is most common; damage to much of brain = poor prognosis for rehab\nDegenerative diseases: Alzheimer's, ALS, Parkinson's disease",
+      "module": "mod-11"
+    },
     {
       "id": "ch13-n001",
       "title": "Chapter 13 — Voice Disorders in Children and Adults",
