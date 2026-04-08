@@ -265,6 +265,38 @@
       "source": "Lecture 2.2 — Ch. 3, Kidwell, SJDC Comm Dis 1A"
     },
     {
+      "id": "slp-ch16-g014",
+      "term": "Alzheimer's Disease — Stage I: Mild (Forgetfulness Stage)",
+      "def": "Early-stage Alzheimer's — signs may be subtle and difficult to recognize. The individual is often frustrated or angry at their increasing impairments. Features: IMPAIRED WORKING MEMORY; difficulty completing FAMILIAR TASKS; difficulty remembering COMMON NAMES; misplacing items in INAPPROPRIATE places; sudden unexplained changes in MOOD or BEHAVIOR; showing indifference to PERSONAL APPEARANCE; DISORIENTATION to person, place, time, and purpose; becoming LOST while driving on familiar streets. At this stage, family members may be in denial about the severity of the condition.",
+      "chapter": "16",
+      "source": "Ch. 16 PPTX; Kidwell lecture notes",
+      "module": "mod-12"
+    },
+    {
+      "id": "slp-ch16-g015",
+      "term": "Alzheimer's Disease — Stage II: Moderate (Confusion Stage)",
+      "def": "Middle-stage Alzheimer's — more apparent signs and symptoms. Family members typically bring their loved one to the doctor and diagnosis is often made at this stage. The most difficult stage because personal safety is a major concern requiring constant monitoring. Features: INCREASED loss of working memory; significantly DIMINISHED VOCABULARY; conversation increasingly EMPTY and MEANINGLESS; loss of READING and WRITING ability; difficulty with SKILLED MOVEMENTS (tying shoelaces, using utensils); AGGRESSIVENESS, outbursts of anger, or withdrawal; INAPPROPRIATE PUBLIC BEHAVIOR; HALLUCINATIONS or DELUSIONS. Inability to ensure safety and hygiene often leads to nursing home placement.",
+      "chapter": "16",
+      "source": "Ch. 16 PPTX; Kidwell lecture notes",
+      "module": "mod-12"
+    },
+    {
+      "id": "slp-ch16-g016",
+      "term": "Alzheimer's Disease — Stage III: Severe (Terminal Stage)",
+      "def": "Late-stage Alzheimer's — the individual can no longer think, reason, or communicate. NOT usually a good candidate for speech therapy at this stage. Features: LITTLE OR NO MEMORY; difficulty speaking and understanding even simple sentences and individual words; LITTLE OR NO EMOTIONAL EXPRESSION; MINIMAL VERBAL COMMUNICATION; difficulty RECOGNIZING OTHERS and sometimes oneself in a mirror; needs TOTAL ASSISTANCE with all ADLs and personal care; difficulty CHEWING and SWALLOWING resulting in weight loss, dehydration, and high risk for ASPIRATION PNEUMONIA. Often referred to as 'the long goodbye' due to the protracted nature of the disease progression.",
+      "chapter": "16",
+      "source": "Ch. 16 PPTX; Kidwell lecture notes",
+      "module": "mod-12"
+    },
+    {
+      "id": "slp-ch16-g013",
+      "term": "Alzheimer's Disease (AD / DAT)",
+      "def": "Also called DAT (Dementia of the Alzheimer's Type). A neurological disease causing PROGRESSIVE dementia with decline in intellect, memory, communication, and personality. Impairments must be severe enough to interfere with daily functioning. MRI may reveal CORTICAL ATROPHY, but a definitive diagnosis requires BRAIN AUTOPSY (post-mortem). Divided into three stages: STAGE I (Mild/Early/Forgetfulness), STAGE II (Moderate/Middle/Confusion), STAGE III (Severe/Late/Terminal). Stages may OVERLAP and there is no exact timing for each stage. Preceded by PRECLINICAL Alzheimer's disease (brain changes without clinical symptoms).",
+      "chapter": "16",
+      "source": "Ch. 16 PPTX; Kidwell lecture notes",
+      "module": "mod-12"
+    },
+    {
       "id": "ch3-g001",
       "term": "Anatomy",
       "def": "The study of the physical structures of the body — the parts themselves. In SLP, anatomy refers to the specific structures (bones, muscles, cartilages) involved in speech, language, hearing, and swallowing.",
@@ -295,6 +327,14 @@
       "chapter": "15",
       "source": "Ch. 15 PPTX; Kidwell lecture notes; Handy Handout #435",
       "module": "mod-11"
+    },
+    {
+      "id": "slp-ch16-g011",
+      "term": "Anosognosia and Aprosodia",
+      "def": "ANOSOGNOSIA: a condition in which a patient is unaware of or lacks insight into their own deficits — they do not recognize that they have impairments. Common in right-hemisphere syndrome. Makes treatment challenging because the patient does not perceive a need for change. APROSODIA: reduced or absent variation in prosody (pitch, rate, rhythm, stress) in communication — speech sounds flat and monotone; communication is devoid of emotion. Associated with right-hemisphere damage. May also manifest as FLAT AFFECT — reduced emotional expression overall.",
+      "chapter": "16",
+      "source": "Ch. 16 PPTX; Kidwell lecture notes",
+      "module": "mod-12"
     },
     {
       "id": "ch3-g056",
@@ -759,6 +799,14 @@
       "source": "65_Cause_Treatment_of_Stuttering.pdf — Ducworth, CCC-SLP"
     },
     {
+      "id": "slp-ch16-g004",
+      "term": "Chronic Traumatic Encephalopathy (CTE)",
+      "def": "A degenerative brain disease caused by REPEATED mild brain traumas from sports-related concussions. Symptoms begin 8–10 years after repeated mTBIs and include: headaches, mood disorders, cognitive difficulties, speech and language difficulties, aggressive behavior, dementia, and suicidal tendencies. Can ONLY be definitively diagnosed post-mortem via brain autopsy — cannot be confirmed in a living patient. Dr. Bennet Omalu (who worked at the Stockton medical examiner's office) first researched and identified CTE in 2015. The reason professional athletes are now removed from play after concussions and given recovery time.",
+      "chapter": "16",
+      "source": "Ch. 16 PPTX; Kidwell lecture notes",
+      "module": "mod-12"
+    },
+    {
       "id": "ch12-h001",
       "term": "Circumlocution (Stuttering Avoidance)",
       "def": "A specific avoidance behavior in which a person who stutters TALKS AROUND a feared word rather than saying it directly — choosing a longer alternate phrase or description to sidestep the word they anticipate stuttering on. Circumlocution is one of several escape/avoidance behaviors driven by fear of specific sounds, words, people, or speaking situations. Other avoidance behaviors include: substituting a different word, delaying a comment, interjecting starter sounds ('um,' 'ah,' 'you know'), covering the mouth, avoiding eye contact, refusing to speak, or using vocal abnormalities (speaking rapidly, in a whisper, slowly, in a monotone, or with an accent).",
@@ -773,6 +821,14 @@
       "module": "mod-1",
       "chapter": "2",
       "source": "Lecture 1.2.2 — Chapter 2: The Professionals, Kidwell, SJDC Comm Dis 1A"
+    },
+    {
+      "id": "slp-ch16-g002",
+      "term": "Closed Head Injury (CHI) and Coup-Contrecoup",
+      "def": "CLOSED HEAD INJURY (CHI): the most common type of TBI in the civilian population. The skull is NOT penetrated — damage is caused by blunt force or the sudden deceleration of the head causing the brain to continue moving and strike the skull. Most common civilian causes: motor vehicle accidents and assaults. COUP-CONTRECOUP INJURY: brain is damaged at the SITE of impact (coup/primary) AND on the OPPOSITE side (contrecoup/secondary) as the brain 'flows' and compresses against the other side of the skull. Impact also causes significant SWELLING that may last days or weeks and cause additional damage. BLOOD-BRAIN BARRIER (BBB) may be disrupted.",
+      "chapter": "16",
+      "source": "Ch. 16 PPTX; Kidwell lecture notes",
+      "module": "mod-12"
     },
     {
       "id": "ch5-g033",
@@ -847,6 +903,22 @@
       "source": "Lecture 1.2.1 — Chapter 1, Kidwell, SJDC Comm Dis 1A"
     },
     {
+      "id": "slp-ch16-g006",
+      "term": "Cognitive Impairments from TBI",
+      "def": "TBI may produce a comatose or semicomatose state followed by multiple cognitive impairments: ATTENTION deficits (difficulty maintaining focus), MEMORY deficits (working memory, recent memory, long-term/remote memory), ORIENTATION deficits (disorientation to person, place, time, and purpose), REASONING and PROBLEM-SOLVING deficits, and EXECUTIVE FUNCTION deficits. Executive functions include: abstract thinking, anticipating needs, setting goals, planning strategies, implementing strategies, determining if strategies are working, and regulating emotions and behaviors. When executive dysfunction is present, everyday activities are negatively impacted.",
+      "chapter": "16",
+      "source": "Ch. 16 PPTX; Kidwell lecture notes",
+      "module": "mod-12"
+    },
+    {
+      "id": "slp-ch16-g001",
+      "term": "Cognitive-Linguistic Disorder (Cognitive-Communication Impairment)",
+      "def": "A language problem that exists as a SECONDARY issue to a cognitive problem — the language impairment results from underlying cognitive deficits rather than a primary language disorder. Most commonly caused by: traumatic brain injury (TBI), right-hemisphere brain damage, and dementia. Distinguished from aphasia, where the language system itself is the primary site of damage.",
+      "chapter": "16",
+      "source": "Ch. 16 PPTX; Kidwell lecture notes",
+      "module": "mod-12"
+    },
+    {
       "id": "ch1-g001",
       "term": "Communication",
       "def": "Any means by which individuals relate their wants, needs, thoughts, knowledge, and feelings to another person (Fogle). A basic human need involving two or more individuals. May be verbal or nonverbal. 'We cannot not communicate' — communication occurs in any modality, not just spoken language.",
@@ -879,12 +951,28 @@
       "module": "mod-11"
     },
     {
+      "id": "slp-ch16-g018",
+      "term": "Communication Tips for Patients with Dementia",
+      "def": "Strategies for communicating with older patients and individuals with dementia: allow EXTRA TIME; minimize visual and auditory DISTRACTIONS; sit FACE TO FACE without a table between you (catty-corner) with good EYE CONTACT; LISTEN without interrupting; speak SLOWLY (but not in an abnormal sing-song way), clearly, and with sufficient loudness; use SHORT SIMPLE words and sentences (rule of 5s) without sounding patronizing; stick to ONE TOPIC at a time; SIMPLIFY and write down instructions; FREQUENTLY SUMMARIZE the most important points; give the person a chance to ask QUESTIONS.",
+      "chapter": "16",
+      "source": "Ch. 16 PPTX; Kidwell lecture notes",
+      "module": "mod-12"
+    },
+    {
       "id": "ch4-g016",
       "term": "Communicative Competence",
       "def": "The ability to use language(s) and/or dialect(s) — including phonology, morphology, syntax, semantics, and pragmatics — and to know when, where, and with whom to use them. Emerges around 18–24 months with two-word utterances (e.g., requests: 'more milk'; negation: 'no more'; commentary: 'me home').",
       "module": "mod-3",
       "chapter": "4",
       "source": "Ch. 4 PDF — Prof. Handy / Quiz answer key"
+    },
+    {
+      "id": "slp-ch16-g003",
+      "term": "Concussion (Mild TBI / mTBI) and Postconcussion Syndrome (PCS)",
+      "def": "CONCUSSION (mTBI): mild traumatic brain injury caused by a blow to the head or violent shaking of the head/upper body. Usually does NOT result in loss of consciousness (LOC), although it may. Those with mild TBI often do not receive rehabilitation but may later notice they cannot perform at prior levels — problems at home and work, relationship deterioration. POSTCONCUSSION SYNDROME (PCS): long-lasting subtle impairments following concussion. Even mild TBI causes long-term structural changes in white and grey matter.",
+      "chapter": "16",
+      "source": "Ch. 16 PPTX; Kidwell lecture notes",
+      "module": "mod-12"
     },
     {
       "id": "ch12-g009",
@@ -1021,6 +1109,22 @@
       "module": "mod-9",
       "chapter": "12",
       "source": "Lecture Ch. 12, Kidwell, SJDC"
+    },
+    {
+      "id": "slp-ch16-g017",
+      "term": "Dementia Assessment and Treatment: SLP Role",
+      "def": "PHYSICIANS and PSYCHOLOGISTS diagnose dementia and Alzheimer's disease — not the SLP. The PURPOSE of SLP evaluation is to determine cognitive, communication, and swallowing FUNCTIONING and to determine if the individual is a GOOD CANDIDATE FOR THERAPY. The SLP cannot cure the condition but uses strategies to MAINTAIN the best communication possible and therefore the best QUALITY OF LIFE. Standardized assessment tools: Arizona Battery for Communication Disorders of Dementia (ABCDD), Communicative Activities of Daily Living 2nd ed., Ross Information Processing Assessment: Geriatric 2nd ed. (RIPA-G:2). Right-hemisphere syndrome assessed with MIRBI-2, RICE-R, RHLB-2.",
+      "chapter": "16",
+      "source": "Ch. 16 PPTX; Kidwell lecture notes",
+      "module": "mod-12"
+    },
+    {
+      "id": "slp-ch16-g012",
+      "term": "Dementia vs. Senility",
+      "def": "DEMENTIA: degenerative neurological functioning that is more severe than would be expected from normal aging; involves decline in intellect, memory, communication, and personality severe enough to interfere with daily functioning in work or social life. Includes multiple types: vascular disease dementia, multi-infarct dementia, frontotemporal dementia, and Alzheimer's disease. DSM-5 has primary diagnostic criteria. SENILITY: the NORMAL loss of cognition due to aging — NOT a disorder. Key distinction: dementia is pathological and progressive; senility describes normal age-related cognitive changes.",
+      "chapter": "16",
+      "source": "Ch. 16 PPTX; Kidwell lecture notes",
+      "module": "mod-12"
     },
     {
       "id": "ch3s-g013",
@@ -1292,6 +1396,14 @@
       "chapter": "15",
       "source": "Ch. 15 PPTX; Kidwell lecture notes",
       "module": "mod-11"
+    },
+    {
+      "id": "slp-ch16-g019",
+      "term": "Emotional and Social Effects of Cognitive Disorders",
+      "def": "Cognitive disorders profoundly affect both patients and families: TBI — personality changes, loss of skills and emotions, increased anger and isolation; family members experience significant emotional and financial strain. RIGHT-HEMISPHERE SYNDROME — damage to self-image and self-confidence; family members affected. DEMENTIA — called 'the long goodbye' due to the prolonged nature of the progressive loss; patients experience anxiety, agitation, and depression; family members go through a prolonged grieving process. Financial toll of the diseases adds to emotional strain. SLPs must recognize and address the impact on the entire family system.",
+      "chapter": "16",
+      "source": "Ch. 16 PPTX; Kidwell lecture notes",
+      "module": "mod-12"
     },
     {
       "id": "ch7-g024",
@@ -2291,6 +2403,14 @@
       "source": "Lecture 4.2, Kidwell, SJDC"
     },
     {
+      "id": "slp-ch16-g005",
+      "term": "Open Head Injury (OHI) and Blast/War Injuries",
+      "def": "OPEN HEAD INJURY (OHI / penetrating head injury): the skull and brain are actually penetrated by severe impact or a foreign body (e.g., gunshot wound). Cognitive impairments may last months to years after injury. WAR WOUNDS: usually more extensive because bullets travel at higher velocity and shock waves cause additional damage; shrapnel is hot and the heat itself destroys brain tissue. BLAST INJURIES: described as POLYTRAUMA because they injure multiple body parts and organ systems. PTSD may co-occur — symptoms include intense fear, horror, and helplessness. War-injured patients may present differently from civilian TBI patients.",
+      "chapter": "16",
+      "source": "Ch. 16 PPTX; Kidwell lecture notes",
+      "module": "mod-12"
+    },
+    {
       "id": "ch4-g029",
       "term": "Operant Conditioning",
       "def": "A learning model (Skinner's behavioral theory) in which a behavior is immediately reinforced after it occurs, increasing the likelihood it will recur. In language therapy, used as stimulus-response: a child approximates a word, the SLP reinforces it and shapes it toward the correct form.",
@@ -2728,6 +2848,14 @@
       "source": "Lecture 2.2 — Ch. 3, Kidwell, SJDC Comm Dis 1A"
     },
     {
+      "id": "slp-ch16-g010",
+      "term": "Right-Hemisphere Syndrome",
+      "def": "Communication and cognitive disorders resulting from damage to the RIGHT hemisphere of the brain. COGNITIVE impairments: attention, perception, memory, orientation, organization, insight, reasoning and problem-solving, executive functions, and ANOSOGNOSIA (lack of awareness or insight into one's own deficits). COMMUNICATION impairments: literal interpretation of messages, metaphors, idioms, and proverbs; pragmatic violations (irrelevant/tangential/inappropriate comments); communication devoid of emotion; APROSODIA (decreased prosody) and FLAT AFFECT; difficulty with topic maintenance and turn-taking. VISUAL-SPATIAL impairments: LEFT-SIDE NEGLECT (not perceiving objects on the left side of the body), driving may be dangerous; PROSOPAGNOSIA (difficulty recognizing faces).",
+      "chapter": "16",
+      "source": "Ch. 16 PPTX; Kidwell lecture notes",
+      "module": "mod-12"
+    },
+    {
       "id": "ch7-g026",
       "term": "Sariah Video — Expressive Language Disorder (Clinical Analysis)",
       "def": "Sariah's retelling of Beverly Hills Chihuahua is a classroom example of expressive language disorder with the following observable features:\n• MORPHOLOGICAL errors: 'puted' for 'put' (irregular past tense error — overgeneralization); 'was trying to get' (correct) but inconsistent\n• SYNTACTIC errors: incomplete sentences; pronoun errors ('papy found it' — unclear referent)\n• NARRATIVE difficulty: characters introduced without clear identification; events out of sequence; critical plot elements omitted; listener cannot follow without prior knowledge of the movie\n• VOCABULARY: some topic vocabulary intact but limited; relies on vague language\n• MLU is low for apparent age\nThis child has expressive language disorder affecting morphology, syntax, and narrative organization — NOT just a speech sound disorder.",
@@ -2862,6 +2990,14 @@
       "module": "mod-1",
       "chapter": "1",
       "source": "Lecture 1.2.1 — Chapter 1, Kidwell, SJDC Comm Dis 1A"
+    },
+    {
+      "id": "slp-ch16-g007",
+      "term": "Speech and Language Disorders from TBI",
+      "def": "TBI may produce multiple speech and language disorders — though it can be difficult to determine whether difficulties are due to cognitive/attention/memory problems or true language deficits. Commonly seen: APRAXIA (motor planning disorder), DYSARTHRIA (motor execution disorder), RECEPTIVE language deficits, EXPRESSIVE language deficits (including anomia), PRAGMATIC deficits (especially with frontal lobe injuries), READING and WRITING impairments. SOCIAL (PRAGMATIC) COMMUNICATION DISORDER (SCD): difficulty using and interpreting gestures, facial expressions, speech prosody, and emotions of others; difficulty interpreting abstract language; difficulty following communication rules; difficulty recognizing one's own social communication impairments; possible Theory of Mind deficits.",
+      "chapter": "16",
+      "source": "Ch. 16 PPTX; Kidwell lecture notes",
+      "module": "mod-12"
     },
     {
       "id": "ch6-g004",
@@ -3030,6 +3166,22 @@
       "module": "mod-6",
       "chapter": "7",
       "source": "Lecture Ch. 7, Kidwell, SJDC"
+    },
+    {
+      "id": "slp-ch16-g008",
+      "term": "TBI Assessment: Evidence-Based Practice",
+      "def": "Comprehensive assessment of cognitive-communication impairments secondary to TBI includes: ATTENTION and ORIENTATION; MEMORY (working, recent, and long-term/remote); PLANNING and ORGANIZING; ATTENTION TO DETAILS; RECEPTIVE and EXPRESSIVE LANGUAGE; HEARING (if hearing loss suspected); SPEECH SYSTEMS (respiratory, phonatory, resonatory, articulatory) and MOTOR SPEECH if a motor speech disorder is detected; SWALLOWING if a disorder is present or requested; REASONING and PROBLEM-SOLVING for ADLs. Assessment and treatment must take place in REAL-LIFE SITUATIONS including with family and friends. Standardized tools: BTHI, FAVRES, RIPA-2, SCATBI.",
+      "chapter": "16",
+      "source": "Ch. 16 PPTX; Kidwell lecture notes",
+      "module": "mod-12"
+    },
+    {
+      "id": "slp-ch16-g009",
+      "term": "TBI Treatment: Evidence-Based Practice",
+      "def": "GOALS of cognitive rehabilitation: improve physical, cognitive, and psychosocial functioning; foster independence; facilitate COMMUNITY INTEGRATION; help progress to the most independent level of functioning possible. ASHA general treatment targets: sensory stimulation responses; family education and interaction training; maintaining attention for basic activities; reducing confusion; ORIENTATION x4 (person, place, time, purpose); improving memory (e.g., memory log); improving problem-solving, reasoning, and organizational skills; social skills in small groups; self-monitoring in hospital/home/community; community outings; vocational rehabilitation. Computer-assisted treatment (CAT) may also be used.",
+      "chapter": "16",
+      "source": "Ch. 16 PPTX; Kidwell lecture notes",
+      "module": "mod-12"
     },
     {
       "id": "ch2-g017",
@@ -4523,6 +4675,54 @@
       "chapter": "15",
       "source": "Ch. 15 PPTX; Kidwell lecture notes",
       "module": "mod-11"
+    },
+    {
+      "id": "slp-ch16-f001",
+      "front": "What is the difference between a closed head injury (CHI) and an open head injury (OHI)? What is coup-contrecoup?",
+      "back": "CLOSED HEAD INJURY (CHI):\n• Most common TBI in civilian population\n• Skull is NOT penetrated\n• Damage from blunt force OR from brain moving inside skull (deceleration)\n• Common causes: motor vehicle accidents, assaults\n• May cause swelling lasting days to weeks\n\nOPEN HEAD INJURY (OHI) — also called penetrating head injury:\n• Skull and brain ARE penetrated by a foreign object\n• Examples: gunshot wounds, shrapnel\n• War injuries more extensive (high velocity, heat from shrapnel)\n• Cognitive impairments may last months to years\n\nCOUP-CONTRECOUP injury (CHI-related):\n• COUP (primary): brain damaged at the SITE of impact\n• CONTRECOUP (secondary): brain damaged on the OPPOSITE side as the brain 'flows' and strikes the other side of the skull\n• Result: damage in TWO locations from a single impact",
+      "chapter": "16",
+      "source": "Ch. 16 PPTX; Kidwell lecture notes",
+      "module": "mod-12"
+    },
+    {
+      "id": "slp-ch16-f002",
+      "front": "What is CTE? Who can get it, how is it diagnosed, and when do symptoms appear?",
+      "back": "CHRONIC TRAUMATIC ENCEPHALOPATHY (CTE):\nA degenerative brain disease caused by REPEATED MILD brain traumas — most commonly sports-related concussions\n\nWHO IS AT RISK: Athletes who have experienced multiple concussions over a career\n\nSYMPTOMS: headaches, mood disorders, cognitive difficulties, speech and language difficulties, aggressive behavior, dementia, suicidal tendencies\n\nTIMING: symptoms begin 8–10 YEARS after the repeated mTBIs\n\nDIAGNOSIS: Can ONLY be definitively diagnosed by BRAIN AUTOPSY after death — cannot be confirmed in a living patient\n\nHISTORY: Dr. Bennet Omalu (worked at the Stockton, CA medical examiner's office) first researched and identified CTE\n\nCLINICAL IMPACT: Why professional athletes are now removed from play after concussions and given recovery time before returning",
+      "chapter": "16",
+      "source": "Ch. 16 PPTX; Kidwell lecture notes",
+      "module": "mod-12"
+    },
+    {
+      "id": "slp-ch16-f003",
+      "front": "What are the cognitive and communication impairments associated with right-hemisphere syndrome?",
+      "back": "RIGHT-HEMISPHERE SYNDROME — damage to the right hemisphere of the brain\n\nCOGNITIVE IMPAIRMENTS:\n• Attention deficits\n• Perception impairments\n• Memory deficits\n• Orientation deficits\n• Organization difficulties\n• Impaired insight — including ANOSOGNOSIA (unaware of own deficits)\n• Reasoning and problem-solving deficits\n• Executive function deficits\n\nCOMMUNICATION IMPAIRMENTS:\n• LITERAL interpretation of messages, metaphors, idioms, and proverbs\n• Pragmatic violations — irrelevant, tangential, inappropriate comments\n• APROSODIA — flat, monotone speech with little emotional variation\n• Flat affect — reduced emotional expression\n• Difficulty with topic maintenance and turn-taking\n\nVISUAL-SPATIAL IMPAIRMENTS:\n• LEFT-SIDE NEGLECT — cannot perceive objects on the left side of the body\n• PROSOPAGNOSIA — difficulty recognizing faces\n• Driving can be dangerous",
+      "chapter": "16",
+      "source": "Ch. 16 PPTX; Kidwell lecture notes",
+      "module": "mod-12"
+    },
+    {
+      "id": "slp-ch16-f004",
+      "front": "Describe the three stages of Alzheimer's disease. What is the SLP's role at each stage?",
+      "back": "STAGE I — Mild / Early / Forgetfulness Stage:\nSubtle signs, often difficult to recognize. Patient frequently frustrated and angry.\nFeatures: impaired working memory, difficulty with familiar tasks, forgetting common names, misplacing items, mood/behavior changes, indifference to appearance, disorientation, getting lost on familiar routes\nSLP role: begin assessment and intervention; strategies for memory aids (e.g., whiteboard, calendar)\n\nSTAGE II — Moderate / Middle / Confusion Stage:\nMore apparent symptoms; often when diagnosis is made. Personal safety is the greatest concern — constant monitoring required.\nFeatures: worsened working memory, diminished vocabulary, meaningless conversation, loss of reading/writing, impaired skilled movements, aggressiveness/delusions/hallucinations, inappropriate public behavior\nSLP role: active therapy; communication strategies; caregiver training; safety planning\n\nSTAGE III — Severe / Late / Terminal Stage:\nPatient can no longer think, reason, or communicate. Usually NOT a good candidate for speech therapy.\nFeatures: little/no memory, minimal verbal communication, no emotional expression, total ADL dependence, dysphagia with risk for aspiration pneumonia, may not recognize others or themselves\nSLP role: dysphagia management; caregiver support; quality of life focus\n\nNote: Stages overlap and there is no exact timing. Preceded by PRECLINICAL stage (brain changes, no clinical symptoms).",
+      "chapter": "16",
+      "source": "Ch. 16 PPTX; Kidwell lecture notes",
+      "module": "mod-12"
+    },
+    {
+      "id": "slp-ch16-f005",
+      "front": "What is the SLP's role in dementia vs. in TBI treatment? How do the goals differ?",
+      "back": "TBI TREATMENT GOALS:\n• Improve physical, cognitive, and psychosocial functioning\n• Foster INDEPENDENCE\n• Facilitate COMMUNITY INTEGRATION\n• Progress to the most independent level of functioning possible\n• Restorative in nature — aim to improve or recover function\n• Targets: sensory stimulation, orientation x4, memory strategies, problem-solving, social skills, vocational rehabilitation\n\nDEMENTIA TREATMENT GOALS:\n• The SLP cannot FIX the problem — the condition is progressive and degenerative\n• Goal: MAINTAIN the best communication possible\n• Improve QUALITY OF LIFE\n• Determine candidacy for therapy\n• Compensatory in nature — maintain existing abilities and adapt to decline\n• Targets: caregiver training, communication strategies, dysphagia management (late stage)\n\nKEY DISTINCTION: TBI therapy is recovery-oriented. Dementia therapy is maintenance/quality-of-life-oriented.\n\nAlso: PHYSICIANS and PSYCHOLOGISTS diagnose dementia — NOT the SLP. The SLP assesses communication functioning and candidacy for therapy.",
+      "chapter": "16",
+      "source": "Ch. 16 PPTX; Kidwell lecture notes",
+      "module": "mod-12"
+    },
+    {
+      "id": "slp-ch16-f006",
+      "front": "What are the key communication strategies when working with a patient who has dementia?",
+      "back": "ENVIRONMENTAL STRATEGIES:\n• Allow extra time for processing\n• Minimize visual and auditory distractions\n• Sit face-to-face without a barrier (catty-corner) — no table between you\n• Use good eye contact\n\nSPEAKER STRATEGIES:\n• Speak slowly — but NOT in an abnormal 'sing-song' way\n• Use clear speech with sufficient loudness\n• Use short, simple words and sentences (rule of 5s)\n• Do NOT sound patronizing or condescending\n• Stick to ONE topic at a time\n• Simplify and WRITE DOWN instructions\n• Frequently SUMMARIZE the most important points\n\nCONVERSATION STRATEGIES:\n• Listen without interrupting\n• Give the person a chance to ask questions\n• Use memory aids at home (e.g., whiteboard on the refrigerator listing daily schedule and appointments)\n• Redirect rather than correct",
+      "chapter": "16",
+      "source": "Ch. 16 PPTX; Kidwell lecture notes",
+      "module": "mod-12"
     }
   ],
   "questions": [
@@ -8220,9 +8420,345 @@
       "chapter": "15",
       "source": "Ch. 15 PPTX; Kidwell lecture notes",
       "module": "mod-11"
+    },
+    {
+      "id": "slp-ch16-q001",
+      "type": "mc",
+      "text": "A coup-contrecoup injury means the brain is damaged:",
+      "options": [
+        "At the site of impact AND on the opposite side of the skull",
+        "Only at the direct site of impact, with no secondary damage",
+        "Only in the brainstem due to the force of deceleration",
+        "At the blood-brain barrier, causing widespread bilateral damage"
+      ],
+      "answer": "At the site of impact AND on the opposite side of the skull",
+      "chapter": "16",
+      "source": "Ch. 16 PPTX; Kidwell lecture notes",
+      "module": "mod-12"
+    },
+    {
+      "id": "slp-ch16-q002",
+      "type": "mc",
+      "text": "Chronic traumatic encephalopathy (CTE) can be definitively diagnosed:",
+      "options": [
+        "Only by brain autopsy after the patient has died",
+        "Using fMRI during the patient's lifetime",
+        "By EEG when symptoms first appear",
+        "Clinically when symptoms emerge 8–10 years post-injury"
+      ],
+      "answer": "Only by brain autopsy after the patient has died",
+      "chapter": "16",
+      "source": "Ch. 16 PPTX; Kidwell lecture notes",
+      "module": "mod-12"
+    },
+    {
+      "id": "slp-ch16-q003",
+      "type": "mc",
+      "text": "A patient with right-hemisphere syndrome takes the phrase 'break a leg' to mean they should literally break their leg. This is an example of:",
+      "options": [
+        "Literal interpretation of figurative language",
+        "Anosognosia",
+        "Left-side neglect",
+        "Aprosodia"
+      ],
+      "answer": "Literal interpretation of figurative language",
+      "chapter": "16",
+      "source": "Ch. 16 PPTX; Kidwell lecture notes",
+      "module": "mod-12"
+    },
+    {
+      "id": "slp-ch16-q004",
+      "type": "mc",
+      "text": "Which of the following BEST describes anosognosia?",
+      "options": [
+        "A patient's lack of awareness of or insight into their own deficits",
+        "Reduced or absent prosody resulting in flat, monotone speech",
+        "Inability to perceive objects on the left side of the body",
+        "Difficulty recognizing familiar faces including one's own"
+      ],
+      "answer": "A patient's lack of awareness of or insight into their own deficits",
+      "chapter": "16",
+      "source": "Ch. 16 PPTX; Kidwell lecture notes",
+      "module": "mod-12"
+    },
+    {
+      "id": "slp-ch16-q005",
+      "type": "mc",
+      "text": "During which stage of Alzheimer's disease is a formal diagnosis MOST OFTEN made, and why?",
+      "options": [
+        "Stage II (moderate), because symptoms become apparent enough for families to seek medical evaluation",
+        "Stage I (mild), because routine neurological screening catches it early",
+        "Stage III (severe), because imaging tools are required for diagnosis",
+        "Preclinical stage, because biomarkers are detectable before symptoms appear"
+      ],
+      "answer": "Stage II (moderate), because symptoms become apparent enough for families to seek medical evaluation",
+      "chapter": "16",
+      "source": "Kidwell lecture notes",
+      "module": "mod-12"
+    },
+    {
+      "id": "slp-ch16-q006",
+      "type": "mc",
+      "text": "Which of the following is the SLP's PRIMARY role when working with a patient who has dementia?",
+      "options": [
+        "Maintain the best communication possible and maximize quality of life — the condition cannot be cured",
+        "Restore language function to pre-morbid levels through intensive language therapy",
+        "Diagnose the type and severity of dementia using standardized cognitive batteries",
+        "Prescribe memory medications to slow the progression of the disease"
+      ],
+      "answer": "Maintain the best communication possible and maximize quality of life — the condition cannot be cured",
+      "chapter": "16",
+      "source": "Ch. 16 PPTX; Kidwell lecture notes",
+      "module": "mod-12"
+    },
+    {
+      "id": "slp-ch16-q007",
+      "type": "mc",
+      "text": "Blast injuries in combat veterans are described as 'polytrauma' because:",
+      "options": [
+        "They injure multiple body parts and organ systems simultaneously",
+        "They always result in both open and closed head injuries at the same time",
+        "They affect multiple cognitive domains including all aspects of executive function",
+        "They cause both TBI and PTSD in every affected patient"
+      ],
+      "answer": "They injure multiple body parts and organ systems simultaneously",
+      "chapter": "16",
+      "source": "Ch. 16 PPTX; Kidwell lecture notes",
+      "module": "mod-12"
+    },
+    {
+      "id": "slp-ch16-q008",
+      "type": "mc",
+      "text": "TBI treatment goals from ASHA include 'orientation x4.' The four domains of orientation are:",
+      "options": [
+        "Person, place, time, and purpose",
+        "Person, place, date, and language",
+        "Name, location, year, and reason for hospitalization",
+        "Self, family, community, and vocation"
+      ],
+      "answer": "Person, place, time, and purpose",
+      "chapter": "16",
+      "source": "Ch. 16 PPTX",
+      "module": "mod-12"
+    },
+    {
+      "id": "slp-ch16-q009",
+      "type": "tf",
+      "text": "A closed head injury requires penetration of the skull by a foreign object.",
+      "answer": "false",
+      "chapter": "16",
+      "source": "Ch. 16 PPTX; Kidwell lecture notes",
+      "module": "mod-12"
+    },
+    {
+      "id": "slp-ch16-q010",
+      "type": "tf",
+      "text": "CTE symptoms typically begin within 1–2 years of repeated mild TBIs.",
+      "answer": "false",
+      "chapter": "16",
+      "source": "Ch. 16 PPTX; Kidwell lecture notes",
+      "module": "mod-12"
+    },
+    {
+      "id": "slp-ch16-q011",
+      "type": "tf",
+      "text": "Right-hemisphere syndrome can produce LEFT-side neglect — the patient fails to perceive stimuli on the left side of their body.",
+      "answer": "true",
+      "chapter": "16",
+      "source": "Ch. 16 PPTX; Kidwell lecture notes",
+      "module": "mod-12"
+    },
+    {
+      "id": "slp-ch16-q012",
+      "type": "tf",
+      "text": "The SLP is responsible for diagnosing Alzheimer's disease and other dementias.",
+      "answer": "false",
+      "chapter": "16",
+      "source": "Ch. 16 PPTX; Kidwell lecture notes",
+      "module": "mod-12"
+    },
+    {
+      "id": "slp-ch16-q013",
+      "type": "tf",
+      "text": "A patient in Stage III (severe/terminal) Alzheimer's disease is generally considered a good candidate for traditional speech-language therapy.",
+      "answer": "false",
+      "chapter": "16",
+      "source": "Kidwell lecture notes",
+      "module": "mod-12"
+    },
+    {
+      "id": "slp-ch16-q014",
+      "type": "tf",
+      "text": "Dementia describes the NORMAL loss of cognitive function due to aging, while senility is a pathological condition.",
+      "answer": "false",
+      "chapter": "16",
+      "source": "Ch. 16 PPTX; Kidwell lecture notes",
+      "module": "mod-12"
+    },
+    {
+      "id": "slp-ch16-q015",
+      "type": "fitb",
+      "text": "In a coup-contrecoup injury, the COUP refers to brain damage at the __________ of impact, while the CONTRECOUP refers to damage on the __________ side.",
+      "answer": "site / opposite",
+      "chapter": "16",
+      "source": "Ch. 16 PPTX; Kidwell lecture notes",
+      "module": "mod-12"
+    },
+    {
+      "id": "slp-ch16-q016",
+      "type": "fitb",
+      "text": "CTE is a degenerative brain disease caused by __________ mild brain traumas, most commonly from sports-related concussions. It can only be definitively diagnosed by __________ after death.",
+      "answer": "repeated / brain autopsy",
+      "chapter": "16",
+      "source": "Ch. 16 PPTX; Kidwell lecture notes",
+      "module": "mod-12"
+    },
+    {
+      "id": "slp-ch16-q017",
+      "type": "fitb",
+      "text": "The three stages of Alzheimer's disease in order are: Stage I — __________ (forgetfulness), Stage II — __________ (confusion), and Stage III — __________ (terminal).",
+      "answer": "mild / moderate / severe",
+      "chapter": "16",
+      "source": "Ch. 16 PPTX",
+      "module": "mod-12"
+    },
+    {
+      "id": "slp-ch16-q018",
+      "type": "fitb",
+      "text": "Flat, monotone speech with little emotional variation resulting from right-hemisphere damage is called __________. A patient's lack of awareness of their own deficits is called __________.",
+      "answer": "aprosodia / anosognosia",
+      "chapter": "16",
+      "source": "Ch. 16 PPTX; Kidwell lecture notes",
+      "module": "mod-12"
+    },
+    {
+      "id": "slp-ch16-q019",
+      "type": "fitb",
+      "text": "TBI treatment targets orientation to four domains — known as orientation x4. The four domains are: person, __________, __________, and __________.",
+      "answer": "place / time / purpose",
+      "chapter": "16",
+      "source": "Ch. 16 PPTX",
+      "module": "mod-12"
+    },
+    {
+      "id": "slp-ch16-q020",
+      "type": "match",
+      "text": "Match each TBI/cognitive disorder term to its correct definition.",
+      "pairs": [
+        [
+          "Closed head injury (CHI)",
+          "Most common civilian TBI — skull not penetrated; brain may strike skull from inside"
+        ],
+        [
+          "Open head injury (OHI)",
+          "Skull and brain are penetrated by a foreign object such as a bullet or shrapnel"
+        ],
+        [
+          "Coup-contrecoup",
+          "Brain damaged at the site of impact AND on the opposite side from the same impact"
+        ],
+        [
+          "Postconcussion syndrome (PCS)",
+          "Long-lasting subtle impairments following a mild TBI or concussion"
+        ],
+        [
+          "CTE",
+          "Degenerative brain disease from repeated mild TBIs; symptoms begin 8–10 years later; diagnosed only by brain autopsy"
+        ]
+      ],
+      "answer": "CHI=nonpenetrating/skull intact, OHI=penetrating, Coup-contrecoup=double-site damage, PCS=lasting mild TBI effects, CTE=repeated mTBI/autopsy only",
+      "chapter": "16",
+      "source": "Ch. 16 PPTX; Kidwell lecture notes",
+      "module": "mod-12"
+    },
+    {
+      "id": "slp-ch16-q021",
+      "type": "match",
+      "text": "Match each Alzheimer's stage to its most characteristic features.",
+      "pairs": [
+        [
+          "Stage I — Mild (Forgetfulness)",
+          "Subtle signs; impaired working memory; misplacing items; getting lost on familiar routes; mood changes; diagnosis often not yet made"
+        ],
+        [
+          "Stage II — Moderate (Confusion)",
+          "More apparent symptoms; diagnosis often made now; personal safety concern; aggressiveness; hallucinations; loss of reading/writing; nursing home placement common"
+        ],
+        [
+          "Stage III — Severe (Terminal)",
+          "No memory; minimal communication; no emotional expression; total ADL dependence; dysphagia with aspiration risk; not a good speech therapy candidate"
+        ]
+      ],
+      "answer": "Stage I=subtle/forgetfulness, Stage II=apparent/diagnosis/safety, Stage III=no memory/total care/dysphagia",
+      "chapter": "16",
+      "source": "Ch. 16 PPTX; Kidwell lecture notes",
+      "module": "mod-12"
+    },
+    {
+      "id": "slp-ch16-q022",
+      "type": "match",
+      "text": "Match each right-hemisphere syndrome feature to its correct description.",
+      "pairs": [
+        [
+          "Anosognosia",
+          "Patient is unaware of or lacks insight into their own deficits"
+        ],
+        [
+          "Aprosodia",
+          "Flat, monotone speech with reduced emotional variation"
+        ],
+        [
+          "Left-side neglect",
+          "Failure to perceive or respond to stimuli on the left side of the body"
+        ],
+        [
+          "Prosopagnosia",
+          "Difficulty recognizing familiar faces"
+        ],
+        [
+          "Literal interpretation",
+          "Understanding metaphors and idioms at their surface meaning — e.g., taking 'break a leg' literally"
+        ]
+      ],
+      "answer": "Anosognosia=unaware of deficits, Aprosodia=flat prosody, LeftNeglect=left side unperceived, Prosopagnosia=face recognition, Literal=figurative taken literally",
+      "chapter": "16",
+      "source": "Ch. 16 PPTX; Kidwell lecture notes",
+      "module": "mod-12"
+    },
+    {
+      "id": "slp-ch16-q023",
+      "type": "sa",
+      "text": "Compare and contrast the SLP's role in treating TBI versus dementia. How do the goals, approaches, and expectations differ between these two types of cognitive-linguistic disorders?",
+      "answer": "TBI TREATMENT:\nGoals are RESTORATIVE and RECOVERY-ORIENTED. TBI results from a single traumatic event and the brain has the potential for neural plasticity and reorganization — greatest gains occur in the first weeks to months. The SLP aims to improve physical, cognitive, and psychosocial functioning; foster independence; and facilitate community integration.\n\nApproach: active intervention targeting attention, orientation (x4 — person, place, time, purpose), memory strategies (e.g., memory logs), problem-solving, reasoning, organizational skills, social skills, and self-monitoring. Family education is a major component. Vocational rehabilitation may be a goal. Computer-assisted treatment (CAT) may be used. Assessment and treatment must occur in real-life situations.\n\nExpectation: meaningful recovery is possible, particularly with early and intensive intervention.\n\nDEMENTIA TREATMENT:\nGoals are COMPENSATORY and MAINTENANCE-ORIENTED. Dementia is a PROGRESSIVE and DEGENERATIVE condition — there is no cure and no restoration of function. The brain will continue to decline. The SLP cannot fix the problem.\n\nThe SLP's purpose is to: determine cognitive/communication/swallowing FUNCTIONING; determine if the patient is a GOOD CANDIDATE for therapy; use strategies to maintain the best communication possible; and maximize QUALITY OF LIFE.\n\nApproach: communication strategies, caregiver training, environmental modifications, use of memory aids (e.g., whiteboards), and — in late stages — dysphagia management. Stage III patients are generally NOT good candidates for active speech therapy.\n\nExpectation: decline is inevitable. The SLP helps the patient and family adapt to each stage and maintain dignity and safety.\n\nDIAGNOSIS DISTINCTION: The SLP does NOT diagnose dementia — that is the role of physicians and psychologists. The SLP assesses communication functioning only.",
+      "chapter": "16",
+      "source": "Ch. 16 PPTX; Kidwell lecture notes",
+      "module": "mod-12"
+    },
+    {
+      "id": "slp-ch16-q024",
+      "type": "sa",
+      "text": "Describe the cognitive and communication impairments associated with TBI. Why is it sometimes difficult to separate cognitive deficits from language deficits in TBI patients?",
+      "answer": "COGNITIVE IMPAIRMENTS FROM TBI:\nPatients may present with a comatose or semicomatose state initially. Ongoing cognitive impairments include:\n1. ATTENTION deficits — difficulty maintaining focus on tasks\n2. MEMORY deficits — working memory, recent memory, and long-term (remote) memory may all be affected\n3. ORIENTATION deficits — disorientation to person, place, time, and purpose (orientation x4)\n4. REASONING and PROBLEM-SOLVING deficits\n5. EXECUTIVE FUNCTION deficits — including abstract thinking, anticipating needs, goal-setting, planning strategies, implementing strategies, evaluating effectiveness, and regulating emotions and behaviors\n\nSPEECH AND LANGUAGE DISORDERS FROM TBI:\nApraxia, dysarthria, receptive language deficits, expressive language deficits (including anomia), pragmatic deficits, reading impairments, and writing impairments.\n\nSOCIAL (PRAGMATIC) COMMUNICATION DISORDER (SCD):\nDifficulty using and interpreting gestures, facial expressions, speech prosody, and emotions of others; interpreting abstract language; following communication rules; recognizing one's own social communication impairments; possible Theory of Mind deficits.\n\nWHY IT IS DIFFICULT TO SEPARATE COGNITIVE FROM LANGUAGE DEFICITS:\nCognition and language are deeply intertwined in TBI. A patient who appears to have poor auditory comprehension may actually have an ATTENTION deficit that prevents sustained listening. A patient who cannot name objects may have a MEMORY deficit rather than a true anomia. Poor pragmatics may reflect EXECUTIVE DYSFUNCTION (frontal lobe damage) rather than a specific language disorder. The SLP must carefully analyze performance patterns across contexts and modalities, and consider whether errors improve with cueing, reduced length/complexity, or attention support — which can help differentiate cognitive from language-based sources of breakdown.",
+      "chapter": "16",
+      "source": "Ch. 16 PPTX; Kidwell lecture notes",
+      "module": "mod-12"
     }
   ],
   "notes": [
+    {
+      "id": "slp-ch16-n002",
+      "title": "Ch. 16 — Right-Hemisphere Syndrome and Dementia",
+      "chapter": "16",
+      "body": "SOURCE: Ch. 16 PPTX (Fogle textbook); Kidwell lecture notes, Comm Dis 1A, SJDC\n\nRIGHT-HEMISPHERE SYNDROME\nResults from damage to the RIGHT hemisphere of the brain\nCauses impairments in multiple domains:\n\nCOGNITIVE IMPAIRMENTS:\n  Attention, perception, memory, orientation, organization\n  Insight — including ANOSOGNOSIA (unaware of own deficits — makes treatment challenging)\n  Reasoning and problem-solving\n  Executive functions\n\nCOMMUNICATION IMPAIRMENTS:\n  LITERAL INTERPRETATION of messages, metaphors, idioms, and proverbs\n    Example: takes 'break a leg' to mean physically break one's leg\n  PRAGMATIC VIOLATIONS: irrelevant, tangential, inappropriate comments\n  APROSODIA: flat, monotone speech with reduced emotional prosody\n  FLAT AFFECT: reduced emotional expression overall\n  Difficulty with topic maintenance and turn-taking\n  May have difficulty naming categories or describing pictures\n\nVISUAL-SPATIAL IMPAIRMENTS:\n  LEFT-SIDE NEGLECT: fails to perceive objects/stimuli on left side of body — driving is dangerous\n  PROSOPAGNOSIA: difficulty recognizing familiar faces\n\nASSESSMENT: MIRBI-2, RICE-R, RHLB-2\nTREATMENT: similar principles to aphasia and cognitive disorder therapy; assess attention and visual-perceptual disturbances\n\nEMOTIONAL EFFECTS: damage to self-image and self-confidence; family members significantly affected\n\nDEMENTIA\n\nDEFINITIONS:\n  DEMENTIA: degenerative neurological functioning MORE SEVERE than normal aging\n    Decline in intellect, memory, communication, and personality\n    Must interfere with daily functioning in work or social life\n  SENILITY: NORMAL loss of cognition due to aging — NOT a disorder\n    Key distinction: dementia is pathological; senility is normal\n\nTYPES of DEMENTIA: vascular disease dementia, multi-infarct dementia, frontotemporal dementia, Alzheimer's disease\n\nALZHEIMER'S DISEASE (AD / DAT):\n  Progressive neurological disease with decline in intellect, memory, communication, and personality\n  MRI may reveal CORTICAL ATROPHY\n  Definitive diagnosis requires BRAIN AUTOPSY — cannot be confirmed in a living patient\n  Preceded by PRECLINICAL Alzheimer's (brain changes, no clinical symptoms yet)\n\nSTAGES OF ALZHEIMER'S DISEASE:\n\nSTAGE I — Mild / Early / Forgetfulness:\n  Signs subtle and difficult to recognize; patient frustrated and angry at increasing impairments\n  Impaired working memory\n  Difficulty completing familiar tasks\n  Forgetting common names\n  Misplacing items in inappropriate places\n  Sudden unexplained mood/behavior changes\n  Indifference to personal appearance\n  Disorientation to person, place, time, and purpose\n  Getting lost while driving on familiar streets\n\nSTAGE II — Moderate / Middle / Confusion:\n  More apparent; DIAGNOSIS OFTEN MADE AT THIS STAGE (family seeks medical evaluation)\n  Most difficult stage — PERSONAL SAFETY is the greatest concern; constant monitoring needed\n  Increased loss of working memory\n  Significantly diminished vocabulary\n  Conversation increasingly empty and meaningless\n  Loss of reading and writing ability\n  Difficulty with skilled movements (tying shoelaces, using utensils)\n  Aggressiveness, outbursts of anger, or withdrawal\n  Inappropriate public behavior\n  Hallucinations or delusions\n  Nursing home placement common when safety/hygiene cannot be maintained\n\nSTAGE III — Severe / Late / Terminal:\n  Patient can no longer think, reason, or communicate\n  Usually NOT a good candidate for speech therapy\n  Little or no memory\n  Minimal verbal communication\n  No emotional expression\n  Cannot recognize others or themselves in a mirror\n  Total ADL dependence\n  DYSPHAGIA with risk for aspiration pneumonia, weight loss, dehydration\n\nNote: Stages overlap — no exact timing. Called 'the long goodbye.'\n\nSLP ROLE IN DEMENTIA:\n  DOES NOT diagnose dementia — that is physicians' and psychologists' role\n  Purpose: determine cognitive/communication/swallowing functioning\n  Determine candidacy for therapy\n  Cannot cure — uses strategies to MAINTAIN best communication possible\n  Goal: maximize QUALITY OF LIFE\n  Tools: ABCDD, Communicative Activities of Daily Living 2nd ed., RIPA-G:2\n\nCOMMUNICATION TIPS FOR DEMENTIA PATIENTS:\n  Allow extra time; minimize distractions; sit face-to-face (catty-corner, no table)\n  Speak slowly (not sing-song), clearly, with sufficient loudness\n  Use short simple words and sentences (rule of 5s); don't be condescending\n  Stick to one topic at a time; write down and frequently summarize instructions\n  Listen without interrupting; allow time for questions\n  Memory aids at home: whiteboard on refrigerator for daily schedule\n\nEMOTIONAL EFFECTS:\n  TBI: personality changes, loss of skills/emotions, anger, isolation\n  Right-hemisphere: self-image and confidence affected\n  Dementia: anxiety, agitation, depression; 'the long goodbye'\n  All: family systems affected; emotional and financial toll\n  SLP must address impact on the ENTIRE FAMILY SYSTEM",
+      "module": "mod-12"
+    },
+    {
+      "id": "slp-ch16-n001",
+      "title": "Ch. 16 — Traumatic Brain Injury: Types, Impairments, and Treatment",
+      "chapter": "16",
+      "body": "SOURCE: Ch. 16 PPTX (Fogle textbook); Kidwell lecture notes, Comm Dis 1A, SJDC\n\nCOGNITIVE-LINGUISTIC DISORDERS — OVERVIEW\nLanguage problem exists as a SECONDARY issue to a cognitive problem\nMost common causes: TBI, right-hemisphere damage, dementia\nDistinguished from aphasia where the language system itself is primarily damaged\n\nTYPES OF TBI\n\nCLOSED HEAD INJURY (CHI) — most common civilian TBI:\n  Skull NOT penetrated\n  Damage from blunt force OR deceleration (brain strikes skull from inside)\n  Most common causes: motor vehicle accidents, assaults\n  COUP-CONTRECOUP: brain damaged at site of impact (coup) AND opposite side (contrecoup)\n  Significant swelling may last days to weeks — causes additional damage\n  Blood-brain barrier (BBB) may be disrupted\n\nCONCUSSION (mild TBI / mTBI):\n  Usually no loss of consciousness (LOC), but may occur\n  Problems at home and work; relationships deteriorate\n  POSTCONCUSSION SYNDROME (PCS): long-lasting subtle impairments\n  Even mild TBI causes long-term structural changes in white and grey matter\n\nCHRONIC TRAUMATIC ENCEPHALOPATHY (CTE):\n  Degenerative brain disease from REPEATED mild TBIs (sports concussions)\n  Symptoms begin 8–10 YEARS after repeated mTBIs\n  Symptoms: headaches, mood disorders, cognitive difficulties, speech/language difficulties, aggressive behavior, dementia, suicidal tendencies\n  ONLY diagnosed by BRAIN AUTOPSY — cannot be confirmed in a living patient\n  Discovered by Dr. Bennet Omalu (worked in Stockton, CA)\n  Reason professional athletes are now given recovery time after concussions\n\nOPEN HEAD INJURY (OHI / penetrating):\n  Skull and brain penetrated by foreign object\n  Cognitive impairments may last months to years\n  WAR WOUNDS: more extensive due to high velocity, shock waves, and heat from shrapnel\n  BLAST INJURIES: polytrauma — injures multiple body parts and organ systems\n  PTSD may co-occur: intense fear, horror, helplessness\n\nIMPAIRMENTS FROM TBI\n\nCOGNITIVE:\n  Attention deficits\n  Memory (working, recent, long-term/remote)\n  Orientation (person, place, time, purpose — orientation x4)\n  Reasoning and problem-solving\n  Executive functions: abstract thinking, goal-setting, planning, implementing strategies, evaluating, emotion regulation\n  When executive dysfunction present, everyday activities negatively impacted\n\nSPEECH AND LANGUAGE:\n  Apraxia, dysarthria, receptive/expressive language, pragmatics, reading, writing\n  Difficult to separate cognitive vs. language deficits in TBI\n  SOCIAL (PRAGMATIC) COMMUNICATION DISORDER (SCD):\n    Using/interpreting gestures, facial expressions, prosody, emotions of others\n    Interpreting abstract language\n    Following communication rules\n    Recognizing own communication impairments\n    Theory of Mind deficits possible\n  Swallowing disorders may also occur\n\nTBI ASSESSMENT (Evidence-Based Practice):\n  Attention and orientation\n  Memory (working, recent, long-term/remote)\n  Planning and organizing\n  Attention to details\n  Receptive and expressive language\n  Hearing (if suspected)\n  Speech systems and motor speech (if detected)\n  Swallowing (if present or requested)\n  Reasoning and problem-solving for ADLs\n  Assessment/treatment in REAL-LIFE SITUATIONS with family and friends\n  Standardized tools: BTHI, FAVRES, RIPA-2, SCATBI\n\nTBI TREATMENT (Evidence-Based Practice):\n  GOALS: improve physical/cognitive/psychosocial functioning; foster independence; community integration\n  ASHA TARGETS: sensory stimulation; family training; maintaining attention for basic activities; reducing confusion; ORIENTATION x4; memory strategies (memory log); problem-solving and reasoning; social skills in small groups; self-monitoring; community outings; vocational rehabilitation\n  Computer-assisted treatment (CAT) may be used",
+      "module": "mod-12"
+    },
     {
       "id": "slp-ch15-n003",
       "title": "Ch. 15 — Aphasia Assessment and Treatment",
