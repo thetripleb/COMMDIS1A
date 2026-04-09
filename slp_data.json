@@ -743,6 +743,14 @@
       "source": "Lecture 1.2.2 — Chapter 2: The Professionals, Kidwell, SJDC Comm Dis 1A"
     },
     {
+      "id": "slp-ch18-g014",
+      "term": "ASHA Essential Skills for Dysphagia Clinicians",
+      "def": "ASHA (2002-2007) outlined six essential skills for SLPs providing dysphagia services: (1) Identify people at risk for dysphagia; (2) Conduct and interpret CLINICAL ASSESSMENTS of oral-pharyngeal and respiratory functions related to feeding; (3) Conduct and interpret INSTRUMENTAL-BASED EVALUATIONS of swallowing; (4) Develop INTERVENTION STRATEGIES (safe feeding recommendations, swallowing precautions, therapeutic interventions); (5) Document care and discharge planning; (6) Provide EDUCATION, COUNSELING, and TRAINING to patients and all relevant individuals (family and health professionals). Beyond academic coursework, considerable hands-on training during hospital internships and professional workshops and seminars is necessary to become competent to work independently with dysphagia patients.",
+      "chapter": "18",
+      "source": "Fogle, Ch. 18",
+      "module": "mod-13"
+    },
+    {
       "id": "fogle-aspiration",
       "term": "Aspiration",
       "def": "Material (food, liquid, saliva, etc.) penetrating the larynx and entering the airway below the true vocal folds; food or liquid entering the lungs rather than the stomach after the swallow.",
@@ -757,6 +765,14 @@
       "chapter": "5",
       "module": "mod-5",
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Textbook Glossary"
+    },
+    {
+      "id": "slp-ch18-g003",
+      "term": "Aspiration vs. Silent Aspiration",
+      "def": "ASPIRATION: Material (food, liquid, saliva, etc.) penetrating the larynx and entering the airway BELOW the true vocal folds — food or liquid entering the lungs rather than the stomach after the swallow. Risk: aspiration pneumonia. SILENT ASPIRATION: Penetration of food or liquid (including saliva) into the larynx and passing below the vocal folds WITHOUT a protective cough or choking occurring. Particularly dangerous because the patient has no normal sensation in the laryngeal region and does not react to protect the airway. Must be identified through bedside evaluation (checking for adequate protective cough) and confirmed through instrumental evaluation (MBSS or FEES).",
+      "chapter": "18",
+      "source": "Fogle, Ch. 18",
+      "module": "mod-13"
     },
     {
       "id": "fogle-assistive_listening_device_ald",
@@ -1111,6 +1127,14 @@
       "source": "Lecture Ch. 6, Kidwell, SJDC"
     },
     {
+      "id": "slp-ch18-g004",
+      "term": "Causes of Dysphagia",
+      "def": "Dysphagia may occur at any age — from newborns to end of life. The same neurological causes of motor speech disorders and cognitive disorders may cause dysphagia. CHILDREN: prematurity and low birth weight, heart disease, conditions affecting the airway, meningitis, encephalopathy, cerebral palsy. ADULTS: cerebrovascular accident (stroke — incidence 13-94% post-stroke), traumatic brain injury (TBI), Parkinson's disease, multiple sclerosis, amyotrophic lateral sclerosis (ALS), muscular dystrophy, Alzheimer's disease. Also: cancer (lingual, oral, pharyngeal, laryngeal, esophageal) and its treatment (surgery, radiation, chemotherapy). Side effects of some medications (e.g., muscle relaxants) may also cause swallowing problems.",
+      "chapter": "18",
+      "source": "Fogle, Ch. 18",
+      "module": "mod-13"
+    },
+    {
       "id": "ch2-g005",
       "term": "CCC-A (Certificate of Clinical Competence — Audiology)",
       "def": "The ASHA-issued credential certifying that an audiologist has met all educational, clinical, and examination requirements. Maintained by ASHA.",
@@ -1261,6 +1285,14 @@
       "module": "mod-9",
       "chapter": "12",
       "source": "306_BehaviorsOfStuttering.pdf — Hodgson, CCC-SLP"
+    },
+    {
+      "id": "slp-ch18-g007",
+      "term": "Clinical (Bedside) Swallow Evaluation",
+      "def": "A multi-step clinical assessment of dysphagia performed at the bedside without instrumental equipment. Steps: (1) Careful review of patient's medical chart; (2) Screening/interview — patient's perceptions of the problem and assessment of whether patient has a sufficiently strong PROTECTIVE COUGH to clear the airway; (3) Oral-mechanism examination — anatomy and physiology of articulatory structures; (4) Observation of patient swallowing different LIQUID CONSISTENCIES (regular/thin, nectar, honey, pudding) and different FOOD TEXTURES (regular, mechanically altered, puree); (5) Determination of aspiration risk and need for instrumental evaluation; (6) Documentation in medical chart. Referrals are based on: patient appears at risk for aspiration, observed feeding difficulties, or patient is not taking in adequate nourishment.",
+      "chapter": "18",
+      "source": "Fogle, Ch. 18",
+      "module": "mod-13"
     },
     {
       "id": "ch2-g014",
@@ -1886,6 +1918,14 @@
       "source": "Lecture 1.2.1 — Chapter 1, Kidwell, SJDC Comm Dis 1A"
     },
     {
+      "id": "slp-ch18-g006",
+      "term": "Disorders of the Four Swallowing Phases",
+      "def": "ORAL PREPARATORY PHASE DISORDERS: Decreased cognition (impaired awareness); impulsivity (dangerously large bites, packing food); weak mandible, lip, or tongue muscles causing poor bolus control. ORAL PHASE DISORDERS: Poor lip seal causing anterior spillage (drooling); poor posterior seal causing premature spillage; weak tongue tip causing discoordinated posterior movement; pocketed food in sulcus (residue/stasis); insufficient tongue propulsive force. PHARYNGEAL PHASE DISORDERS: Delayed swallow response; impaired timing and coordination; weak soft palate (nasal regurgitation); weak laryngeal elevation (epiglottis fails to close — penetration/aspiration); weak vocal fold closure (aspiration); silent aspiration (no protective cough). ESOPHAGEAL PHASE DISORDERS: UEV does not open or stay open long enough; slow or absent esophageal peristalsis (residue, discomfort, infection risk); lower esophageal valve fails to relax (food cannot enter stomach).",
+      "chapter": "18",
+      "source": "Fogle, Ch. 18",
+      "module": "mod-13"
+    },
+    {
       "id": "ch5-g007",
       "term": "Distinctive Feature",
       "def": "The smallest individual difference required to differentiate one phoneme from another in a language. The three distinctive features used to describe consonants are: Place (where articulators come together), Manner (how the airstream is modified), and Voice (whether vocal folds vibrate or not).",
@@ -2014,6 +2054,30 @@
       "source": "Lecture Ch. 6, Kidwell / Ch. 6 PPTX"
     },
     {
+      "id": "slp-ch18-g001",
+      "term": "Dysphagia (Swallowing Disorder)",
+      "def": "Difficulty swallowing that occurs when impairments affect any of the four phases of the normal swallow: oral preparatory, oral, pharyngeal, or esophageal. Dysphagia puts a person at risk for aspiration of food and/or liquid and potential aspiration pneumonia. Although swallowing is not part of the communication process, it is intimately connected to the speech systems (respiratory, phonatory, resonatory, and articulatory). SLPs are recognized by the medical community as the professionals most knowledgeable and directly responsible for the evaluation and treatment of dysphagia — within SLPs' scope of practice per ASHA (2016). Dysphagia is a major area of acute care hospital work for many SLPs.",
+      "chapter": "18",
+      "source": "Fogle, Ch. 18",
+      "module": "mod-13"
+    },
+    {
+      "id": "slp-ch18-g005",
+      "term": "Dysphagia Team Approach",
+      "def": "Dysphagia requires a team approach with the SLP typically acting as the COORDINATOR or HEAD of the team. Team members include: Certified nursing assistants (CNAs) — feeding patients; Dentists — dental appliances and dentures; Dietitians/nutritionists — daily intake, food texture palatability, adequate nutrition; Family members — feeding and care decisions; Gastroenterologists — esophageal/digestive problems and feeding tube insertion; Neurologists — neurological impairments; Nurses — day-to-day medical needs; Occupational therapists — positioning for meals and retrieving food; Otolaryngologists — laryngeal function; Pharmacists — medication side effects on swallowing; Physical therapists — postural problems and wheelchair; Physicians — overall medical management; Pulmonologists — respiratory function and aspiration pneumonia; Radiologists — modified barium swallow studies; Respiratory therapists — respiratory treatments; Social workers — advocacy and insurance; SLPs — assess, diagnose, treat swallowing disorders and recommend safe liquid consistencies and food textures.",
+      "chapter": "18",
+      "source": "Fogle, Ch. 18",
+      "module": "mod-13"
+    },
+    {
+      "id": "slp-ch18-g010",
+      "term": "Dysphagia Treatment: Three Approaches",
+      "def": "Three main treatment approaches for dysphagia: (1) COMPENSATORY TREATMENT TECHNIQUES: Help optimize use of current swallowing abilities; hospital staff and family may be taught these. Include POSTURAL TECHNIQUES (e.g., chin tuck, head rotation to control bolus flow and reduce aspiration risk — easiest for patients with cognitive/communication problems to learn) and FOOD PLACEMENT (placing food on stronger side, limiting bolus size to ~5cc/1 teaspoon). (2) FACILITATION TREATMENT TECHNIQUES: Designed to IMPROVE function of swallowing mechanism; include increasing vocal fold adduction, breath-hold techniques during swallow, and oral-motor exercises to strengthen articulatory muscles. (3) DIET MODIFICATION TECHNIQUES: Modifying food texture and/or liquid consistency using National Dysphagia Diet Task Force (2002) standardized levels. Long-term goal: 'Patient will achieve safe and efficient swallowing to sustain adequate nutrition and hydration orally.'",
+      "chapter": "18",
+      "source": "Fogle, Ch. 18",
+      "module": "mod-13"
+    },
+    {
       "id": "ch1-g034",
       "term": "Dysphonia",
       "def": "The most common diagnosis for a voice disorder. The voice sounds rough, raspy, or hoarse. Results from disruptions to normal vocal fold vibration.",
@@ -2126,6 +2190,14 @@
       "module": "mod-12"
     },
     {
+      "id": "slp-ch18-g015",
+      "term": "Emotional and Social Effects of Dysphagia",
+      "def": "Food and eating have strong emotional significance. Eating is a social function — 'breaking bread' builds and maintains relationships. When dysphagia interferes, patients face serious emotional and social consequences. QUALITY OF LIFE: always the most important concern in patient care; patients have the right to decide (AUTONOMY). Modifying food texture or increasing liquid viscosity changes flavor — patients' complaints that food doesn't taste the same when pureed are legitimate. Patients often decrease consumption of modified foods even knowing they need nutrition. ANXIETIES AND FEARS: embarrassment in front of family/friends during meals; fear of aspiration pneumonia or death; discomfort from suctioning; fear of never eating favorite foods normally again. BIOETHICS: requires SLPs to always respect patient autonomy even when recommending dietary restrictions. Cost of one hospital stay for aspiration pneumonia: approximately $27,000-$28,000.",
+      "chapter": "18",
+      "source": "Fogle, Ch. 18",
+      "module": "mod-13"
+    },
+    {
       "id": "ch7-g024",
       "term": "Emotional and Social Effects of Language Disorders",
       "def": "Language disorders affect children emotionally and socially — impacts that may continue into adulthood. Short-term: difficulty with peer interactions, frustration at not being understood, poor academic performance. Long-term: adverse effects on educational adjustment, academic achievement, career choices, psychosocial functioning, increased probability of psychiatric disorders, and marital/peer relationships. A child who struggles with reading in early elementary may feel like a failure by high school — potentially dropping out, affecting future employment, relationships, and quality of life. Early identification and treatment are critical.",
@@ -2212,6 +2284,14 @@
       "module": "mod-4",
       "chapter": "5",
       "source": "Quiz answer key — Ch. 5"
+    },
+    {
+      "id": "slp-ch18-g013",
+      "term": "Evidence-Based Practice (EBP) in Dysphagia",
+      "def": "The quality of treatment that is measurable in terms of some form of functional outcomes and maintained in the face of cost-containment efforts. Deemphasizes clinician intuition and unsystematic approaches; requires decisions through a scientific process rooted in examination of clinical research. TREATMENT EFFICACY: the extent to which an intervention can be shown to be beneficial under OPTIMAL (or ideal) conditions. TREATMENT EFFECTIVENESS: the extent to which services are shown to be beneficial under TYPICAL (or real-world) conditions. BEST PRACTICES: procedures based on the best available evidence (research and expert opinion); accepted or prescribed as being correct or most effective. Third-party payers (Medicare, HMOs) want functional outcomes — can the patient be discharged, go home, recover, and return to work — for the least cost in the least time.",
+      "chapter": "18",
+      "source": "Fogle, Ch. 18",
+      "module": "mod-13"
     },
     {
       "id": "fogle-executive_dysfunction",
@@ -2324,6 +2404,14 @@
       "chapter": "5",
       "module": "mod-5",
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Textbook Glossary"
+    },
+    {
+      "id": "slp-ch18-g009",
+      "term": "Fiber-Optic Endoscopic Evaluation of Swallowing (FEES)",
+      "def": "An instrumental procedure providing information about the PHARYNGEAL PHASE of swallowing. PROCEDURE: A flexible endoscope with camera and light source is passed through the nasal passage to the hypopharynx (top-down view). Various solid/liquid consistencies are dyed with food coloring for contrast (against saliva/secretions). The SLP observes whether material passes through the UEV, remains in the pharynx, penetrates into the larynx, or aspirates into the airway — with or without attempts to clear the throat or cough. SLPs can view anatomical structures in color, movement of the vocal folds/larynx, and assess for penetration/aspiration events. Unlike MBSS, FEES focuses specifically on the pharyngeal phase and does not involve radiation.",
+      "chapter": "18",
+      "source": "Fogle, Ch. 18",
+      "module": "mod-13"
     },
     {
       "id": "ch4-g024",
@@ -3285,6 +3373,14 @@
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Textbook Glossary"
     },
     {
+      "id": "slp-ch18-g008",
+      "term": "Modified Barium Swallow Study (MBSS)",
+      "def": "Also known as videofluoroscopy swallow study (VFSS). Considered the GOLD STANDARD instrumental evaluation for viewing the physiology of the swallow and determining the presence or absence of aspiration. A dynamic (moving) radiographic (X-ray) imaging procedure — a video recording of real-time movement of the bolus from the mouth to the stomach. Examines all four phases: oral preparatory, oral, pharyngeal, and esophageal. PROCEDURE: SLP and radiologist work as a team in the radiology suite; clinician presents various liquid consistencies mixed with barium and food textures coated with barium (a radiopaque substance that stops X-rays); SLP observes swallowing on video screen; patient also tries various compensatory techniques to identify what allows for safe and efficient swallow. Provides most thorough information on swallowing physiology.",
+      "chapter": "18",
+      "source": "Fogle, Ch. 18",
+      "module": "mod-13"
+    },
+    {
       "id": "ch1-g015",
       "term": "Morpheme",
       "def": "The smallest unit of language that conveys meaning. Can be a whole word or an affix. Example: the '-ed' ending on 'walked' is a morpheme that signals past tense.",
@@ -3443,6 +3539,14 @@
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Textbook Glossary"
     },
     {
+      "id": "slp-ch18-g011",
+      "term": "National Dysphagia Diet — Food Textures and Liquid Consistencies",
+      "def": "Standardized by the National Dysphagia Diet Task Force (2002). Four FOOD TEXTURE levels: (1) REGULAR — no restrictions; (2) DYSPHAGIA ADVANCED — ground or chopped tender meat, soft foods; (3) DYSPHAGIA MECHANICALLY ALTERED — ground or finely chopped meat with gravy, mashed potatoes, soft cooked vegetables; (4) DYSPHAGIA PUREED — pureed meat, mashed vegetables, blended/baby-food texture. Four LIQUID CONSISTENCY levels: (1) THIN — no restrictions; (2) NECTAR-LIKE — all liquids thickened to nectar consistency (fruit nectars, V8, eggnog); (3) HONEY-LIKE — all liquids thickened to honey consistency using commercial thickener; (4) SPOON-THICK — all liquids thickened to pudding consistency. SLPs select the appropriate levels for each individual patient based on their specific dysphagia profile.",
+      "chapter": "18",
+      "source": "Fogle, Ch. 18",
+      "module": "mod-13"
+    },
+    {
       "id": "ch4-g026",
       "term": "Nativist Theory (Language Development)",
       "def": "Perspective that language acquisition is innate, physiologically determined, and genetically transmitted. Newborns are 'prewired' for language — they will acquire it unless there are physical or mental limitations. Language is universal and unique to humans. Clinical application: target age-appropriate language structures not acquired naturally. Limitation: does not fully account for environmental influence.",
@@ -3521,6 +3625,14 @@
       "module": "mod-9",
       "chapter": "12",
       "source": "Fluency_Disorders.pdf / Lecture Ch. 12, Kidwell"
+    },
+    {
+      "id": "slp-ch18-g012",
+      "term": "NPO (Nothing by Mouth) and Enteral Feeding",
+      "def": "NPO (nil per os): A patient care instruction advising that a patient is PROHIBITED from orally ingesting food, beverage, or medicine; patients must receive nutrition through enteral feeding. Used when dysphagia is so severe that oral intake cannot be managed safely. ENTERAL FEEDING: The delivery of hydration and nutrition into the gastrointestinal (GI) tract by way of tube feedings — through the nose (NASOGASTRIC TUBE / NG-tube) or through the stomach (GASTROSTOMY TUBE / G-tube). May be temporary or permanent. Common nutrition supplement: Ensure (Pediasure for children) — contains protein, carbohydrates, fat, vitamins, and minerals. Usually after swallowing therapy, patients are able to eat orally again.",
+      "chapter": "18",
+      "source": "Fogle, Ch. 18",
+      "module": "mod-13"
     },
     {
       "id": "ch2-g015",
@@ -4654,6 +4766,14 @@
       "module": "mod-2",
       "chapter": "3",
       "source": "CSD Ch3 PP (Fogle 3rd ed.)"
+    },
+    {
+      "id": "slp-ch18-g002",
+      "term": "The Four Phases of the Normal Swallow",
+      "def": "Each swallow has four phases mediated by the medulla in the brainstem (also involving cortical areas including Broca's area and the precentral gyrus). People swallow approximately 600 times per day (~220,000 per year). (1) ORAL PREPARATORY PHASE: All senses involved; food is chewed (mastication) and formed into a bolus; cheeks tighten to prevent food lodging in sulcus; soft palate drops against tongue base to prevent premature spillage into airway; tongue moves food between teeth. (2) ORAL PHASE: Tongue tip elevates to alveolar ridge; tongue sweeps bolus to posterior oral cavity; soft palate rises to contact posterior pharyngeal wall preventing nasal regurgitation. Takes ~1 second. Voluntary. (3) PHARYNGEAL PHASE: Four activities, all in ~1 second: peristalsis moves bolus down; larynx rises causing epiglottis to drop over airway opening; false and true vocal folds adduct tightly (2nd and 3rd protection from aspiration); upper esophageal sphincter (UEV) relaxes and opens. (4) ESOPHAGEAL PHASE: Bolus passes UEV; peristaltic squeezing carries bolus to lower esophageal valve (LEV); LEV opens briefly then closes to prevent gastric reflux. Takes 8-20 seconds.",
+      "chapter": "18",
+      "source": "Fogle, Ch. 18",
+      "module": "mod-13"
     },
     {
       "id": "fogle-theory_of_mind",
@@ -10051,6 +10171,46 @@
       "module": "mod-2",
       "chapter": "2",
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Textbook Glossary"
+    },
+    {
+      "id": "slp-ch18-f001",
+      "front": "Describe all four phases of the normal swallow in sequence. What happens in each phase and how long does each take?",
+      "back": "PHASE 1 — ORAL PREPARATORY:\nAll senses involved; food chewed (mastication) and formed into bolus; cheeks tighten; soft palate drops to tongue base; tongue manipulates food. No set time — varies with food.\n\nPHASE 2 — ORAL PHASE (~1 second, VOLUNTARY):\nTongue tip elevates to alveolar ridge; tongue sweeps bolus posteriorly; soft palate rises to contact posterior pharyngeal wall (prevents nasal regurgitation).\n\nPHASE 3 — PHARYNGEAL PHASE (~1 second):\n4 activities simultaneously:\n1. Pharyngeal peristalsis moves bolus downward\n2. Larynx rises → epiglottis drops over airway opening (prevents aspiration) → UEV begins to open\n3. False AND true vocal folds adduct tightly (2nd and 3rd protection)\n4. Upper esophageal valve (UEV) relaxes and opens\n\nPHASE 4 — ESOPHAGEAL PHASE (8-20 seconds):\nBolus passes UEV; esophageal peristalsis carries bolus to lower esophageal valve (LEV); LEV opens briefly then closes (prevents gastric reflux).\n\nKEY: Phases 1-2 are voluntary; phases 3-4 are involuntary/reflexive.",
+      "chapter": "18",
+      "source": "Fogle, Ch. 18",
+      "module": "mod-13"
+    },
+    {
+      "id": "slp-ch18-f002",
+      "front": "What is the difference between aspiration and silent aspiration? Why is silent aspiration particularly dangerous?",
+      "back": "ASPIRATION:\nFood, liquid, or saliva penetrates the larynx and enters the airway BELOW the true vocal folds (enters the lungs instead of the stomach).\nRisk: aspiration pneumonia.\nNormal response: protective cough and/or choking to clear the material.\n\nSILENT ASPIRATION:\nSame penetration occurs BUT with NO protective cough or choking.\nCause: patient has reduced or absent sensation in the laryngeal region.\nThe brain does not receive a signal that something entered the airway.\n\nWHY PARTICULARLY DANGEROUS:\n• Material enters the lungs completely undetected\n• Without coughing, nothing clears the material from the airway\n• Patient and caregivers may have NO IDEA aspiration is occurring\n• Can cause repeated, silent aspiration pneumonia\n• Cannot be detected at the bedside without instrumental evaluation (MBSS or FEES)\n• The bedside evaluation's check for a strong protective cough is specifically designed to screen for this risk",
+      "chapter": "18",
+      "source": "Fogle, Ch. 18",
+      "module": "mod-13"
+    },
+    {
+      "id": "slp-ch18-f003",
+      "front": "Compare MBSS and FEES as instrumental evaluation tools for dysphagia. What does each assess and how is each performed?",
+      "back": "MODIFIED BARIUM SWALLOW STUDY (MBSS) — 'Gold Standard':\nAssesses: ALL FOUR PHASES (oral preparatory, oral, pharyngeal, esophageal)\nMethod: Dynamic radiographic (X-ray) video in radiology suite; SLP and radiologist team; patient swallows liquids mixed with barium and foods coated with barium; real-time video of bolus from mouth to stomach\nStrengths: Most thorough; shows complete swallowing physiology; can test compensatory techniques during the study\nLimitations: Radiation exposure; must be done in radiology suite; less portable\n\nFIBER-OPTIC ENDOSCOPIC EVALUATION OF SWALLOWING (FEES):\nAssesses: PHARYNGEAL PHASE primarily (top-down view)\nMethod: Flexible endoscope passed transnasally to hypopharynx; food/liquid dyed with food coloring; SLP views pharynx, larynx, and upper trachea in color\nStrengths: No radiation; portable (can be done bedside); shows vocal fold movement and anatomy in color; identifies penetration/aspiration events\nLimitations: Cannot view oral phases; the swallow itself (when larynx rises) briefly blocks the view (white-out)\n\nBoth are used to confirm aspiration and guide treatment decisions.",
+      "chapter": "18",
+      "source": "Fogle, Ch. 18",
+      "module": "mod-13"
+    },
+    {
+      "id": "slp-ch18-f004",
+      "front": "What are the three dysphagia treatment approaches? Give examples of specific techniques within each.",
+      "back": "1. COMPENSATORY TREATMENT TECHNIQUES\nOptimize use of CURRENT swallowing abilities; do not change underlying physiology.\nTaught to staff and family.\nExamples:\n• Postural techniques: chin tuck (reduces aspiration risk), head rotation to weaker side, head tilt to stronger side\n• Food placement: place food on stronger side; control bolus size (~5cc/1 tsp)\n• Best for patients with cognitive/communication problems (easiest to learn)\n\n2. FACILITATION TREATMENT TECHNIQUES\nDesigned to IMPROVE function of the swallowing mechanism.\nExamples:\n• Increasing vocal fold adduction (breath-hold maneuvers)\n• Intentional breath-hold just prior to and during swallow\n• Oral-motor exercises to strengthen articulatory and swallowing muscles\n• Swallow maneuvers (e.g., Mendelsohn maneuver, supraglottic swallow)\n\n3. DIET MODIFICATION TECHNIQUES\nModify food texture and/or liquid consistency using National Dysphagia Diet levels.\nFour food textures: Regular → Dysphagia Advanced → Mechanically Altered → Pureed\nFour liquid consistencies: Thin → Nectar → Honey → Spoon-thick\nChoice based on individual patient's specific phase of disorder.",
+      "chapter": "18",
+      "source": "Fogle, Ch. 18",
+      "module": "mod-13"
+    },
+    {
+      "id": "slp-ch18-f005",
+      "front": "What are the steps of the clinical (bedside) swallow evaluation? What three reasons prompt a referral to an SLP for dysphagia evaluation?",
+      "back": "CLINICAL (BEDSIDE) SWALLOW EVALUATION — 6 STEPS:\n1. Review medical chart carefully\n2. Screen/interview patient — perceptions of the problem; assess strength of PROTECTIVE COUGH (essential to detect silent aspiration risk)\n3. Oral-mechanism examination — anatomy and physiology of articulatory structures\n4. Observe patient swallowing different consistencies:\n   • Liquids: thin, nectar, honey, pudding\n   • Foods: regular, mechanically altered, puree\n5. Determine risk for aspiration and need for instrumental evaluation\n6. Document all assessment procedures and results in medical chart\n\nTHREE REASONS FOR REFERRAL:\n1. Patient appears at risk for aspiration based on MEDICAL DIAGNOSIS\n2. OBSERVED DIFFICULTIES with feeding and intake of food or liquid\n3. Patient appears NOT to be taking in ADEQUATE NOURISHMENT\n\nNote: The bedside evaluation CANNOT confirm aspiration definitively — only instrumental evaluation (MBSS or FEES) can do that.",
+      "chapter": "18",
+      "source": "Fogle, Ch. 18",
+      "module": "mod-13"
     }
   ],
   "questions": [
@@ -14070,9 +14230,345 @@
       "chapter": "16",
       "source": "Ch. 16 PPTX; Kidwell lecture notes",
       "module": "mod-12"
+    },
+    {
+      "id": "slp-ch18-q001",
+      "type": "mc",
+      "text": "Which of the following is considered the 'gold standard' instrumental evaluation for viewing the physiology of the swallow and determining the presence or absence of aspiration?",
+      "options": [
+        "Modified barium swallow study (MBSS)",
+        "Fiber-optic endoscopic evaluation of swallowing (FEES)",
+        "Clinical bedside swallow evaluation",
+        "Pure-tone audiometry"
+      ],
+      "answer": "Modified barium swallow study (MBSS)",
+      "chapter": "18",
+      "source": "Fogle, Ch. 18",
+      "module": "mod-13"
+    },
+    {
+      "id": "slp-ch18-q002",
+      "type": "mc",
+      "text": "During the pharyngeal phase of the swallow, the epiglottis drops down over the laryngeal opening. What structure movement causes this to happen?",
+      "options": [
+        "The thyroid cartilage of the larynx rises",
+        "The soft palate elevates to contact the posterior pharyngeal wall",
+        "The true vocal folds adduct tightly",
+        "The tongue tip elevates to contact the alveolar ridge"
+      ],
+      "answer": "The thyroid cartilage of the larynx rises",
+      "chapter": "18",
+      "source": "Fogle, Ch. 18",
+      "module": "mod-13"
+    },
+    {
+      "id": "slp-ch18-q003",
+      "type": "mc",
+      "text": "A patient undergoes swallowing evaluation. Barium-coated food is observed entering the trachea below the vocal folds, but the patient shows no cough, no choking, and no reaction. This is BEST described as:",
+      "options": [
+        "Silent aspiration",
+        "Nasal regurgitation",
+        "Premature spillage",
+        "Anterior spillage"
+      ],
+      "answer": "Silent aspiration",
+      "chapter": "18",
+      "source": "Fogle, Ch. 18",
+      "module": "mod-13"
+    },
+    {
+      "id": "slp-ch18-q004",
+      "type": "mc",
+      "text": "Which dysphagia treatment approach is designed to IMPROVE the underlying physiological function of the swallowing mechanism, rather than simply compensating for it?",
+      "options": [
+        "Facilitation treatment techniques",
+        "Compensatory treatment techniques",
+        "Postural techniques",
+        "Diet modification techniques"
+      ],
+      "answer": "Facilitation treatment techniques",
+      "chapter": "18",
+      "source": "Fogle, Ch. 18",
+      "module": "mod-13"
+    },
+    {
+      "id": "slp-ch18-q005",
+      "type": "mc",
+      "text": "According to the National Dysphagia Diet Task Force, which liquid consistency requires ALL liquids to be thickened to a pudding consistency?",
+      "options": [
+        "Spoon-thick",
+        "Honey-like",
+        "Nectar-like",
+        "Dysphagia pureed"
+      ],
+      "answer": "Spoon-thick",
+      "chapter": "18",
+      "source": "Fogle, Ch. 18",
+      "module": "mod-13"
+    },
+    {
+      "id": "slp-ch18-q006",
+      "type": "mc",
+      "text": "NPO (nothing by mouth) patients who cannot receive oral nutrition are most likely to receive nutrition through:",
+      "options": [
+        "Enteral feeding via nasogastric (NG) tube or gastrostomy (G) tube",
+        "Intravenous (IV) fluid only",
+        "A dysphagia pureed diet with nectar-thick liquids",
+        "Esophageal feeding via direct injection"
+      ],
+      "answer": "Enteral feeding via nasogastric (NG) tube or gastrostomy (G) tube",
+      "chapter": "18",
+      "source": "Fogle, Ch. 18",
+      "module": "mod-13"
+    },
+    {
+      "id": "slp-ch18-q007",
+      "type": "mc",
+      "text": "Which professional typically serves as the coordinator or head of the dysphagia treatment team?",
+      "options": [
+        "Speech-language pathologist",
+        "Occupational therapist",
+        "Gastroenterologist",
+        "Pulmonologist"
+      ],
+      "answer": "Speech-language pathologist",
+      "chapter": "18",
+      "source": "Fogle, Ch. 18",
+      "module": "mod-13"
+    },
+    {
+      "id": "slp-ch18-q008",
+      "type": "mc",
+      "text": "Which of the following BEST describes 'treatment efficacy' as distinguished from 'treatment effectiveness'?",
+      "options": [
+        "Treatment efficacy refers to benefit under optimal/ideal conditions; effectiveness refers to benefit under typical/real-world conditions",
+        "Treatment efficacy refers to benefit under real-world conditions; effectiveness refers to benefit under ideal conditions",
+        "Treatment efficacy is measured by third-party payers; effectiveness is measured by clinicians",
+        "They are synonymous terms with no meaningful distinction"
+      ],
+      "answer": "Treatment efficacy refers to benefit under optimal/ideal conditions; effectiveness refers to benefit under typical/real-world conditions",
+      "chapter": "18",
+      "source": "Fogle, Ch. 18",
+      "module": "mod-13"
+    },
+    {
+      "id": "slp-ch18-q009",
+      "type": "tf",
+      "text": "The FEES procedure uses X-ray imaging and barium to visualize all four phases of the swallow.",
+      "answer": "false",
+      "chapter": "18",
+      "source": "Fogle, Ch. 18",
+      "module": "mod-13"
+    },
+    {
+      "id": "slp-ch18-q010",
+      "type": "tf",
+      "text": "The pharyngeal phase of a normal swallow involves the false vocal folds AND the true vocal folds both adducting to provide protection from aspiration.",
+      "answer": "true",
+      "chapter": "18",
+      "source": "Fogle, Ch. 18",
+      "module": "mod-13"
+    },
+    {
+      "id": "slp-ch18-q011",
+      "type": "tf",
+      "text": "The oral phase of the swallow is voluntary and the pharyngeal and esophageal phases are involuntary.",
+      "answer": "true",
+      "chapter": "18",
+      "source": "Fogle, Ch. 18",
+      "module": "mod-13"
+    },
+    {
+      "id": "slp-ch18-q012",
+      "type": "tf",
+      "text": "Dysphagia assessment and treatment are within SLPs' scope of practice as identified by ASHA.",
+      "answer": "true",
+      "chapter": "18",
+      "source": "Fogle, Ch. 18",
+      "module": "mod-13"
+    },
+    {
+      "id": "slp-ch18-q013",
+      "type": "tf",
+      "text": "Patients with dysphagia should always follow the SLP's dietary recommendations, regardless of their personal preferences, because the SLP's primary obligation is patient safety over patient autonomy.",
+      "answer": "false",
+      "chapter": "18",
+      "source": "Fogle, Ch. 18",
+      "module": "mod-13"
+    },
+    {
+      "id": "slp-ch18-q014",
+      "type": "tf",
+      "text": "Increasing the viscosity (thickness) of liquids does not change their flavor or taste.",
+      "answer": "false",
+      "chapter": "18",
+      "source": "Fogle, Ch. 18",
+      "module": "mod-13"
+    },
+    {
+      "id": "slp-ch18-q015",
+      "type": "fitb",
+      "text": "The modified barium swallow study is considered the __________ instrumental evaluation for viewing swallowing physiology and determining the presence or absence of aspiration.",
+      "answer": "gold standard",
+      "chapter": "18",
+      "source": "Fogle, Ch. 18",
+      "module": "mod-13"
+    },
+    {
+      "id": "slp-ch18-q016",
+      "type": "fitb",
+      "text": "The four phases of the normal swallow in order are: __________, __________, __________, and __________.",
+      "answer": "oral preparatory / oral / pharyngeal / esophageal",
+      "chapter": "18",
+      "source": "Fogle, Ch. 18",
+      "module": "mod-13"
+    },
+    {
+      "id": "slp-ch18-q017",
+      "type": "fitb",
+      "text": "The FEES procedure uses a flexible __________ passed through the __________ passageway to visualize the pharyngeal phase of swallowing.",
+      "answer": "endoscope / nasal",
+      "chapter": "18",
+      "source": "Fogle, Ch. 18",
+      "module": "mod-13"
+    },
+    {
+      "id": "slp-ch18-q018",
+      "type": "fitb",
+      "text": "The pharyngeal phase normally takes __________ second(s) and the esophageal phase normally takes __________ seconds.",
+      "answer": "1 / 8 to 20",
+      "chapter": "18",
+      "source": "Fogle, Ch. 18",
+      "module": "mod-13"
+    },
+    {
+      "id": "slp-ch18-q019",
+      "type": "fitb",
+      "text": "Patients placed on NPO status receive nutrition through __________ feeding, delivered either via a __________ tube through the nose or a __________ tube through the stomach.",
+      "answer": "enteral / nasogastric (NG) / gastrostomy (G)",
+      "chapter": "18",
+      "source": "Fogle, Ch. 18",
+      "module": "mod-13"
+    },
+    {
+      "id": "slp-ch18-q020",
+      "type": "match",
+      "text": "Match each phase of the swallow to its key characteristic.",
+      "pairs": [
+        [
+          "Oral preparatory phase",
+          "All senses involved; food is chewed and formed into a bolus; soft palate drops against tongue base; voluntary"
+        ],
+        [
+          "Oral phase",
+          "Tongue tip elevates to alveolar ridge; tongue sweeps bolus posteriorly; soft palate rises to prevent nasal regurgitation; ~1 second; voluntary"
+        ],
+        [
+          "Pharyngeal phase",
+          "4 activities in ~1 second: peristalsis, larynx rises/epiglottis closes, vocal folds adduct, UEV opens; involuntary"
+        ],
+        [
+          "Esophageal phase",
+          "Peristalsis carries bolus from UEV to LEV to stomach; 8-20 seconds; involuntary"
+        ]
+      ],
+      "answer": "OralPrep=chewing/bolus, Oral=tongue sweeps/1sec, Pharyngeal=4activities/1sec, Esophageal=peristalsis/8-20sec",
+      "chapter": "18",
+      "source": "Fogle, Ch. 18",
+      "module": "mod-13"
+    },
+    {
+      "id": "slp-ch18-q021",
+      "type": "match",
+      "text": "Match each dysphagia team member to their primary role.",
+      "pairs": [
+        [
+          "Radiologist",
+          "Performs and helps read modified barium swallow studies"
+        ],
+        [
+          "Dietitian/Nutritionist",
+          "Checks daily food and liquid intake; makes food textures as palatable as possible; ensures adequate nutrition"
+        ],
+        [
+          "Pulmonologist",
+          "Assesses respiratory functions and treats aspiration pneumonia"
+        ],
+        [
+          "Gastroenterologist",
+          "Evaluates esophageal and digestive problems; inserts nasogastric and stomach feeding tubes"
+        ],
+        [
+          "Occupational therapist",
+          "Helps with patient positioning for meals and manages patient's ability to retrieve food and bring it to the mouth"
+        ]
+      ],
+      "answer": "Radiologist=MBSS, Dietitian=nutrition, Pulmonologist=respiratory, Gastroenterologist=esophageal/tubes, OT=positioning",
+      "chapter": "18",
+      "source": "Fogle, Ch. 18",
+      "module": "mod-13"
+    },
+    {
+      "id": "slp-ch18-q022",
+      "type": "match",
+      "text": "Match each National Dysphagia Diet liquid consistency to its description.",
+      "pairs": [
+        [
+          "Thin",
+          "No restrictions — regular liquid consistency"
+        ],
+        [
+          "Nectar-like",
+          "All liquids thickened to nectar consistency; fruit nectars, V8 juice, eggnog"
+        ],
+        [
+          "Honey-like",
+          "All liquids thickened to honey consistency using commercial thickener"
+        ],
+        [
+          "Spoon-thick",
+          "All liquids thickened to pudding consistency using commercial thickener"
+        ]
+      ],
+      "answer": "Thin=no restriction, Nectar=nectar consistency, Honey=honey consistency, SpoonThick=pudding consistency",
+      "chapter": "18",
+      "source": "Fogle, Ch. 18",
+      "module": "mod-13"
+    },
+    {
+      "id": "slp-ch18-q023",
+      "type": "sa",
+      "text": "Explain why working with patients who have dysphagia may be the most challenging and high-risk work that SLPs perform. Include the role of bioethics and patient autonomy in dysphagia management.",
+      "answer": "MOST CHALLENGING AND HIGH-RISK WORK:\nDysphagia is considered the most challenging work SLPs do because a patient's physical health — indeed, their life — may be determined by the SLP's evaluation, correct diagnosis, and appropriate management of the swallowing disorder. A misdiagnosis or incorrect management could directly result in aspiration pneumonia, hospitalization, or death. This is fundamentally different from most other communication disorders, where clinical errors are unlikely to have immediately life-threatening consequences.\n\nAdditionally: Beyond academic coursework, considerable hands-on training during hospital internships and professional workshops is required before an SLP can work independently with dysphagia patients. The work requires mastery of both instrumental evaluation techniques (MBSS, FEES) and a thorough understanding of normal and disordered swallowing anatomy and physiology.\n\nBIOETHICS AND PATIENT AUTONOMY:\nBioethics — the attempt to understand and resolve ethical issues and problems in a healthcare setting — emphasizes that SLPs must ALWAYS respect a patient's AUTONOMY: the right to determine their own choices in making healthcare decisions.\n\nThis creates a genuine tension in dysphagia management: the SLP may determine that a patient's safest diet is pureed food with honey-thick liquids, but the patient may refuse — preferring the risk of aspiration over a severely restricted and unpleasant diet. The SLP can inform, advise, and recommend, but the patient has the right to DEMAND their own choices.\n\nThis is complicated further by quality of life considerations: food has strong emotional and social significance; pureed foods do not taste the same; and the loss of eating normally removes a fundamental source of pleasure and social connection. A truly patient-centered SLP must weigh clinical safety recommendations against the patient's right to make their own informed decisions, even decisions the SLP disagrees with.",
+      "chapter": "18",
+      "source": "Fogle, Ch. 18",
+      "module": "mod-13"
+    },
+    {
+      "id": "slp-ch18-q024",
+      "type": "sa",
+      "text": "A 45-year-old patient post-stroke is referred for a dysphagia evaluation. Describe how you would conduct a clinical (bedside) swallow evaluation, what you are looking for at each step, and when you would recommend an instrumental evaluation.",
+      "answer": "STEP 1 — MEDICAL CHART REVIEW:\nReview the patient's diagnosis, medical history, medications (some impair swallowing), neurological status, and any prior dysphagia notes. Determine which neurological areas were affected by the stroke and what swallowing problems are anticipated.\n\nSTEP 2 — PATIENT INTERVIEW AND SCREENING:\nInterview the patient about their perceptions of the problem — do they notice coughing, choking, or difficulty with certain foods/liquids? Assess the STRENGTH AND RELIABILITY OF THE PROTECTIVE COUGH. A strong protective cough is essential — if absent or weak, the patient may be at risk for silent aspiration.\n\nSTEP 3 — ORAL-MECHANISM EXAMINATION:\nCarefully examine anatomy and physiology of all articulatory structures: lip seal, mandible strength, tongue mobility and strength (especially tip elevation and posterior sweep), soft palate elevation, laryngeal function, and overall muscle tone. Note asymmetry, weakness, reduced ROM, or poor coordination.\n\nSTEP 4 — TRIAL SWALLOWS:\nObserve the patient swallowing different liquid consistencies (thin → nectar → honey → spoon-thick) and food textures (regular → mechanically altered → pureed). Watch for: drooling, coughing, wet/gurgly vocal quality after swallowing (sign of pooling at larynx), throat clearing, delayed swallow, and patient complaints of difficulty.\n\nSTEP 5 — ASPIRATION RISK DETERMINATION:\nBased on findings, determine whether the patient appears to be aspirating or at high risk. The bedside evaluation CANNOT definitively confirm aspiration — it can only suggest risk.\n\nSTEP 6 — DOCUMENTATION:\nDocument all findings in the medical chart with specific recommendations.\n\nWHEN TO RECOMMEND INSTRUMENTAL EVALUATION:\nRecommend MBSS or FEES when: aspiration risk is suspected but not confirmed clinically; patient has a weak or absent protective cough (silent aspiration risk); want to identify the specific phase of dysfunction; want to trial compensatory techniques and observe their effectiveness directly. The MBSS is preferred when all four phases need to be examined; FEES is preferred when bedside evaluation is needed or when repeat evaluation of pharyngeal phase is required.",
+      "chapter": "18",
+      "source": "Fogle, Ch. 18",
+      "module": "mod-13"
     }
   ],
   "notes": [
+    {
+      "id": "slp-ch18-n002",
+      "title": "Ch. 18 — Dysphagia: Treatment, Diet Modification, and Emotional Effects",
+      "chapter": "18",
+      "body": "SOURCE: Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. Chapter 18, pp. 390-407.\n\nDYSPHAGIA TREATMENT TEAM (SLP = HEAD/COORDINATOR)\nCNAs, Dentists, Dietitians, Family, Gastroenterologists, Neurologists, Nurses, OTs, Otolaryngologists,\nPharmacists, PTs, Physicians, Pulmonologists, Radiologists, Respiratory therapists, Social workers, SLPs\n\nASHA ESSENTIAL SKILLS (2002-2007):\n1. Identify people at risk for dysphagia\n2. Conduct and interpret clinical assessments\n3. Conduct and interpret instrumental-based evaluations\n4. Develop intervention strategies\n5. Document care and discharge planning\n6. Provide education, counseling, and training\n\nTHREE TREATMENT APPROACHES:\n\n1. COMPENSATORY TECHNIQUES (optimize current abilities; does NOT change underlying physiology)\n   Postural techniques: chin tuck, head rotation — control bolus flow, reduce aspiration risk\n   Best for patients with cognitive/communication problems (easiest to learn)\n   Food placement: place on stronger side; limit bolus to ~5cc (1 teaspoon)\n   Taught to family and staff\n\n2. FACILITATION TECHNIQUES (improve underlying physiological function)\n   Vocal fold adduction training\n   Breath-hold just prior to/during swallow\n   Oral-motor exercises to strengthen swallowing muscles\n   Swallow maneuvers (Mendelsohn, supraglottic swallow)\n\n3. DIET MODIFICATION (National Dysphagia Diet Task Force, 2002)\n\nFOOD TEXTURES (4 levels):\n  Regular: No restrictions\n  Dysphagia Advanced: Ground/chopped tender meat, soft foods\n  Mechanically Altered: Ground/finely chopped with gravy, mashed, soft cooked\n  Pureed: Blended/baby-food texture\n\nLIQUID CONSISTENCIES (4 levels):\n  Thin: No restrictions\n  Nectar-like: Nectar consistency (fruit nectars, V8, eggnog)\n  Honey-like: Honey consistency (commercial thickener)\n  Spoon-thick: Pudding consistency (commercial thickener)\n\nNPO (Nothing by Mouth) — Nil Per Os:\nUsed when dysphagia so severe no oral intake is safe\nPatients receive nutrition via ENTERAL FEEDING:\n  NG-tube (nasogastric) — through nose\n  G-tube (gastrostomy) — through stomach\nCommon supplement: Ensure (adults) / Pediasure (children)\nUsually temporary — therapy may allow return to oral feeding\n\nEVIDENCE-BASED PRACTICE:\nTREATMENT EFFICACY: beneficial under OPTIMAL/IDEAL conditions\nTREATMENT EFFECTIVENESS: beneficial under TYPICAL/REAL-WORLD conditions\nBEST PRACTICES: based on best available evidence\nThird-party payers want: can patient go home, recover, return to work — at minimum cost/time\nLong-term goal: 'Patient will achieve safe and efficient swallowing to sustain adequate nutrition and hydration orally'\nEarly identification and intervention reduces aspiration risk, shortens hospitalization, improves QOL\nCost of ONE aspiration pneumonia hospitalization: ~$27,000-$28,000\n\nEMOTIONAL AND SOCIAL EFFECTS:\nFood and eating have STRONG EMOTIONAL SIGNIFICANCE — eating is social\nEating alone or being fed takes away enjoyment → patients may eat inadequately\n\nQUALITY OF LIFE:\nPatient QOL is ALWAYS most important consideration\nDecreasing food texture or increasing liquid viscosity CHANGES FLAVOR\nFood has 5 properties: appearance, aroma, flavor, texture, nutrition (nutrition cannot be sensed)\nPatients on modified diets often decrease consumption even understanding nutritional need\n\nBIOETHICS AND AUTONOMY:\nBioethics: resolving ethical issues in healthcare\nAutonomy: respecting patient's right to make their own healthcare decisions\nSLP can inform, advise, recommend — but patient can DEMAND\nMust balance safety recommendations with patient's right to self-determination\n\nANXIETIES AND FEARS:\nEmbarrassment in front of family/friends during meals\nFear of aspiration pneumonia or death\nDiscomfort from suctioning procedures\nFear of never eating favorite foods normally again\n\nMULTICULTURAL CONSIDERATIONS:\nAll cultures have food preferences, rituals, religious/dietary taboos\nHospital food may be totally foreign to patients from other cultures\nFamily members may bring 'ethnic' food with wrong texture/consistency (aspiration risk)\nSLP must educate patient AND family about dietary hazards\nRecognize that patients and professionals come from diverse linguistic and cultural backgrounds",
+      "module": "mod-13"
+    },
+    {
+      "id": "slp-ch18-n001",
+      "title": "Ch. 18 — Dysphagia: Normal Swallow, Disorders, and Assessment",
+      "chapter": "18",
+      "body": "SOURCE: Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. Chapter 18, pp. 390-407.\n\nDYSPHAGIA OVERVIEW\nDifficulty swallowing affecting any of four phases of the normal swallow\nConnected to speech systems (respiratory, phonatory, resonatory, articulatory)\nSLPs are recognized as PRIMARY professionals for dysphagia evaluation and treatment\nWithin SLPs' scope of practice per ASHA (2016)\nDysphagia is a MAJOR area of acute care hospital work for SLPs\nPost-stroke dysphagia incidence: 13-94%\n\nCAUSES\nChildren: prematurity, low birth weight, heart disease, meningitis, encephalopathy, cerebral palsy\nAdults: stroke (most common), TBI, Parkinson's, MS, ALS, muscular dystrophy, Alzheimer's\nAlso: oral/pharyngeal/laryngeal/esophageal cancer and its treatment\nMedications (e.g., muscle relaxants) may affect swallowing muscle tone\n\nTHE NORMAL SWALLOW (600x/day = ~220,000/year)\nMediated by medulla in brainstem + cortical areas (including Broca's area, precentral gyrus)\n\nPHASE 1 — ORAL PREPARATORY:\nAll 5 senses involved; cognitive awareness that food is available\nBolus = food mass formed in the mouth\nCheeks tighten; soft palate drops to tongue base; tongue moves food between teeth\nNo set time\n\nPHASE 2 — ORAL PHASE (~1 second, VOLUNTARY):\nTongue tip elevates to alveolar ridge\nTongue sweeps bolus posteriorly\nSoft palate rises to contact posterior pharyngeal wall (prevents nasal regurgitation)\n\nPHASE 3 — PHARYNGEAL PHASE (~1 second, INVOLUNTARY):\n4 activities simultaneously:\n1. Pharyngeal peristalsis moves bolus downward\n2. Larynx rises → epiglottis drops → shields airway from aspiration → UEV begins to open\n3. FALSE + TRUE vocal folds adduct tightly (2nd and 3rd layer of protection)\n4. Upper esophageal valve (UEV) fully relaxes and opens\n\nPHASE 4 — ESOPHAGEAL PHASE (8-20 seconds, INVOLUNTARY):\nBolus passes UEV; sphincter closes\nEsophageal peristalsis carries bolus to lower esophageal valve (LEV)\nLEV opens briefly → bolus enters stomach → LEV closes (prevents reflux)\n\nDISORDERS BY PHASE:\n\nORAL PREPARATORY:\n  Decreased cognition (unaware of food in front of them)\n  Impulsivity (TBI — dangerously large bites, packing food)\n  Weak mandible, lip, tongue → poor bolus control\n\nORAL:\n  Anterior spillage (drooling) — poor lip seal\n  Premature spillage — poor posterior seal\n  Weak tongue tip — discoordinated posterior movement\n  Pocketed food in sulcus — residue/stasis\n  Insufficient tongue propulsive force\n\nPHARYNGEAL:\n  Delayed swallow response (seconds to many seconds)\n  Impaired timing/coordination\n  Weak soft palate → nasal regurgitation\n  Weak laryngeal elevation → epiglottis fails to close → penetration/aspiration\n  UEV may not open → food can't enter esophagus\n  Weak vocal fold closure → aspiration\n  SILENT ASPIRATION — no protective cough or choking (no sensation)\n\nESOPHAGEAL:\n  UEV does not open/remain open long enough\n  Slow/absent esophageal peristalsis → residue, discomfort, infection\n  LEV does not relax → food cannot enter stomach\n\nASSESSMENT\n\nTHREE REFERRAL REASONS:\n1. At risk for aspiration based on medical diagnosis\n2. Observed feeding difficulties\n3. Not taking in adequate nourishment\n\nCLINICAL (BEDSIDE) SWALLOW EVALUATION:\n1. Review medical chart\n2. Screen/interview — protective cough strength is KEY\n3. Oral-mechanism examination\n4. Trial swallows — thin/nectar/honey/spoon-thick liquids; regular/mech.altered/pureed foods\n5. Determine aspiration risk and need for instrumental evaluation\n6. Document in medical chart\nNote: Bedside CANNOT definitively confirm aspiration\n\nMBSS (Modified Barium Swallow Study) — GOLD STANDARD:\nAll 4 phases; dynamic X-ray video; SLP + radiologist team; barium-coated food/liquid\nMost thorough; can test compensatory techniques during study\nLimitations: radiation; must be in radiology suite\n\nFEES (Fiber-Optic Endoscopic Evaluation of Swallowing):\nPharyngeal phase focus; flexible endoscope transnasally; food dyed with food coloring\nNo radiation; portable/bedside capable; color view of anatomy and vocal fold movement\nLimitation: oral phases not visible; brief white-out during swallow itself",
+      "module": "mod-13"
+    },
     {
       "id": "slp-ch16-n002",
       "title": "Ch. 16 — Right-Hemisphere Syndrome and Dementia",
