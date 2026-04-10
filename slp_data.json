@@ -863,6 +863,14 @@
       "source": "Ch. 9 PPTX / Lecture Ch. 9, Kidwell"
     },
     {
+      "id": "ch19-g001",
+      "term": "Auditory nervous system impairment",
+      "def": "The result of reduced ability to clearly hear sounds above the hearing threshold; occurs less often than hearing sensitivity impairments, which may occur concurrently, causing a dual hearing problem.",
+      "chapter": "19",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 19"
+    },
+    {
       "id": "ch9-g008",
       "term": "Auditory Processing (Definition)",
       "def": "The perceptual processing of auditory information in the CENTRAL NERVOUS SYSTEM (CNS) and the neurobiological activity that underlies that processing (ASHA, 2005). What the brain does with the information we hear — including: (1) understanding what was heard; (2) remembering it; (3) maintaining the sequence of information; (4) combining visual information with the auditory; (5) effectively using the information. The EAR transfers sound waves → fluid waves → electrochemical signals → to the brain. HEARING actually occurs in the BRAIN, not the ear.",
@@ -1878,6 +1886,14 @@
       "source": "Lecture Ch. 17, Kidwell / Motor_Speech_Disorders.pdf"
     },
     {
+      "id": "ch19-g002",
+      "term": "Differential threshold",
+      "def": "The smallest difference that can be detected between two auditory signals.",
+      "chapter": "19",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 19"
+    },
+    {
       "id": "ch5-g010",
       "term": "Diphthong",
       "def": "A combination of two vowel sounds that occur together within a single syllable, gliding from one vowel to another. Examples: /aɪ/ in 'bite', /ɔɪ/ in 'boy', /aʊ/ in 'bout'. Classified as a special type of vowel sound.",
@@ -2710,6 +2726,14 @@
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Textbook Glossary"
     },
     {
+      "id": "ch19-g003",
+      "term": "Hearing sensitivity impairment",
+      "def": "The most common type of hearing loss; a reduction in the sensitivity of the auditory mechanism that results in sounds needing to be a higher intensity than normal before they can be heard by the listener.",
+      "chapter": "19",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 19"
+    },
+    {
       "id": "fogle-hearing_threshold",
       "term": "Hearing threshold",
       "def": "In audiometry, the level at which a stimulus sound, such as a pure tone, is barely perceptible; usual clinical criteria demand that the level be just high enough for the subject to be aware of the sound at least 50% of the time it is presented.",
@@ -3301,6 +3325,14 @@
       "source": "Lecture 2.2 — Ch. 3, Kidwell, SJDC Comm Dis 1A"
     },
     {
+      "id": "ch19-g004",
+      "term": "Mastoiditis",
+      "def": "An infection of one of the mastoid bones (just behind the ear) that is usually an extension of a middle ear infection; characterized by earache, fever, headache, and malaise; medical treatment may require intravenous antibiotics for several days, and residual hearing loss may follow the infection.",
+      "chapter": "19",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 19"
+    },
+    {
       "id": "ch3-g033",
       "term": "Maxilla",
       "def": "The upper jaw bone. Contains the hard palate and upper teeth. One of the two primary bones of concern to an SLP (along with the mandible). Fuses during fetal development; disruption causes cleft palate.",
@@ -3747,12 +3779,36 @@
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Textbook Glossary"
     },
     {
+      "id": "ch19-g005",
+      "term": "Otologist",
+      "def": "A physician who is first trained in otolaryngology (ENT) and then specializes in diagnosis and treatment of diseases and other disorders of the ear.",
+      "chapter": "19",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 19"
+    },
+    {
       "id": "fogle-otosclerosis",
       "term": "Otosclerosis",
       "def": "Typically a hereditary condition that occurs when there is growth of bony tissue around the footplate of the stapes that presses against the oval window, resulting in a conductive hearing loss.",
       "chapter": "7",
       "module": "mod-7",
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Textbook Glossary"
+    },
+    {
+      "id": "ch19-g006",
+      "term": "Ototoxic",
+      "def": "Drugs that have harmful effects on the central auditory nervous system, including aspirin, aminoglycoside antibiotics, furosemide, and quinine.",
+      "chapter": "19",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 19"
+    },
+    {
+      "id": "ch19-g007",
+      "term": "Outer (external) ear",
+      "def": "The concave, somewhat funnel-like structure that collects, resonates, and directs sound waves to the tympanic membrane, assists in localizing the direction from which sound is coming, and helps protect the middle ear; composed of the auricle (pinna), ear canal, and outer layer of the tympanic membrane.",
+      "chapter": "19",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 19"
     },
     {
       "id": "ch3-g004",
@@ -4106,6 +4162,14 @@
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Textbook Glossary"
     },
     {
+      "id": "ch19-g008",
+      "term": "Pressure-equalizing (PE) tube",
+      "def": "A small silicone tube inserted into the tympanic membrane following a myringotomy to equalize air pressure between the middle ear cavity and the atmosphere as a substitute for a nonfunctional Eustachian tube.",
+      "chapter": "19",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 19"
+    },
+    {
       "id": "ch1-g023",
       "term": "Prevalence",
       "def": "The number of individuals diagnosed with a particular disorder at a given point in time. Distinct from incidence.",
@@ -4294,6 +4358,14 @@
       "module": "mod-1",
       "chapter": "1",
       "source": "Lecture 1.2.1 — Chapter 1, Kidwell, SJDC Comm Dis 1A"
+    },
+    {
+      "id": "ch19-g009",
+      "term": "Retrocochlear hearing loss",
+      "def": "A hearing disorder resulting from a neoplasm (tumor) or other lesion located on cranial nerve VIII or beyond in the auditory brainstem or cortex.",
+      "chapter": "19",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 19"
     },
     {
       "id": "ch3-g046",
@@ -4973,6 +5045,14 @@
       "module": "mod-2",
       "chapter": "3",
       "source": "Lecture 2.2 — Ch. 3, Kidwell, SJDC Comm Dis 1A"
+    },
+    {
+      "id": "ch19-g010",
+      "term": "Valsalva maneuver",
+      "def": "The procedure of closing the mouth and pinching the nostrils closed with the fingers and forcefully exhaling air, usually causing the Eustachian tubes to open and air to flow into the middle ear to equalize middle ear cavity air pressure with atmospheric air pressure; also any exhaling of air against tightly closed vocal folds, as when lifting heavy objects.",
+      "chapter": "19",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 19"
     },
     {
       "id": "ch3-g030",
@@ -10211,6 +10291,230 @@
       "chapter": "18",
       "source": "Fogle, Ch. 18",
       "module": "mod-13"
+    },
+    {
+      "id": "ch19-f001",
+      "front": "What are the three physical divisions of the auditory system?",
+      "back": "The outer (external) ear, the middle ear, and the inner ear. Physiological processing begins in the inner ear and continues along the auditory nerve (VIII cranial nerve) to the central auditory nervous system.",
+      "chapter": "19",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 19"
+    },
+    {
+      "id": "ch19-f002",
+      "front": "What are the three main parts of the outer ear?",
+      "back": "1. The auricle (pinna) — with upper rim (helix) and lower lobule. 2. The external auditory canal (external auditory meatus). 3. The outer surface of the tympanic membrane (eardrum).",
+      "chapter": "19",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 19"
+    },
+    {
+      "id": "ch19-f003",
+      "front": "What is cerumen and what is its function?",
+      "back": "Cerumen (earwax) is a yellowish or brownish waxy secretion produced by ceruminous glands in the ear canal. It helps protect the ear canal from intrusion by insects and helps maintain a constant environment in the canal.",
+      "chapter": "19",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 19"
+    },
+    {
+      "id": "ch19-f004",
+      "front": "What are the three bones of the ossicular chain and what are they shaped like?",
+      "back": "1. Malleus (hammer). 2. Incus (anvil). 3. Stapes (stirrup). They are the smallest bones in the body and connect the tympanic membrane to the oval window of the cochlea.",
+      "chapter": "19",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 19"
+    },
+    {
+      "id": "ch19-f005",
+      "front": "What is the function of the ossicular chain?",
+      "back": "The ossicles amplify sound pressure from the tympanic membrane before it reaches the cochlea. Because sound traveling through air is mostly reflected when hitting a liquid, the ossicles use lever action and area reduction to concentrate force, allowing most of the sound energy to transfer into the cochlear fluid.",
+      "chapter": "19",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 19"
+    },
+    {
+      "id": "ch19-f006",
+      "front": "What is the function of the Eustachian tubes?",
+      "back": "To equalize atmospheric and middle ear air pressure, which maximizes mobility of the tympanic membrane. They open during chewing, swallowing, yawning, and sneezing. In infants they are shorter and more horizontal, making children more prone to middle ear infections.",
+      "chapter": "19",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 19"
+    },
+    {
+      "id": "ch19-f007",
+      "front": "What is the Valsalva maneuver and when is it used?",
+      "back": "Closing the mouth and pinching the nostrils shut while forcefully exhaling to intentionally open the Eustachian tubes and equalize middle ear pressure — used when experiencing barotrauma (ear pressure) during altitude changes.",
+      "chapter": "19",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 19"
+    },
+    {
+      "id": "ch19-f008",
+      "front": "Describe the cochlea.",
+      "back": "A spiral tunnel in the inner ear with 2¾ turns, approximately 30 mm long when uncoiled, resembling a tiny snail shell. It contains two fluid-filled tubes separated by the basilar membrane and approximately 15,000 hair cells. It is full size at birth. Higher frequencies stimulate hair cells near the oval window; lower frequencies stimulate hair cells farther from it.",
+      "chapter": "19",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 19"
+    },
+    {
+      "id": "ch19-f009",
+      "front": "What is the function of the vestibular system?",
+      "back": "The inner ear structures that act as a motion detector affected by gravity and inertia. Three semicircular canals, each at a different angle, send balance and position information to the vestibulocochlear nerve. It interacts with the visual and proprioceptive systems and connects to the cerebellum.",
+      "chapter": "19",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 19"
+    },
+    {
+      "id": "ch19-f010",
+      "front": "Trace the pathway of sound from the pinna to the auditory cortex.",
+      "back": "1. Sound waves collected by pinna → funneled down external auditory canal → 2. Tympanic membrane vibrates → 3. Ossicular chain (malleus → incus → stapes) set in motion → 4. Stapes vibrates against oval window → cochlear fluid moves → 5. Hair cells on basilar membrane stimulated → 6. Neural impulses travel via VIII cranial nerve → auditory brainstem → 7. Signals sent to primary auditory cortex (Heschl's gyrus) in temporal lobes.",
+      "chapter": "19",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 19"
+    },
+    {
+      "id": "ch19-f011",
+      "front": "What is bilateral representation of sound in the brain?",
+      "back": "Approximately 75% of impulses from each ear are sent to the contralateral (opposite) hemisphere, and 25% go to the ipsilateral (same) hemisphere. Impulses received in the right hemisphere must cross via the corpus callosum to the left temporal lobe for language processing, as the left hemisphere is dominant for speech and language in most people.",
+      "chapter": "19",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 19"
+    },
+    {
+      "id": "ch19-f012",
+      "front": "What is the difference between hearing sensitivity impairment and auditory nervous system impairment?",
+      "back": "Hearing sensitivity impairment (conductive/sensorineural loss) = reduced sensitivity; sounds must be louder than normal to be heard. It is the most common type. Auditory nervous system impairment = reduced ability to clearly hear/process sounds ABOVE the hearing threshold; occurs less often and may co-exist with hearing sensitivity impairment.",
+      "chapter": "19",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 19"
+    },
+    {
+      "id": "ch19-f013",
+      "front": "Define conductive, sensorineural, mixed, and retrocochlear hearing loss.",
+      "back": "Conductive: sound not conducted normally through outer/middle ear. Sensorineural: sensory or neural cells/connections within the cochlea absent or abnormal. Mixed: both conductive mechanism AND cochlea are abnormal. Retrocochlear: neoplasm (tumor) or lesion on cranial nerve VIII or beyond in the auditory brainstem or cortex.",
+      "chapter": "19",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 19"
+    },
+    {
+      "id": "ch19-f014",
+      "front": "What is otitis media with effusion and what causes it?",
+      "back": "Inflammation or infection of the mucous membrane lining the middle ear, resulting in fluid (effusion) buildup. Occurs in ~70% of US children before age 2. Caused by Eustachian tube dysfunction from colds, allergies, sinus infections, sore throats, and secondhand smoke exposure. Leads to conductive hearing loss if untreated; can progress to mastoiditis and meningitis.",
+      "chapter": "19",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 19"
+    },
+    {
+      "id": "ch19-f015",
+      "front": "What is a myringotomy and when is a PE tube used?",
+      "back": "A myringotomy is a small surgical incision in the tympanic membrane to drain fluid/pus from the middle ear. A pressure-equalizing (PE) tube is then inserted through the incision to function as an artificial Eustachian tube, ventilating the middle ear and maintaining normal pressure. Considered after 3–5 recurrent ear infections in one year. The tube extrudes naturally within weeks to months.",
+      "chapter": "19",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 19"
+    },
+    {
+      "id": "ch19-f016",
+      "front": "What is otosclerosis?",
+      "back": "A typically hereditary condition where bony tissue grows around the footplate of the stapes and presses against the oval window, causing conductive hearing loss and cochlear attenuation. Usually bilateral, progressive onset from mid-childhood to late-middle adulthood. More common in women; often related to pregnancy.",
+      "chapter": "19",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 19"
+    },
+    {
+      "id": "ch19-f017",
+      "front": "What is noise-induced hearing loss (NIHL) and why is it significant in adolescents?",
+      "back": "A permanent sensorineural hearing loss from repeated exposure to excessive noise that damages hair cells in the cochlea. From 1988–94 to 2005–06, US adolescents ages 12–19 had a 31% increase in hearing loss; 1 in 5 teens affected (6.5 million). Primary cause: MP3 players, headphones, and earbuds. NIHL is painless, progressive, permanent — and preventable.",
+      "chapter": "19",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 19"
+    },
+    {
+      "id": "ch19-f018",
+      "front": "What is tinnitus and with what conditions is it associated?",
+      "back": "A subjective noise sensation — often described as ringing, roaring, or swishing — in one or both ears. Associated with otosclerosis, acoustic trauma, Meniere's disease, presbycusis, cerumen impaction, and cochlear diseases. Can affect concentration, sleep, education, employment, and social functioning. Treatment success varies.",
+      "chapter": "19",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 19"
+    },
+    {
+      "id": "ch19-f019",
+      "front": "What is Meniere's disease?",
+      "back": "A chronic inner ear disease of unknown etiology involving both the cochlea and vestibular system. Characterized by episodic vertigo, vomiting, tinnitus, ear fullness/pressure, and progressive fluctuating sensorineural hearing loss (usually unilateral). Initial treatment: low-sodium diet, diuretics, steroids, and/or other medications.",
+      "chapter": "19",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 19"
+    },
+    {
+      "id": "ch19-f020",
+      "front": "What is presbycusis and what characterizes it?",
+      "back": "Progressive hearing loss resulting from aging, affecting the entire auditory system. Symptoms typically appear by age 60. Characterized by difficulty understanding speech (easier when slower, not just louder), trouble in background noise, and difficulty in group settings. Associated with accelerated cognitive decline in older adults.",
+      "chapter": "19",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 19"
+    },
+    {
+      "id": "ch19-f021",
+      "front": "What are the 5 steps to protect your hearing?",
+      "back": "1. Know which noises cause damage (>85 dB most harmful; avoid when possible). 2. Turn down the volume on TVs, stereos, and MP3 players; use volume-limiting headphones. 3. Protect yourself with earplugs. 4. Reduce exposure — limit time in loud venues; wear ear protection on loud vehicles. 5. Remember your neighbors — recreational noise affects others too.",
+      "chapter": "19",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 19"
+    },
+    {
+      "id": "ch19-f022",
+      "front": "What variables affect the type and degree of communication disorders in hearing-impaired individuals?",
+      "back": "1. Age at onset (congenital vs. acquired). 2. Severity of hearing loss. 3. Configuration/frequency range of the loss. 4. Type of hearing loss (conductive vs. sensorineural). 5. Age at beginning of professional care (earlier = better outcomes). 6. Presence of other handicaps (e.g., developmental delays, APD).",
+      "chapter": "19",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 19"
+    },
+    {
+      "id": "ch19-f023",
+      "front": "How does significant hearing loss affect speech production (segmental and suprasegmental features)?",
+      "back": "Segmental: omission of final consonants, confusion of voiced/voiceless cognates (p/b, d/t), omission of unstressed sounds in blends. Suprasegmental: breathy/labored/staccato/arrhythmic quality, equal or inappropriate stress, speaking at ~half normal rate, excessive breath release, pitch too high/variable/monotone, inappropriate loudness, pitch breaks.",
+      "chapter": "19",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 19"
+    },
+    {
+      "id": "ch19-f024",
+      "front": "What are the 7 hearing loss severity levels and their communication effects?",
+      "back": "Normal (−10 to 10 dB): hears speech normally. Minimal (10–25 dB): difficulty with faint speech in noise. Mild (25–40 dB): difficulty with faint/distant speech even in quiet. Moderate (40–55 dB): hears conversational speech only at close distance. Moderately Severe (55–70 dB): hears loud conversational speech. Severe (70–90 dB): cannot hear conversational speech. Profound (>90 dB): may hear loud sounds; hearing not primary communication channel.",
+      "chapter": "19",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 19"
+    },
+    {
+      "id": "ch19-f025",
+      "front": "What are the prevalence statistics for hearing loss by age group?",
+      "back": "Newborns: 1.6/1,000. School-age children: 83/1,000 with educationally significant loss. Adolescents 12–19: 31% increase since 1988–94. Adults 18+: ~15% report difficulty hearing. Adults 70+: ~43% have some hearing loss. Men are 5.5× more likely than women to have hearing loss.",
+      "chapter": "19",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 19"
+    },
+    {
+      "id": "ch19-f026",
+      "front": "What are prenatal, perinatal, and postnatal causes of sensorineural hearing loss?",
+      "back": "Prenatal: hereditary factors, teratogens (drugs, alcohol, rubella, CMV, HIV, herpes, syphilis), neurodegenerative disorders — ear develops weeks 4–8 gestation. Perinatal (birth): hypoxia, low birth weight, RDS treated with ototoxic antibiotics, CNS disorders — SNHL in 2–4% of NICU survivors. Postnatal/childhood: bacterial meningitis (can cause total deafness), measles/mumps/chickenpox, excessive fever, head trauma, diabetes, kidney disease.",
+      "chapter": "19",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 19"
+    },
+    {
+      "id": "ch19-f027",
+      "front": "What is barotrauma and when is it particularly dangerous?",
+      "back": "A feeling of fullness or pressure in the middle ear from altitude changes (flying, elevators, mountains) or depth changes (scuba diving). Prolonged barotrauma can cause ear pain, nosebleed, moderate-to-severe hearing loss, or tympanic membrane rupture. Particularly dangerous when Eustachian tubes are occluded due to upper respiratory infection or allergies.",
+      "chapter": "19",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 19"
+    },
+    {
+      "id": "ch19-f028",
+      "front": "What is the cochlear implant and why does it work?",
+      "back": "A device for individuals with profound hearing loss that uses surgically implanted electrodes in the cochlea to deliver electrical signals directly to the vestibulocochlear (VIII cranial) nerve, bypassing damaged hair cells. It works because even when hair cells are destroyed, the auditory nerve fibers connected to them often remain intact. The cochlea is full-size at birth, making early implantation feasible.",
+      "chapter": "19",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 19"
     }
   ],
   "questions": [
@@ -14552,9 +14856,412 @@
       "chapter": "18",
       "source": "Fogle, Ch. 18",
       "module": "mod-13"
+    },
+    {
+      "id": "ch19-q001",
+      "type": "mc",
+      "text": "Which structure amplifies sound pressure from the tympanic membrane before it reaches the cochlea?",
+      "options": [
+        "The ossicular chain",
+        "The Eustachian tubes",
+        "The semicircular canals",
+        "The basilar membrane"
+      ],
+      "answer": "The ossicular chain",
+      "chapter": "19",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 19"
+    },
+    {
+      "id": "ch19-q002",
+      "type": "mc",
+      "text": "In the cochlea, which frequencies stimulate hair cells closest to the oval window?",
+      "options": [
+        "Higher frequencies",
+        "Lower frequencies",
+        "Mid-range frequencies",
+        "All frequencies equally"
+      ],
+      "answer": "Higher frequencies",
+      "chapter": "19",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 19"
+    },
+    {
+      "id": "ch19-q003",
+      "type": "mc",
+      "text": "Approximately what percentage of auditory impulses from each ear are transmitted to the contralateral (opposite) hemisphere of the brain?",
+      "options": [
+        "25%",
+        "50%",
+        "75%",
+        "100%"
+      ],
+      "answer": "75%",
+      "chapter": "19",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 19"
+    },
+    {
+      "id": "ch19-q004",
+      "type": "mc",
+      "text": "What type of hearing loss results from a neoplasm or lesion on cranial nerve VIII or beyond in the auditory brainstem or cortex?",
+      "options": [
+        "Retrocochlear hearing loss",
+        "Sensorineural hearing loss",
+        "Conductive hearing loss",
+        "Mixed hearing loss"
+      ],
+      "answer": "Retrocochlear hearing loss",
+      "chapter": "19",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 19"
+    },
+    {
+      "id": "ch19-q005",
+      "type": "mc",
+      "text": "Which of the following is the most common cause of increased hearing loss in adolescents?",
+      "options": [
+        "Use of MP3 players, headphones, and earbuds at high volumes",
+        "Chronic middle ear infections",
+        "Genetic predisposition",
+        "Exposure to secondhand smoke"
+      ],
+      "answer": "Use of MP3 players, headphones, and earbuds at high volumes",
+      "chapter": "19",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 19"
+    },
+    {
+      "id": "ch19-q006",
+      "type": "mc",
+      "text": "Otosclerosis is best described as a condition in which:",
+      "options": [
+        "Bony tissue grows around the stapes footplate, impeding vibration at the oval window",
+        "Fluid accumulates in the middle ear due to Eustachian tube dysfunction",
+        "The cochlear hair cells are destroyed by excessive noise",
+        "The auditory nerve becomes inflamed and loses function"
+      ],
+      "answer": "Bony tissue grows around the stapes footplate, impeding vibration at the oval window",
+      "chapter": "19",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 19"
+    },
+    {
+      "id": "ch19-q007",
+      "type": "mc",
+      "text": "A child has conductive hearing loss due to fluid in the middle ear from repeated infections. This is most likely:",
+      "options": [
+        "Otitis media with effusion",
+        "Otosclerosis",
+        "Presbycusis",
+        "Acoustic trauma"
+      ],
+      "answer": "Otitis media with effusion",
+      "chapter": "19",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 19"
+    },
+    {
+      "id": "ch19-q008",
+      "type": "mc",
+      "text": "At what decibel level do sounds become most damaging to hearing?",
+      "options": [
+        "Above 85 dB",
+        "Above 60 dB",
+        "Above 70 dB",
+        "Above 100 dB"
+      ],
+      "answer": "Above 85 dB",
+      "chapter": "19",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 19"
+    },
+    {
+      "id": "ch19-q009",
+      "type": "mc",
+      "text": "What is a common speech characteristic in individuals with severe-to-profound hearing loss?",
+      "options": [
+        "Speaking at approximately half the rate of normal-hearing speakers",
+        "Speaking louder than necessary in all situations",
+        "Omitting vowels while retaining consonants",
+        "Hypernasality caused by velopharyngeal insufficiency"
+      ],
+      "answer": "Speaking at approximately half the rate of normal-hearing speakers",
+      "chapter": "19",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 19"
+    },
+    {
+      "id": "ch19-q010",
+      "type": "mc",
+      "text": "Which prenatal factor places a child at the HIGHEST risk for developing permanent postnatal hearing loss?",
+      "options": [
+        "Congenital cytomegalovirus (CMV)",
+        "Maternal diabetes",
+        "Cleft palate",
+        "Premature birth alone"
+      ],
+      "answer": "Congenital cytomegalovirus (CMV)",
+      "chapter": "19",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 19"
+    },
+    {
+      "id": "ch19-q011",
+      "type": "tf",
+      "text": "Noise-induced hearing loss is generally painful, allowing individuals to recognize the damage as it occurs.",
+      "answer": "false",
+      "chapter": "19",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 19"
+    },
+    {
+      "id": "ch19-q012",
+      "type": "tf",
+      "text": "The cochlea is full size at the time of birth, which makes cochlear implants anatomically feasible in infants.",
+      "answer": "true",
+      "chapter": "19",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 19"
+    },
+    {
+      "id": "ch19-q013",
+      "type": "tf",
+      "text": "When cochlear hair cells are damaged by noise, the auditory nerve fibers attached to them are also always destroyed.",
+      "answer": "false",
+      "chapter": "19",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 19"
+    },
+    {
+      "id": "ch19-q014",
+      "type": "tf",
+      "text": "Barotrauma is particularly dangerous when the Eustachian tubes are occluded by an upper respiratory infection.",
+      "answer": "true",
+      "chapter": "19",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 19"
+    },
+    {
+      "id": "ch19-q015",
+      "type": "tf",
+      "text": "The left hemisphere of the brain plays the dominant role in processing speech and language in most people.",
+      "answer": "true",
+      "chapter": "19",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 19"
+    },
+    {
+      "id": "ch19-q016",
+      "type": "tf",
+      "text": "Presbycusis is more easily managed by simply speaking louder to the affected individual.",
+      "answer": "false",
+      "chapter": "19",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 19"
+    },
+    {
+      "id": "ch19-q017",
+      "type": "tf",
+      "text": "Untreated mastoiditis can result in meningitis and sometimes death.",
+      "answer": "true",
+      "chapter": "19",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 19"
+    },
+    {
+      "id": "ch19-q018",
+      "type": "fitb",
+      "text": "The three bones of the ossicular chain are the malleus, the incus, and the __________.",
+      "answer": "stapes",
+      "chapter": "19",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 19"
+    },
+    {
+      "id": "ch19-q019",
+      "type": "fitb",
+      "text": "The primary auditory cortex, also called __________ gyrus, is located in the posterior superior region of the temporal lobe.",
+      "answer": "Heschl's",
+      "chapter": "19",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 19"
+    },
+    {
+      "id": "ch19-q020",
+      "type": "fitb",
+      "text": "Hearing loss is the __________ common of all physical impairments.",
+      "answer": "most",
+      "chapter": "19",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 19"
+    },
+    {
+      "id": "ch19-q021",
+      "type": "fitb",
+      "text": "A __________ is a small surgical incision made into the tympanic membrane to relieve pressure and release fluid or pus from the middle ear.",
+      "answer": "myringotomy",
+      "chapter": "19",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 19"
+    },
+    {
+      "id": "ch19-q022",
+      "type": "fitb",
+      "text": "The cochlea contains approximately __________ tiny hair cells that are stimulated by movement of cochlear fluid.",
+      "answer": "15,000",
+      "chapter": "19",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 19"
+    },
+    {
+      "id": "ch19-q023",
+      "type": "fitb",
+      "text": "Drugs that have harmful effects on the auditory system, including aspirin and aminoglycoside antibiotics, are described as __________.",
+      "answer": "ototoxic",
+      "chapter": "19",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 19"
+    },
+    {
+      "id": "ch19-q024",
+      "type": "match",
+      "text": "Match each hearing loss type to its correct definition.",
+      "pairs": [
+        [
+          "Conductive",
+          "Sound not conducted normally through the outer or middle ear"
+        ],
+        [
+          "Sensorineural",
+          "Sensory or neural cells within the cochlea are absent or non-functional"
+        ],
+        [
+          "Mixed",
+          "Both the conductive mechanism and the cochlea are abnormal"
+        ],
+        [
+          "Retrocochlear",
+          "Tumor or lesion on cranial nerve VIII or in the auditory brainstem/cortex"
+        ],
+        [
+          "Hearing sensitivity impairment",
+          "Most common type; sounds must be presented at higher intensity to be heard"
+        ]
+      ],
+      "answer": "Conductive=outer/middle ear; Sensorineural=cochlear; Mixed=both; Retrocochlear=CN VIII/brainstem; Hearing sensitivity=most common/intensity issue",
+      "chapter": "19",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 19"
+    },
+    {
+      "id": "ch19-q025",
+      "type": "match",
+      "text": "Match each ear structure to its correct description.",
+      "pairs": [
+        [
+          "Pinna (auricle)",
+          "Outer cartilaginous structure that collects and resonates sound"
+        ],
+        [
+          "Tympanic membrane",
+          "Thin semitransparent membrane separating ear canal from middle ear"
+        ],
+        [
+          "Ossicular chain",
+          "Three smallest bones in the body connecting eardrum to oval window"
+        ],
+        [
+          "Cochlea",
+          "Snail-shaped inner ear structure containing 15,000 hair cells"
+        ],
+        [
+          "Eustachian tube",
+          "Canal equalizing air pressure between middle ear and nasopharynx"
+        ]
+      ],
+      "answer": "Pinna=collects sound; Tympanic membrane=separates outer/middle ear; Ossicular chain=3 bones; Cochlea=hair cells; Eustachian tube=pressure equalization",
+      "chapter": "19",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 19"
+    },
+    {
+      "id": "ch19-q026",
+      "type": "match",
+      "text": "Match each condition to its key characteristic.",
+      "pairs": [
+        [
+          "Otitis media with effusion",
+          "Fluid in middle ear; occurs in ~70% of US children before age 2"
+        ],
+        [
+          "Otosclerosis",
+          "Hereditary bony growth around stapes footplate; more common in women"
+        ],
+        [
+          "Presbycusis",
+          "Age-related progressive hearing loss; symptoms typically by age 60"
+        ],
+        [
+          "Meniere's disease",
+          "Episodic vertigo, tinnitus, and fluctuating unilateral SNHL; unknown etiology"
+        ],
+        [
+          "Acoustic trauma",
+          "Permanent hearing damage from a single transient high-intensity sound"
+        ]
+      ],
+      "answer": "OME=fluid/children; Otosclerosis=hereditary/stapes; Presbycusis=aging; Meniere's=vertigo/unknown etiology; Acoustic trauma=single loud event",
+      "chapter": "19",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 19"
+    },
+    {
+      "id": "ch19-q027",
+      "type": "sa",
+      "text": "Explain why the ossicles are critical for hearing and describe what would happen to sound transmission without them.",
+      "answer": "The ossicles amplify sound from the tympanic membrane before it reaches the cochlear fluid. Sound traveling through air is mostly reflected (only about 1/30 transfers) when it contacts a liquid medium. The ossicles compensate by using lever action and reducing the area of force application, creating enough pressure to drive sound effectively into the cochlear fluid. Without them, the vibrations reaching the oval window would be far too weak to adequately stimulate the hair cells — resulting in significant conductive hearing loss.",
+      "chapter": "19",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 19"
+    },
+    {
+      "id": "ch19-q028",
+      "type": "sa",
+      "text": "Discuss why children are at higher risk for otitis media with effusion than adults, and describe the progression if left untreated.",
+      "answer": "Children are at higher risk because their Eustachian tubes are shorter and more horizontal than adults', making it easier for bacteria to travel from the nasopharynx into the middle ear and harder for the tubes to drain. Additional risk factors include secondhand smoke, allergies, colds, and sinus infections. If untreated: the Eustachian tube swells → negative middle ear pressure → mucosa becomes inflamed → effusion (fluid buildup) → conductive hearing loss. Continued progression can cause tympanic membrane rupture, mastoiditis (infection of the mastoid bone), and potentially meningitis or death.",
+      "chapter": "19",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 19"
+    },
+    {
+      "id": "ch19-q029",
+      "type": "sa",
+      "text": "Explain how a significant hearing loss affects language development in children, including form, content, pragmatics, reading, and writing.",
+      "answer": "Form: primarily uses content words (nouns/verbs); omits function words (a, an, the); uses short SVO sentences; struggles with complex/compound sentences. Content: weak vocabulary; poor grasp of basic concepts; few synonyms/antonyms; difficulty with idioms; relies on concrete over abstract words. Pragmatics: difficulty initiating, maintaining, and repairing communication breakdowns; poor turn-taking; may pretend to understand, leading to inappropriate responses. Reading/Writing: low-for-age literacy; average high school student with profound HL reads at a 3rd–4th grade level; writing shows syntactic errors, omission of articles and bound morphemes (e.g., -'s, -ed), and simple sentence structure.",
+      "chapter": "19",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 19"
+    },
+    {
+      "id": "ch19-q030",
+      "type": "sa",
+      "text": "Why is early identification of hearing loss in infants so critical, and what interventions are available?",
+      "answer": "Hearing loss is most common of all physical impairments (1.6/1,000 newborns). Early identification allows early intervention before the critical language acquisition window closes. Children identified early and receiving comprehensive services develop significantly better speech and language than those identified after 12 months. The more involved parents are in habilitation, the better outcomes. Interventions include: hearing aids, cochlear implants (feasible even in infants because the cochlea is full-size at birth), speech-language therapy, sign language (manualism — a natural language for many deaf individuals), and auditory-verbal therapy. Early newborn hearing screening programs in hospitals have dramatically improved identification timelines.",
+      "chapter": "19",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 19"
     }
   ],
   "notes": [
+    {
+      "id": "ch19-n001",
+      "title": "Chapter 19 — Anatomy and Physiology of Hearing and Types and Causes of Hearing Impairment",
+      "chapter": "19",
+      "module": "mod-13",
+      "body": "SOURCE: Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. Chapter 19, pp. 410-433.\nCourse: Comm Dis 1A, SJDC\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nOVERVIEW\n━━━━━━━━━━━━━━━━━━━━━━━━━━\n• The hearing mechanism transforms physical energy (acoustic air-pressure waves) into chemical and electrical activity\n• Hearing loss = the MOST COMMON of all physical impairments\n• Two major types: hearing SENSITIVITY impairments and AUDITORY NERVOUS SYSTEM impairments\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nANATOMY: THREE DIVISIONS\n━━━━━━━━━━━━━━━━━━━━━━━━━━\n1. OUTER (EXTERNAL) EAR\n• Functions: collect/resonate sound, localize direction, protect middle ear\n• Parts: auricle/pinna (helix = upper rim; lobule = earlobe), external auditory canal, outer surface of tympanic membrane\n• External auditory canal: oval cross-section, ~1 inch (2.5 cm) in adults; contains ceruminous glands (produce cerumen/earwax)\n• Tympanic membrane: thin, semitransparent, ~10 mm; vibrates at same frequency and intensity as incoming sound; movement of one-billionth of a cm can produce a hearing response\n\n2. MIDDLE EAR\n• Air-filled chamber in temporal bone\n• Ossicular chain: 3 smallest bones in the body\n  - Malleus (hammer) → Incus (anvil) → Stapes (stirrup)\n  - Connect tympanic membrane to oval window of cochlea\n  - Amplify sound via lever action + area reduction (compensate for air-to-fluid energy loss)\n  - Without ossicles: only ~1/30 of sound energy would transfer into cochlear fluid\n• Eustachian tubes:\n  - Lead from middle ear to nasopharynx at ~30° downward angle in adults (~35 mm long)\n  - In INFANTS: shorter + more horizontal → higher risk of OME\n  - Equalize air pressure during chewing, swallowing, yawning, sneezing (~600 swallows/day)\n  - Normally closed at nasopharyngeal end; remain open in infants until ~6 months\n• Barotrauma: pressure/fullness from altitude or depth changes; dangerous with occluded Eustachian tubes\n• Valsalva maneuver: mouth + nose held closed → forceful exhale → ears 'pop' → Eustachian tubes open\n\n3. INNER EAR\n• Cochlea:\n  - 2¾-turn spiral tunnel, ~30 mm uncoiled; resembles snail shell\n  - FULL SIZE AT BIRTH → cochlear implants feasible even in infants\n  - Two fluid-filled tubes separated by basilar membrane\n  - ~15,000 hair cells stimulated by fluid movement\n  - TONOTOPIC: higher frequencies → hair cells near oval window; lower frequencies → farther from oval window\n• Vestibular system:\n  - 3 semicircular canals (each at different plane) → motion detector\n  - Interacts with visual + proprioceptive systems → inputs to cerebellum\n  - Disruption → vertigo, motion sickness (kinesia)\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nAUDITORY NERVOUS SYSTEM\n━━━━━━━━━━━━━━━━━━━━━━━━━━\n• Hair cells → cochlear branch of vestibulocochlear nerve (VIII cranial nerve) → synapse in medulla\n• Bilateral representation:\n  - ~75% of each ear's impulses → CONTRALATERAL hemisphere\n  - ~25% → IPSILATERAL hemisphere (redundant pathways)\n  - Right hemisphere impulses must cross corpus callosum → left temporal lobe for language processing\n  - LEFT HEMISPHERE dominant for speech and language in most people\n• Central auditory nervous system → primary auditory cortex (Heschl's gyrus), posterior superior temporal lobe\n• Central auditory processing skills: sensation, attention, discrimination, association, memory, cohesion\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nHOW WE HEAR — STEP BY STEP\n━━━━━━━━━━━━━━━━━━━━━━━━━━\n1. Pinna collects sound → external auditory canal funnels to tympanic membrane\n2. Tympanic membrane vibrates\n3. Ossicular chain (malleus → incus → stapes) set in motion\n4. Stapes vibrates oval window → cochlear fluid moves\n5. Hair cells on basilar membrane stimulated\n6. Neural impulses via VIII cranial nerve → auditory brainstem\n7. Networks of neurons → auditory cortex\n\nHearing sensitivity = detect faintest sounds (hearing threshold)\nHearing acuity = discriminate minute changes in pitch/intensity (differential threshold)\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nTYPES OF HEARING LOSS\n━━━━━━━━━━━━━━━━━━━━━━━━━━\n• Conductive: sound not conducted normally through outer/middle ear\n• Sensorineural: cochlear sensory/neural cells absent or non-functional\n• Mixed: both conductive mechanism AND cochlea impaired\n• Retrocochlear: tumor or lesion on CN VIII or beyond in brainstem/cortex\n• Hearing sensitivity impairment: most common; sounds must be louder than normal to be heard\n• Auditory nervous system impairment: reduced ability to process sounds ABOVE threshold; less common\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nPREVALENCE OF HEARING LOSS\n━━━━━━━━━━━━━━━━━━━━━━━━━━\n• Newborns: 1.6/1,000\n• School-age: 83/1,000 (educationally significant)\n• Adolescents 12–19: 31% increase since 1988–94; 1 in 5 teens (6.5 million)\n• Adults 18+: ~15% report difficulty\n• Adults 70+: ~43% have some loss\n• Men: 5.5× more likely than women\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nCAUSES BY SITE\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nOUTER EAR:\n  • Malformations (otic atresia) → conductive loss\n  • External otitis (swimmer's ear) — bacterial/fungal; usually no HL\n  • Impacted cerumen → conductive loss\n  • Foreign bodies → conductive loss\n  • Tympanic membrane perforation → conductive loss\n\nMIDDLE EAR:\n  • Otitis media with effusion (OME):\n    - ~70% of US children before age 2\n    - Caused by: Eustachian tube dysfunction, URI, allergies, secondhand smoke, sinus infections\n    - Progression: swollen tube → negative pressure → inflammation → effusion → conductive HL\n    - Untreated: mastoiditis → meningitis → death\n    - Treatment: antibiotics, decongestants; surgical = myringotomy + PE tubes; adenoidectomy if indicated\n    ★ Always complete full course of antibiotics — partial treatment = dormant infection + antibiotic resistance\n  • Otosclerosis:\n    - Hereditary bony growth around stapes footplate → presses oval window → conductive HL\n    - Progressive; usually bilateral\n    - More common in WOMEN; onset often related to pregnancy\n\nINNER EAR / NEURAL:\n  • Prenatal: teratogens (rubella, CMV, HIV, herpes, syphilis, drugs, alcohol); ear develops weeks 4–8 gestation\n    - Highest congenital HL risk: neurodegenerative disorders, syndromes, congenital infections\n    - Highest postnatal HL risk: congenital CMV, syndromes, craniofacial anomalies\n  • Perinatal: SNHL in 2–4% of NICU survivors; hypoxia, low birth weight, RDS + ototoxic antibiotics\n  • Postnatal/Childhood: bacterial meningitis (total deafness possible), childhood viruses (measles/mumps/chickenpox), excessive fever, diabetes, kidney disease, head trauma\n  • Noise-induced hearing loss (NIHL):\n    - Painless, progressive, permanent — and PREVENTABLE\n    - Damages hair cells; 31% increase in teens 1988–2006\n    - Primary cause in teens/college students: MP3/headphones/earbuds\n  • Acoustic trauma: single transient high-intensity sound → permanent HL\n  • Tinnitus: ringing/roaring/swishing; subjective; associated with cochlear disease, otosclerosis, trauma, Meniere's, presbycusis, cerumen\n  • Meniere's disease: unknown etiology; episodic vertigo + vomiting + tinnitus + fullness + fluctuating unilateral SNHL; Tx: low-sodium diet, diuretics, steroids\n  • Presbycusis: age-related HL; symptomatic by age 60; speech harder to understand faster/in noise; linked to cognitive decline\n  • Neural disorders: neuritis, multiple sclerosis, brainstem tumors, neoplasms\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nDECIBEL REFERENCE TABLE\n━━━━━━━━━━━━━━━━━━━━━━━━━━\n130+ dB: jet/gunfire (pain threshold)\n120+ dB: rock concert, sandblasting, fireworks\n110+ dB: dance club, snowmobile, powerboats\n100+ dB: chainsaw, bulldozer\n 90+ dB: subway, motorcycle, lawn mower\n 80+ dB: heavy traffic, vacuum, factory\n 70+ dB: dog barking, noisy restaurant\n 60+ dB: phone ringing, baby crying\n 40+ dB: everyday conversation\n 20+ dB: whispered conversation\n  0 dB: just audible\n★ Sounds >85 dB most damaging\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nHEARING LOSS SEVERITY & COMMUNICATION\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nNormal (−10 to 10 dB): hears speech normally\nMinimal (10–25 dB): difficulty with faint speech in noise\nMild (25–40 dB): difficulty with faint/distant speech even in quiet\nModerate (40–55 dB): conversational speech only at close distance\nMod. Severe (55–70 dB): hears only loud conversational speech\nSevere (70–90 dB): cannot hear conversational speech\nProfound (>90 dB): hearing not primary communication channel\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nCOMMUNICATION DISORDERS IN HEARING IMPAIRMENT\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nFactors affecting severity:\n  Age at onset | Severity | Configuration (low/mid/high frequency) | Type | Age at beginning of care | Other handicaps\n\nSPEECH EFFECTS:\n  Segmental:\n    • Omit final consonants (low intensity)\n    • Voiced/voiceless confusion: /p/↔/b/, /d/↔/t/\n    • Oral/nasal cognate confusion: /m/↔/b/\n    • Omit unstressed sounds in blends (stream → stea)\n  Suprasegmental:\n    • Breathy, labored, staccato, arrhythmic quality\n    • Equal stress on all syllables OR inappropriate stress\n    • ~Half normal speaking rate; frequent pauses\n    • Inefficient breath support; few syllables per breath\n    • Pitch too high, variable, or monotone; pitch breaks\n    • Inappropriate loudness\n\nLANGUAGE EFFECTS:\n  Form: content words only; omit function words (a, an, the); short SVO; struggles with complex sentences\n  Content: weak vocabulary; poor basic concepts; few synonyms/antonyms; concrete > abstract; difficulty with idioms\n  Pragmatics: difficulty initiating/maintaining/repairing conversations; poor turn-taking; may pretend to understand\n  Reading: low-for-age; HS students with profound HL read at ~3rd–4th grade level\n  Writing: omit articles/pronouns/bound morphemes (-'s, -ed); simple sentences; few synonyms\n\n★ 90% of children with significant HL are born to normal-hearing parents\n★ Early identification + intervention = CRITICAL — younger = better outcomes\n★ Most adults with severe HL never exceed 4th-grade vocabulary level\n★ Cochlear implants + hearing aids + sign language (manualism) = primary interventions\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━\n5 STEPS TO PROTECT YOUR HEARING\n━━━━━━━━━━━━━━━━━━━━━━━━━━\n1. Know which noises cause damage (>85 dB; avoid when possible)\n2. Turn down the volume (use volume-limiting headphones for kids)\n3. Use earplugs\n4. Reduce exposure (limit time in loud venues; wear protection on loud vehicles)\n5. Remember your neighbors (your noise affects others too)"
+    },
     {
       "id": "slp-ch18-n002",
       "title": "Ch. 18 — Dysphagia: Treatment, Diet Modification, and Emotional Effects",
