@@ -1559,6 +1559,14 @@
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Textbook Glossary"
     },
     {
+      "id": "ch20-g001",
+      "term": "Compliance",
+      "def": "The ease with which the tympanic membrane and middle ear mechanism function.",
+      "chapter": "20",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 20"
+    },
+    {
       "id": "fogle-concussion",
       "term": "Concussion",
       "def": "A mild traumatic brain injury caused by a violent jarring or shaking, or blunt instrument injury to the skull that may or may not result in loss of consciousness or seizures, but commonly causes temporary (days to weeks) mild cognitive impairments.",
@@ -2446,6 +2454,14 @@
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Textbook Glossary"
     },
     {
+      "id": "ch20-g002",
+      "term": "Finger spelling",
+      "def": "The use of certain finger and hand shapes to represent letters of the alphabet and spell individual words.",
+      "chapter": "20",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 20"
+    },
+    {
       "id": "ch12-g001",
       "term": "Fluency",
       "def": "The continuity, smoothness, rate, and effort in speech production. Fluent speech flows forward without disruption. Fluency disorders are among the most recognized and most researched areas in speech-language pathology — stuttering is commonly the first thing people think of when they think of a speech disorder.",
@@ -2878,6 +2894,14 @@
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Textbook Glossary"
     },
     {
+      "id": "ch20-g003",
+      "term": "Impedance",
+      "def": "The opposition of sound-wave transmission, which includes frictional resistance, mass, and stiffness, and is influenced by frequency.",
+      "chapter": "20",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 20"
+    },
+    {
       "id": "ch1-g024",
       "term": "Incidence",
       "def": "The rate at which a disorder appears in a population over a period of time. Distinct from prevalence.",
@@ -3261,6 +3285,14 @@
       "source": "Lecture 1.2.1 — Chapter 1, Kidwell, SJDC Comm Dis 1A"
     },
     {
+      "id": "ch20-g004",
+      "term": "Lipreading",
+      "def": "The process of recognizing speech using only the visual cues provided by the speaker's mouth and face.",
+      "chapter": "20",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 20"
+    },
+    {
       "id": "ch3-g036",
       "term": "Lips",
       "def": "The second most important articulator. Biological function: hold food and liquid in the oral cavity. Overlaid function: shape sounds for speech. Produce 6 movements: opening, closing, rounding, flattening, protruding, retracting. Critical for /p, b, m, w, f, v/.",
@@ -3315,6 +3347,30 @@
       "module": "mod-4",
       "chapter": "5",
       "source": "Ch. 5 slides — Fogle/SJDC"
+    },
+    {
+      "id": "ch20-g005",
+      "term": "Manualism",
+      "def": "A philosophy in the education of the deaf that emphasizes the learning and use of sign language and finger spelling as a natural form of communication among the deaf.",
+      "chapter": "20",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 20"
+    },
+    {
+      "id": "ch20-g006",
+      "term": "Manually coded English",
+      "def": "A form of communication in which manual signs correspond to English words and syntax; the person typically speaks simultaneously while signing each word, including articles.",
+      "chapter": "20",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 20"
+    },
+    {
+      "id": "ch20-g007",
+      "term": "Masking",
+      "def": "In audiology, the process that occurs when two sounds occur simultaneously and one sound is sufficiently loud to cause the other to be inaudible.",
+      "chapter": "20",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 20"
     },
     {
       "id": "ch3-g038",
@@ -3745,6 +3801,14 @@
       "module": "mod-5",
       "chapter": "6",
       "source": "Ch. 6 PPTX / Lecture Ch. 6, Kidwell"
+    },
+    {
+      "id": "ch20-g008",
+      "term": "Oralism",
+      "def": "A philosophy in the education of the deaf that maintains language should be oral — that is, from the mouth — and that sign language and teachers who are deaf should be excluded from the classroom.",
+      "chapter": "20",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 20"
     },
     {
       "id": "ch5-g026",
@@ -4250,6 +4314,14 @@
       "source": "Lecture 1.2.2 — Chapter 2: The Professionals, Kidwell, SJDC Comm Dis 1A"
     },
     {
+      "id": "ch20-g009",
+      "term": "Pure-tone audiometry",
+      "def": "Audiometry using tones of various frequencies and intensities as auditory stimuli to measure hearing using both air conduction and bone conduction.",
+      "chapter": "20",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 20"
+    },
+    {
       "id": "fogle-quality_of_life",
       "term": "Quality of life",
       "def": "A global concept that involves a person's standard of living, personal freedom, and the opportunity to pursue happiness; a measure of a person's ability to cope successfully with the full range of challenges encountered in daily living.",
@@ -4472,6 +4544,14 @@
       "source": "Lecture 1.2.1 — Chapter 1, Kidwell, SJDC Comm Dis 1A"
     },
     {
+      "id": "ch20-g010",
+      "term": "Sign language",
+      "def": "A visual means of communication using finger, hand, and arm shapes and gestures to represent words and concepts, along with some finger spelling; does not depend on spoken language and is used within Deaf communities and learned naturally by interaction with other signers.",
+      "chapter": "20",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 20"
+    },
+    {
       "id": "fogle-silent_aspiration",
       "term": "Silent aspiration",
       "def": "Penetration of food or liquid (including saliva) into the larynx and passing below the vocal folds without a protective cough or choking occurring.",
@@ -4614,6 +4694,14 @@
       "module": "mod-1",
       "chapter": "2",
       "source": "Lecture 1.2.2 — Chapter 2: The Professionals, Kidwell, SJDC Comm Dis 1A"
+    },
+    {
+      "id": "ch20-g011",
+      "term": "Speechreading",
+      "def": "The process of recognizing speech by attending to the speaker's auditory and visual messages (nonverbal communication, such as facial expressions and body language), clues from the setting of the conversation, and the likely conversational topics in those settings.",
+      "chapter": "20",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 20"
     },
     {
       "id": "fogle-spontaneous_recovery",
@@ -4944,6 +5032,14 @@
       "source": "Lecture 2.2 — Ch. 3, Kidwell, SJDC Comm Dis 1A"
     },
     {
+      "id": "ch20-g012",
+      "term": "Total communication",
+      "def": "A philosophy calling for every possible means of communication to be used by deaf individuals, including hearing aids and assistive devices, speechreading, signing, and spoken English.",
+      "chapter": "20",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 20"
+    },
+    {
       "id": "yt1-g011",
       "term": "Trachea",
       "def": "The airway (windpipe) located below the vocal folds and above the lungs through which air passes during respiration and speech.",
@@ -5037,6 +5133,14 @@
       "chapter": "7",
       "module": "mod-7",
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Textbook Glossary"
+    },
+    {
+      "id": "ch20-g013",
+      "term": "Tympanometry",
+      "def": "A measurement of middle ear pressure determined by the mobility of the tympanic membrane as a function of various amounts of positive and negative air pressure in the external ear canal; the more positive or negative the pressure, the more the normal middle ear system becomes immobilized.",
+      "chapter": "20",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 20"
     },
     {
       "id": "ch3-g031",
@@ -10515,6 +10619,182 @@
       "chapter": "19",
       "module": "mod-13",
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 19"
+    },
+    {
+      "id": "ch20-f001",
+      "front": "What is the main purpose of a hearing assessment?",
+      "back": "To define the nature and extent of the hearing impairment so that appropriate decisions can be made about rehabilitation. The fundamental goal of hearing rehabilitation is to limit the extent of any communication disorder that results from a hearing loss.",
+      "chapter": "20",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 20"
+    },
+    {
+      "id": "ch20-f002",
+      "front": "What is the ABR and how is it used in newborn hearing screening?",
+      "back": "Auditory Brainstem Response (ABR) is an electrophysiological technique that attaches electrodes to an infant's scalp and records the brain's electrical responses to sound. It produces 5-7 identifiable peaks representing neural function of auditory pathways. It is ideal for newborns because it requires no active participation from the infant. For screening purposes it is often automated to reduce interpretation errors.",
+      "chapter": "20",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 20"
+    },
+    {
+      "id": "ch20-f003",
+      "front": "What is the difference between air conduction and bone conduction testing?",
+      "back": "Air conduction: sound is transmitted through the external auditory canal and middle ear structures to the inner ear — tests the entire peripheral auditory system. Bone conduction: sound is transmitted via vibration applied to the mastoid bone or forehead, bypassing the outer and middle ear to test only the cochlea's sensitivity. Comparing the two results allows differentiation of conductive, sensorineural, or mixed hearing loss.",
+      "chapter": "20",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 20"
+    },
+    {
+      "id": "ch20-f004",
+      "front": "What is an audiogram and what information does it provide?",
+      "back": "A standard graph plotting frequency (Hz) on the x-axis vs. hearing level (dB) on the y-axis to show threshold sensitivity across the frequency range. It provides: degree of loss and communication effects, audiometric configuration (sloping, rising, flat, or asymmetric), interaural symmetry, and — combined with bone conduction — differentiation of loss type (conductive, sensorineural, mixed).",
+      "chapter": "20",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 20"
+    },
+    {
+      "id": "ch20-f005",
+      "front": "What are the four audiometric configurations?",
+      "back": "1. Sloping (downward): loss increases from low to high frequencies. 2. Rising: loss decreases from low to high frequencies. 3. Flat: degree of loss similar across all frequencies. 4. Asymmetric/Unilateral: different hearing loss between the two ears.",
+      "chapter": "20",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 20"
+    },
+    {
+      "id": "ch20-f006",
+      "front": "What is masking and why is it used in audiometry?",
+      "back": "Masking is when one sound is sufficiently loud to make another inaudible. In audiometry, white noise is introduced to the non-test ear when there is risk of cross-hearing — where the test tone crosses over to the better ear, giving falsely improved thresholds. Masking ensures the true threshold of the test ear is measured accurately.",
+      "chapter": "20",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 20"
+    },
+    {
+      "id": "ch20-f007",
+      "front": "What is speech audiometry and what does it assess that pure-tone audiometry cannot?",
+      "back": "Speech audiometry uses everyday communication signals to reveal how well a person understands speech — not just detects tones. It measures: speech recognition threshold (SRT), suprathreshold speech recognition, comfortable/uncomfortable loudness levels, speech discrimination ability, central auditory processing, and communicative function. SLPs use results for therapy planning and counseling.",
+      "chapter": "20",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 20"
+    },
+    {
+      "id": "ch20-f008",
+      "front": "What is tympanometry and what does it measure?",
+      "back": "Tympanometry measures middle ear compliance and impedance by assessing tympanic membrane mobility under varying air pressure in a sealed ear canal. The eardrum vibrates most efficiently when pressure on both sides is equal. A tympanogram can reveal fluid in the middle ear, a perforated tympanum, or normal function. IMPORTANT: tympanometry measures middle ear function — it does NOT assess hearing sensitivity.",
+      "chapter": "20",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 20"
+    },
+    {
+      "id": "ch20-f009",
+      "front": "What are the three components of a hearing aid?",
+      "back": "1. Microphone — picks up environmental sound (vibrates like the tympanic membrane). 2. Amplifier — boosts the electrical signal. 3. Speaker/receiver — converts the amplified signal back into acoustic sound delivered to the eardrum. A battery powers the device and a gain control (volume adjuster/attenuator) allows adjustment of output level.",
+      "chapter": "20",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 20"
+    },
+    {
+      "id": "ch20-f010",
+      "front": "What are the four conventional hearing aid styles?",
+      "back": "1. BTE (Behind-the-Ear): worn over ear; sound delivered via tube to custom ear mold. 2. ITE (In-the-Ear): fits into outer ear in custom-fitted case. 3. ITC (In-the-Canal): smaller than ITE; fits mostly inside the canal. 4. CIC (Completely-in-Canal): custom-fitted 1-2 mm inside the canal opening — nearly invisible.",
+      "chapter": "20",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 20"
+    },
+    {
+      "id": "ch20-f011",
+      "front": "What is an assistive listening device (ALD) and how does it differ from a hearing aid?",
+      "back": "An ALD is an amplification system designed for specific listening situations (telephone, TV, church) rather than all-day use. Unlike hearing aids where microphone and amplifier are in the same case, ALDs separate the microphone to close the distance between speaker and listener — improving the signal-to-noise ratio. Examples: personal amplifier/pocket talker, telephone amplifier, FM system, TDD/TTY text telephone.",
+      "chapter": "20",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 20"
+    },
+    {
+      "id": "ch20-f012",
+      "front": "How does a cochlear implant work and who is it for?",
+      "back": "For individuals with severe-to-profound bilateral SNHL where hair cells are destroyed but auditory nerve fibers remain intact. Internal components (receiver + electrode array up to 40 electrodes) are surgically implanted into the cochlea. External components (microphone, digital signal processor, transmitter) send signals electromagnetically through the skin. The electrode array directly stimulates intact auditory nerve fibers. Feasible in children as young as 10 months. Children implanted before age 2 can achieve >80% speech intelligibility by age 5.5.",
+      "chapter": "20",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 20"
+    },
+    {
+      "id": "ch20-f013",
+      "front": "What are the key differences between lipreading and speechreading?",
+      "back": "Lipreading: relies ONLY on visual cues from the speaker's mouth and face. Very difficult — speakers produce 150-250 wpm (~4-7 syllables/sec, ~200ms/syllable). Speechreading: broader strategy using residual hearing PLUS visual cues (facial expressions, body language), conversational context, and likely topics. Normal-hearing people also use speechreading daily. Speechreading is the preferred, more comprehensive approach.",
+      "chapter": "20",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 20"
+    },
+    {
+      "id": "ch20-f014",
+      "front": "What are the four key elements of auditory training in developmental order?",
+      "back": "1. Detection/Awareness — child responds to presence or absence of sound; requires adequate amplification first. 2. Discrimination — child perceives differences between sounds (suprasegmental features first: intensity, duration, pitch, timing). 3. Identification — child can repeat or point to what sounds/words represent; requires memory but not necessarily understanding. 4. Comprehension — highest level; child understands meaning of spoken messages by integrating multiple sensory inputs.",
+      "chapter": "20",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 20"
+    },
+    {
+      "id": "ch20-f015",
+      "front": "What is the difference between aural habilitation and aural rehabilitation?",
+      "back": "Aural habilitation: for individuals who did NOT develop listening, speech, and language skills before hearing loss (prelingual — born deaf or lost hearing before acquiring language). Aural rehabilitation: for children and adults who DID develop speech and language BEFORE losing hearing. Both aim to minimize communication difficulties from hearing loss. The terms are sometimes used synonymously.",
+      "chapter": "20",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 20"
+    },
+    {
+      "id": "ch20-f016",
+      "front": "What is the difference between ASL and manually coded English?",
+      "back": "ASL: a complete, independent language with its own grammar (based on French Sign Language), different from English syntax. One ASL sign can express a concept requiring several English words. Cannot be used simultaneously with speech. Manually coded English (Signed English): manual signs correspond directly to English words and syntax; the speaker simultaneously speaks each word while signing, including articles. Simultaneous use of signing + speech = simultaneous communication.",
+      "chapter": "20",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 20"
+    },
+    {
+      "id": "ch20-f017",
+      "front": "What is the distinction between 'Deaf' (capital D) and 'deaf' (lowercase d)?",
+      "back": "Deaf (capital D): a linguistic and cultural minority — membership based on chosen identity, adoption of Deaf values, practices, and sign language as primary communication. Does not require actual deafness; hearing people who are fluent signers can be part of Deaf culture. deaf (lowercase d): refers to an audiometric hearing level. Deaf culture views deafness as a difference, not a pathology or disorder needing treatment.",
+      "chapter": "20",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 20"
+    },
+    {
+      "id": "ch20-f018",
+      "front": "What are the oralism, manualism, and total communication philosophies in Deaf education?",
+      "back": "Oralism: language must be oral (from the mouth); sign language and deaf teachers excluded from classroom. Manualism: sign language and finger spelling are the natural, preferred form of communication for deaf and hard-of-hearing individuals. Total communication: every possible means should be used — hearing aids, ALDs, speechreading, signing, AND spoken English. These philosophies can conflict significantly in Deaf education debates.",
+      "chapter": "20",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 20"
+    },
+    {
+      "id": "ch20-f019",
+      "front": "What are the three basic components of early intervention for infants with hearing loss?",
+      "back": "1. Counseling — supports parents' adaptation to the diagnosis; gives them a forum to work through feelings. 2. Fitting hearing aids — to supplement the infant's impaired auditory reception as early as possible. 3. Encouragement of early development of a rich symbolic communication system between infant and family. Federal law (IDEA, Part H/PL 102-1119) requires evaluation and intervention to begin before 6 months for infants identified before 3 months.",
+      "chapter": "20",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 20"
+    },
+    {
+      "id": "ch20-f020",
+      "front": "What are the emotional and social effects of hearing loss across life stages?",
+      "back": "Infancy: impaired bonding; parents feel rejected/inadequate. Childhood: poor self-concept, shyness, social isolation. Adolescence: perceived peer rejection; increased mental health problems. Young adults: anger, frustration, reevaluation of life goals; HL reduces income up to $12,000/year; hearing instruments mitigate ~50%. Adults with acquired severe-to-profound HL feel they belong to no social group. Elderly without hearing aids: depression, anxiety, insecurity, irritability, fear, tension, isolation.",
+      "chapter": "20",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 20"
+    },
+    {
+      "id": "ch20-f021",
+      "front": "What are the SLP's roles in working with hearing-impaired individuals?",
+      "back": "Evaluate speech, language, preliteracy, literacy, speechreading; select/inspect assistive listening devices; collaborate on APD assessment; provide speech/language therapy and speech perception training; consult with parents and teachers; provide sign language instruction; maintain bridges between clinic, classroom, and home; advise audiologists on appropriate language levels for testing. Approximately 45% of SLPs serve children with HL (~3 per school caseload).",
+      "chapter": "20",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 20"
+    },
+    {
+      "id": "ch20-f022",
+      "front": "What is the family-centered treatment philosophy in hearing intervention?",
+      "back": "Assumes: (1) social support affects family functioning; (2) the child's needs are best met by meeting the family's needs; (3) families have the right to retain as much control as they desire over the intervention process. The head of the intervention team is always the parents or primary caregivers — they are the ultimate determiners of what will or will not be done. Professionals must recognize they are working with the entire family constellation.",
+      "chapter": "20",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 20"
     }
   ],
   "questions": [
@@ -15252,9 +15532,408 @@
       "chapter": "19",
       "module": "mod-13",
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 19"
+    },
+    {
+      "id": "ch20-q001",
+      "type": "mc",
+      "text": "Which procedure is commonly used for newborn hearing screening because it requires no active participation from the infant?",
+      "options": [
+        "Auditory Brainstem Response (ABR)",
+        "Pure-tone audiometry",
+        "Tympanometry",
+        "Speech audiometry"
+      ],
+      "answer": "Auditory Brainstem Response (ABR)",
+      "chapter": "20",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 20"
+    },
+    {
+      "id": "ch20-q002",
+      "type": "mc",
+      "text": "Bone conduction testing differs from air conduction testing in that bone conduction:",
+      "options": [
+        "Bypasses the outer and middle ear to test cochlear sensitivity directly",
+        "Tests the entire peripheral auditory pathway including the middle ear",
+        "Is used only for children under age 5",
+        "Measures tympanic membrane compliance under varying air pressure"
+      ],
+      "answer": "Bypasses the outer and middle ear to test cochlear sensitivity directly",
+      "chapter": "20",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 20"
+    },
+    {
+      "id": "ch20-q003",
+      "type": "mc",
+      "text": "A patient's audiogram shows progressively worse hearing from low to high frequencies. This is described as which audiometric configuration?",
+      "options": [
+        "Sloping",
+        "Rising",
+        "Flat",
+        "Asymmetric"
+      ],
+      "answer": "Sloping",
+      "chapter": "20",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 20"
+    },
+    {
+      "id": "ch20-q004",
+      "type": "mc",
+      "text": "Masking is used in audiometry when:",
+      "options": [
+        "There is risk that a tone presented to the test ear will cross over and be heard by the non-test ear",
+        "The patient cannot hear sounds below 85 dB",
+        "Tympanometry reveals fluid in the middle ear",
+        "Bone conduction thresholds are worse than air conduction thresholds"
+      ],
+      "answer": "There is risk that a tone presented to the test ear will cross over and be heard by the non-test ear",
+      "chapter": "20",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 20"
+    },
+    {
+      "id": "ch20-q005",
+      "type": "mc",
+      "text": "Which of the following is an advantage of speech audiometry over pure-tone audiometry?",
+      "options": [
+        "It reveals how well a person understands speech in everyday communication",
+        "It can be performed without calibrated equipment",
+        "It requires no active patient participation",
+        "It measures tympanic membrane mobility"
+      ],
+      "answer": "It reveals how well a person understands speech in everyday communication",
+      "chapter": "20",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 20"
+    },
+    {
+      "id": "ch20-q006",
+      "type": "mc",
+      "text": "The three main components of a hearing aid are:",
+      "options": [
+        "Microphone, amplifier, and speaker (receiver)",
+        "Electrode array, receiver, and transmitter coil",
+        "Microphone, bone oscillator, and ear mold",
+        "Battery, gain control, and audiometer"
+      ],
+      "answer": "Microphone, amplifier, and speaker (receiver)",
+      "chapter": "20",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 20"
+    },
+    {
+      "id": "ch20-q007",
+      "type": "mc",
+      "text": "Cochlear implants are most appropriate for individuals with:",
+      "options": [
+        "Severe-to-profound bilateral sensorineural hearing loss with intact auditory nerve fibers",
+        "Mild-to-moderate conductive hearing loss",
+        "Unilateral sensorineural hearing loss",
+        "Mixed hearing loss caused by otosclerosis"
+      ],
+      "answer": "Severe-to-profound bilateral sensorineural hearing loss with intact auditory nerve fibers",
+      "chapter": "20",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 20"
+    },
+    {
+      "id": "ch20-q008",
+      "type": "mc",
+      "text": "Which communication approach calls for using every possible means — hearing aids, speechreading, signing, and spoken English — with deaf individuals?",
+      "options": [
+        "Total communication",
+        "Oralism",
+        "Manualism",
+        "Simultaneous communication"
+      ],
+      "answer": "Total communication",
+      "chapter": "20",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 20"
+    },
+    {
+      "id": "ch20-q009",
+      "type": "mc",
+      "text": "How does speechreading differ from lipreading?",
+      "options": [
+        "Speechreading incorporates residual hearing, facial expressions, body language, and contextual cues in addition to lip movements",
+        "Speechreading relies exclusively on visual cues from the mouth and face",
+        "Speechreading is used only by people with profound hearing loss",
+        "Speechreading and lipreading are identical approaches"
+      ],
+      "answer": "Speechreading incorporates residual hearing, facial expressions, body language, and contextual cues in addition to lip movements",
+      "chapter": "20",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 20"
+    },
+    {
+      "id": "ch20-q010",
+      "type": "mc",
+      "text": "In auditory training, which level involves the child simply responding to the presence or absence of sound?",
+      "options": [
+        "Detection",
+        "Discrimination",
+        "Identification",
+        "Comprehension"
+      ],
+      "answer": "Detection",
+      "chapter": "20",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 20"
+    },
+    {
+      "id": "ch20-q011",
+      "type": "tf",
+      "text": "Tympanometry directly assesses a person's hearing sensitivity.",
+      "answer": "false",
+      "chapter": "20",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 20"
+    },
+    {
+      "id": "ch20-q012",
+      "type": "tf",
+      "text": "American Sign Language (ASL) has the same grammatical structure as spoken English and can be used simultaneously with speech.",
+      "answer": "false",
+      "chapter": "20",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 20"
+    },
+    {
+      "id": "ch20-q013",
+      "type": "tf",
+      "text": "According to the family-centered treatment philosophy, parents are the head of the intervention team and the ultimate determiners of what will or will not be done.",
+      "answer": "true",
+      "chapter": "20",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 20"
+    },
+    {
+      "id": "ch20-q014",
+      "type": "tf",
+      "text": "Auditory training can improve hearing sensitivity — that is, it can lower the threshold at which sounds are perceived.",
+      "answer": "false",
+      "chapter": "20",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 20"
+    },
+    {
+      "id": "ch20-q015",
+      "type": "tf",
+      "text": "Membership in the Deaf community requires actual audiometric deafness.",
+      "answer": "false",
+      "chapter": "20",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 20"
+    },
+    {
+      "id": "ch20-q016",
+      "type": "tf",
+      "text": "Hearing loss has been shown to negatively impact household income by up to $12,000 per year, but use of hearing instruments mitigates this effect by approximately 50%.",
+      "answer": "true",
+      "chapter": "20",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 20"
+    },
+    {
+      "id": "ch20-q017",
+      "type": "tf",
+      "text": "Federal law (IDEA, Part H) requires intervention services to begin before 6 months of age for infants identified with hearing loss before 3 months.",
+      "answer": "true",
+      "chapter": "20",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 20"
+    },
+    {
+      "id": "ch20-q018",
+      "type": "fitb",
+      "text": "The four key elements of auditory training in developmental order are: detection, discrimination, identification, and __________.",
+      "answer": "comprehension",
+      "chapter": "20",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 20"
+    },
+    {
+      "id": "ch20-q019",
+      "type": "fitb",
+      "text": "In audiometry, __________ (white noise) is introduced to the non-test ear to prevent cross-hearing from distorting the true threshold of the test ear.",
+      "answer": "masking",
+      "chapter": "20",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 20"
+    },
+    {
+      "id": "ch20-q020",
+      "type": "fitb",
+      "text": "A standard graph that plots frequency in Hz against hearing level in dB to show pure-tone hearing thresholds is called an __________.",
+      "answer": "audiogram",
+      "chapter": "20",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 20"
+    },
+    {
+      "id": "ch20-q021",
+      "type": "fitb",
+      "text": "The CIC style of hearing aid stands for __________ in the canal and sits 1-2 mm inside the ear canal opening, making it nearly invisible.",
+      "answer": "completely",
+      "chapter": "20",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 20"
+    },
+    {
+      "id": "ch20-q022",
+      "type": "fitb",
+      "text": "__________ is a philosophy in deaf education that maintains language must come from the mouth and excludes sign language from the classroom.",
+      "answer": "Oralism",
+      "chapter": "20",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 20"
+    },
+    {
+      "id": "ch20-q023",
+      "type": "fitb",
+      "text": "'Deaf' with a capital D refers to a __________ and cultural minority, while 'deaf' with a lowercase d refers to an audiometric hearing level.",
+      "answer": "linguistic",
+      "chapter": "20",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 20"
+    },
+    {
+      "id": "ch20-q024",
+      "type": "match",
+      "text": "Match each hearing assessment procedure to its correct description.",
+      "pairs": [
+        [
+          "Pure-tone audiometry",
+          "Uses tones of varied frequency and intensity to establish hearing thresholds across the frequency range"
+        ],
+        [
+          "Speech audiometry",
+          "Uses everyday communication signals to assess how well a person understands speech"
+        ],
+        [
+          "Tympanometry",
+          "Measures tympanic membrane compliance under varying air pressure to assess middle ear function"
+        ],
+        [
+          "ABR",
+          "Electrophysiological technique using scalp electrodes to record brain's response to sound — no infant participation required"
+        ],
+        [
+          "Bone conduction",
+          "Tests cochlear sensitivity by bypassing outer and middle ear via vibration applied to the mastoid bone"
+        ]
+      ],
+      "answer": "Pure-tone=threshold tones; Speech=everyday signals; Tympanometry=middle ear compliance; ABR=scalp electrodes/newborn; Bone conduction=bypasses outer/middle ear",
+      "chapter": "20",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 20"
+    },
+    {
+      "id": "ch20-q025",
+      "type": "match",
+      "text": "Match each communication philosophy or method with its correct description.",
+      "pairs": [
+        [
+          "Oralism",
+          "Language must come from the mouth; sign language excluded from classroom"
+        ],
+        [
+          "Manualism",
+          "Emphasizes sign language and finger spelling as natural communication for the deaf"
+        ],
+        [
+          "Total communication",
+          "Uses every available means: hearing aids, signing, speechreading, and spoken English"
+        ],
+        [
+          "ASL",
+          "Independent language with its own grammar based on French Sign Language; cannot be used simultaneously with speech"
+        ],
+        [
+          "Manually coded English",
+          "Manual signs correspond to English words and syntax; typically used simultaneously with speech"
+        ]
+      ],
+      "answer": "Oralism=oral only; Manualism=sign emphasis; Total=all means; ASL=independent language; MCE=mirrors English",
+      "chapter": "20",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 20"
+    },
+    {
+      "id": "ch20-q026",
+      "type": "match",
+      "text": "Match each hearing aid style to its description.",
+      "pairs": [
+        [
+          "BTE",
+          "Worn over the ear; sound delivered via tube to a custom ear mold"
+        ],
+        [
+          "ITE",
+          "Fits into the outer ear in a custom-fitted case"
+        ],
+        [
+          "ITC",
+          "Smaller than ITE; fits mostly inside the ear canal"
+        ],
+        [
+          "CIC",
+          "Custom-fitted 1-2 mm inside the canal opening — nearly invisible"
+        ]
+      ],
+      "answer": "BTE=over ear with ear mold; ITE=outer ear; ITC=mostly in canal; CIC=nearly invisible",
+      "chapter": "20",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 20"
+    },
+    {
+      "id": "ch20-q027",
+      "type": "sa",
+      "text": "Compare and contrast pure-tone audiometry and speech audiometry in terms of what each measures and how results are used.",
+      "answer": "Pure-tone audiometry uses tones of specific frequencies and intensities to establish the lowest level a person can barely hear (hearing threshold) across the communication frequency range. Results are plotted on an audiogram showing degree, configuration, and type of hearing loss. It does not reveal how well a person understands speech. Speech audiometry uses everyday communication signals (e.g., single-syllable words at a fixed intensity above threshold). It measures speech recognition threshold (SRT), suprathreshold speech recognition, speech discrimination ability, comfortable/uncomfortable loudness range, and central auditory processing. SLPs find speech audiometry particularly useful for therapy planning and family counseling because it reflects functional communication ability rather than sound detection alone.",
+      "chapter": "20",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 20"
+    },
+    {
+      "id": "ch20-q028",
+      "type": "sa",
+      "text": "Explain why early identification and intervention for hearing-impaired infants is so critical, and describe the early intervention process.",
+      "answer": "Without early identification, infants with significant hearing loss lose the critical window for acquiring speech, language, cognitive, and social skills needed for schooling and society. When identified before 3 months, intervention should begin before 6 months (IDEA Part H, PL 102-1119). The process involves a multidisciplinary team: pediatricians, ENT, audiologist, SLP, early childhood specialists, social workers, educators. Three core components: (1) counseling to support parental adaptation and processing of feelings; (2) fitting hearing aids as soon as HL is confirmed — ear molds must be remade every few months due to growth; (3) encouraging development of a rich symbolic communication system between infant and family. Cochlear implants may be considered for infants with profound bilateral SNHL (used as young as 10 months). The parents are always the head of the team and ultimate decision-makers.",
+      "chapter": "20",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 20"
+    },
+    {
+      "id": "ch20-q029",
+      "type": "sa",
+      "text": "Describe the Deaf community and Deaf culture, and explain why SLPs and audiologists must be culturally sensitive when working with Deaf individuals.",
+      "answer": "The Deaf community consists of individuals who are deaf or hard of hearing sharing a common language (usually sign language), common experiences and values, and a common way of interacting. Deaf culture includes the ideology, beliefs, and customs of those with prelinguistic deafness — viewing deafness as a difference, not a pathology. Membership is based on chosen identity and adoption of values, not audiometric level; normal-hearing people who are fluent signers can also be part of Deaf culture. Only ~10% of deaf children have deaf parents. SLPs and audiologists must be sensitive because: (1) few audiologists are fluent in sign language; (2) Deaf culture is nearly as foreign to them as any other cultural group; (3) minority groups within the Deaf community add multicultural complexity; (4) professionals must work within the patient's chosen communication framework and not impose hearing-world norms or call deafness a disorder.",
+      "chapter": "20",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 20"
+    },
+    {
+      "id": "ch20-q030",
+      "type": "sa",
+      "text": "Explain how hearing loss affects people emotionally and socially at different life stages.",
+      "answer": "Infancy: infants with HL don't respond normally to verbal soothing — parents feel rejected and inadequate, impairing infant-parent bonding. Childhood: poor self-concept, feeling unlikable, shyness, social isolation. Adolescence: perceived peer rejection (overt or covert); increased mental health problems vs. hearing peers. Young adulthood: anger and frustration; acquired HL causes reevaluation of life goals; HL reduces household income by up to $12,000/year on average; adults with acquired severe-to-profound HL feel they belong to no social group. Elderly without hearing aids: significantly more depression, anxiety, insecurity, irritability, fear, tension, and isolation vs. normal-hearing elderly. Across all stages, use of hearing instruments mitigates income effects by ~50% and improves social participation.",
+      "chapter": "20",
+      "module": "mod-13",
+      "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 20"
     }
   ],
   "notes": [
+    {
+      "id": "ch20-n001",
+      "title": "Chapter 20 — Hearing Assessment, Amplification, and Aural Rehabilitation",
+      "chapter": "20",
+      "module": "mod-13",
+      "body": "SOURCE: Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. Chapter 20, pp. 434-461.\nCourse: Comm Dis 1A, SJDC\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nOVERVIEW\n━━━━━━━━━━━━━━━━━━━━━━━━━━\n• Main purpose of hearing assessment: define the NATURE and EXTENT of hearing impairment\n• Fundamental goal of hearing rehabilitation: LIMIT THE EXTENT of any communication disorder resulting from hearing loss\n• First step in rehabilitation: MAXIMIZE USE OF RESIDUAL HEARING\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nHEARING ASSESSMENT\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nKey questions audiologists must answer:\n  • Why is the person being evaluated?\n  • Should they be referred for medical consultation?\n  • What is their hearing sensitivity?\n  • How well do they understand speech?\n  • How well do they process auditory information?\n  • Does the impairment cause a hearing handicap?\n\nNEWBORN HEARING SCREENING:\n  • ~4 million babies born in US each year; many with undetected HL\n  • Now routine and compulsory in most states\n  • Infants with low Apgar scores = increased risk for HL\n  • ABR (Auditory Brainstem Response):\n    - Electrophysiological: scalp electrodes record brain's electrical response to sound\n    - 5-7 identifiable peaks = neural function of auditory pathways\n    - Requires NO active infant participation\n    - Often automated to limit interpretation errors\n  ★ Ongoing screenings at well-child visits important to detect POSTNATAL hearing loss\n\nPEDIATRICIAN/FAMILY PHYSICIAN ROLE:\n  • First professionals to see child with ear/hearing problems\n  • Otoscope: handheld light device — examines ear canal (cerumen, foreign bodies) and tympanic membrane\n  • Pneumatic bulb: tests tympanic membrane movement\n  • Any abnormal result → audiology referral + definitive testing\n  • Failed screening must always be CONFIRMED by further testing\n  • Refer to otolaryngologist → who refers to audiologist\n\nCASE HISTORY (audiologist): complaints, unilateral vs. bilateral, acute vs. chronic, duration, contributing factors\n★ Also observe during interview: articulation/language problems, reliance on lipreading, emotional attitude toward HL\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nPURE-TONE AUDIOMETRY\n━━━━━━━━━━━━━━━━━━━━━━━━━━\n• Tones of varying frequency and intensity → establish hearing thresholds\n• Performed with AUDIOMETER in sound-proof booth (or portable audiometer)\n• Standard audiometric frequencies: 250, 500, 1000, 2000, 4000, 8000 Hz\n• Results plotted on AUDIOGRAM (frequency Hz vs. hearing level dB)\n  - 0 dB = average normal hearing; negative values = better than normal\n\nAIR CONDUCTION (AC) vs. BONE CONDUCTION (BC):\n  • AC: sound through external canal + middle ear → tests entire peripheral pathway\n  • BC: vibration via bone oscillator on mastoid/forehead → BYPASSES outer/middle ear → tests cochlea only\n  • AC vs. BC comparison → differentiates type of HL:\n    - Conductive: AC worse than BC (outer/middle ear problem; cochlea normal)\n    - Sensorineural: AC and BC equally poor (cochlear/nerve problem)\n    - Mixed: both AC and BC poor; AC worse than BC (both sites affected)\n\nAUDIOGRAM CONFIGURATIONS:\n  1. Sloping — worse at high frequencies (most common)\n  2. Rising — worse at low frequencies\n  3. Flat — similar loss across all frequencies\n  4. Asymmetric/Unilateral — different between ears\n\nMASKING:\n  • One sound sufficiently loud to make another inaudible = masking\n  • Used in audiometry: WHITE NOISE introduced to non-test ear → prevents CROSS-HEARING\n  • Cross-hearing = test tone crosses over to better ear → falsely good thresholds\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nSPEECH AUDIOMETRY\n━━━━━━━━━━━━━━━━━━━━━━━━━━\n• Uses everyday communication signals → more realistic than pure tones\n• SLPs use results for therapy planning and family counseling\n• Assesses all levels: middle ear, cochlea, auditory nerve, brainstem, cortex\n\nPurposes:\n  • Measure SRT (speech recognition threshold) / SAT (speech awareness threshold)\n  • Cross-check pure-tone sensitivity\n  • Quantify suprathreshold speech recognition\n  • Determine comfortable/uncomfortable loudness range\n  • Assess speech discrimination ability and central auditory processing\n  • Differential diagnosis of impairment site\n  • Estimate communicative function\n\nSRT/SAT = lowest level at which speech can be detected or just barely heard\nBasic test: single-syllable words at fixed intensity above threshold → patient repeats aloud\n★ Terminology varies by region, facility, and training era — be aware\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nTYMPANOMETRY\n━━━━━━━━━━━━━━━━━━━━━━━━━━\n• Measures middle ear COMPLIANCE and IMPEDANCE\n• Assesses tympanic membrane mobility under varying positive/negative air pressure\n• Eardrum vibrates most efficiently when pressure EQUAL on both sides\n• Creates sealed system → pumps air (+) → decreases to atmospheric → creates (-) pressure → measures compliance throughout\n• Tympanogram reveals: normal, fluid in middle ear, perforated tympanum\n★ TYMPANOMETRY DOES NOT ASSESS HEARING — it assesses MIDDLE EAR FUNCTION only\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nTREATMENT / AMPLIFICATION\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nHABILITATION vs. REHABILITATION:\n  • Aural habilitation: for those who did NOT develop speech/language before HL (prelingual)\n  • Aural rehabilitation: for those who DID develop speech/language before HL\n\nEARLY INTERVENTION:\n  • HL identified before 3 months → intervention should START before 6 months\n  • IDEA, Part H (PL 102-1119): statewide, multidisciplinary early intervention required by federal law\n  • Team: pediatricians, ENT, audiologist, SLP, early childhood specialists, social workers, educators\n  ★ HEAD OF TEAM = PARENTS/PRIMARY CAREGIVERS — ultimate decision-makers\n  • 3 components: (1) counseling, (2) fitting hearing aids, (3) encouraging rich symbolic communication\n  ★ Hearing aids + batteries = SERIOUS SWALLOWING HAZARD — careful monitoring required\n\nHEARING AID:\n  • Microphone → amplifier → speaker/receiver\n  • Battery-powered; gain control (volume adjuster/attenuator)\n  • 4 styles: BTE (behind-the-ear) | ITE (in-the-ear) | ITC (in-the-canal) | CIC (completely-in-canal)\n  • Binaural preferred; custom-fitted; electronically tuned per ear\n  • Audiologist manages GAIN — too much intensity risks further HL\n  • Ear molds must be remade every few months (infant growth)\n\nASSISTIVE LISTENING DEVICES (ALDs):\n  • For SPECIFIC listening situations (phone, TV, church) vs. all-day use\n  • KEY FEATURE: REMOTE MICROPHONE → improves signal-to-noise ratio\n  • Examples: personal amplifier/pocket talker | telephone amplifier | FM system | TDD/TTY\n  • Other assistive devices (non-amplifying): closed captioning, vibrating pagers/alarm clocks, flashing alarms, baby cry alerts\n  ★ Hospital SLPs: carry personal amplifiers for patients whose hearing aids are unavailable\n\nCOCHLEAR IMPLANTS:\n  • For severe-to-profound bilateral SNHL (hair cells gone; auditory nerve fibers intact)\n  • Internal: receiver + electrode array (up to 40 electrodes) implanted 22-24 mm into cochlea spiral\n  • External: microphone → digital signal processor → transmitter coil (magnet holds against skin)\n  • Signal crosses skin electromagnetically → electrodes stimulate intact nerve fibers → impulses to auditory cortex\n  • Surgery: 2-3 hours; overnight hospital stay; partial mastoidectomy\n  • Feasible in infants as young as 10 months\n  • Implanted before age 2 → >80% speech intelligibility by age 5.5\n  • CI children show weaker reading vs. typical peers (lower phonological access) — early surgery mitigates this\n  ★ Success improves with TIME and EXPERIENCE\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nSLP ROLES WITH HEARING-IMPAIRED INDIVIDUALS\n━━━━━━━━━━━━━━━━━━━━━━━━━━\n~45% of SLPs serve children with HL (~3 per school caseload)\n  • Evaluate speech, language, literacy, phonological awareness, speechreading\n  • Select/inspect assistive listening devices\n  • Collaborate on APD assessment\n  • Provide speech/language therapy and speech perception training\n  • Consult with parents and teachers\n  • Provide sign language instruction when appropriate\n  • Maintain bridges: clinic ↔ classroom ↔ home\n  • Advise audiologists on appropriate language levels for testing\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nAURAL REHABILITATION — EBP\n━━━━━━━━━━━━━━━━━━━━━━━━━━\n3 main areas:\n  1. Understanding the individuals served\n  2. Providing appropriate professional support/counseling\n  3. Maximizing communication in everyday environments once amplification is in place\n\nAUDITORY TRAINING (must have appropriate amplification FIRST):\n  1. Detection — responds to presence/absence of sound; parents draw attention to linguistic/nonlinguistic sounds\n  2. Discrimination — perceives differences; suprasegmental features first (intensity, duration, pitch, timing)\n  3. Identification — repeats/points to sounds/words; memory required but not necessarily understanding\n  4. Comprehension — highest level; understands meaning; integrates all sensory inputs\n  ★ Auditory training does NOT change hearing sensitivity — maximizes use of available sound\n  ★ Prelingual deaf = NO auditory memory; postlingual = HAS auditory memory\n\nLIPREADING vs. SPEECHREADING:\n  • Lipreading: visual cues from mouth/face ONLY; 150-250 wpm; ~4-7 syllables/sec; ~200ms/syllable\n  • Speechreading: residual hearing + visual cues (face, body language) + context + likely topics\n  • Normal-hearing people use speechreading daily — not exclusive to deaf/HH individuals\n\nSPEECH GOALS: increase vocalizations, expand phonetic/phonemic repertoire, link audition to production, improve suprasegmentals, increase intelligibility (Ling hierarchy, 1976/2002)\n\nLANGUAGE GOALS: increase parent-child communication, vocabulary/world knowledge, syntax/pragmatics, narrative skills; naturalistic approaches; preschool → vocabulary; school-age → syntax/semantics\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nSIGN LANGUAGE AND MANUAL COMMUNICATION\n━━━━━━━━━━━━━━━━━━━━━━━━━━\n• Finger spelling: hand/finger shapes represent alphabet\n• Signing: hand/arm shapes + gestures represent words/concepts\n• Sign language: independent of spoken language; learned by interacting with signers\n\nPhilosophies:\n  • Oralism: oral only; exclude sign language and deaf teachers\n  • Manualism: sign language is natural communication for deaf\n  • Total communication: use ALL available means\n  • Simultaneous communication: signing + speech simultaneously (used with manually coded English)\n\nASL vs. Manually Coded English:\n  • ASL: independent language; French Sign Language base; own grammar; NOT simultaneous with speech\n  • Manually coded English: signs = English words + syntax; SIMULTANEOUS with speech including articles\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nDEAF COMMUNITY AND CULTURE\n━━━━━━━━━━━━━━━━━━━━━━━━━━\n• Deaf (capital D) = linguistic/cultural identity; chosen through adoption of values, practices, sign language\n• deaf (lowercase d) = audiometric hearing level\n• Deaf culture: deafness is a DIFFERENCE, not pathology\n• Membership does NOT require deafness — hearing signers can be members\n• ~10% of deaf children have deaf parents; most are enculturated\n• Forums: social clubs, Gallaudet University, Deaflympics, Deaf schools, theater, Deaf newspapers/magazines\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nEMOTIONAL AND SOCIAL EFFECTS\n━━━━━━━━━━━━━━━━━━━━━━━━━━\n• Parents: stages of grief (denial → anger → bargaining → depression → acceptance)\n• Infancy: impaired bonding; parents feel rejected/inadequate\n• Childhood: poor self-concept, shyness, social isolation\n• Adolescence: peer rejection; increased mental health problems vs. hearing peers\n• Young adults: anger, frustration; reevaluation of life goals; up to $12,000/yr income loss; instruments mitigate ~50%\n• Adults with acquired severe-to-profound HL: feel they fit no social group\n• Elderly without hearing aids: more depression, anxiety, insecurity, irritability, isolation\n\nMULTICULTURAL TIPS (from Kaplan, 1996):\n  • Maintain eye contact (breaking = rude in Deaf culture)\n  • Get attention by tapping shoulder or waving in line of sight\n  • Do not touch signing hands\n  • Do not speak with others in presence of deaf person without signing or providing speechreading access\n  • Use 'spoken English' not 'oral'; use 'communication training' not 'aural rehabilitation' when working with Deaf individuals\n  • Define deaf individuals by their ABILITIES, not disabilities"
+    },
     {
       "id": "ch19-n001",
       "title": "Chapter 19 — Anatomy and Physiology of Hearing and Types and Causes of Hearing Impairment",
