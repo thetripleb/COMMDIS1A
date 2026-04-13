@@ -791,6 +791,14 @@
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Textbook Glossary"
     },
     {
+      "id": "ch21-g009",
+      "term": "Attending (Counseling Skill)",
+      "def": "A foundational counseling skill — how clinicians communicate interest in and value of what the client or family member has to say. Attending includes: ACTIVE LISTENING (eye contact, facial expressions, posture, subtle gestures) and COMMUNICATION OF UNDERSTANDING AND EMPATHY. Attending supports all other counseling skills — gathering information, providing information, and promoting change. It is the most fundamental demonstration that the clinician is engaged with the whole person.",
+      "module": "mod-13",
+      "chapter": "21",
+      "source": "Ch. 21 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
+    },
+    {
       "id": "ch2-g008",
       "term": "Au.D. (Doctor of Audiology)",
       "def": "A clinical doctoral degree required to practice as an audiologist, alongside a Ph.D. Both degrees require completion of a Clinical Fellowship Year, national examination, and state licensure.",
@@ -1093,6 +1101,14 @@
       "module": "mod-5",
       "chapter": "17",
       "source": "Lecture Ch. 17, Kidwell, SJDC"
+    },
+    {
+      "id": "ch21-g013",
+      "term": "Broken Record (Counseling Microskill)",
+      "def": "A counseling microskill involving the repetition of a word or statement — or asking the same question over and over — with the SAME loudness, voice tone, and facial expression until the person answers that question. Named for the behavior of a skipping vinyl record. Used when a client does not respond to a question the clinician considers important. Young children naturally use this technique (e.g., 'Mommy? [pause] Mommy? [pause] Mommy?'). The clinician uses it intentionally and professionally to re-focus a client.",
+      "module": "mod-13",
+      "chapter": "21",
+      "source": "Ch. 21 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
     },
     {
       "id": "fogle-cancer_carcinoma",
@@ -1615,6 +1631,14 @@
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Textbook Glossary"
     },
     {
+      "id": "ch21-g004",
+      "term": "Congruence (Counseling)",
+      "def": "One of Rogers' (1957) three core conditions for effective helping. When a clinician is congruent, she is GENUINE — in touch with her own thoughts and feelings, and voices them when perceived as helpful. The clinician's facial expressions, body language, and tone of voice mirror her words and comments. Incongruence — saying one thing with words and another with body language — is especially harmful for clients with neurological disorders who may already be confused.",
+      "module": "mod-13",
+      "chapter": "21",
+      "source": "Ch. 21 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
+    },
+    {
       "id": "fogle-consonant",
       "term": "Consonant",
       "def": "Speech sounds articulated by either stopping the outgoing air stream or creating a narrow opening of resistance using the articulators.",
@@ -1679,12 +1703,28 @@
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Textbook Glossary"
     },
     {
+      "id": "ch21-g001",
+      "term": "Counseling (as Applied to SLPs and Audiologists)",
+      "def": "An applied social science and a helping, interpersonal relationship in which the clinician's intentions are to assist a person or family member to understand a hearing, communication, or swallowing disorder and its impact on the person's life, and ways of preventing, managing, adjusting to, or coping with these disorders (Flasher & Fogle, 2012). NOT synonymous with giving advice. Used in EVERY clinical encounter, whether intentionally or spontaneously. Counseling skills are a flexible set of basic concepts and approaches useful across all clinical situations and environments.",
+      "module": "mod-13",
+      "chapter": "21",
+      "source": "Ch. 21 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
+    },
+    {
       "id": "fogle-counseling_slps_and_auds",
       "term": "Counseling (SLPs and Auds)",
       "def": "An applied social science and a helping, interpersonal relationship in which the clinician's intentions are to assist a person or family member to understand a hearing, communication, or swallowing disorder and its impact on their lives, and ways of preventing, managing, adjusting to, or coping with these disorders.",
       "chapter": "1",
       "module": "mod-1",
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Textbook Glossary"
+    },
+    {
+      "id": "ch21-g012",
+      "term": "Counterquestions",
+      "def": "A counseling microskill involving answering an individual's or family member's question WITH A QUESTION. Counterquestions allow the client or family member to reveal their own thoughts, decisions, or feelings so the clinician does not have to agree or disagree. Helps clinicians avoid being 'hooked' into answering a question the person has already made a decision about. When a client asks 'What do you think?', respond with a what or how question repeating the essence of the topic. Example: To 'How much longer do I need therapy?', respond with 'What do you think about the progress you have made so far?'",
+      "module": "mod-13",
+      "chapter": "21",
+      "source": "Ch. 21 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
     },
     {
       "id": "fogle-covert_reactions",
@@ -2246,6 +2286,14 @@
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Textbook Glossary"
     },
     {
+      "id": "ch21-g006",
+      "term": "Empathic Understanding",
+      "def": "One of Rogers' (1957) three core conditions for effective helping. The attitude and skill of following, grasping, and understanding as fully as possible the CLIENT'S subjective experiences — seeing their world from THEIR perspective. Requires considerable time and patience. Careful, 'deep listening' is described as the clinician's most important clinical tool. Achieving this level of understanding can be very challenging and is developed over years of clinical practice.",
+      "module": "mod-13",
+      "chapter": "21",
+      "source": "Ch. 21 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
+    },
+    {
       "id": "fogle-endoscopy",
       "term": "Endoscopy",
       "def": "Methods of viewing the velopharyngeal mechanism, vocal tract, or both that use a rigid endoscope introduced intraorally or flexible fiberoptic endoscope transnasally with a camera lens and fiber-optic light source at the tip of the scope.",
@@ -2406,6 +2454,14 @@
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Textbook Glossary"
     },
     {
+      "id": "ch21-g007",
+      "term": "Family Systems Theory and Therapy",
+      "def": "One of the most important and applicable counseling theories for SLPs and audiologists. Basic premise: each person in the family system AFFECTS ALL OTHER MEMBERS — the system is INTERDEPENDENT. Key concepts: (1) SUBSYSTEMS — e.g., mother–father, mother–son, grandparent–grandchild; (2) HOMEOSTASIS — each family has predictable behavioral patterns maintaining balance; serious illness disrupts this equilibrium; (3) ALLIANCES — identifying which family members are emotionally closest helps in leveraging support for therapy. Used with virtually all communication and swallowing disorders.",
+      "module": "mod-13",
+      "chapter": "21",
+      "source": "Ch. 21 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
+    },
+    {
       "id": "fogle-family_systems_therapy",
       "term": "Family systems therapy",
       "def": "Models of counseling and service delivery that focus on variables regarding the family unit as a whole, where each family member is part of a system, each member affects the others, and the system is interdependent.",
@@ -2516,6 +2572,14 @@
       "module": "mod-6",
       "chapter": "7",
       "source": "Lecture Ch. 7, Kidwell / Ch. 7 slides"
+    },
+    {
+      "id": "ch21-g014",
+      "term": "Foundational Counseling Skills (Five Areas)",
+      "def": "Five foundational counseling skill areas described by Pompon (2021) for working with individuals with communication impairments and families: (1) SELF-AWARENESS — understanding one's own strengths, limitations, and biases; (2) ATTENDING — active listening and communicating empathy; (3) GATHERING INFORMATION — active listening + deliberate questioning during interview/evaluation; (4) PROVIDING INFORMATION — educating clients/families using accessible language and multimodal strategies; (5) PROMOTING CHANGE — building on a trusting therapeutic partnership and a personally relevant treatment plan, identifying and leveraging client strengths.",
+      "module": "mod-13",
+      "chapter": "21",
+      "source": "Ch. 21 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
     },
     {
       "id": "ch17-g018",
@@ -2636,6 +2700,14 @@
       "module": "mod-2",
       "chapter": "3",
       "source": "CSD Ch3 PP (Fogle 3rd ed.)"
+    },
+    {
+      "id": "ch21-g011",
+      "term": "Funneling Questions",
+      "def": "A counseling microskill that guides the conversation from GENERAL TO SPECIFIC by enabling the clinician to ask increasingly specific questions until the discussion is focused on a certain topic. Example: 'What brings you here today? → What speech problems are you experiencing? → What else can you tell me about your stuttering?' The narrowing of focus helps clients recognize that a global problem is actually made up of several smaller, more manageable problems. Moving from broad to narrow reduces client overwhelm.",
+      "module": "mod-13",
+      "chapter": "21",
+      "source": "Ch. 21 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
     },
     {
       "id": "ch5-g008",
@@ -3437,6 +3509,14 @@
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Textbook Glossary"
     },
     {
+      "id": "ch21-g002",
+      "term": "Microskills",
+      "def": "Specific communication skills that help clinicians interact more intentionally with clients — that is, to choose responses to clients thoughtfully but quickly from a wide range of possibilities. The assumption is that there is no one right therapeutic response (although there can be countless wrong responses). Microskills are TRANSTHEORETICAL — useful with any theoretical or therapeutic approach a therapist follows. They form the foundation of interviewing and obtaining information. Types include: closed questions, open-ended questions, funneling questions, requests for clarification, comparison questions, counterquestions, and broken record.",
+      "module": "mod-13",
+      "chapter": "21",
+      "source": "Ch. 21 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
+    },
+    {
       "id": "fogle-middle_ear",
       "term": "Middle ear",
       "def": "An air-filled chamber located within the temporal bone of the skull; beginning at the inner side of the tympanic membrane and attaching the ossicular chain to the oval window of the cochlea.",
@@ -3713,6 +3793,14 @@
       "module": "mod-9",
       "chapter": "12",
       "source": "Fluency_Disorders.pdf / Lecture Ch. 12, Kidwell"
+    },
+    {
+      "id": "ch21-g008",
+      "term": "Normalizing (Counseling Microskill)",
+      "def": "A counseling technique that helps people recognize and accept that however they are feeling about whatever has happened is NORMAL. Normalizing decreases a client's or family member's guilt about resentment or anger, helping them better manage their tasks in therapy. Example phrases: 'It's normal to feel overwhelmed...', 'It's normal to be confused...', 'It's understandable that you would feel...' Normalizing allows clients to begin accepting and managing their thoughts and feelings rather than feeling embarrassed or guilty, as though they reflect a character flaw.",
+      "module": "mod-13",
+      "chapter": "21",
+      "source": "Ch. 21 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
     },
     {
       "id": "slp-ch18-g012",
@@ -4003,12 +4091,28 @@
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Textbook Glossary"
     },
     {
+      "id": "ch21-g003",
+      "term": "Person- and Family-Centered Care",
+      "def": "A collaborative approach grounded in a mutually beneficial partnership among individuals, families, and clinicians. Each person is equally important in the relationship, and each person respects the knowledge, skills, and experiences that the others bring. Incorporates individual and family preferences and priorities. Core concepts (Johnson et al., 2008): (1) RESPECT AND DIGNITY — clinicians honor perspectives and cultural backgrounds; (2) SHARING INFORMATION — complete and accurate information shared in accessible ways; (3) PARTICIPATION — family encouraged to participate in decision-making at the level they choose; (4) COLLABORATION — family included at institution-wide levels including policy, education, and service delivery.",
+      "module": "mod-13",
+      "chapter": "21",
+      "source": "Ch. 21 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
+    },
+    {
       "id": "ch9-g016",
       "term": "Personal FM System",
       "def": "A frequency modulation (FM) assistive listening device used as part of APD treatment. The teacher or speaker wears a microphone/transmitter; the child wears a receiver that delivers the speaker's voice directly to the child's ears (bypassing distance and background noise). Improves signal-to-noise ratio dramatically. One of the three components of the environmental/assistive APD treatment approach.",
       "module": "mod-7",
       "chapter": "9",
       "source": "Ch. 9 PPTX — Fogle/SJDC"
+    },
+    {
+      "id": "ch21-g015",
+      "term": "Personal Qualities of Effective Helpers (Six Qualities)",
+      "def": "Six personal qualities of effective SLP/audiology helpers (Kottler, 2017; Nystul, 2015): (1) ENCOURAGING ATTITUDE — instilling hope, being a cheerleader, having realistic confidence in clients' potential; (2) EMOTIONAL STABILITY — maintaining one's own mental health, staying 'centered' even when client issues mirror personal ones; (3) POSITIVE SELF-ESTEEM — tempered with humility; seeing positive attributes in others; (4) PATIENCE — persevering through the often slow road of rehabilitation; (5) TOLERANCE FOR AMBIGUITY — accepting that mistakes, fatigue, and incomplete knowledge are part of the work; (6) SPIRITUALITY — honoring and respecting the religious/spiritual values and beliefs of clients and families.",
+      "module": "mod-13",
+      "chapter": "21",
+      "source": "Ch. 21 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
     },
     {
       "id": "fogle-pharynx",
@@ -4478,6 +4582,14 @@
       "module": "mod-1",
       "chapter": "2",
       "source": "Lecture 1.2.2 — Chapter 2: The Professionals, Kidwell, SJDC Comm Dis 1A"
+    },
+    {
+      "id": "ch21-g010",
+      "term": "Scope of Practice Boundaries in Counseling (SLP/Audiology)",
+      "def": "Three categories of counseling boundary: WITHIN our boundaries (legitimate SLP/audiology scope): interviewing clients/families, presenting diagnoses, providing information, discussing interventions, working with reactions to diagnosis, supporting client and family strengths, empowerment. BEYOND our boundaries (require immediate referral): chemical dependence, child/elder abuse, chronic depression, legal conflicts, marital problems, personality disorders, sexual abuse, suicidal ideation. CHALLENGES TO our boundaries: situations that begin within scope but gradually drift beyond it (the 'slippery slope') — requires awareness and redirection.",
+      "module": "mod-13",
+      "chapter": "21",
+      "source": "Ch. 21 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
     },
     {
       "id": "fogle-second-impact_syndrome",
@@ -5141,6 +5253,14 @@
       "chapter": "20",
       "module": "mod-13",
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 20"
+    },
+    {
+      "id": "ch21-g005",
+      "term": "Unconditional Positive Regard",
+      "def": "One of Rogers' (1957) three core conditions for effective helping. An ideal of being ACCEPTING, RESPECTFUL, and NONJUDGMENTAL toward clients, even when their behaviors, beliefs, or attitudes differ significantly from the clinician's own. Clinicians are challenged to maintain this when encountering difficult behaviors — the key is to look for what is BEHIND the surface behavior (e.g., behind anger is often fear, anxiety, or embarrassment) so as to relate to the deeper emotion and feel genuine empathy.",
+      "module": "mod-13",
+      "chapter": "21",
+      "source": "Ch. 21 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
     },
     {
       "id": "ch3-g031",
@@ -10795,6 +10915,166 @@
       "chapter": "20",
       "module": "mod-13",
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 20"
+    },
+    {
+      "id": "ch21-f001",
+      "front": "What is the definition of counseling as applied to SLPs and audiologists?",
+      "back": "An applied social science and a helping, interpersonal relationship in which the clinician assists a person or family member to understand a hearing, communication, or swallowing disorder and its impact on their life, and ways of preventing, managing, adjusting to, or coping with these disorders. (Flasher & Fogle, 2012)",
+      "module": "mod-13",
+      "chapter": "21",
+      "source": "Ch. 21 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
+    },
+    {
+      "id": "ch21-f002",
+      "front": "Why can't an SLP or audiologist call themselves a 'counselor'?",
+      "back": "It is neither ethical nor legal to identify yourself with a professional title for which you do not have a degree. SLPs use counseling SKILLS but are not licensed counselors, just as they use anatomy concepts without being anatomists or neurology concepts without being neurologists.",
+      "module": "mod-13",
+      "chapter": "21",
+      "source": "Ch. 21 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
+    },
+    {
+      "id": "ch21-f003",
+      "front": "What are Rogers' three 'necessary and sufficient conditions' for effective helping?",
+      "back": "1. CONGRUENCE — being genuine; thoughts, feelings, and nonverbals all match\n2. UNCONDITIONAL POSITIVE REGARD — being accepting, respectful, and nonjudgmental\n3. EMPATHIC UNDERSTANDING — seeing the client's world from their own perspective",
+      "module": "mod-13",
+      "chapter": "21",
+      "source": "Ch. 21 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
+    },
+    {
+      "id": "ch21-f004",
+      "front": "What is the difference between counseling as a science versus an art?",
+      "back": "SCIENCE: understanding psychological and counseling theories, principles, skills, and supporting research. ART: knowing WHEN and HOW to use those theories and skills, demonstrating interpersonal sensitivity and best 'timing.' The art also includes giving of oneself through support and empathy — a delicate, balanced process learned over time.",
+      "module": "mod-13",
+      "chapter": "21",
+      "source": "Ch. 21 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
+    },
+    {
+      "id": "ch21-f005",
+      "front": "What are the three categories of counseling scope of practice boundaries for SLPs?",
+      "back": "1. WITHIN OUR BOUNDARIES: interviewing clients/families, presenting diagnoses, providing information, working with reactions to diagnosis, supporting strengths, empowerment.\n2. BEYOND OUR BOUNDARIES: chemical dependence, abuse, chronic depression, legal conflicts, marital problems, personality disorders, sexual abuse, suicidal ideation — refer immediately.\n3. CHALLENGES TO OUR BOUNDARIES: situations that begin within scope but can slide beyond it — require awareness and redirection.",
+      "module": "mod-13",
+      "chapter": "21",
+      "source": "Ch. 21 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
+    },
+    {
+      "id": "ch21-f006",
+      "front": "What is the term for when each person in a family affects all other members — the system is interdependent?",
+      "back": "Family Systems Theory. Key concepts: SUBSYSTEMS (e.g., mother–father, grandparent–grandchild), HOMEOSTASIS (predictable behavioral balance that illness disrupts), and ALLIANCES (identifying emotionally closest members for therapy support). Applicable to virtually all communication and swallowing disorders.",
+      "module": "mod-13",
+      "chapter": "21",
+      "source": "Ch. 21 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
+    },
+    {
+      "id": "ch21-f007",
+      "front": "What are the four core concepts of Person- and Family-Centered Care?",
+      "back": "1. RESPECT AND DIGNITY — honor perspectives and cultural backgrounds\n2. SHARING INFORMATION — communicate complete, accurate info so family can participate in decisions\n3. PARTICIPATION — encourage involvement at the level they choose\n4. COLLABORATION — include family at institutional levels (policy, education, service delivery)",
+      "module": "mod-13",
+      "chapter": "21",
+      "source": "Ch. 21 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
+    },
+    {
+      "id": "ch21-f008",
+      "front": "What are the five foundational counseling skills described by Pompon (2021)?",
+      "back": "1. SELF-AWARENESS — understand your own strengths and limitations\n2. ATTENDING — active listening (eye contact, posture, empathy)\n3. GATHERING INFORMATION — deliberate questioning during interview/evaluation\n4. PROVIDING INFORMATION — educate using accessible, multimodal communication\n5. PROMOTING CHANGE — build trust, identify and leverage client strengths",
+      "module": "mod-13",
+      "chapter": "21",
+      "source": "Ch. 21 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
+    },
+    {
+      "id": "ch21-f009",
+      "front": "What are microskills in the context of counseling?",
+      "back": "Specific communication skills helping clinicians interact MORE INTENTIONALLY with clients — choosing responses thoughtfully from a wide range of possibilities. They are TRANSTHEORETICAL (useful with any approach) and form the foundation of interviewing and information gathering. Examples: closed/open/funneling questions, counterquestions, broken record, normalizing, comparison questions, requests for clarification.",
+      "module": "mod-13",
+      "chapter": "21",
+      "source": "Ch. 21 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
+    },
+    {
+      "id": "ch21-f010",
+      "front": "What are funneling questions and why are they useful?",
+      "back": "Questions that guide the conversation from GENERAL TO SPECIFIC, asking increasingly targeted questions until focused on one topic. Example: 'What brings you here?' → 'What speech problems are you having?' → 'Tell me more about your stuttering.' They help clients see that a global problem is made up of smaller, more manageable ones — reducing overwhelm.",
+      "module": "mod-13",
+      "chapter": "21",
+      "source": "Ch. 21 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
+    },
+    {
+      "id": "ch21-f011",
+      "front": "Why should 'why' questions generally be avoided in clinical counseling?",
+      "back": "WHY questions can put people on the defensive — they feel criticized or attacked as though they must justify their thoughts, ideas, or actions. Instead, use carefully worded WHAT questions to get the same information. 'What' questions are typically perceived as friendlier and less judgmental. Example: instead of 'Why are you having trouble with your voice?', ask 'What do you think is going on for you today?'",
+      "module": "mod-13",
+      "chapter": "21",
+      "source": "Ch. 21 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
+    },
+    {
+      "id": "ch21-f012",
+      "front": "What is normalizing and what does it accomplish therapeutically?",
+      "back": "Normalizing helps clients/families recognize that however they are feeling IS NORMAL. It decreases guilt about anger or resentment, helping them better manage therapy tasks. Key phrases: 'It's normal to feel...', 'It's understandable that you...' This allows clients to begin accepting and managing their feelings rather than feeling embarrassed or guilty — as though the feelings reflect a character flaw.",
+      "module": "mod-13",
+      "chapter": "21",
+      "source": "Ch. 21 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
+    },
+    {
+      "id": "ch21-f013",
+      "front": "What is a counterquestion and when should it be used?",
+      "back": "Answering a client's or family member's question WITH A QUESTION. Used when the clinician wants to let the person REVEAL their own thoughts/decisions without the clinician agreeing or disagreeing. Prevents being 'hooked' into answering something the person has already decided. Example: Client asks 'How much longer do I need therapy?' → Clinician responds: 'How much longer do YOU think you need therapy?'",
+      "module": "mod-13",
+      "chapter": "21",
+      "source": "Ch. 21 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
+    },
+    {
+      "id": "ch21-f014",
+      "front": "What are the three ways people change, as discussed in the context of patience in therapy?",
+      "back": "1. EVOLUTION — long, slow development over time (e.g., gradual speech-language rehabilitation)\n2. REVOLUTION — a sudden dramatic event that changes a person (e.g., powerful experience, life milestone)\n3. RESOLUTION — a conscious, determined decision to change (e.g., committing to complete all homework, attend all sessions)\nClients want revolutionary change; therapy is evolutionary; progress requires resolution.",
+      "module": "mod-13",
+      "chapter": "21",
+      "source": "Ch. 21 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
+    },
+    {
+      "id": "ch21-f015",
+      "front": "What makes a statement nontherapeutic versus therapeutic in clinical counseling?",
+      "back": "NONTHERAPEUTIC statements: make assumptions ('I know what you're going through'), offer false reassurance ('I'm sure his friends will accept him'), or impose the clinician's meaning ('some good will come of this').\nTHERAPEUTIC statements: make fewer assumptions, acknowledge uncertainty and real possibilities, encourage the client/family to find their own meaning, and recognize the collaborative nature of recovery.",
+      "module": "mod-13",
+      "chapter": "21",
+      "source": "Ch. 21 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
+    },
+    {
+      "id": "ch21-f016",
+      "front": "What are the six personal qualities of effective helpers in SLP/audiology?",
+      "back": "1. ENCOURAGING ATTITUDE — instill hope, be a realistic cheerleader\n2. EMOTIONAL STABILITY — maintain personal mental health, stay centered\n3. POSITIVE SELF-ESTEEM — tempered with humility; see good in others\n4. PATIENCE — persevere through the slow process of change\n5. TOLERANCE FOR AMBIGUITY — accept mistakes, fatigue, and incomplete knowledge\n6. SPIRITUALITY — honor and respect clients' religious and spiritual beliefs",
+      "module": "mod-13",
+      "chapter": "21",
+      "source": "Ch. 21 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
+    },
+    {
+      "id": "ch21-f017",
+      "front": "What does the chapter say is the 'most important clinical tool' for SLPs?",
+      "back": "Careful, 'deep listening.' It is the foundation of empathic understanding and the clinician's most important tool. (Flasher & Fogle, 2012; Holland & Nelson, 2020; Luterman, 2017). Sometimes just listening carefully to clients and families — to their suffering and helping them overcome feelings of aloneness and isolation — may be the best gift clinicians can give.",
+      "module": "mod-13",
+      "chapter": "21",
+      "source": "Ch. 21 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
+    },
+    {
+      "id": "ch21-f018",
+      "front": "What is the ultimate goal of counseling in SLP/audiology, and what terms are used in reports instead of 'counseling'?",
+      "back": "ULTIMATE GOAL: help the client no longer need the clinician — to become independent and a 'self-helper.'\nINSTEAD OF 'COUNSELING' in reports, use: client/patient/family education, training, conference, consultation. In conversation, use: 'discussion,' 'conversation,' 'issues,' 'concerns,' 'challenges.' Clinicians use 'challenges' rather than 'problems' as a helpful reframe.",
+      "module": "mod-13",
+      "chapter": "21",
+      "source": "Ch. 21 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
+    },
+    {
+      "id": "ch21-f019",
+      "front": "What does 'homeostasis' mean in family systems theory, and why does it matter for SLPs?",
+      "back": "HOMEOSTASIS: each family's predictable behavioral patterns that maintain its balance. Serious illness or injury disrupts the family's homeostasis equilibrium. Healthy families can maintain or regain homeostasis and adapt to change. Less healthy families may struggle — these families may have more difficulty being supportive of therapy. SLPs should recognize these dynamics and avoid judging family decisions without knowing full history.",
+      "module": "mod-13",
+      "chapter": "21",
+      "source": "Ch. 21 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
+    },
+    {
+      "id": "ch21-f020",
+      "front": "What cautions apply when asking questions as a counseling microskill?",
+      "back": "1. Asking TOO MANY questions too quickly can overwhelm the person — ask one, then wait patiently and even a moment longer than feels comfortable.\n2. LEADING QUESTIONS (e.g., 'Have you been feeling anxious since your voice disorder began?') can be perceived as manipulative and produce inaccurate impressions.\n3. SPEAKING STYLE matters — assertive questioning = intimidating; overly tentative = clinician seems incompetent. Use the 'Goldilocks Principle': not too hot, not too cold, just right.",
+      "module": "mod-13",
+      "chapter": "21",
+      "source": "Ch. 21 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
     }
   ],
   "questions": [
@@ -15924,9 +16204,348 @@
       "chapter": "20",
       "module": "mod-13",
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 20"
+    },
+    {
+      "id": "ch21-q001",
+      "type": "mc",
+      "text": "According to Fogle (2023), which of the following best defines counseling as applied to speech-language pathologists?",
+      "options": [
+        "A structured process of giving professional advice to clients and families about their communication disorder",
+        "An applied social science and helping relationship assisting persons to understand and cope with communication, hearing, or swallowing disorders",
+        "A specialized form of psychotherapy used only when clients show emotional distress",
+        "A supplementary service offered only by clinicians with advanced degrees in psychology"
+      ],
+      "answer": "An applied social science and helping relationship assisting persons to understand and cope with communication, hearing, or swallowing disorders",
+      "module": "mod-13",
+      "chapter": "21",
+      "source": "Ch. 21 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
+    },
+    {
+      "id": "ch21-q002",
+      "type": "mc",
+      "text": "Why should SLPs avoid identifying themselves as 'counselors' even though they use counseling skills daily?",
+      "options": [
+        "Because counseling is not within ASHA's scope of practice for SLPs",
+        "Because it is neither ethical nor legal to use a professional title for which you do not hold a degree",
+        "Because SLPs lack the emotional stability required for formal counseling roles",
+        "Because ASHA requires separate licensure before any counseling work is permitted"
+      ],
+      "answer": "Because it is neither ethical nor legal to use a professional title for which you do not hold a degree",
+      "module": "mod-13",
+      "chapter": "21",
+      "source": "Ch. 21 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
+    },
+    {
+      "id": "ch21-q003",
+      "type": "mc",
+      "text": "Which of the following would be considered BEYOND the counseling scope of practice for an SLP and require immediate referral?",
+      "options": [
+        "Working with a parent's emotional reaction to their child's diagnosis",
+        "Presenting diagnostic results and discussing intervention options",
+        "Addressing a client's suicidal ideation",
+        "Supporting a family member's strengths and empowering them"
+      ],
+      "answer": "Addressing a client's suicidal ideation",
+      "module": "mod-13",
+      "chapter": "21",
+      "source": "Ch. 21 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
+    },
+    {
+      "id": "ch21-q004",
+      "type": "mc",
+      "text": "A clinician asks a client, 'Have you been feeling depressed since your husband's stroke?' This is an example of a:",
+      "options": [
+        "Funneling question",
+        "Open-ended question",
+        "Leading question",
+        "Counterquestion"
+      ],
+      "answer": "Leading question",
+      "module": "mod-13",
+      "chapter": "21",
+      "source": "Ch. 21 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
+    },
+    {
+      "id": "ch21-q005",
+      "type": "mc",
+      "text": "When a client asks 'How much longer do you think I need therapy?', the clinician responds with 'What do you think about the progress you've made so far?' This is an example of which microskill?",
+      "options": [
+        "Normalizing",
+        "Broken record",
+        "Counterquestion",
+        "Funneling question"
+      ],
+      "answer": "Counterquestion",
+      "module": "mod-13",
+      "chapter": "21",
+      "source": "Ch. 21 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
+    },
+    {
+      "id": "ch21-q006",
+      "type": "mc",
+      "text": "The three core conditions identified by Rogers (1957) as necessary and sufficient for effective helping are:",
+      "options": [
+        "Empathy, patience, and professionalism",
+        "Congruence, unconditional positive regard, and empathic understanding",
+        "Active listening, information gathering, and promoting change",
+        "Self-awareness, emotional stability, and positive self-esteem"
+      ],
+      "answer": "Congruence, unconditional positive regard, and empathic understanding",
+      "module": "mod-13",
+      "chapter": "21",
+      "source": "Ch. 21 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
+    },
+    {
+      "id": "ch21-q007",
+      "type": "mc",
+      "text": "In family systems theory, the concept of a family's predictable behavioral patterns that maintain its balance is called:",
+      "options": [
+        "Congruence",
+        "Homeostasis",
+        "Subsystem alliance",
+        "Resolution"
+      ],
+      "answer": "Homeostasis",
+      "module": "mod-13",
+      "chapter": "21",
+      "source": "Ch. 21 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
+    },
+    {
+      "id": "ch21-q008",
+      "type": "mc",
+      "text": "Which question type would be most appropriate for eliciting detailed information about a client's experience while allowing them to respond freely?",
+      "options": [
+        "Closed question",
+        "Leading question",
+        "Open-ended question",
+        "Comparison question"
+      ],
+      "answer": "Open-ended question",
+      "module": "mod-13",
+      "chapter": "21",
+      "source": "Ch. 21 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
+    },
+    {
+      "id": "ch21-q009",
+      "type": "tf",
+      "text": "According to the chapter, fewer than 20% of therapists surveyed reported having had a specific course in their education dealing with counseling — despite all of them reporting they use counseling skills in every clinical encounter.",
+      "answer": "true",
+      "module": "mod-13",
+      "chapter": "21",
+      "source": "Ch. 21 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
+    },
+    {
+      "id": "ch21-q010",
+      "type": "tf",
+      "text": "Microskills are theoretical — they should only be used with clinicians who follow a specific counseling theory.",
+      "answer": "false",
+      "module": "mod-13",
+      "chapter": "21",
+      "source": "Ch. 21 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
+    },
+    {
+      "id": "ch21-q011",
+      "type": "tf",
+      "text": "Counseling as applied to SLPs involves helping clients with personal and family challenges resulting from communication, swallowing, and hearing disorders — it is NOT the study of psychology or psychopathology.",
+      "answer": "true",
+      "module": "mod-13",
+      "chapter": "21",
+      "source": "Ch. 21 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
+    },
+    {
+      "id": "ch21-q012",
+      "type": "tf",
+      "text": "A clinician who maintains unconditional positive regard will always agree with a client's beliefs and attitudes.",
+      "answer": "false",
+      "module": "mod-13",
+      "chapter": "21",
+      "source": "Ch. 21 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
+    },
+    {
+      "id": "ch21-q013",
+      "type": "tf",
+      "text": "In family systems theory, when one member of the family system changes, other members are affected as well.",
+      "answer": "true",
+      "module": "mod-13",
+      "chapter": "21",
+      "source": "Ch. 21 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
+    },
+    {
+      "id": "ch21-q014",
+      "type": "tf",
+      "text": "A clinician encountering a client who discloses marital difficulties during a therapy session should continue exploring those marital issues, as they may affect the client's therapy.",
+      "answer": "false",
+      "module": "mod-13",
+      "chapter": "21",
+      "source": "Ch. 21 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
+    },
+    {
+      "id": "ch21-q015",
+      "type": "fitb",
+      "text": "Rogers (1957) identified three core conditions for helping: congruence, empathic understanding, and __________ __________ __________.",
+      "answer": "unconditional positive regard",
+      "module": "mod-13",
+      "chapter": "21",
+      "source": "Ch. 21 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
+    },
+    {
+      "id": "ch21-q016",
+      "type": "fitb",
+      "text": "Specific communication skills that help clinicians choose responses to clients thoughtfully and quickly from a wide range of possibilities are called __________.",
+      "answer": "microskills",
+      "module": "mod-13",
+      "chapter": "21",
+      "source": "Ch. 21 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
+    },
+    {
+      "id": "ch21-q017",
+      "type": "fitb",
+      "text": "The counseling microskill of helping clients recognize that their emotional reactions to a disorder are __________ is called normalizing.",
+      "answer": "normal",
+      "module": "mod-13",
+      "chapter": "21",
+      "source": "Ch. 21 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
+    },
+    {
+      "id": "ch21-q018",
+      "type": "fitb",
+      "text": "In family systems theory, each family has predictable behavioral patterns that serve to maintain its balance, called __________.",
+      "answer": "homeostasis",
+      "module": "mod-13",
+      "chapter": "21",
+      "source": "Ch. 21 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
+    },
+    {
+      "id": "ch21-q019",
+      "type": "fitb",
+      "text": "The foundational counseling skill that involves active listening — including eye contact, facial expressions, posture, and subtle gestures — to communicate interest and empathy is called __________.",
+      "answer": "attending",
+      "module": "mod-13",
+      "chapter": "21",
+      "source": "Ch. 21 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
+    },
+    {
+      "id": "ch21-q020",
+      "type": "fitb",
+      "text": "A __________ question guides the conversation from general to specific by asking increasingly focused questions until discussion centers on a particular topic.",
+      "answer": "funneling",
+      "module": "mod-13",
+      "chapter": "21",
+      "source": "Ch. 21 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
+    },
+    {
+      "id": "ch21-q021",
+      "type": "match",
+      "text": "Match each counseling microskill to its correct description.",
+      "pairs": [
+        [
+          "Counterquestion",
+          "Answering a client's question with a question so they reveal their own thoughts or decisions"
+        ],
+        [
+          "Broken record",
+          "Repeating a question using the same tone and expression until the client responds"
+        ],
+        [
+          "Funneling",
+          "Moving from general to increasingly specific questions to focus on a particular topic"
+        ],
+        [
+          "Normalizing",
+          "Helping clients recognize that their emotional reactions are normal and understandable"
+        ],
+        [
+          "Closed question",
+          "A question that elicits a yes, no, or brief factual response"
+        ]
+      ],
+      "answer": "Counterquestion=answer-with-question, Broken record=repeat until answered, Funneling=general-to-specific, Normalizing=validate as normal, Closed question=brief response",
+      "module": "mod-13",
+      "chapter": "21",
+      "source": "Ch. 21 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
+    },
+    {
+      "id": "ch21-q022",
+      "type": "match",
+      "text": "Match each of Rogers' three core conditions to its definition.",
+      "pairs": [
+        [
+          "Congruence",
+          "The clinician is genuine — feelings, words, and body language all align"
+        ],
+        [
+          "Unconditional positive regard",
+          "Being accepting, respectful, and nonjudgmental toward the client regardless of their behaviors or beliefs"
+        ],
+        [
+          "Empathic understanding",
+          "Seeing and grasping the client's subjective world from their own perspective — deep listening"
+        ]
+      ],
+      "answer": "Congruence=genuine/aligned, Unconditional positive regard=nonjudgmental acceptance, Empathic understanding=client's-eye-view listening",
+      "module": "mod-13",
+      "chapter": "21",
+      "source": "Ch. 21 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
+    },
+    {
+      "id": "ch21-q023",
+      "type": "match",
+      "text": "Match each boundary category in SLP counseling to its example.",
+      "pairs": [
+        [
+          "Within our boundaries",
+          "Presenting a diagnosis and discussing the family's emotional reactions to it"
+        ],
+        [
+          "Beyond our boundaries",
+          "A client disclosing active suicidal ideation — requiring immediate referral"
+        ],
+        [
+          "Challenges to our boundaries",
+          "A mother reveals marital difficulties while the SLP is discussing her child's therapy progress"
+        ]
+      ],
+      "answer": "Within=diagnosis/reactions, Beyond=suicidal ideation/referral, Challenges=slippery slope situations",
+      "module": "mod-13",
+      "chapter": "21",
+      "source": "Ch. 21 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
+    },
+    {
+      "id": "ch21-q024",
+      "type": "sa",
+      "text": "Explain why the chapter states that 'having extensive knowledge about communication disorders is not sufficient to be a good clinician.' What else is required, and why?",
+      "answer": "Knowledge alone makes a clinician merely a 'technician' (Corey, 2017). Effective clinicians must also possess human qualities including compassion, caring, honesty, realness, and sensitivity — and the ability to enter the client's world to develop a strong therapeutic relationship. This relationship has dynamics affected by what both the client and clinician bring to it (self-perceptions, needs, values, feelings, experiences, expectations, expertise). The 'affective mode' — the emotional quality of the interaction — is unavoidable. Eye contact, tone of voice, facial expressions, and body language all communicate acceptance or rejection, regardless of technical accuracy. Counseling skills make this interpersonal dimension intentional and therapeutic rather than accidental.",
+      "module": "mod-13",
+      "chapter": "21",
+      "source": "Ch. 21 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
+    },
+    {
+      "id": "ch21-q025",
+      "type": "sa",
+      "text": "Compare and contrast a nontherapeutic statement with a therapeutic alternative, using one example from the chapter. Explain what makes the therapeutic version more effective.",
+      "answer": "NONTHERAPEUTIC: 'I'm sure Michael's friends will welcome him back and he'll be just as popular as ever.' This denies inevitable changes, offers false reassurance, and imposes the clinician's optimism on the family. THERAPEUTIC: 'You are concerned about Michael's relationships with his peers and hoping he won't be isolated, teased, or rejected after his head injury.' This acknowledges the REAL POSSIBILITY of changes without dismissing them, validates what the family is actually feeling, and avoids false promises. Therapeutic statements make fewer assumptions, acknowledge uncertainty, and encourage the client/family to find their own meaning — they stay grounded in the client's actual experience rather than the clinician's wishful thinking.",
+      "module": "mod-13",
+      "chapter": "21",
+      "source": "Ch. 21 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
+    },
+    {
+      "id": "ch21-q026",
+      "type": "sa",
+      "text": "Describe family systems theory and explain why the author considers it one of the most important counseling frameworks for SLPs and audiologists to understand.",
+      "answer": "Family systems theory holds that each person in a family affects all other members — the system is interdependent. Key concepts include: SUBSYSTEMS (e.g., mother–son, grandparent–grandchild) reflecting emotional alliances within the family; HOMEOSTASIS — the predictable behavioral balance families maintain, which serious illness or injury disrupts; and ALLIANCES — identifying which members are most emotionally connected helps clinicians leverage family support for therapy. The model is relevant for SLPs because virtually all clients exist within a family context, and the communication disorder affects more than the individual alone. Unhealthy families with poor homeostasis may struggle to support therapy. Clinicians must also avoid judgment — they never know the full family history behind decisions that may seem puzzling (e.g., a spouse divorcing after a stroke).",
+      "module": "mod-13",
+      "chapter": "21",
+      "source": "Ch. 21 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
     }
   ],
   "notes": [
+    {
+      "id": "ch21-n001",
+      "title": "Chapter 21 — Essential Counseling Principles and Skills for SLPs and Audiologists",
+      "module": "mod-13",
+      "chapter": "21",
+      "body": "SOURCE: Fogle, P.T. (2023). Essentials of Communication Sciences & Disorders, Ch. 21. Jones & Bartlett Learning.\nCOURSE: Comm Dis 1A, SJDC\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nINTRODUCTION & DEFINITION\n━━━━━━━━━━━━━━━━━━━━━━━━━━\n• Opening quote (Van Riper): 'It is not enough to know what kind of disorder a person has; one must know the kind of person who has the disorder.'\n• Counseling is considered one of the MOST CRUCIAL areas of SLP/audiology education — yet one of the LEAST TAUGHT\n• 100% of clinicians surveyed use counseling skills in every encounter; <20% had a specific counseling course\n• Counseling is NOT synonymous with giving advice\n• Counseling involves every interaction with clients, patients, and families — 'you cannot NOT counsel'\n\nDEFINITION (Flasher & Fogle, 2012):\nCounseling = 'an applied social science and a helping, interpersonal relationship in which the clinician's intentions are to assist a person or family member to understand a hearing, communication, or swallowing disorder and its impact on the person's life, and ways of preventing, managing, adjusting to, or coping with these disorders.'\n\nASHA SCOPE OF PRACTICE:\n• SLPs counsel through education, guidance, and support\n• Addresses emotional reactions, thoughts, feelings, and behaviors related to living with the disorder\n• Activities: empower, educate, provide support, develop self-advocacy, address negative emotions, refer appropriately\n• Audiologists: same framework applied to auditory, balance, and related disorders\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nUSING COUNSELING SKILLS vs. BEING A COUNSELOR\n━━━━━━━━━━━━━━━━━━━━━━━━━━\n• SLPs USE counseling skills — they are NOT counselors (no degree = no title)\n• Parallel: we use anatomy/physiology but are not anatomists; we use neurology concepts but are not neurologists\n• In reports/charts: use 'client/patient/family education,' 'training,' 'conference,' 'consultation'\n• In conversation: use 'discussion,' 'issues,' 'concerns,' 'challenges' (not 'problems')\n• Reframe: 'challenges' rather than 'problems' — a useful but mild distinction\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nBOUNDARIES AND SCOPE OF PRACTICE\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nWITHIN OUR BOUNDARIES:\n  • Interviewing client/patient and family\n  • Presenting diagnosis of delays/disorders\n  • Providing information about delays/disorders\n  • Discussing interventions\n  • Working with reactions to the diagnosis\n  • Supporting client's strengths toward independence\n  • Supporting family strengths for optimal interaction\n  • Creating supportive empowerment — helping client/family manage independently\n\nBEYOND OUR BOUNDARIES (refer immediately):\n  • Chemical dependence\n  • Child or elder abuse\n  • Chronic depression\n  • Legal conflicts\n  • Marital problems\n  • Personality or character disorders\n  • Sexual abuse and sexual problems\n  • Suicidal ideation\n\nCHALLENGES TO OUR BOUNDARIES:\n  • Slippery slope situations — begin within scope, drift beyond\n  • Example: parent's anger about therapy → discloses marital difficulties → clinician must empathize without exploring marital issues\n  • Clinician's own 'baggage' can affect therapy — stay focused on the CLIENT's experience\n  • Must maintain stable, predictable boundaries and a therapeutic environment at all times\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nCOUNSELING: SCIENCE AND ART\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nSCIENCE: psychological/counseling theories, principles, skills, and supporting research\nART: knowing WHEN and HOW to use them; interpersonal sensitivity; timing; giving of oneself\n• SLP/audiology rarely have extensive counseling training — this is a recognized deficit\n• SLPs address the WHOLE PERSON: emotions, mind, body, and spirit\n• Diagnosis from DSM-5: SLPs CAN diagnose stuttering, developmental comm disorders, neurocognitive disorders, childhood apraxia/dysarthria, selective mutism\n• SLPs CANNOT officially diagnose: Alzheimer's, ADHD, ASD, specific learning disorders — but are very involved in assessment/treatment\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nROGERS' CORE CONDITIONS + THERAPEUTIC VARIABLES\n━━━━━━━━━━━━━━━━━━━━━━━━━━\n1. CONGRUENCE — genuine; words, nonverbals, and feelings align\n2. UNCONDITIONAL POSITIVE REGARD — accepting, respectful, nonjudgmental; look for what's BEHIND surface behavior (anger often = fear or anxiety)\n3. EMPATHIC UNDERSTANDING — see the world from the CLIENT's perspective; 'deep listening'\n\nVariables both clinician and client bring to the therapeutic relationship (Figure 21-1):\n  Self-perceptions | Needs | Values | Feelings | Experiences | Expectations | Expertise\nThe relationship has an AFFECTIVE MODE — emotional quality that changes session to session and moment to moment. Mutual respect and trust sustain it through difficult times.\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nPERSONAL QUALITIES OF EFFECTIVE HELPERS\n━━━━━━━━━━━━━━━━━━━━━━━━━━\n1. ENCOURAGING ATTITUDE — instill realistic hope; be a cheerleader; confidence in client's potential\n2. EMOTIONAL STABILITY — cope with your own life stresses; stay 'centered'; practice self-care\n   Centering phrases: 'I'm okay. I usually do things well. I'm a good clinician. Tomorrow is a new day.'\n   Self-care strategies: go outside, walk, exercise, deep breathe, talk with a friend, pray\n3. POSITIVE SELF-ESTEEM — tempered with humility; negative self-esteem → defensiveness\n4. PATIENCE — therapy is EVOLUTIONARY, not revolutionary; clients want revolution but need resolve\n   Three ways people change:\n   - Evolution: long, slow development\n   - Revolution: sudden dramatic event\n   - Resolution: conscious, determined decision to change\n5. TOLERANCE FOR AMBIGUITY — three absolutes: (1) you WILL make mistakes, (2) you WILL get tired, (3) you will NEVER know enough. Become competent by doing what you're not yet competent at, seeking education, consulting others.\n6. SPIRITUALITY — honor and respect clients' spiritual/religious values; for many, spiritual belief provides comfort beyond what any person can provide\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nFOUNDATIONAL COUNSELING SKILLS (Pompon, 2021)\n━━━━━━━━━━━━━━━━━━━━━━━━━━\n1. SELF-AWARENESS — know your strengths AND limitations; sequence: 'I need help' → 'I can do it alone' → 'I can help you'\n2. ATTENDING — active listening (eye contact, facial expressions, posture, gestures); communication of understanding and empathy; supports ALL other counseling skills\n3. GATHERING INFORMATION — active listening + deliberate questioning; leads to appropriate goals and treatment strategies\n4. PROVIDING INFORMATION — adapt communication to client's abilities; use multimodal strategies (gestures, key word writing, metaphors, repetition, rephrasing, multiple opportunities for questions); special care needed for complex or emotionally charged information\n5. PROMOTING CHANGE — build trusting therapeutic partnership; personally relevant treatment plan; help clients identify and build on their strengths\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nCOUNSELING THEORIES\n━━━━━━━━━━━━━━━━━━━━━━━━━━\n~400 counseling theories exist; SLPs benefit most from learning major ones:\n• Cognitive-behavioral theory, family systems theory, humanistic theory, interpersonal theory, multicultural theory, existential theory\n\nPERSON- AND FAMILY-CENTERED CARE (ASHA Practice Portal):\n• Collaborative approach — each person equally important\n• Core concepts (Johnson et al., 2008): Respect & dignity | Sharing information | Participation | Collaboration\n\nFAMILY SYSTEMS THEORY:\n• Premise: each person in the family affects all others — system is INTERDEPENDENT\n  (Disney mobile analogy: pull Mickey, Minnie and Pluto all move)\n• SUBSYSTEMS: mother–father, mother–son, grandparent–grandchild, etc.\n• ALLIANCES: identify who is emotionally closest — most helpful for therapy support\n• HOMEOSTASIS: predictable patterns maintaining balance; illness/injury disrupts this\n  - Healthy families: maintain or regain homeostasis + adapt\n  - Less healthy families: greater difficulty with homeostasis → less able to support therapy\n• AVOID JUDGMENT: we never know full family history; all relationships are fragile\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nNONTHERAPEUTIC vs. THERAPEUTIC STATEMENTS\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nNONTHERAPEUTIC: assume you know what the person is experiencing; offer false reassurance; impose the clinician's meaning; deny inevitable changes; minimize uncertainty\n\nTHERAPEUTIC: make fewer assumptions; acknowledge uncertainty; encourage client/family to find their own meaning; acknowledge collaborative nature of recovery; validate real possibilities\n\nExamples:\n✗ 'I understand what you must be going through.'\n✓ 'I understand that you are going through a lot of difficult adjustments now.'\n\n✗ 'I'm sure some good will come out of this.'\n✓ 'It sounds like you're considering how all of this is going to affect your son and the whole family.'\n\n✗ 'Michael is a survivor — he'll come out of this better than any of us might expect.'\n✓ 'Michael has made it through the acute phase. The medical and rehabilitation teams will work with him to help him make the best recovery possible.'\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nCOUNSELING MICROSKILLS\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nMICROSKILLS = specific communication skills for intentional interaction\n• TRANSTHEORETICAL — work with any approach\n• Goal: help clinician choose from a RANGE of possible responses (no single 'right' one; many wrong ones)\n• Developed over years of practice\n\nQUESTIONS — used to understand clients and focus on issues needing clarification\n\nCAUTIONS WHEN ASKING QUESTIONS:\n  • Don't ask too many too fast — ask ONE, wait, then wait a little longer\n  • Avoid LEADING questions (e.g., 'Have you been feeling anxious since...?') — manipulative, inaccurate\n  • Style: not too assertive (intimidating), not too tentative (seems incompetent)\n  • The Goldilocks Principle: Just right\n\nQUESTION TYPES:\n  CLOSED — elicits yes/no or brief answer; includes 'is,' 'are,' 'do'; useful initially but too many = interrogation\n  OPEN-ENDED — allows varied, detailed response; subtypes:\n    • Who — people involved\n    • What — facts or opinions\n    • When — time/sequence\n    • Where — location\n    • How — methods/problem-solving processes\n    • Why — reasons (AVOID — puts people on defensive; use WHAT instead)\n  FUNNELING — general → specific; helps break down global problems into smaller ones\n  REQUESTS FOR CLARIFICATION — 'Is that correct, or have I missed something?'\n  COMPARISON — better/worse, more/less; identifies patterns in symptoms\n  COUNTERQUESTIONS — answer with a question; prevents clinician from being 'hooked'\n  BROKEN RECORD — repeat same question (same tone/expression) until answered\n\nNORMALIZING:\n  • 'It's normal to feel...'\n  • 'It's understandable that...'\n  • Reduces guilt and embarrassment so clients can begin managing feelings\n  • Allows feelings to be spoken — prevents them from being treated as unspeakable character flaws\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━\n★ KEY EXAM POINTS\n━━━━━━━━━━━━━━━━━━━━━━━━━━\n★ SLPs use counseling skills — they are NOT 'counselors'\n★ Counseling is in EVERY interaction — not a separate activity\n★ Rogers' 3 conditions: congruence, unconditional positive regard, empathic understanding\n★ Deep listening = the most important clinical tool\n★ AVOID 'why' questions — use 'what' instead\n★ Funneling = general → specific; breaks global problem into manageable parts\n★ Counterquestion = answer with a question; gives control back to client\n★ Normalizing = 'It's normal' / 'It's understandable' — reduces guilt and shame\n★ Family systems: interdependent; homeostasis disrupted by illness\n★ Suicidal ideation = BEYOND scope — refer immediately\n★ Three ways people change: Evolution, Revolution, Resolution\n★ Clinicians often feel more uncomfortable with counseling than with clinical skills — even after decades of practice"
+    },
     {
       "id": "ch20-n001",
       "title": "Chapter 20 — Hearing Assessment, Amplification, and Aural Rehabilitation",
