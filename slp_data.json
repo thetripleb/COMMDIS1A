@@ -201,6 +201,14 @@
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Textbook Glossary"
     },
     {
+      "id": "ch2-tx-g001",
+      "term": "Acute Care Hospital",
+      "def": "A hospital that provides immediate and short-term medical treatment for patients with serious, sudden, or urgent conditions. SLPs working in acute care settings typically see patients with recent strokes, traumatic brain injuries, or other acute neurological events that affect communication and swallowing. Acute care is the most intensive end of the medical care continuum; patients are stabilized and then transferred to less intensive settings such as subacute hospitals or SNFs.",
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Ch. 2 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
+    },
+    {
       "id": "fogle-acute_care_hospitals",
       "term": "Acute care hospitals",
       "def": "A hospital where patients are treated for brief but severe episodes of illness, injury, trauma, or during recovery from surgery.",
@@ -1775,6 +1783,14 @@
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Textbook Glossary"
     },
     {
+      "id": "ch2-tx-g005",
+      "term": "Cultural Competence",
+      "def": "Understanding and appropriately responding to the unique combination of cultural variables and the full range of dimensions of diversity that the professional and client/patient/family bring to interactions (ASHA, 2017). Cultural and linguistic diversity can incorporate: age, disability, ethnicity, gender identity, national origin, race, religion, sex, sexual orientation, and veteran status. Developing cultural competence is a DYNAMIC, LIFELONG process beginning with self-assessment, continuing through interactions with diverse individuals. It is NOT a fixed endpoint — it evolves continuously throughout one's career.",
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Ch. 2 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
+    },
+    {
       "id": "ch4-g031",
       "term": "Cultural Linguistic Diversity (CLD)",
       "def": "A perspective of language development that emphasizes the similarities and differences of people and languages spoken around the world, and stresses that no language or dialect is better than another. SLPs must appreciate CLD and distinguish language differences from language disorders.",
@@ -1893,6 +1909,14 @@
       "module": "mod-5",
       "chapter": "6",
       "source": "Ch. 6 PPTX — Fogle/SJDC"
+    },
+    {
+      "id": "ch2-tx-g006",
+      "term": "Diagnosis (SLP/Audiology)",
+      "def": "The SLP's professional decision as to the specific diagnostic terms that best represent the client's or patient's communication, cognitive, or swallowing problems. Based on signs, symptoms, and test results. For insurance reimbursement, specific CPT (Current Procedural Terminology) codes from the AMA and ICD-10 codes from the WHO must be included in billing. A formal written description of the client's problems and all therapy goals, rationales, and procedures is required documentation.",
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Ch. 2 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
     },
     {
       "id": "ch4-g032",
@@ -2350,12 +2374,28 @@
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Textbook Glossary"
     },
     {
+      "id": "ch2-tx-g007",
+      "term": "Evaluation (Assessment)",
+      "def": "The process of examining a client/patient to identify the nature, cause, severity, and characteristics of a communication or swallowing problem. EVALUATION refers to the process; ASSESSMENT refers to its result — the terms are often used interchangeably. A thorough evaluation follows EBP guidelines and typically includes an interview plus standardized and/or clinician-devised (nonstandardized) assessments. Purposes: determine cause, nature, whether progressive or static, what makes the problem better/worse, severity, treatment goals, and potential for habilitation or rehabilitation.",
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Ch. 2 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
+    },
+    {
       "id": "ch5-g039",
       "term": "Evidence-Based Practice (EBP)",
       "def": "The foundation and guiding principle of assessment and treatment by speech-language pathologists. Requires that clinical decisions integrate the best available research evidence, clinical expertise, and client/family values and preferences. SLPs must be scientists, humanists, and artists — applying scientific knowledge with individualized, client-centered approaches.",
       "module": "mod-4",
       "chapter": "5",
       "source": "Quiz answer key — Ch. 5"
+    },
+    {
+      "id": "ch2-tx-g008",
+      "term": "Evidence-Based Practice (EBP)",
+      "def": "The integration of THREE components to provide high-quality services: (1) EXTERNAL SCIENTIFIC EVIDENCE — current, high-quality research; (2) CLINICAL EXPERTISE — expert opinion and clinical skill from experienced clinicians; (3) CLIENT/PATIENT/CAREGIVER PERSPECTIVES — individual preferences, values, needs, environment, and culture. Because EBP is client/patient/family-centered, the clinician must interpret best evidence in relation to the INDIVIDUAL. EBP is a CONTINUING, DYNAMIC process — it evolves as new research emerges. All SLP evaluations and therapy must be founded on EBP (ASHA, 2012).",
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Ch. 2 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
     },
     {
       "id": "slp-ch18-g013",
@@ -2468,6 +2508,14 @@
       "chapter": "1",
       "module": "mod-1",
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Textbook Glossary"
+    },
+    {
+      "id": "ch2-tx-g015",
+      "term": "Federal Legislation Timeline (Special Education)",
+      "def": "Key federal laws expanding SLP/audiology services in schools:\n• 1965: PL 89-10 — Elementary and Secondary Education Act: funding for students with special needs.\n• 1975: PL 94-142 — Education of All Handicapped Children Act: FAPE in LRE for all school-age children with disabilities, including SLP services.\n• 1986: PL 99-457 — Extended PL 94-142 to children ages 3–5 AND new programs for birth–2 years.\n• 1990: IDEA — Individuals with Disabilities Act; ADA (PL 101-336) — accessible buildings and TDDs.\n• 1999: Reauthorized IDEA — added special category for children with TBI.",
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Ch. 2 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
     },
     {
       "id": "fogle-fetal_alcohol_syndrome",
@@ -3020,6 +3068,14 @@
       "chapter": "2",
       "module": "mod-2",
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Textbook Glossary"
+    },
+    {
+      "id": "ch2-tx-g004",
+      "term": "Inpatient vs. Outpatient",
+      "def": "INPATIENT: a patient who is admitted to and resides in a hospital or rehabilitation facility while receiving care. Inpatient SLP services are provided bedside or in clinical rooms within the facility.\nOUTPATIENT: a patient who receives services at a clinic, hospital clinic, or rehabilitation center WITHOUT being admitted to the facility — they come for scheduled appointments and return home afterward. Outpatient settings allow SLPs to treat patients with less severe or more stable communication and swallowing disorders.",
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Ch. 2 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
     },
     {
       "id": "ch3s-g001",
@@ -4099,6 +4155,14 @@
       "source": "Ch. 21 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
     },
     {
+      "id": "ch2-tx-g012",
+      "term": "Person-First Language",
+      "def": "A professional convention in SLP and audiology requiring that clinicians refer to the PERSON before the disorder. Correct: 'a boy with an articulation disorder,' 'a client with a voice disorder.' Incorrect: 'He's an articulation client,' 'She's hearing impaired.' The rationale: problems are something people EXPERIENCE — they do not define who a person IS. Person-first language must be learned early and maintained vigilantly throughout one's career. Failure to use person-first language implies that the person's problem is their identity.",
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Ch. 2 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
+    },
+    {
       "id": "ch9-g016",
       "term": "Personal FM System",
       "def": "A frequency modulation (FM) assistive listening device used as part of APD treatment. The teacher or speaker wears a microphone/transmitter; the child wears a receiver that delivers the speaker's voice directly to the child's ears (bypassing distance and background noise). Improves signal-to-noise ratio dramatically. One of the three components of the environmental/assistive APD treatment approach.",
@@ -4368,6 +4432,14 @@
       "module": "mod-6",
       "chapter": "7",
       "source": "Lecture Ch. 7, Kidwell, SJDC"
+    },
+    {
+      "id": "ch2-tx-g013",
+      "term": "Professional Ethics (SLP/Audiology)",
+      "def": "The principles of conduct governing an individual or group — the process of deciding the right thing to do in a moral dilemma (Aiken, 2020). Ethics define acceptable versus unacceptable behaviors and promote high, consistent standards of practice. ASHA has maintained a Code of Ethics since its founding in 1925. Once an SLP or audiologist signs the ASHA Code of Ethics agreement and holds a CCC, they must abide by it REGARDLESS of employment setting, level of experience, or nature of clientele. Violation can result in loss of certification or licensure.",
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Ch. 2 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
     },
     {
       "id": "fogle-prognosis",
@@ -4664,6 +4736,14 @@
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 20"
     },
     {
+      "id": "ch2-tx-g009",
+      "term": "Signs vs. Symptoms",
+      "def": "SIGNS: objective, observable, measurable indicators of a disorder that can be identified and measured by a clinician (e.g., hypernasality heard during assessment, measurable articulatory errors, abnormal swallowing pattern on instrumental assessment). SYMPTOMS: subjective experiences reported by the client or patient themselves (e.g., 'I have trouble finding the right words,' 'My voice gets tired by the afternoon'). Diagnosis is based on BOTH signs and symptoms, together with test results.",
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Ch. 2 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
+    },
+    {
       "id": "fogle-silent_aspiration",
       "term": "Silent aspiration",
       "def": "Penetration of food or liquid (including saliva) into the larynx and passing below the vocal folds without a protective cough or choking occurring.",
@@ -4678,6 +4758,14 @@
       "module": "mod-5",
       "chapter": "17",
       "source": "Lecture Ch. 17, Kidwell / Ch. 17 PPTX"
+    },
+    {
+      "id": "ch2-tx-g002",
+      "term": "Skilled Nursing Facility (SNF) / Convalescent Hospital",
+      "def": "A residential medical facility providing skilled nursing care and rehabilitation services (including speech-language pathology) to patients who are recovering from illness, injury, or surgery and no longer need acute hospitalization but are not yet ready to return home. Also called a convalescent hospital. A common work setting for SLPs, especially for post-stroke and post-surgical patients who require ongoing swallowing and communication rehabilitation.",
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Ch. 2 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
     },
     {
       "id": "ch7-g008",
@@ -4702,6 +4790,14 @@
       "module": "mod-1",
       "chapter": "2",
       "source": "Lecture 1.2.2 — Chapter 2: The Professionals, Kidwell, SJDC Comm Dis 1A"
+    },
+    {
+      "id": "ch2-tx-g014",
+      "term": "SLPA Responsibilities (ASHA 2000)",
+      "def": "ASHA-defined tasks SLPAs MAY perform under SLP supervision: (1) assist SLP with speech-language and hearing screenings (without interpretation); (2) follow documented treatment plans developed by the supervising SLP; (3) document patient performance and report to supervising SLP; (4) assist SLP during assessment; (5) assist with informal documentation as directed; (6) assist with materials preparation and scheduling; (7) collect quality improvement data; (8) perform equipment checks and maintenance. SLPAs may NOT independently diagnose, interpret results, or make clinical decisions — all tasks must be prescribed, directed, and supervised by an ASHA-certified SLP.",
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Ch. 2 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
     },
     {
       "id": "fogle-social_pragmatic_communication_disorder_",
@@ -4928,6 +5024,14 @@
       "source": "Lecture Ch. 12, Kidwell / Fluency_Disorders.pdf"
     },
     {
+      "id": "ch2-tx-g003",
+      "term": "Subacute Hospital",
+      "def": "A medical facility that provides a level of care between acute hospital care and long-term skilled nursing care. Subacute hospitals serve patients who are medically stable but still require intensive rehabilitation services, including speech-language pathology for communication and swallowing disorders. A step-down from acute care — patients typically transition from acute → subacute → SNF or home with outpatient services.",
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Ch. 2 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
+    },
+    {
       "id": "ch3-g057",
       "term": "Subglottic Air Pressure",
       "def": "Air pressure that builds up below the closed (adducted) vocal folds. When sufficient pressure builds, it forces the vocal folds open. Bernoulli's law then causes them to snap back shut, producing the vibration cycle that creates voice.",
@@ -4958,6 +5062,14 @@
       "module": "mod-1",
       "chapter": "1",
       "source": "Lecture 1.2.1 — Chapter 1, Kidwell, SJDC Comm Dis 1A"
+    },
+    {
+      "id": "ch2-tx-g010",
+      "term": "Swallowing Disorders (Dysphagia)",
+      "def": "Disorders of the swallowing mechanism that affect the oral, pharyngeal, laryngeal, and respiratory systems. DYSPHAGIA = difficulty swallowing. Added to SLP scope of practice as the professions expanded — SLPs can work with dysphagia regardless of a person's communication abilities. A major area of SLP practice especially in medical settings. NOT technically a communication disorder, but one of the most critical areas of SLP work, particularly in hospitals, SNFs, and home health settings. Associated with aspiration risk.",
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Ch. 2 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
     },
     {
       "id": "ch3s-g014",
@@ -5006,6 +5118,14 @@
       "module": "mod-1",
       "chapter": "2",
       "source": "Lecture 1.2.2 — Chapter 2: The Professionals, Kidwell, SJDC Comm Dis 1A"
+    },
+    {
+      "id": "ch2-tx-g011",
+      "term": "Telecommunication Devices for the Deaf (TDD)",
+      "def": "Devices that allow people who are deaf or hard of hearing to communicate via text over telephone lines. Mandated as a reasonable accommodation by the Americans with Disabilities Act (ADA) of 1990 (Public Law 101-336), which required effective communication accommodations for people with disabilities, including TDDs, interpreters, and sign language. Now largely supplemented by modern technologies such as text messaging, video relay services, and captioned telephone. Also known as TTY (teletypewriter) in some contexts.",
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Ch. 2 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
     },
     {
       "id": "ch4-g017",
@@ -11075,6 +11195,126 @@
       "module": "mod-13",
       "chapter": "21",
       "source": "Ch. 21 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
+    },
+    {
+      "id": "ch2-tx-f001",
+      "front": "What are the three components of Evidence-Based Practice (EBP)?",
+      "back": "1. EXTERNAL SCIENTIFIC EVIDENCE — current, high-quality research\n2. CLINICAL EXPERTISE — expert opinion and skills of experienced clinicians\n3. CLIENT/PATIENT/CAREGIVER PERSPECTIVES — individual preferences, values, needs, environment, and culture\nAll three must be integrated. EBP is client/patient/family centered and is a CONTINUOUS, DYNAMIC process, not a fixed checklist.",
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Ch. 2 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
+    },
+    {
+      "id": "ch2-tx-f002",
+      "front": "What is person-first language and why is it important in SLP?",
+      "back": "Person-first language means referring to the PERSON before the disorder: 'a child with a language disorder' NOT 'a language-disordered child.' It is important because problems are something people EXPERIENCE — they do not define who a person IS. Saying 'He's a TBI' reduces a person to their diagnosis. Person-first language must be learned early and maintained vigilantly throughout a clinician's career.",
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Ch. 2 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
+    },
+    {
+      "id": "ch2-tx-f003",
+      "front": "What is the difference between signs and symptoms in clinical practice?",
+      "back": "SIGNS: objective, observable, measurable indicators identified by the clinician during evaluation (e.g., measurable articulatory errors, hypernasality on assessment).\nSYMPTOMS: subjective experiences reported by the patient themselves (e.g., 'I can't find the right words'). SLP diagnosis is based on BOTH signs and symptoms plus test results.",
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Ch. 2 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
+    },
+    {
+      "id": "ch2-tx-f004",
+      "front": "What is cultural competence and why is it described as a dynamic process?",
+      "back": "Cultural competence is understanding and appropriately responding to the unique cultural variables clients and families bring to clinical interactions — including age, disability, ethnicity, gender identity, national origin, race, religion, sex, sexual orientation, and veteran status (ASHA, 2017). It is DYNAMIC because it is never 'finished' — it begins with self-assessment of one's own biases, develops through interactions with diverse individuals, and continues as lifelong learning throughout one's career.",
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Ch. 2 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
+    },
+    {
+      "id": "ch2-tx-f005",
+      "front": "What is dysphagia, and why is it within the SLP's scope of practice?",
+      "back": "DYSPHAGIA = difficulty swallowing. It is a disorder of the swallowing mechanism involving the oral, pharyngeal, laryngeal, and/or respiratory systems. It was added to the SLP scope of practice as the profession expanded — SLPs can work with dysphagia regardless of a person's communication abilities. It is especially important in medical settings (hospitals, SNFs, home health) due to the risk of aspiration pneumonia. NOT technically classified as a communication disorder.",
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Ch. 2 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
+    },
+    {
+      "id": "ch2-tx-f006",
+      "front": "What is the difference between evaluation and assessment in SLP?",
+      "back": "EVALUATION: the PROCESS of examining the client/patient — conducting the interview, tests, and observations.\nASSESSMENT: the RESULT of that evaluation — the conclusions drawn from the examination.\nIn practice, the terms are used interchangeably and are listed as synonyms in many dictionaries. Both must follow EBP guidelines.",
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Ch. 2 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
+    },
+    {
+      "id": "ch2-tx-f007",
+      "front": "What are the eight purposes of an SLP evaluation?",
+      "back": "1. The CAUSE of the problem\n2. The NATURE of the problem\n3. Whether the problem is PROGRESSIVE or STATIC\n4. The CHARACTERISTICS of the problem\n5. What makes the problem BETTER and WORSE\n6. The SEVERITY of the problem\n7. TREATMENT GOALS\n8. POTENTIAL for habilitation or rehabilitation",
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Ch. 2 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
+    },
+    {
+      "id": "ch2-tx-f008",
+      "front": "What is the continuum of medical care settings in which SLPs work, from most to least intensive?",
+      "back": "Most intensive → Least intensive:\n1. ACUTE CARE HOSPITAL — immediate, short-term care for serious/urgent conditions\n2. SUBACUTE HOSPITAL — medically stable but still needs intensive rehab\n3. SKILLED NURSING FACILITY (SNF) / CONVALESCENT HOSPITAL — residential, longer-term rehab\n4. OUTPATIENT CLINIC — scheduled appointments, patient returns home\n5. HOME HEALTH CARE — therapy provided in the patient's home",
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Ch. 2 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
+    },
+    {
+      "id": "ch2-tx-f009",
+      "front": "What is the ADA (1990), and what did it mandate related to communication?",
+      "back": "The Americans with Disabilities Act (ADA) — Public Law 101-336 — mandated IMPROVED ACCESS for individuals with handicaps to buildings and facilities, and provided for EFFECTIVE COMMUNICATION for people with disabilities, including the use of interpreters, sign language, and telecommunication devices for the deaf (TDD). It represented a major civil rights milestone for people with disabilities.",
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Ch. 2 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
+    },
+    {
+      "id": "ch2-tx-f010",
+      "front": "What does Public Law 99-457 (1986) add to the existing protections of PL 94-142?",
+      "back": "PL 99-457 extended the provisions of PL 94-142 (FAPE) to children with disabilities ages 3–5, AND created NEW federally funded programs for children with disabilities from BIRTH through 2 years of age. This was a major expansion — it brought SLP services into early intervention for infants and toddlers, not just school-age children.",
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Ch. 2 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
+    },
+    {
+      "id": "ch2-tx-f011",
+      "front": "What tasks are SLPAs PERMITTED and NOT PERMITTED to do?",
+      "back": "PERMITTED (always under SLP supervision): screening assistance (no interpretation), following SLP treatment plans, documenting patient performance, assisting during assessment, informal documentation, materials prep, data collection, equipment maintenance.\nNOT PERMITTED: independently diagnose, interpret assessment results, make clinical decisions, conduct unsupervised evaluations. ALL tasks must be prescribed, directed, and supervised by an ASHA-certified SLP.",
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Ch. 2 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
+    },
+    {
+      "id": "ch2-tx-f012",
+      "front": "What does ASHA say about students and professionals who speak with accents or dialects?",
+      "back": "ASHA (1998a, 1998b) states that students and professionals who speak with accents or nonstandard dialects CAN effectively provide speech, language, and audiological services as long as they have: (1) the expected level of knowledge in normal and disordered communication, (2) the expected level of diagnostic and clinical case management skills, and (3) if modeling is necessary, the ability to model the target phoneme, feature, or other aspect characterizing the client's problem. This was reaffirmed in ASHA's 2011 Professional Issues Statement.",
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Ch. 2 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
+    },
+    {
+      "id": "ch2-tx-f013",
+      "front": "Why is the SLP's employment outlook described as excellent, and what is the expected growth rate?",
+      "back": "The U.S. Bureau of Labor Statistics (2020 Occupational Outlook Handbook) projected a 25% INCREASE in SLP positions for 2019–2029 — 'much faster than average for all occupations.' Key drivers: growing elderly population susceptible to strokes, increasing survival of premature infants who need SLP services, and growing public awareness of speech/language/swallowing disorders. Only 1% of ASHA-certified SLPs were unemployed and seeking work as of 2015.",
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Ch. 2 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
+    },
+    {
+      "id": "ch2-tx-f014",
+      "front": "What is the ASHA Code of Ethics and when does it apply?",
+      "back": "The ASHA Code of Ethics is the set of standards of conduct that guide professional behavior for all CCC-certified SLPs and audiologists — defining acceptable versus unacceptable behaviors and promoting high, consistent standards of practice. Once an SLP or audiologist signs the agreement and holds a current CCC, they must abide by it REGARDLESS of employment setting, level of experience, or nature of clientele. Violations can result in loss of certification or licensure. ASHA has maintained a Code of Ethics since its founding in 1925.",
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Ch. 2 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
+    },
+    {
+      "id": "ch2-tx-f015",
+      "front": "In what ways does the 'iceberg analogy' describe who SLPs help?",
+      "back": "The person with a communication disorder is the 'tip of the iceberg' — visible, but below the surface are the many people affected by that person's communication difficulties: family, friends, teachers, coworkers, employers, and countless others with whom the individual tries to communicate (Figure 2.1). When SLPs help individuals improve communication, they indirectly help all those surrounding people — most of whom the SLP never meets.",
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Ch. 2 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
     }
   ],
   "questions": [
@@ -16536,6 +16776,278 @@
       "module": "mod-13",
       "chapter": "21",
       "source": "Ch. 21 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
+    },
+    {
+      "id": "ch2-tx-q001",
+      "type": "mc",
+      "text": "Evidence-based practice (EBP) in speech-language pathology integrates which THREE components?",
+      "options": [
+        "Clinical experience, client fees, and institutional guidelines",
+        "External scientific evidence, clinical expertise, and client/patient/caregiver perspectives",
+        "Diagnostic manuals, employer policies, and insurance codes",
+        "Research journals, standardized tests, and treatment protocols"
+      ],
+      "answer": "External scientific evidence, clinical expertise, and client/patient/caregiver perspectives",
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Ch. 2 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
+    },
+    {
+      "id": "ch2-tx-q002",
+      "type": "mc",
+      "text": "Which of the following is the BEST example of person-first language?",
+      "options": [
+        "She's a TBI patient",
+        "He's a stutterer",
+        "A child with a language disorder",
+        "The aphasia case in room 4"
+      ],
+      "answer": "A child with a language disorder",
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Ch. 2 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
+    },
+    {
+      "id": "ch2-tx-q003",
+      "type": "mc",
+      "text": "Which federal law (1990) mandated effective communication access for people with disabilities, including sign language interpreters and telecommunication devices for the deaf?",
+      "options": [
+        "Public Law 94-142",
+        "Public Law 99-457",
+        "The Americans with Disabilities Act (ADA)",
+        "The Elementary and Secondary Education Act"
+      ],
+      "answer": "The Americans with Disabilities Act (ADA)",
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Ch. 2 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
+    },
+    {
+      "id": "ch2-tx-q004",
+      "type": "mc",
+      "text": "An SLP notices that a patient's voice sounds hypernasal during an evaluation. This is an example of a:",
+      "options": [
+        "Symptom",
+        "Sign",
+        "Diagnosis",
+        "Treatment goal"
+      ],
+      "answer": "Sign",
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Ch. 2 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
+    },
+    {
+      "id": "ch2-tx-q005",
+      "type": "mc",
+      "text": "A patient says, 'I have trouble finding the right words when I talk.' This is an example of a:",
+      "options": [
+        "Sign",
+        "Symptom",
+        "Diagnosis",
+        "Assessment finding"
+      ],
+      "answer": "Symptom",
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Ch. 2 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
+    },
+    {
+      "id": "ch2-tx-q006",
+      "type": "mc",
+      "text": "Which of the following is WITHIN the scope of tasks an SLPA may perform?",
+      "options": [
+        "Independently interpret assessment results and make a diagnosis",
+        "Follow documented treatment plans developed by the supervising SLP",
+        "Conduct unsupervised evaluations of new patients",
+        "Independently develop therapy goals for clients"
+      ],
+      "answer": "Follow documented treatment plans developed by the supervising SLP",
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Ch. 2 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
+    },
+    {
+      "id": "ch2-tx-q007",
+      "type": "mc",
+      "text": "According to ASHA (1998), a student or professional who speaks with an accent can effectively provide SLP services provided that they:",
+      "options": [
+        "Eliminate their accent before seeing clients",
+        "Only work with clients who share their dialect background",
+        "Have expected knowledge in normal/disordered communication, diagnostic skills, and can model target sounds if needed",
+        "Have a waiver from ASHA specifically approving their services"
+      ],
+      "answer": "Have expected knowledge in normal/disordered communication, diagnostic skills, and can model target sounds if needed",
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Ch. 2 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
+    },
+    {
+      "id": "ch2-tx-q008",
+      "type": "mc",
+      "text": "The U.S. Bureau of Labor Statistics projected what percentage increase in SLP positions for 2019–2029?",
+      "options": [
+        "10%",
+        "15%",
+        "20%",
+        "25%"
+      ],
+      "answer": "25%",
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Ch. 2 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
+    },
+    {
+      "id": "ch2-tx-q009",
+      "type": "tf",
+      "text": "Swallowing disorders (dysphagia) are classified as communication disorders within the SLP scope of practice.",
+      "answer": "false",
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Ch. 2 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
+    },
+    {
+      "id": "ch2-tx-q010",
+      "type": "tf",
+      "text": "Cultural competence is best understood as a fixed credential an SLP achieves and maintains — not something that continues to evolve throughout their career.",
+      "answer": "false",
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Ch. 2 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
+    },
+    {
+      "id": "ch2-tx-q011",
+      "type": "tf",
+      "text": "The ASHA Code of Ethics applies to all certified SLPs and audiologists regardless of their employment setting, level of experience, or the nature of their clientele.",
+      "answer": "true",
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Ch. 2 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
+    },
+    {
+      "id": "ch2-tx-q012",
+      "type": "tf",
+      "text": "Public Law 99-457 (1986) extended SLP services to children with disabilities from birth through 2 years of age.",
+      "answer": "true",
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Ch. 2 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
+    },
+    {
+      "id": "ch2-tx-q013",
+      "type": "tf",
+      "text": "In the context of SLP evaluation, the terms 'evaluation' and 'assessment' have distinctly different meanings and should never be used interchangeably.",
+      "answer": "false",
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Ch. 2 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
+    },
+    {
+      "id": "ch2-tx-q014",
+      "type": "fitb",
+      "text": "EBP integrates external scientific evidence, clinical expertise, and __________ perspectives to provide high-quality services.",
+      "answer": "client/patient/caregiver",
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Ch. 2 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
+    },
+    {
+      "id": "ch2-tx-q015",
+      "type": "fitb",
+      "text": "The professional convention of referring to 'a child with autism' rather than 'an autistic child' is called __________ language.",
+      "answer": "person-first",
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Ch. 2 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
+    },
+    {
+      "id": "ch2-tx-q016",
+      "type": "fitb",
+      "text": "The ASHA-defined term for difficulty swallowing — a major area of SLP scope of practice — is __________.",
+      "answer": "dysphagia",
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Ch. 2 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
+    },
+    {
+      "id": "ch2-tx-q017",
+      "type": "match",
+      "text": "Match each medical work setting to its correct description.",
+      "pairs": [
+        [
+          "Acute care hospital",
+          "Immediate, short-term care for patients with serious, sudden, or urgent conditions"
+        ],
+        [
+          "Subacute hospital",
+          "Medically stable patients needing intensive rehabilitation — a step down from acute care"
+        ],
+        [
+          "Skilled nursing facility (SNF)",
+          "Residential facility for patients recovering from illness or surgery — also called convalescent hospital"
+        ],
+        [
+          "Outpatient clinic",
+          "Patients attend scheduled appointments and return home — not admitted to facility"
+        ],
+        [
+          "Home health care",
+          "Therapy provided in the patient's home to avoid the cost of hospitalization"
+        ]
+      ],
+      "answer": "Acute=urgent/immediate, Subacute=stable/intensive-rehab, SNF=residential-recovery, Outpatient=no-admission/go-home, Home-health=therapy-at-home",
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Ch. 2 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
+    },
+    {
+      "id": "ch2-tx-q018",
+      "type": "match",
+      "text": "Match each federal law to its key provision for children with communication disorders.",
+      "pairs": [
+        [
+          "PL 89-10 (1965)",
+          "Elementary and Secondary Education Act — funding for students with special needs"
+        ],
+        [
+          "PL 94-142 (1975)",
+          "Education of All Handicapped Children Act — FAPE in the LRE for all school-age children with disabilities"
+        ],
+        [
+          "PL 99-457 (1986)",
+          "Extended services to children ages 3–5 and created programs for birth through age 2"
+        ],
+        [
+          "ADA / IDEA (1990)",
+          "Improved facility access and effective communication including TDDs; IDEA created for disabilities"
+        ],
+        [
+          "Reauthorized IDEA (1999)",
+          "Added special category for children and adolescents with traumatic brain injuries"
+        ]
+      ],
+      "answer": "PL89-10=funding-special-needs, PL94-142=FAPE-LRE, PL99-457=birth-to-5, ADA-IDEA=access-TDD, IDEA-1999=TBI-category",
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Ch. 2 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
+    },
+    {
+      "id": "ch2-tx-q019",
+      "type": "sa",
+      "text": "Define evidence-based practice (EBP) and explain why it must integrate all three components rather than relying on research alone.",
+      "answer": "EBP is the integration of (1) external scientific evidence — current, high-quality research; (2) clinical expertise — the knowledge and skills of experienced clinicians; and (3) client/patient/caregiver perspectives — the individual's preferences, values, needs, environment, and culture. All three must be combined because: research alone may not account for the unique circumstances of an individual client; clinical expertise provides judgment about how to apply evidence in real settings; and client perspectives ensure that services actually reflect the individual's values and goals. Because EBP is client/patient/family centered, the clinician must interpret the best current research in relation to the specific individual. Additionally, EBP is a DYNAMIC, CONTINUING process — not a finished standard — because scientific evidence and clinical best practices continually evolve.",
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Ch. 2 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
+    },
+    {
+      "id": "ch2-tx-q020",
+      "type": "sa",
+      "text": "Explain what cultural competence means for SLPs, describe why it is considered a dynamic rather than static process, and give two examples of culturally competent practice behaviors.",
+      "answer": "Cultural competence means understanding and appropriately responding to the unique combination of cultural variables clients, patients, and families bring to clinical interactions — including but not limited to age, disability, ethnicity, gender identity, national origin, race, religion, sex, sexual orientation, and veteran status (ASHA, 2017). It is DYNAMIC because it is never fully achieved — it begins with self-assessment of one's own biases and beliefs, continues through interactions with individuals from diverse backgrounds, and extends through lifelong learning. Clinicians must continuously expand their cultural knowledge throughout their careers, not merely complete a training module. Examples of culturally competent practice behaviors include: (1) completing ongoing self-assessment to identify how one's own biases might impact service delivery; (2) assessing and treating each client as an individual rather than making assumptions based on cultural group membership; (3) using culturally appropriate communication during counseling; and (4) referring to professionals with appropriate cultural/linguistic proficiency when needed.",
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Ch. 2 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
     }
   ],
   "notes": [
