@@ -895,6 +895,14 @@
       "source": "ADHD_APD.pdf / Ch. 9 PPTX / Lecture Ch. 9, Kidwell"
     },
     {
+      "id": "ch19-g014",
+      "term": "Auditory Processing Disorder (APD)",
+      "def": "A condition in which the outer, middle, and inner ear are functioning correctly, but a problem occurs at the BRAIN LEVEL in interpreting or assigning meaning to what is heard. The person can detect sound but cannot make sense of it (e.g., hearing someone speak but not understanding the words). Distinguished from hearing sensitivity impairments — the hearing mechanism works, but processing fails centrally. Many children classified with learning disabilities have an underlying APD. Diagnosed collaboratively by SLPs, school psychologists, and audiologists. Relates to auditory discrimination and auditory association abilities.",
+      "module": "mod-14",
+      "chapter": "19",
+      "source": "Ch. 19 PPTX / Lecture 14.1.1, Kidwell, SJDC"
+    },
+    {
       "id": "ch9-g009",
       "term": "Auditory Processing Disorder (APD) / Central Auditory Processing Disorder (CAPD)",
       "def": "Difficulty using auditory information to communicate and learn, WITHOUT the presence of a peripheral hearing loss (ASHA, 2005). The ear and peripheral hearing may be intact — the problem is in the CNS's processing of what was heard. Also called Central APD (CAPD). Kidwell's view: APD is a type of RECEPTIVE LANGUAGE DISORDER. APD may negatively impact language, learning, and reading. Characterized by 'paucity' (limited) research. APD, ADHD, learning disorders, psychological disorders, and psychophysiological disorders may all interact.",
@@ -1853,6 +1861,14 @@
       "module": "mod-2",
       "chapter": "3",
       "source": "Lecture 2.2 — Ch. 3, Kidwell, SJDC Comm Dis 1A"
+    },
+    {
+      "id": "ch19-g013",
+      "term": "Degrees of Hearing Loss",
+      "def": "Classification of hearing loss severity by pure-tone thresholds (dB HL):\n• NORMAL: -10 to 10 dB — hears speech normally\n• MINIMAL: 10–25 dB — difficulty hearing faint speech in noise\n• MILD: 25–40 dB — difficulty hearing faint/distant speech even in quiet\n• MODERATE: 40–55 dB — hears only close-distance conversational speech\n• MODERATELY SEVERE: 55–70 dB — hears only loud conversational speech\n• SEVERE: 70–90 dB — cannot hear conversational speech\n• PROFOUND: >90 dB — may hear loud sounds; hearing is NOT the primary communication channel\nProfound sensorineural hearing loss = DEAFNESS.",
+      "module": "mod-14",
+      "chapter": "19",
+      "source": "Ch. 19 PPTX / Lecture 14.1.1, Kidwell, SJDC"
     },
     {
       "id": "ch12-g010",
@@ -3827,6 +3843,14 @@
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Textbook Glossary"
     },
     {
+      "id": "ch19-g011",
+      "term": "Noise-Induced Hearing Loss (NIHL)",
+      "def": "Sensorineural hearing loss caused by damage to cochlear hair cells from exposure to loud sounds. Generally PAINLESS, PROGRESSIVE, and PERMANENT — and PREVENTABLE. Can be caused by a single acoustic trauma (e.g., gunfire) or long-term exposure to sounds over 85 dB. Common sources: concerts, earbuds/headphones, power tools, machinery, gunfire, jet engines. Prevention: earplugs, lower volume, limit exposure time. The SLP has a role in protecting one's own hearing and educating clients and families. Key stat: sounds above 85 dB are considered damaging; jet takeoff/gunfire = 130+ dB.",
+      "module": "mod-14",
+      "chapter": "19",
+      "source": "Ch. 19 PPTX / Lecture 14.1.1, Kidwell, SJDC"
+    },
+    {
       "id": "fogle-nonfluent_aphasia",
       "term": "Nonfluent aphasia",
       "def": "Aphasia that results from damage to anterior cortical regions (i.e., frontal lobe lesions) and is characterized by sparse, perseverative language with disturbed prosody, misarticulations, errors in syntax, and a reduction in phrase length.",
@@ -5238,6 +5262,14 @@
       "chapter": "7",
       "module": "mod-7",
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Textbook Glossary"
+    },
+    {
+      "id": "ch19-g012",
+      "term": "Tinnitus / Meniere's Disease / Presbycusis",
+      "def": "TINNITUS: ringing, buzzing, or other phantom sounds in the ears — can be severely debilitating; affects sleep, concentration, and social functioning; no definitive cure. MENIERE'S DISEASE: inner ear disorder characterized by the triad of VERTIGO, TINNITUS, and SENSORINEURAL HEARING LOSS; involves disruption of inner ear fluid balance. PRESBYCUSIS: age-related sensorineural hearing loss — gradual, progressive; caused by a lifetime of loud noise exposure, ototoxic chemicals, and reduced blood flow to the cochlea; affects most people eventually. All three are evaluated and treated by the AUDIOLOGIST.",
+      "module": "mod-14",
+      "chapter": "19",
+      "source": "Ch. 19 PPTX / Lecture 14.1.1, Kidwell, SJDC"
     },
     {
       "id": "ch3-g035",
