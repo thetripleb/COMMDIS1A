@@ -201,14 +201,6 @@
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Textbook Glossary"
     },
     {
-      "id": "ch2-tx-g001",
-      "term": "Acute Care Hospital",
-      "def": "A hospital that provides immediate and short-term medical treatment for patients with serious, sudden, or urgent conditions. SLPs working in acute care settings typically see patients with recent strokes, traumatic brain injuries, or other acute neurological events that affect communication and swallowing. Acute care is the most intensive end of the medical care continuum; patients are stabilized and then transferred to less intensive settings such as subacute hospitals or SNFs.",
-      "module": "mod-1",
-      "chapter": "2",
-      "source": "Ch. 2 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
-    },
-    {
       "id": "fogle-acute_care_hospitals",
       "term": "Acute care hospitals",
       "def": "A hospital where patients are treated for brief but severe episodes of illness, injury, trauma, or during recovery from surgery.",
@@ -893,14 +885,6 @@
       "module": "mod-7",
       "chapter": "9",
       "source": "ADHD_APD.pdf / Ch. 9 PPTX / Lecture Ch. 9, Kidwell"
-    },
-    {
-      "id": "ch19-g014",
-      "term": "Auditory Processing Disorder (APD)",
-      "def": "A condition in which the outer, middle, and inner ear are functioning correctly, but a problem occurs at the BRAIN LEVEL in interpreting or assigning meaning to what is heard. The person can detect sound but cannot make sense of it (e.g., hearing someone speak but not understanding the words). Distinguished from hearing sensitivity impairments — the hearing mechanism works, but processing fails centrally. Many children classified with learning disabilities have an underlying APD. Diagnosed collaboratively by SLPs, school psychologists, and audiologists. Relates to auditory discrimination and auditory association abilities.",
-      "module": "mod-14",
-      "chapter": "19",
-      "source": "Ch. 19 PPTX / Lecture 14.1.1, Kidwell, SJDC"
     },
     {
       "id": "ch9-g009",
@@ -1791,14 +1775,6 @@
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Textbook Glossary"
     },
     {
-      "id": "ch2-tx-g005",
-      "term": "Cultural Competence",
-      "def": "Understanding and appropriately responding to the unique combination of cultural variables and the full range of dimensions of diversity that the professional and client/patient/family bring to interactions (ASHA, 2017). Cultural and linguistic diversity can incorporate: age, disability, ethnicity, gender identity, national origin, race, religion, sex, sexual orientation, and veteran status. Developing cultural competence is a DYNAMIC, LIFELONG process beginning with self-assessment, continuing through interactions with diverse individuals. It is NOT a fixed endpoint — it evolves continuously throughout one's career.",
-      "module": "mod-1",
-      "chapter": "2",
-      "source": "Ch. 2 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
-    },
-    {
       "id": "ch4-g031",
       "term": "Cultural Linguistic Diversity (CLD)",
       "def": "A perspective of language development that emphasizes the similarities and differences of people and languages spoken around the world, and stresses that no language or dialect is better than another. SLPs must appreciate CLD and distinguish language differences from language disorders.",
@@ -1863,14 +1839,6 @@
       "source": "Lecture 2.2 — Ch. 3, Kidwell, SJDC Comm Dis 1A"
     },
     {
-      "id": "ch19-g013",
-      "term": "Degrees of Hearing Loss",
-      "def": "Classification of hearing loss severity by pure-tone thresholds (dB HL):\n• NORMAL: -10 to 10 dB — hears speech normally\n• MINIMAL: 10–25 dB — difficulty hearing faint speech in noise\n• MILD: 25–40 dB — difficulty hearing faint/distant speech even in quiet\n• MODERATE: 40–55 dB — hears only close-distance conversational speech\n• MODERATELY SEVERE: 55–70 dB — hears only loud conversational speech\n• SEVERE: 70–90 dB — cannot hear conversational speech\n• PROFOUND: >90 dB — may hear loud sounds; hearing is NOT the primary communication channel\nProfound sensorineural hearing loss = DEAFNESS.",
-      "module": "mod-14",
-      "chapter": "19",
-      "source": "Ch. 19 PPTX / Lecture 14.1.1, Kidwell, SJDC"
-    },
-    {
       "id": "ch12-g010",
       "term": "Delayed Auditory Feedback (DAF)",
       "def": "An assistive/treatment device that plays back the speaker's own voice with a slight delay through earphones. Creates a condition in which stuttering is significantly reduced or eliminated — similar to speaking in unison or choral reading. Once large (reel-to-reel), DAF devices are now small enough to fit like a hearing aid. Used as both a treatment tool and a demonstration of how auditory feedback affects speech fluency.",
@@ -1925,14 +1893,6 @@
       "module": "mod-5",
       "chapter": "6",
       "source": "Ch. 6 PPTX — Fogle/SJDC"
-    },
-    {
-      "id": "ch2-tx-g006",
-      "term": "Diagnosis (SLP/Audiology)",
-      "def": "The SLP's professional decision as to the specific diagnostic terms that best represent the client's or patient's communication, cognitive, or swallowing problems. Based on signs, symptoms, and test results. For insurance reimbursement, specific CPT (Current Procedural Terminology) codes from the AMA and ICD-10 codes from the WHO must be included in billing. A formal written description of the client's problems and all therapy goals, rationales, and procedures is required documentation.",
-      "module": "mod-1",
-      "chapter": "2",
-      "source": "Ch. 2 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
     },
     {
       "id": "ch4-g032",
@@ -2390,28 +2350,12 @@
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Textbook Glossary"
     },
     {
-      "id": "ch2-tx-g007",
-      "term": "Evaluation (Assessment)",
-      "def": "The process of examining a client/patient to identify the nature, cause, severity, and characteristics of a communication or swallowing problem. EVALUATION refers to the process; ASSESSMENT refers to its result — the terms are often used interchangeably. A thorough evaluation follows EBP guidelines and typically includes an interview plus standardized and/or clinician-devised (nonstandardized) assessments. Purposes: determine cause, nature, whether progressive or static, what makes the problem better/worse, severity, treatment goals, and potential for habilitation or rehabilitation.",
-      "module": "mod-1",
-      "chapter": "2",
-      "source": "Ch. 2 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
-    },
-    {
       "id": "ch5-g039",
       "term": "Evidence-Based Practice (EBP)",
       "def": "The foundation and guiding principle of assessment and treatment by speech-language pathologists. Requires that clinical decisions integrate the best available research evidence, clinical expertise, and client/family values and preferences. SLPs must be scientists, humanists, and artists — applying scientific knowledge with individualized, client-centered approaches.",
       "module": "mod-4",
       "chapter": "5",
       "source": "Quiz answer key — Ch. 5"
-    },
-    {
-      "id": "ch2-tx-g008",
-      "term": "Evidence-Based Practice (EBP)",
-      "def": "The integration of THREE components to provide high-quality services: (1) EXTERNAL SCIENTIFIC EVIDENCE — current, high-quality research; (2) CLINICAL EXPERTISE — expert opinion and clinical skill from experienced clinicians; (3) CLIENT/PATIENT/CAREGIVER PERSPECTIVES — individual preferences, values, needs, environment, and culture. Because EBP is client/patient/family-centered, the clinician must interpret best evidence in relation to the INDIVIDUAL. EBP is a CONTINUING, DYNAMIC process — it evolves as new research emerges. All SLP evaluations and therapy must be founded on EBP (ASHA, 2012).",
-      "module": "mod-1",
-      "chapter": "2",
-      "source": "Ch. 2 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
     },
     {
       "id": "slp-ch18-g013",
@@ -2524,14 +2468,6 @@
       "chapter": "1",
       "module": "mod-1",
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Textbook Glossary"
-    },
-    {
-      "id": "ch2-tx-g015",
-      "term": "Federal Legislation Timeline (Special Education)",
-      "def": "Key federal laws expanding SLP/audiology services in schools:\n• 1965: PL 89-10 — Elementary and Secondary Education Act: funding for students with special needs.\n• 1975: PL 94-142 — Education of All Handicapped Children Act: FAPE in LRE for all school-age children with disabilities, including SLP services.\n• 1986: PL 99-457 — Extended PL 94-142 to children ages 3–5 AND new programs for birth–2 years.\n• 1990: IDEA — Individuals with Disabilities Act; ADA (PL 101-336) — accessible buildings and TDDs.\n• 1999: Reauthorized IDEA — added special category for children with TBI.",
-      "module": "mod-1",
-      "chapter": "2",
-      "source": "Ch. 2 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
     },
     {
       "id": "fogle-fetal_alcohol_syndrome",
@@ -3084,14 +3020,6 @@
       "chapter": "2",
       "module": "mod-2",
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Textbook Glossary"
-    },
-    {
-      "id": "ch2-tx-g004",
-      "term": "Inpatient vs. Outpatient",
-      "def": "INPATIENT: a patient who is admitted to and resides in a hospital or rehabilitation facility while receiving care. Inpatient SLP services are provided bedside or in clinical rooms within the facility.\nOUTPATIENT: a patient who receives services at a clinic, hospital clinic, or rehabilitation center WITHOUT being admitted to the facility — they come for scheduled appointments and return home afterward. Outpatient settings allow SLPs to treat patients with less severe or more stable communication and swallowing disorders.",
-      "module": "mod-1",
-      "chapter": "2",
-      "source": "Ch. 2 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
     },
     {
       "id": "ch3s-g001",
@@ -3843,14 +3771,6 @@
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Textbook Glossary"
     },
     {
-      "id": "ch19-g011",
-      "term": "Noise-Induced Hearing Loss (NIHL)",
-      "def": "Sensorineural hearing loss caused by damage to cochlear hair cells from exposure to loud sounds. Generally PAINLESS, PROGRESSIVE, and PERMANENT — and PREVENTABLE. Can be caused by a single acoustic trauma (e.g., gunfire) or long-term exposure to sounds over 85 dB. Common sources: concerts, earbuds/headphones, power tools, machinery, gunfire, jet engines. Prevention: earplugs, lower volume, limit exposure time. The SLP has a role in protecting one's own hearing and educating clients and families. Key stat: sounds above 85 dB are considered damaging; jet takeoff/gunfire = 130+ dB.",
-      "module": "mod-14",
-      "chapter": "19",
-      "source": "Ch. 19 PPTX / Lecture 14.1.1, Kidwell, SJDC"
-    },
-    {
       "id": "fogle-nonfluent_aphasia",
       "term": "Nonfluent aphasia",
       "def": "Aphasia that results from damage to anterior cortical regions (i.e., frontal lobe lesions) and is characterized by sparse, perseverative language with disturbed prosody, misarticulations, errors in syntax, and a reduction in phrase length.",
@@ -4179,14 +4099,6 @@
       "source": "Ch. 21 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
     },
     {
-      "id": "ch2-tx-g012",
-      "term": "Person-First Language",
-      "def": "A professional convention in SLP and audiology requiring that clinicians refer to the PERSON before the disorder. Correct: 'a boy with an articulation disorder,' 'a client with a voice disorder.' Incorrect: 'He's an articulation client,' 'She's hearing impaired.' The rationale: problems are something people EXPERIENCE — they do not define who a person IS. Person-first language must be learned early and maintained vigilantly throughout one's career. Failure to use person-first language implies that the person's problem is their identity.",
-      "module": "mod-1",
-      "chapter": "2",
-      "source": "Ch. 2 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
-    },
-    {
       "id": "ch9-g016",
       "term": "Personal FM System",
       "def": "A frequency modulation (FM) assistive listening device used as part of APD treatment. The teacher or speaker wears a microphone/transmitter; the child wears a receiver that delivers the speaker's voice directly to the child's ears (bypassing distance and background noise). Improves signal-to-noise ratio dramatically. One of the three components of the environmental/assistive APD treatment approach.",
@@ -4456,14 +4368,6 @@
       "module": "mod-6",
       "chapter": "7",
       "source": "Lecture Ch. 7, Kidwell, SJDC"
-    },
-    {
-      "id": "ch2-tx-g013",
-      "term": "Professional Ethics (SLP/Audiology)",
-      "def": "The principles of conduct governing an individual or group — the process of deciding the right thing to do in a moral dilemma (Aiken, 2020). Ethics define acceptable versus unacceptable behaviors and promote high, consistent standards of practice. ASHA has maintained a Code of Ethics since its founding in 1925. Once an SLP or audiologist signs the ASHA Code of Ethics agreement and holds a CCC, they must abide by it REGARDLESS of employment setting, level of experience, or nature of clientele. Violation can result in loss of certification or licensure.",
-      "module": "mod-1",
-      "chapter": "2",
-      "source": "Ch. 2 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
     },
     {
       "id": "fogle-prognosis",
@@ -4760,14 +4664,6 @@
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 20"
     },
     {
-      "id": "ch2-tx-g009",
-      "term": "Signs vs. Symptoms",
-      "def": "SIGNS: objective, observable, measurable indicators of a disorder that can be identified and measured by a clinician (e.g., hypernasality heard during assessment, measurable articulatory errors, abnormal swallowing pattern on instrumental assessment). SYMPTOMS: subjective experiences reported by the client or patient themselves (e.g., 'I have trouble finding the right words,' 'My voice gets tired by the afternoon'). Diagnosis is based on BOTH signs and symptoms, together with test results.",
-      "module": "mod-1",
-      "chapter": "2",
-      "source": "Ch. 2 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
-    },
-    {
       "id": "fogle-silent_aspiration",
       "term": "Silent aspiration",
       "def": "Penetration of food or liquid (including saliva) into the larynx and passing below the vocal folds without a protective cough or choking occurring.",
@@ -4782,14 +4678,6 @@
       "module": "mod-5",
       "chapter": "17",
       "source": "Lecture Ch. 17, Kidwell / Ch. 17 PPTX"
-    },
-    {
-      "id": "ch2-tx-g002",
-      "term": "Skilled Nursing Facility (SNF) / Convalescent Hospital",
-      "def": "A residential medical facility providing skilled nursing care and rehabilitation services (including speech-language pathology) to patients who are recovering from illness, injury, or surgery and no longer need acute hospitalization but are not yet ready to return home. Also called a convalescent hospital. A common work setting for SLPs, especially for post-stroke and post-surgical patients who require ongoing swallowing and communication rehabilitation.",
-      "module": "mod-1",
-      "chapter": "2",
-      "source": "Ch. 2 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
     },
     {
       "id": "ch7-g008",
@@ -4814,14 +4702,6 @@
       "module": "mod-1",
       "chapter": "2",
       "source": "Lecture 1.2.2 — Chapter 2: The Professionals, Kidwell, SJDC Comm Dis 1A"
-    },
-    {
-      "id": "ch2-tx-g014",
-      "term": "SLPA Responsibilities (ASHA 2000)",
-      "def": "ASHA-defined tasks SLPAs MAY perform under SLP supervision: (1) assist SLP with speech-language and hearing screenings (without interpretation); (2) follow documented treatment plans developed by the supervising SLP; (3) document patient performance and report to supervising SLP; (4) assist SLP during assessment; (5) assist with informal documentation as directed; (6) assist with materials preparation and scheduling; (7) collect quality improvement data; (8) perform equipment checks and maintenance. SLPAs may NOT independently diagnose, interpret results, or make clinical decisions — all tasks must be prescribed, directed, and supervised by an ASHA-certified SLP.",
-      "module": "mod-1",
-      "chapter": "2",
-      "source": "Ch. 2 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
     },
     {
       "id": "fogle-social_pragmatic_communication_disorder_",
@@ -5048,14 +4928,6 @@
       "source": "Lecture Ch. 12, Kidwell / Fluency_Disorders.pdf"
     },
     {
-      "id": "ch2-tx-g003",
-      "term": "Subacute Hospital",
-      "def": "A medical facility that provides a level of care between acute hospital care and long-term skilled nursing care. Subacute hospitals serve patients who are medically stable but still require intensive rehabilitation services, including speech-language pathology for communication and swallowing disorders. A step-down from acute care — patients typically transition from acute → subacute → SNF or home with outpatient services.",
-      "module": "mod-1",
-      "chapter": "2",
-      "source": "Ch. 2 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
-    },
-    {
       "id": "ch3-g057",
       "term": "Subglottic Air Pressure",
       "def": "Air pressure that builds up below the closed (adducted) vocal folds. When sufficient pressure builds, it forces the vocal folds open. Bernoulli's law then causes them to snap back shut, producing the vibration cycle that creates voice.",
@@ -5086,14 +4958,6 @@
       "module": "mod-1",
       "chapter": "1",
       "source": "Lecture 1.2.1 — Chapter 1, Kidwell, SJDC Comm Dis 1A"
-    },
-    {
-      "id": "ch2-tx-g010",
-      "term": "Swallowing Disorders (Dysphagia)",
-      "def": "Disorders of the swallowing mechanism that affect the oral, pharyngeal, laryngeal, and respiratory systems. DYSPHAGIA = difficulty swallowing. Added to SLP scope of practice as the professions expanded — SLPs can work with dysphagia regardless of a person's communication abilities. A major area of SLP practice especially in medical settings. NOT technically a communication disorder, but one of the most critical areas of SLP work, particularly in hospitals, SNFs, and home health settings. Associated with aspiration risk.",
-      "module": "mod-1",
-      "chapter": "2",
-      "source": "Ch. 2 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
     },
     {
       "id": "ch3s-g014",
@@ -5142,14 +5006,6 @@
       "module": "mod-1",
       "chapter": "2",
       "source": "Lecture 1.2.2 — Chapter 2: The Professionals, Kidwell, SJDC Comm Dis 1A"
-    },
-    {
-      "id": "ch2-tx-g011",
-      "term": "Telecommunication Devices for the Deaf (TDD)",
-      "def": "Devices that allow people who are deaf or hard of hearing to communicate via text over telephone lines. Mandated as a reasonable accommodation by the Americans with Disabilities Act (ADA) of 1990 (Public Law 101-336), which required effective communication accommodations for people with disabilities, including TDDs, interpreters, and sign language. Now largely supplemented by modern technologies such as text messaging, video relay services, and captioned telephone. Also known as TTY (teletypewriter) in some contexts.",
-      "module": "mod-1",
-      "chapter": "2",
-      "source": "Ch. 2 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
     },
     {
       "id": "ch4-g017",
@@ -5262,14 +5118,6 @@
       "chapter": "7",
       "module": "mod-7",
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Textbook Glossary"
-    },
-    {
-      "id": "ch19-g012",
-      "term": "Tinnitus / Meniere's Disease / Presbycusis",
-      "def": "TINNITUS: ringing, buzzing, or other phantom sounds in the ears — can be severely debilitating; affects sleep, concentration, and social functioning; no definitive cure. MENIERE'S DISEASE: inner ear disorder characterized by the triad of VERTIGO, TINNITUS, and SENSORINEURAL HEARING LOSS; involves disruption of inner ear fluid balance. PRESBYCUSIS: age-related sensorineural hearing loss — gradual, progressive; caused by a lifetime of loud noise exposure, ototoxic chemicals, and reduced blood flow to the cochlea; affects most people eventually. All three are evaluated and treated by the AUDIOLOGIST.",
-      "module": "mod-14",
-      "chapter": "19",
-      "source": "Ch. 19 PPTX / Lecture 14.1.1, Kidwell, SJDC"
     },
     {
       "id": "ch3-g035",
@@ -11227,206 +11075,6 @@
       "module": "mod-13",
       "chapter": "21",
       "source": "Ch. 21 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
-    },
-    {
-      "id": "ch2-tx-f001",
-      "front": "What are the three components of Evidence-Based Practice (EBP)?",
-      "back": "1. EXTERNAL SCIENTIFIC EVIDENCE — current, high-quality research\n2. CLINICAL EXPERTISE — expert opinion and skills of experienced clinicians\n3. CLIENT/PATIENT/CAREGIVER PERSPECTIVES — individual preferences, values, needs, environment, and culture\nAll three must be integrated. EBP is client/patient/family centered and is a CONTINUOUS, DYNAMIC process, not a fixed checklist.",
-      "module": "mod-1",
-      "chapter": "2",
-      "source": "Ch. 2 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
-    },
-    {
-      "id": "ch2-tx-f002",
-      "front": "What is person-first language and why is it important in SLP?",
-      "back": "Person-first language means referring to the PERSON before the disorder: 'a child with a language disorder' NOT 'a language-disordered child.' It is important because problems are something people EXPERIENCE — they do not define who a person IS. Saying 'He's a TBI' reduces a person to their diagnosis. Person-first language must be learned early and maintained vigilantly throughout a clinician's career.",
-      "module": "mod-1",
-      "chapter": "2",
-      "source": "Ch. 2 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
-    },
-    {
-      "id": "ch2-tx-f003",
-      "front": "What is the difference between signs and symptoms in clinical practice?",
-      "back": "SIGNS: objective, observable, measurable indicators identified by the clinician during evaluation (e.g., measurable articulatory errors, hypernasality on assessment).\nSYMPTOMS: subjective experiences reported by the patient themselves (e.g., 'I can't find the right words'). SLP diagnosis is based on BOTH signs and symptoms plus test results.",
-      "module": "mod-1",
-      "chapter": "2",
-      "source": "Ch. 2 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
-    },
-    {
-      "id": "ch2-tx-f004",
-      "front": "What is cultural competence and why is it described as a dynamic process?",
-      "back": "Cultural competence is understanding and appropriately responding to the unique cultural variables clients and families bring to clinical interactions — including age, disability, ethnicity, gender identity, national origin, race, religion, sex, sexual orientation, and veteran status (ASHA, 2017). It is DYNAMIC because it is never 'finished' — it begins with self-assessment of one's own biases, develops through interactions with diverse individuals, and continues as lifelong learning throughout one's career.",
-      "module": "mod-1",
-      "chapter": "2",
-      "source": "Ch. 2 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
-    },
-    {
-      "id": "ch2-tx-f005",
-      "front": "What is dysphagia, and why is it within the SLP's scope of practice?",
-      "back": "DYSPHAGIA = difficulty swallowing. It is a disorder of the swallowing mechanism involving the oral, pharyngeal, laryngeal, and/or respiratory systems. It was added to the SLP scope of practice as the profession expanded — SLPs can work with dysphagia regardless of a person's communication abilities. It is especially important in medical settings (hospitals, SNFs, home health) due to the risk of aspiration pneumonia. NOT technically classified as a communication disorder.",
-      "module": "mod-1",
-      "chapter": "2",
-      "source": "Ch. 2 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
-    },
-    {
-      "id": "ch2-tx-f006",
-      "front": "What is the difference between evaluation and assessment in SLP?",
-      "back": "EVALUATION: the PROCESS of examining the client/patient — conducting the interview, tests, and observations.\nASSESSMENT: the RESULT of that evaluation — the conclusions drawn from the examination.\nIn practice, the terms are used interchangeably and are listed as synonyms in many dictionaries. Both must follow EBP guidelines.",
-      "module": "mod-1",
-      "chapter": "2",
-      "source": "Ch. 2 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
-    },
-    {
-      "id": "ch2-tx-f007",
-      "front": "What are the eight purposes of an SLP evaluation?",
-      "back": "1. The CAUSE of the problem\n2. The NATURE of the problem\n3. Whether the problem is PROGRESSIVE or STATIC\n4. The CHARACTERISTICS of the problem\n5. What makes the problem BETTER and WORSE\n6. The SEVERITY of the problem\n7. TREATMENT GOALS\n8. POTENTIAL for habilitation or rehabilitation",
-      "module": "mod-1",
-      "chapter": "2",
-      "source": "Ch. 2 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
-    },
-    {
-      "id": "ch2-tx-f008",
-      "front": "What is the continuum of medical care settings in which SLPs work, from most to least intensive?",
-      "back": "Most intensive → Least intensive:\n1. ACUTE CARE HOSPITAL — immediate, short-term care for serious/urgent conditions\n2. SUBACUTE HOSPITAL — medically stable but still needs intensive rehab\n3. SKILLED NURSING FACILITY (SNF) / CONVALESCENT HOSPITAL — residential, longer-term rehab\n4. OUTPATIENT CLINIC — scheduled appointments, patient returns home\n5. HOME HEALTH CARE — therapy provided in the patient's home",
-      "module": "mod-1",
-      "chapter": "2",
-      "source": "Ch. 2 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
-    },
-    {
-      "id": "ch2-tx-f009",
-      "front": "What is the ADA (1990), and what did it mandate related to communication?",
-      "back": "The Americans with Disabilities Act (ADA) — Public Law 101-336 — mandated IMPROVED ACCESS for individuals with handicaps to buildings and facilities, and provided for EFFECTIVE COMMUNICATION for people with disabilities, including the use of interpreters, sign language, and telecommunication devices for the deaf (TDD). It represented a major civil rights milestone for people with disabilities.",
-      "module": "mod-1",
-      "chapter": "2",
-      "source": "Ch. 2 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
-    },
-    {
-      "id": "ch2-tx-f010",
-      "front": "What does Public Law 99-457 (1986) add to the existing protections of PL 94-142?",
-      "back": "PL 99-457 extended the provisions of PL 94-142 (FAPE) to children with disabilities ages 3–5, AND created NEW federally funded programs for children with disabilities from BIRTH through 2 years of age. This was a major expansion — it brought SLP services into early intervention for infants and toddlers, not just school-age children.",
-      "module": "mod-1",
-      "chapter": "2",
-      "source": "Ch. 2 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
-    },
-    {
-      "id": "ch2-tx-f011",
-      "front": "What tasks are SLPAs PERMITTED and NOT PERMITTED to do?",
-      "back": "PERMITTED (always under SLP supervision): screening assistance (no interpretation), following SLP treatment plans, documenting patient performance, assisting during assessment, informal documentation, materials prep, data collection, equipment maintenance.\nNOT PERMITTED: independently diagnose, interpret assessment results, make clinical decisions, conduct unsupervised evaluations. ALL tasks must be prescribed, directed, and supervised by an ASHA-certified SLP.",
-      "module": "mod-1",
-      "chapter": "2",
-      "source": "Ch. 2 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
-    },
-    {
-      "id": "ch2-tx-f012",
-      "front": "What does ASHA say about students and professionals who speak with accents or dialects?",
-      "back": "ASHA (1998a, 1998b) states that students and professionals who speak with accents or nonstandard dialects CAN effectively provide speech, language, and audiological services as long as they have: (1) the expected level of knowledge in normal and disordered communication, (2) the expected level of diagnostic and clinical case management skills, and (3) if modeling is necessary, the ability to model the target phoneme, feature, or other aspect characterizing the client's problem. This was reaffirmed in ASHA's 2011 Professional Issues Statement.",
-      "module": "mod-1",
-      "chapter": "2",
-      "source": "Ch. 2 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
-    },
-    {
-      "id": "ch2-tx-f013",
-      "front": "Why is the SLP's employment outlook described as excellent, and what is the expected growth rate?",
-      "back": "The U.S. Bureau of Labor Statistics (2020 Occupational Outlook Handbook) projected a 25% INCREASE in SLP positions for 2019–2029 — 'much faster than average for all occupations.' Key drivers: growing elderly population susceptible to strokes, increasing survival of premature infants who need SLP services, and growing public awareness of speech/language/swallowing disorders. Only 1% of ASHA-certified SLPs were unemployed and seeking work as of 2015.",
-      "module": "mod-1",
-      "chapter": "2",
-      "source": "Ch. 2 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
-    },
-    {
-      "id": "ch2-tx-f014",
-      "front": "What is the ASHA Code of Ethics and when does it apply?",
-      "back": "The ASHA Code of Ethics is the set of standards of conduct that guide professional behavior for all CCC-certified SLPs and audiologists — defining acceptable versus unacceptable behaviors and promoting high, consistent standards of practice. Once an SLP or audiologist signs the agreement and holds a current CCC, they must abide by it REGARDLESS of employment setting, level of experience, or nature of clientele. Violations can result in loss of certification or licensure. ASHA has maintained a Code of Ethics since its founding in 1925.",
-      "module": "mod-1",
-      "chapter": "2",
-      "source": "Ch. 2 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
-    },
-    {
-      "id": "ch2-tx-f015",
-      "front": "In what ways does the 'iceberg analogy' describe who SLPs help?",
-      "back": "The person with a communication disorder is the 'tip of the iceberg' — visible, but below the surface are the many people affected by that person's communication difficulties: family, friends, teachers, coworkers, employers, and countless others with whom the individual tries to communicate (Figure 2.1). When SLPs help individuals improve communication, they indirectly help all those surrounding people — most of whom the SLP never meets.",
-      "module": "mod-1",
-      "chapter": "2",
-      "source": "Ch. 2 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
-    },
-    {
-      "id": "ch19s-f001",
-      "front": "What is the clinical/functional difference between conductive and sensorineural hearing loss that SLPs must understand?",
-      "back": "Conductive HL is NEVER a total loss — the cochlea is intact and functioning, so some sound still reaches it. A child with conductive HL from chronic OME still hears; PE tubes don't suddenly make a deaf child hear. Sensorineural HL is permanent — the cochlea and/or auditory nerve are damaged. Profound SNHL = deafness. Sounds may reach threshold loudness but speech discrimination remains difficult.",
-      "chapter": "19",
-      "module": "mod-14",
-      "source": "Kidwell, Susan M.S. CCC-SLP — Lecture 14.1.1, Ch. 19, SJDC Comm Dis 1A"
-    },
-    {
-      "id": "ch19s-f002",
-      "front": "What is cerumen's purpose and what is the clinical guidance about ear cleaning?",
-      "back": "Cerumen (earwax) is the outer ear's natural defense system — it acts as a mild insect repellent, carries out dead skin cells and debris, and protects the tympanic membrane from buildup. The outer ear has no self-cleaning system like saliva or mucus. Q-tips should only clean the pinna and the very outer part of the canal. Digging deep can cause infection by tearing skin. Excessive cerumen production affecting hearing is uncommon. Most people should leave cerumen alone.",
-      "chapter": "19",
-      "module": "mod-14",
-      "source": "Kidwell, Susan M.S. CCC-SLP — Lecture 14.1.1, Ch. 19, SJDC Comm Dis 1A"
-    },
-    {
-      "id": "ch19s-f003",
-      "front": "What is a helpful analogy for understanding how the cochlea processes frequency?",
-      "back": "Think of the cochlea as a set of piano keys rolled up in a snail shell. Just as different piano keys produce different pitches, different regions of the cochlear spiral respond to different sound frequencies — high frequencies near the oval window, low frequencies at the far end. This tonotopic organization is what makes frequency discrimination possible.",
-      "chapter": "19",
-      "module": "mod-14",
-      "source": "Kidwell, Susan M.S. CCC-SLP — Lecture 14.1.1, Ch. 19, SJDC Comm Dis 1A"
-    },
-    {
-      "id": "ch19s-f004",
-      "front": "What is an Auditory Brainstem Implant (ABI) and who is it for?",
-      "back": "An ABI bypasses both the inner ear AND the auditory nerve, directly stimulating the brainstem. It is for patients who are NOT candidates for a cochlear implant because their auditory nerve is non-functional (e.g., due to tumor or nerve damage — hearing aids also won't help these patients). More than 1,000 have been implanted worldwide. Research at Children's Hospital LA and University of Verona shows deaf children with ABIs are showing potential to understand speech and participate in regular education classrooms.",
-      "chapter": "20",
-      "module": "mod-14",
-      "source": "Kidwell, Susan M.S. CCC-SLP — Lecture 14.2.2, Ch. 20, SJDC Comm Dis 1A"
-    },
-    {
-      "id": "ch20s-f001",
-      "front": "How does post-CI aural rehabilitation differ for someone born deaf vs. someone who acquired hearing loss later?",
-      "back": "Acquired HL (postlingual): The person already has speech, language, and auditory memory. Rehabilitation focuses on learning to use the device, troubleshooting, and strategies for when the CI is off. Much less speech/language retraining needed. Born deaf / early HL (prelingual): No auditory memory or concept of sound. The SLP must teach: (1) detection and awareness of sound, (2) putting meaning to sounds, (3) putting meaning to speech, (4) developing speech production. This is a long, step-by-step protocol. Post-CI rehabilitation is more specific than general hearing aid adjustment.",
-      "chapter": "20",
-      "module": "mod-14",
-      "source": "Kidwell, Susan M.S. CCC-SLP — Lecture 14.2.2, Ch. 20, SJDC Comm Dis 1A"
-    },
-    {
-      "id": "ch20s-f002",
-      "front": "What is cued speech and when is it used?",
-      "back": "Cued speech is a system that supplements oral communication by using hand shapes near the face to disambiguate sounds that look similar on the lips (e.g., /p/ and /b/ are visually nearly identical). It is used with children who need extra support beyond speechreading but whose families are not learning full ASL. It bridges oralism and manualism — supporting spoken English development without using a full sign language system.",
-      "chapter": "20",
-      "module": "mod-14",
-      "source": "Kidwell, Susan M.S. CCC-SLP — Lecture 14.2.2, Ch. 20, SJDC Comm Dis 1A"
-    },
-    {
-      "id": "ch20s-f003",
-      "front": "Why does Prof. Kidwell advocate for total communication even for children who receive cochlear implants?",
-      "back": "Even with a CI, removing the device = deaf. The CI allows the person to function in the hearing world, but sign language is still needed for those times when the device is off. Additionally, ASL has a different grammar from English — reading and writing are in English, not ASL — so children who only use ASL may struggle with literacy. Early sign language development before and alongside CI use maximizes language development and academic success. The CI lets the person 'flow between cultures.'",
-      "chapter": "20",
-      "module": "mod-14",
-      "source": "Kidwell, Susan M.S. CCC-SLP — Lecture 14.2.2, Ch. 20, SJDC Comm Dis 1A"
-    },
-    {
-      "id": "ch20s-f004",
-      "front": "What is the SLP's practical role in hearing aid use beyond the audiologist's fitting?",
-      "back": "While the audiologist performs the hearing evaluation and fits the hearing aid, the SLP: (1) works directly with the family to motivate consistent daily hearing aid use; (2) educates parents/siblings/extended family on maximizing communication; (3) encourages sign language use to maximize language development in profoundly deaf or hard-of-hearing children; (4) provides speech-language therapy based on speech audiometry results; (5) visually inspects and performs listening checks on devices. Family buy-in to daily hearing aid use is critical — not all parents follow through.",
-      "chapter": "20",
-      "module": "mod-14",
-      "source": "Kidwell, Susan M.S. CCC-SLP — Lecture 14.2.2, Ch. 20, SJDC Comm Dis 1A"
-    },
-    {
-      "id": "ch19s-f005",
-      "front": "Why is noise-induced hearing loss described as 'painless, progressive, permanent — and preventable'?",
-      "back": "Painless: there is no discomfort warning that damage is occurring to cochlear hair cells. Progressive: damage accumulates over time with repeated exposures — hearing gradually worsens. Permanent: once cochlear hair cells are destroyed, they cannot regenerate. Preventable: reducing or blocking exposure to sounds above 85 dB eliminates the cause. This makes NIHL unique among hearing losses. As SLPs, part of our mission is protecting our own hearing AND educating others — including modeling hearing conservation behavior.",
-      "chapter": "19",
-      "module": "mod-14",
-      "source": "Kidwell, Susan M.S. CCC-SLP — Lecture 14.1.1, Ch. 19, SJDC Comm Dis 1A"
-    },
-    {
-      "id": "lec14-f001",
-      "front": "According to the Healthy Hearing resource, what benefits does hearing aid use provide beyond improved hearing?",
-      "back": "Hearing aids improve hearing but won't fully restore it to original state. Additional associated benefits include: overall better health, improved quality of life, reduced loneliness, and decreased risk of falls. Hearing aids can be transformative for people with hearing loss — they address the broader functional and social impacts of HL, not just the acoustic deficit.",
-      "chapter": "20",
-      "module": "mod-14",
-      "source": "HealthyHearing.com — Healthy Hearing, M. Burry (2022)"
     }
   ],
   "questions": [
@@ -16888,440 +16536,9 @@
       "module": "mod-13",
       "chapter": "21",
       "source": "Ch. 21 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
-    },
-    {
-      "id": "ch2-tx-q001",
-      "type": "mc",
-      "text": "Evidence-based practice (EBP) in speech-language pathology integrates which THREE components?",
-      "options": [
-        "Clinical experience, client fees, and institutional guidelines",
-        "External scientific evidence, clinical expertise, and client/patient/caregiver perspectives",
-        "Diagnostic manuals, employer policies, and insurance codes",
-        "Research journals, standardized tests, and treatment protocols"
-      ],
-      "answer": "External scientific evidence, clinical expertise, and client/patient/caregiver perspectives",
-      "module": "mod-1",
-      "chapter": "2",
-      "source": "Ch. 2 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
-    },
-    {
-      "id": "ch2-tx-q002",
-      "type": "mc",
-      "text": "Which of the following is the BEST example of person-first language?",
-      "options": [
-        "She's a TBI patient",
-        "He's a stutterer",
-        "A child with a language disorder",
-        "The aphasia case in room 4"
-      ],
-      "answer": "A child with a language disorder",
-      "module": "mod-1",
-      "chapter": "2",
-      "source": "Ch. 2 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
-    },
-    {
-      "id": "ch2-tx-q003",
-      "type": "mc",
-      "text": "Which federal law (1990) mandated effective communication access for people with disabilities, including sign language interpreters and telecommunication devices for the deaf?",
-      "options": [
-        "Public Law 94-142",
-        "Public Law 99-457",
-        "The Americans with Disabilities Act (ADA)",
-        "The Elementary and Secondary Education Act"
-      ],
-      "answer": "The Americans with Disabilities Act (ADA)",
-      "module": "mod-1",
-      "chapter": "2",
-      "source": "Ch. 2 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
-    },
-    {
-      "id": "ch2-tx-q004",
-      "type": "mc",
-      "text": "An SLP notices that a patient's voice sounds hypernasal during an evaluation. This is an example of a:",
-      "options": [
-        "Symptom",
-        "Sign",
-        "Diagnosis",
-        "Treatment goal"
-      ],
-      "answer": "Sign",
-      "module": "mod-1",
-      "chapter": "2",
-      "source": "Ch. 2 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
-    },
-    {
-      "id": "ch2-tx-q005",
-      "type": "mc",
-      "text": "A patient says, 'I have trouble finding the right words when I talk.' This is an example of a:",
-      "options": [
-        "Sign",
-        "Symptom",
-        "Diagnosis",
-        "Assessment finding"
-      ],
-      "answer": "Symptom",
-      "module": "mod-1",
-      "chapter": "2",
-      "source": "Ch. 2 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
-    },
-    {
-      "id": "ch2-tx-q006",
-      "type": "mc",
-      "text": "Which of the following is WITHIN the scope of tasks an SLPA may perform?",
-      "options": [
-        "Independently interpret assessment results and make a diagnosis",
-        "Follow documented treatment plans developed by the supervising SLP",
-        "Conduct unsupervised evaluations of new patients",
-        "Independently develop therapy goals for clients"
-      ],
-      "answer": "Follow documented treatment plans developed by the supervising SLP",
-      "module": "mod-1",
-      "chapter": "2",
-      "source": "Ch. 2 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
-    },
-    {
-      "id": "ch2-tx-q007",
-      "type": "mc",
-      "text": "According to ASHA (1998), a student or professional who speaks with an accent can effectively provide SLP services provided that they:",
-      "options": [
-        "Eliminate their accent before seeing clients",
-        "Only work with clients who share their dialect background",
-        "Have expected knowledge in normal/disordered communication, diagnostic skills, and can model target sounds if needed",
-        "Have a waiver from ASHA specifically approving their services"
-      ],
-      "answer": "Have expected knowledge in normal/disordered communication, diagnostic skills, and can model target sounds if needed",
-      "module": "mod-1",
-      "chapter": "2",
-      "source": "Ch. 2 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
-    },
-    {
-      "id": "ch2-tx-q008",
-      "type": "mc",
-      "text": "The U.S. Bureau of Labor Statistics projected what percentage increase in SLP positions for 2019–2029?",
-      "options": [
-        "10%",
-        "15%",
-        "20%",
-        "25%"
-      ],
-      "answer": "25%",
-      "module": "mod-1",
-      "chapter": "2",
-      "source": "Ch. 2 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
-    },
-    {
-      "id": "ch2-tx-q009",
-      "type": "tf",
-      "text": "Swallowing disorders (dysphagia) are classified as communication disorders within the SLP scope of practice.",
-      "answer": "false",
-      "module": "mod-1",
-      "chapter": "2",
-      "source": "Ch. 2 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
-    },
-    {
-      "id": "ch2-tx-q010",
-      "type": "tf",
-      "text": "Cultural competence is best understood as a fixed credential an SLP achieves and maintains — not something that continues to evolve throughout their career.",
-      "answer": "false",
-      "module": "mod-1",
-      "chapter": "2",
-      "source": "Ch. 2 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
-    },
-    {
-      "id": "ch2-tx-q011",
-      "type": "tf",
-      "text": "The ASHA Code of Ethics applies to all certified SLPs and audiologists regardless of their employment setting, level of experience, or the nature of their clientele.",
-      "answer": "true",
-      "module": "mod-1",
-      "chapter": "2",
-      "source": "Ch. 2 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
-    },
-    {
-      "id": "ch2-tx-q012",
-      "type": "tf",
-      "text": "Public Law 99-457 (1986) extended SLP services to children with disabilities from birth through 2 years of age.",
-      "answer": "true",
-      "module": "mod-1",
-      "chapter": "2",
-      "source": "Ch. 2 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
-    },
-    {
-      "id": "ch2-tx-q013",
-      "type": "tf",
-      "text": "In the context of SLP evaluation, the terms 'evaluation' and 'assessment' have distinctly different meanings and should never be used interchangeably.",
-      "answer": "false",
-      "module": "mod-1",
-      "chapter": "2",
-      "source": "Ch. 2 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
-    },
-    {
-      "id": "ch2-tx-q014",
-      "type": "fitb",
-      "text": "EBP integrates external scientific evidence, clinical expertise, and __________ perspectives to provide high-quality services.",
-      "answer": "client/patient/caregiver",
-      "module": "mod-1",
-      "chapter": "2",
-      "source": "Ch. 2 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
-    },
-    {
-      "id": "ch2-tx-q015",
-      "type": "fitb",
-      "text": "The professional convention of referring to 'a child with autism' rather than 'an autistic child' is called __________ language.",
-      "answer": "person-first",
-      "module": "mod-1",
-      "chapter": "2",
-      "source": "Ch. 2 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
-    },
-    {
-      "id": "ch2-tx-q016",
-      "type": "fitb",
-      "text": "The ASHA-defined term for difficulty swallowing — a major area of SLP scope of practice — is __________.",
-      "answer": "dysphagia",
-      "module": "mod-1",
-      "chapter": "2",
-      "source": "Ch. 2 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
-    },
-    {
-      "id": "ch2-tx-q017",
-      "type": "match",
-      "text": "Match each medical work setting to its correct description.",
-      "pairs": [
-        [
-          "Acute care hospital",
-          "Immediate, short-term care for patients with serious, sudden, or urgent conditions"
-        ],
-        [
-          "Subacute hospital",
-          "Medically stable patients needing intensive rehabilitation — a step down from acute care"
-        ],
-        [
-          "Skilled nursing facility (SNF)",
-          "Residential facility for patients recovering from illness or surgery — also called convalescent hospital"
-        ],
-        [
-          "Outpatient clinic",
-          "Patients attend scheduled appointments and return home — not admitted to facility"
-        ],
-        [
-          "Home health care",
-          "Therapy provided in the patient's home to avoid the cost of hospitalization"
-        ]
-      ],
-      "answer": "Acute=urgent/immediate, Subacute=stable/intensive-rehab, SNF=residential-recovery, Outpatient=no-admission/go-home, Home-health=therapy-at-home",
-      "module": "mod-1",
-      "chapter": "2",
-      "source": "Ch. 2 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
-    },
-    {
-      "id": "ch2-tx-q018",
-      "type": "match",
-      "text": "Match each federal law to its key provision for children with communication disorders.",
-      "pairs": [
-        [
-          "PL 89-10 (1965)",
-          "Elementary and Secondary Education Act — funding for students with special needs"
-        ],
-        [
-          "PL 94-142 (1975)",
-          "Education of All Handicapped Children Act — FAPE in the LRE for all school-age children with disabilities"
-        ],
-        [
-          "PL 99-457 (1986)",
-          "Extended services to children ages 3–5 and created programs for birth through age 2"
-        ],
-        [
-          "ADA / IDEA (1990)",
-          "Improved facility access and effective communication including TDDs; IDEA created for disabilities"
-        ],
-        [
-          "Reauthorized IDEA (1999)",
-          "Added special category for children and adolescents with traumatic brain injuries"
-        ]
-      ],
-      "answer": "PL89-10=funding-special-needs, PL94-142=FAPE-LRE, PL99-457=birth-to-5, ADA-IDEA=access-TDD, IDEA-1999=TBI-category",
-      "module": "mod-1",
-      "chapter": "2",
-      "source": "Ch. 2 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
-    },
-    {
-      "id": "ch2-tx-q019",
-      "type": "sa",
-      "text": "Define evidence-based practice (EBP) and explain why it must integrate all three components rather than relying on research alone.",
-      "answer": "EBP is the integration of (1) external scientific evidence — current, high-quality research; (2) clinical expertise — the knowledge and skills of experienced clinicians; and (3) client/patient/caregiver perspectives — the individual's preferences, values, needs, environment, and culture. All three must be combined because: research alone may not account for the unique circumstances of an individual client; clinical expertise provides judgment about how to apply evidence in real settings; and client perspectives ensure that services actually reflect the individual's values and goals. Because EBP is client/patient/family centered, the clinician must interpret the best current research in relation to the specific individual. Additionally, EBP is a DYNAMIC, CONTINUING process — not a finished standard — because scientific evidence and clinical best practices continually evolve.",
-      "module": "mod-1",
-      "chapter": "2",
-      "source": "Ch. 2 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
-    },
-    {
-      "id": "ch2-tx-q020",
-      "type": "sa",
-      "text": "Explain what cultural competence means for SLPs, describe why it is considered a dynamic rather than static process, and give two examples of culturally competent practice behaviors.",
-      "answer": "Cultural competence means understanding and appropriately responding to the unique combination of cultural variables clients, patients, and families bring to clinical interactions — including but not limited to age, disability, ethnicity, gender identity, national origin, race, religion, sex, sexual orientation, and veteran status (ASHA, 2017). It is DYNAMIC because it is never fully achieved — it begins with self-assessment of one's own biases and beliefs, continues through interactions with individuals from diverse backgrounds, and extends through lifelong learning. Clinicians must continuously expand their cultural knowledge throughout their careers, not merely complete a training module. Examples of culturally competent practice behaviors include: (1) completing ongoing self-assessment to identify how one's own biases might impact service delivery; (2) assessing and treating each client as an individual rather than making assumptions based on cultural group membership; (3) using culturally appropriate communication during counseling; and (4) referring to professionals with appropriate cultural/linguistic proficiency when needed.",
-      "module": "mod-1",
-      "chapter": "2",
-      "source": "Ch. 2 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
-    },
-    {
-      "id": "ch19s-q001",
-      "type": "mc",
-      "text": "A 3-year-old with recurrent otitis media with effusion receives PE tubes. The SLP should counsel the parents that:",
-      "options": [
-        "The child was never totally deaf from OME — conductive hearing loss is never a complete loss",
-        "The PE tubes have restored the child's hearing to perfectly normal levels",
-        "The child's speech delay will resolve immediately now that hearing is restored",
-        "Sensorineural hearing loss has been cured by the PE tube insertion"
-      ],
-      "answer": "The child was never totally deaf from OME — conductive hearing loss is never a complete loss",
-      "chapter": "19",
-      "module": "mod-14",
-      "source": "Kidwell, Susan M.S. CCC-SLP — Lecture 14.1.1, Ch. 19, SJDC Comm Dis 1A"
-    },
-    {
-      "id": "ch19s-q002",
-      "type": "mc",
-      "text": "An Auditory Brainstem Implant (ABI) differs from a cochlear implant in that it:",
-      "options": [
-        "Bypasses both the inner ear and the auditory nerve, directly stimulating the brainstem",
-        "Is implanted only in the cochlea without touching the brainstem",
-        "Is used for mild-to-moderate conductive hearing loss",
-        "Functions identically to a cochlear implant but is smaller"
-      ],
-      "answer": "Bypasses both the inner ear and the auditory nerve, directly stimulating the brainstem",
-      "chapter": "20",
-      "module": "mod-14",
-      "source": "Kidwell, Susan M.S. CCC-SLP — Lecture 14.2.2, Ch. 20, SJDC Comm Dis 1A"
-    },
-    {
-      "id": "ch19s-q003",
-      "type": "mc",
-      "text": "Which of the following best describes the SLP's professional responsibility regarding noise-induced hearing loss?",
-      "options": [
-        "Protect their own hearing and educate others about hearing conservation",
-        "Diagnose noise-induced hearing loss using pure-tone audiometry",
-        "Fit hearing aids for patients with noise-induced hearing loss",
-        "Only treat communication disorders that result from NIHL"
-      ],
-      "answer": "Protect their own hearing and educate others about hearing conservation",
-      "chapter": "19",
-      "module": "mod-14",
-      "source": "Kidwell, Susan M.S. CCC-SLP — Lecture 14.1.1, Ch. 19, SJDC Comm Dis 1A"
-    },
-    {
-      "id": "ch20s-q001",
-      "type": "mc",
-      "text": "What is cued speech?",
-      "options": [
-        "A system using hand shapes near the face to supplement lip reading and disambiguate visually similar sounds",
-        "A method identical to ASL but used in educational settings",
-        "A technique where the SLP mouths words without voicing to help lipreading practice",
-        "A protocol for auditory training using recorded speech stimuli"
-      ],
-      "answer": "A system using hand shapes near the face to supplement lip reading and disambiguate visually similar sounds",
-      "chapter": "20",
-      "module": "mod-14",
-      "source": "Kidwell, Susan M.S. CCC-SLP — Lecture 14.2.2, Ch. 20, SJDC Comm Dis 1A"
-    },
-    {
-      "id": "ch20s-q002",
-      "type": "mc",
-      "text": "Post-CI aural rehabilitation for a child who was born deaf (prelingual) would primarily focus on:",
-      "options": [
-        "Teaching the child to detect sounds, attach meaning to sounds, understand speech, and develop speech production",
-        "Training the child to operate and troubleshoot the CI device",
-        "Adjusting the gain settings on the CI's external processor",
-        "Fitting the child with a hearing aid in the opposite ear"
-      ],
-      "answer": "Teaching the child to detect sounds, attach meaning to sounds, understand speech, and develop speech production",
-      "chapter": "20",
-      "module": "mod-14",
-      "source": "Kidwell, Susan M.S. CCC-SLP — Lecture 14.2.2, Ch. 20, SJDC Comm Dis 1A"
-    },
-    {
-      "id": "ch19s-q004",
-      "type": "tf",
-      "text": "Cerumen (earwax) is a pathological substance that should be routinely removed to prevent hearing loss.",
-      "answer": "false",
-      "chapter": "19",
-      "module": "mod-14",
-      "source": "Kidwell, Susan M.S. CCC-SLP — Lecture 14.1.1, Ch. 19, SJDC Comm Dis 1A"
-    },
-    {
-      "id": "ch19s-q005",
-      "type": "tf",
-      "text": "A patient with a non-functioning auditory nerve is NOT a candidate for a cochlear implant but may benefit from an Auditory Brainstem Implant (ABI).",
-      "answer": "true",
-      "chapter": "20",
-      "module": "mod-14",
-      "source": "Kidwell, Susan M.S. CCC-SLP — Lecture 14.2.2, Ch. 20, SJDC Comm Dis 1A"
-    },
-    {
-      "id": "ch20s-q003",
-      "type": "tf",
-      "text": "A person who received a cochlear implant can hear normally without wearing the external components of the device.",
-      "answer": "false",
-      "chapter": "20",
-      "module": "mod-14",
-      "source": "Kidwell, Susan M.S. CCC-SLP — Lecture 14.2.2, Ch. 20, SJDC Comm Dis 1A"
-    },
-    {
-      "id": "ch19s-q006",
-      "type": "fitb",
-      "text": "According to Prof. Kidwell, noise-induced hearing loss can be described as '__________, progressive, permanent — and preventable.'",
-      "answer": "painless",
-      "chapter": "19",
-      "module": "mod-14",
-      "source": "Kidwell, Susan M.S. CCC-SLP — Lecture 14.1.1, Ch. 19, SJDC Comm Dis 1A"
-    },
-    {
-      "id": "ch20s-q004",
-      "type": "fitb",
-      "text": "An __________ Brainstem Implant bypasses the inner ear and auditory nerve entirely, directly stimulating the brainstem for patients whose auditory nerve is non-functional.",
-      "answer": "Auditory",
-      "chapter": "20",
-      "module": "mod-14",
-      "source": "Kidwell, Susan M.S. CCC-SLP — Lecture 14.2.2, Ch. 20, SJDC Comm Dis 1A"
-    },
-    {
-      "id": "ch20s-q005",
-      "type": "sa",
-      "text": "A 6-month-old is diagnosed with profound bilateral sensorineural hearing loss. Using Prof. Kidwell's lecture perspective, explain the total communication approach and why she advocates for it even if the family pursues a cochlear implant.",
-      "answer": "Prof. Kidwell advocates for total communication — using every available means including hearing aids/CI, ASL, speechreading, and spoken English. Even with a CI, removing the device leaves the person deaf, so ASL is essential at all times when the device is off. Early sign language development should begin immediately (before CI surgery if applicable) to build a strong language foundation. ASL and English have different grammars — reading and writing are in English, not ASL — so proficiency in signed communication doesn't guarantee English literacy. The CI allows the person to 'flow between cultures' (Deaf and hearing), maximizing academic, social, and communicative outcomes. Waiting for CI surgery before teaching sign language wastes critical early language development time.",
-      "chapter": "20",
-      "module": "mod-14",
-      "source": "Kidwell, Susan M.S. CCC-SLP — Lecture 14.2.2, Ch. 20, SJDC Comm Dis 1A"
-    },
-    {
-      "id": "ch19s-q007",
-      "type": "sa",
-      "text": "Using the cochlea-as-piano-keys analogy, explain tonotopic organization and why cochlear implants are surgically feasible in young infants.",
-      "answer": "The cochlea is like a set of piano keys rolled up in a snail shell — each location along the basilar membrane responds to a specific frequency, just as each piano key produces a specific pitch. High frequencies are processed near the oval window; low frequencies are processed at the far (apical) end. This tonotopic organization is why CIs can restore frequency discrimination by stimulating specific electrode positions along the cochlear spiral. CIs are feasible in infants because the cochlea reaches full adult size at birth (~30 mm) — there is no need to wait for the structure to grow. This allows implantation as early as 10 months of age, capturing the critical early language acquisition window.",
-      "chapter": "19",
-      "module": "mod-14",
-      "source": "Kidwell, Susan M.S. CCC-SLP — Lecture 14.1.1, Ch. 19, SJDC Comm Dis 1A"
     }
   ],
   "notes": [
-    {
-      "id": "lec14-resource-n001",
-      "title": "Supplemental Resource — Healthy Hearing (HealthyHearing.com, M. Burry, 2022)",
-      "chapter": "19",
-      "module": "mod-14",
-      "body": "SOURCE: HealthyHearing.com — Healthy Hearing, M. Burry, Copyright 2022\nUsed as supplemental resource in Comm Dis 1A, SJDC, Module 14\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nHOW DO WE HEAR? (4-Step Summary)\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nStep 1 — OUTER EAR:\n  • Sound hits the pinna → filters and amplifies sound waves → channels into ear canal\n  • Sound waves hit the tympanic membrane → sets it in motion\n\nStep 2 — MIDDLE EAR:\n  • Sound waves are amplified\n  • Eardrum vibrates → sets ossicular chain in motion → orientation allows for amplification\n\nStep 3 — INNER EAR (cochlea):\n  • Stapes vibrations push on oval window → pressure waves in fluid-filled cochlea\n  • Vibrations transformed into electrical energy by hair cells (stereocilia) in the organ of Corti\n\nStep 4 — BRAIN:\n  • Signals travel via complex auditory nerve pathways to auditory cortex\n  • Other brain areas regulate awareness and sensory perception\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nCOMMON HEARING DISORDERS\n━━━━━━━━━━━━━━━━━━━━━━━━━━\n• Conductive HL: sounds not making their way through outer or middle ear\n• Sensorineural HL: most common type; damage to hair cells in inner ear and/or auditory nerve\n• Mixed HL: combination of conductive and sensorineural\n• Auditory Disorders: sounds reach inner ear successfully but don't transmit properly to brain\n• Otitis Media: inflammation/infection of middle ear mucous membrane lining — medical treatment imperative\n★ Anything that obstructs the transmission of sound can lead to issues\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nHOW CAN HEARING AIDS HELP?\n━━━━━━━━━━━━━━━━━━━━━━━━━━\n• Hearing aids IMPROVE hearing but will NOT restore it to original state\n• Associated benefits beyond hearing: better overall health, improved quality of life, reduced loneliness, decreased risk of falls\n• Damage to hair cells = ears unable to transmit sounds properly\n• Prevention key: avoid loud sounds; address health problems affecting hearing in a timely manner\n★ Quote: 'People need to be more aware of sound- and noise-induced hearing loss' (Burry 2022)"
-    },
-    {
-      "id": "ch20s-n001",
-      "title": "Ch. 20 Lecture Notes — Hearing Assessment, Amplification, and Aural Rehabilitation",
-      "chapter": "20",
-      "module": "mod-14",
-      "body": "SOURCE: Kidwell, Susan M.S. CCC-SLP | Lecture 14.2.2 | Comm Dis 1A, SJDC\nPUBLISHER SLIDES: Fogle (2019) — Ch. 20 PPTX (49 slides)\nTEXTBOOK: Essentials of Communication Sciences & Disorders, 3rd ed. — Fogle\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nHEARING ASSESSMENT — CLINICAL NOTES\n━━━━━━━━━━━━━━━━━━━━━━━━━━\n• Purpose: determine nature and extent of hearing impairment\n• Newborn screening: routine in most US states; ABR (automated) reduces chance for error\n• Referral chain: Pediatrician → Otolaryngologist → Audiologist\n• Audiologist: thorough case history + physical exam with OTOSCOPE + pure-tone audiometry\n\nAUDIOGRAM READING (practical):\n  • X = LEFT ear; O = RIGHT ear (standard audiogram key)\n  • Plot: frequency (Hz) on x-axis; dB on y-axis\n  • Sloping audiogram example: 250 Hz = 50dB both ears; worsening to 90dB at 8000 Hz\n  • Standard frequencies tested: 250, 500, 1000, 2000, 4000, 8000 Hz\n  • 4 configurations: Sloping | Rising | Flat | Unilateral\n\nSPEECH AUDIOMETRY vs. PURE-TONE:\n  • Pure-tone: valuable information on detection thresholds\n  • Speech audiometry: BETTER information on what client hears as it relates to speech sounds\n  • Uses single-syllable words; SLP uses results for therapy planning\n\nTYMPANOMETRY:\n  • Measures middle ear compliance + impedance\n  • Most valuable for: detecting FLUID IN THE MIDDLE EAR\n  ★ Tympanometry does NOT test hearing — it tests middle ear function\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nAMPLIFICATION — CLINICAL NOTES\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nEARLY INTERVENTION — WHAT THE SLP ACTUALLY DOES:\n  • AUDIOLOGIST: performs hearing evaluation, fits and programs hearing aid\n  • SLP ROLE:\n    - Convince the family to use the hearing aid and have the child wear it EVERY DAY\n    - Encourage use of sign language to maximize language development for profoundly deaf\n    - Educate parents, siblings, extended family — they ALL need to communicate well with child\n    - Identify when the device is not working (listening check)\n  ★ Not all parents follow through — SLP must build family buy-in\n  ★ Hearing aids + batteries = serious SWALLOWING HAZARD for young children\n\nHEARING AID BASICS:\n  • Battery-powered miniature electronic amplifier\n  • Components: MICROPHONE → AMPLIFIER → SPEAKER (receiver)\n  • Types: BTE | ITE | ITC | CIC\n  • Tuned for each individual's specific pattern of HL\n  • May be adjusted as progressive HL changes\n\nASSISTIVE DEVICES:\n  • ALDs: personal amplifiers, FM systems, telephone amplifiers\n  • Non-amplifying assistive devices: closed captioning, vibratory pagers, vibrating/flashing alarm clocks, doorbell signals, smoke detectors with lights, baby cry alert\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nCOCHLEAR IMPLANTS — CLINICAL NOTES\n━━━━━━━━━━━━━━━━━━━━━━━━━━\n• For profound bilateral SNHL; hair cells gone, auditory nerve fibers intact\n• Directly stimulates auditory nerve\n• CI sounds DIFFERENT from natural hearing — less sound information processed by brain\n• But: allows the person to hear and understand speech\n★ Take the CI OFF = DEAF — the person always needs sign language\n\nPOST-CI REHABILITATION COMPARISON:\n  POSTLINGUAL (acquired HL): already has speech + language + auditory memory\n    → Rehab = learn to operate device, troubleshoot, strategies for when CI is off\n    → Much less speech/language work needed\n  PRELINGUAL (born deaf / early HL): NO auditory memory, NO speech\n    → SLP teaches step by step: detect sounds → attach meaning to sounds → understand speech → produce speech\n    → Much more intensive, longer process\n    → There is a specific, structured post-CI protocol (SLP + Audiologist team)\n★ Post-CI rehab is MORE SPECIFIC than general hearing aid adjustment\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nAUDITORY BRAINSTEM IMPLANT (ABI) — NEW TECHNOLOGY\n━━━━━━━━━━━━━━━━━━━━━━━━━━\n• DIFFERENT from cochlear implant:\n  - CI requires intact auditory nerve → ABI is for patients where auditory nerve is NOT working\n  - ABI bypasses inner ear AND auditory nerve → directly stimulates BRAINSTEM\n  - Hearing aids also don't help these patients\n• 1,000+ implanted worldwide\n• Research: Children's Hospital LA + University of Verona, Italy\n• Results: deaf children showing potential to understand speech + participate in regular ed classrooms\n• Similar outcomes potential as CI for cochlear disorders\n★ SOURCE: ASHA Leader, March 2013\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nCUED SPEECH\n━━━━━━━━━━━━━━━━━━━━━━━━━━\n• Supplements oral communication using hand shapes near the face\n• Disambiguates sounds that look similar on the lips (e.g., /p/ and /b/)\n• Used with children who need extra support beyond speechreading but whose families are NOT learning full ASL\n• Bridges oralism and manualism\n• See cued speech video example in Canvas\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nAURAL REHABILITATION — CLINICAL NOTES\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nROLES:\n  • AUDIOLOGIST: fitting, dispensing, management of hearing device; counseling; communication strategies; environmental modification\n  • SLP: evaluates receptive/expressive communication; provides training and treatment for communication strategies, speech-perception, speech/voice production, oral/written/sign language comprehension\n  ★ In short: THE SLP TEACHES THE PERSON HOW TO LISTEN AND HOW TO TALK\n\nAUDITORY TRAINING SEQUENCE:\n  1. Detection — awareness of presence/absence of sound\n  2. Discrimination — perceive differences between sounds\n  3. Identification — repeat or point to what sounds/words represent\n  4. Comprehension — understand meaning of spoken messages\n  → Then: speech perception training → speech/language therapy → literacy promotion → counseling\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nDEAF CULTURE — PROF. KIDWELL'S PERSPECTIVE\n━━━━━━━━━━━━━━━━━━━━━━━━━━\n• Deaf culture is REAL — with its own communication, social protocol, entertainment, art, recreation, worship\n• Deaf community views deafness as a DIFFERENCE, not a pathology\n• Prof. Kidwell strongly supports TOTAL COMMUNICATION:\n  - Even with a CI, removing the device = DEAF\n  - ASL needed at all times when device is off\n  - ASL has DIFFERENT GRAMMAR than English\n  - Reading/writing is in ENGLISH, not ASL → some purely ASL users struggle with literacy\n  - CI allows the person to 'flow between cultures'\n  - Deaf babies need language development in SIGN before AND alongside receiving a CI\n  - Early sign language development is essential — don't wait for surgery\n★ Recommend: 'Sound and the Fury' documentary for deeper perspective on Deaf culture and CI debate\n★ Recommend: Deaf Culture video in Canvas\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nEMOTIONAL AND SOCIAL EFFECTS — CLINICAL SUMMARY\n━━━━━━━━━━━━━━━━━━━━━━━━━━\n• Family/parents: go through stages of GRIEF (denial, anger, bargaining, depression, acceptance)\n• Infants: parent-infant bonding affected\n• Young adults with acquired HL: anger, frustration, isolation\n• Elderly: depression, anxiety, isolation\n★ Hearing loss takes its toll at ANY age — whether congenital or acquired\n★ Review communication tips for hard of hearing/deaf individuals (publisher slides 45-49)\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nCH. 20 PUBLISHER SLIDE OUTLINE (49 slides)\n━━━━━━━━━━━━━━━━━━━━━━━━━━\n1-2: Title + Learning Objectives\n3-5: Hearing Assessment — 6 evaluation questions; newborn ABR; otoscopes\n6-8: Pediatrician recommendations for screening/referral\n9: Audiologist case history and interview\n10: Outer/middle ear structure assessment\n11-13: Pure-tone audiometry — tuning forks; audiometer; portable audiometers\n14-15: Air/bone conduction; audiogram with degree-of-loss bands\n16-17: Audiometric configurations; AC/BC comparison for HL type\n18: Masking; SRT/SAT\n19-20: Tympanometry; tympanogram revealing fluid\n21: ECoG; auditory evoked potential; habilitation vs. rehabilitation\n22: Team approach; IDEA Part H; intervention before 6 months\n23: Role of parents and family — 3 components\n24: Hearing aids and CI for infants — safety, swallowing hazard\n25-26: Hearing aid components (BTE/ITE/ITC/CIC) + illustrations\n27-29: ALDs — pocket talker, telephone amplifier, TDD/TTY, other assistive devices\n30-31: Cochlear implants — procedure and electrode array illustration\n32: SLP roles (11 listed)\n33: Aural rehabilitation 3 areas of emphasis\n34: Auditory training — detection, discrimination, identification, comprehension\n35: Lipreading, speechreading, oralism\n36: Speech goals (Ling hierarchy)\n37: Language goals\n38-39: Sign language — finger spelling, manualism, ASL, manually coded English\n40-41: Deaf community — Deaf vs. deaf; total communication; Deaf community forums\n42-43: Emotional/social effects across life stages\n44: Multicultural considerations\n45-49: Tips for communicating with people who are hard of hearing or deaf (10 tips)"
-    },
-    {
-      "id": "ch19s-n001",
-      "title": "Ch. 19 Lecture Notes — Anatomy and Physiology of Hearing / Types and Causes of Hearing Impairment",
-      "chapter": "19",
-      "module": "mod-14",
-      "body": "SOURCE: Kidwell, Susan M.S. CCC-SLP | Lecture 14.1.1 | Comm Dis 1A, SJDC\nPUBLISHER SLIDES: Fogle (2019) — Ch. 19 PPTX (27 slides)\nTEXTBOOK: Essentials of Communication Sciences & Disorders, 3rd ed. — Fogle\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nCLINICAL FRAMING — PROF. KIDWELL'S PERSPECTIVE\n━━━━━━━━━━━━━━━━━━━━━━━━━━\n• The hearing mechanism transforms physical energy (sound waves) into chemical/electrical activity in brain neurons\n• It can monitor the environment for danger while processing complex sounds — even while we sleep\n• Our EAR detects sound; our BRAIN truly HEARS — the brain puts meaning to sounds\n• Deaf people who receive a CI must be TAUGHT by the SLP to put meaning to sounds before they can understand speech\n• Normal-hearing babies spend their ENTIRE FIRST YEAR doing this before they start talking\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nOUTER EAR — CLINICAL NOTES\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nCERUMEN — LEAVE IT ALONE (mostly):\n  • No self-cleaning system in the outer ear (unlike saliva/mucus elsewhere)\n  • Functions: mild insect repellent, carries out dead skin cells/debris, protects TM from buildup\n  • Only a FEW individuals have a problem with excess cerumen production\n  • Q-tips: clean pinna and VERY outer part only — never dig deep\n  • Poking objects into ear canal risks tearing skin → infection\n  • Impacted cerumen → conductive HL; must be properly removed by audiologist\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nMIDDLE EAR — CLINICAL NOTES\n━━━━━━━━━━━━━━━━━━━━━━━━━━\n• 3 ossicles: malleus (hammer), incus (anvil), stapes (stirrup) — connect TM to cochlea\n• Eustachian tube opens open until ~6 months of age; after that, opens with swallowing/chewing/yawning/sneezing\n• Barotrauma: pressure felt during altitude changes; TM pushed outward (altitude ↑) or inward (altitude ↓)\n• Valsalva maneuver equalizes ear pressure by opening Eustachian tubes\n\nOME — CRITICAL CLINICAL POINT:\n  ★ Conductive HL is NEVER a total loss\n  ★ A child with OME-related HL is NOT deaf — PE tubes don't magically make a silent child suddenly hear\n  ★ Left untreated: can spread to meningitis (life-threatening); can spread to cochlea → permanent SNHL\n  • Surgical: myringotomy + PE tube for ventilation\n\nOtosclerosis:\n  • Bony tissue grows around stapes footplate → prevents normal vibration\n  • Progressive, mid-to-late childhood onset; more common in women; related to pregnancy\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nINNER EAR — CLINICAL NOTES\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nCOCHLEA ANALOGY:\n  ★ Think of the cochlea as PIANO KEYS ROLLED UP IN A SNAIL SHELL\n  ★ Different regions respond to different frequencies (tonotopic organization)\n  • Contains 2 fluid-filled tubes + ~15,000 hair cells\n  • Stapes vibration → fluid movement → hair cell stimulation → auditory nerve impulses\n  • Full adult size AT BIRTH → makes early cochlear implantation feasible\n\nVESTIBULAR SYSTEM:\n  • Maintains balance; interfaces with visual + proprioceptive systems\n  • Tells you if you're lying down or sitting up\n  • 3 semicircular canals; signals 'confused' by tumbling → motion sickness\n  • Vestibular problems → dizziness or true vertigo\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nAUDITORY NERVOUS SYSTEM — CLINICAL NOTES\n━━━━━━━━━━━━━━━━━━━━━━━━━━\n• Primarily AFFERENT (sensory) — carries impulses FROM cochlea TO auditory cortex in temporal lobes\n• ~75% of impulses → CONTRALATERAL (opposite) hemisphere\n• ~25% → IPSILATERAL (same) hemisphere → REDUNDANT PATHWAYS\n★ If one ear is damaged, information still travels to BOTH sides of the brain\n• Peripheral auditory system → central auditory nervous system (brainstem → temporal lobes/cortex)\n• Sound is 'processed': direction determined, type identified, separated from background noise, interpreted\n• Hearing skills: sensation + auditory attention → discrimination + association → auditory memory + cohesion\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nTYPES OF HEARING LOSS — CLINICAL DISTINCTIONS\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nCONDUCTIVE:\n  • Outer/middle ear problem; cochlea intact\n  • NEVER a total loss — some sound still reaches cochlea\n  • Often treatable/reversible\n  • Simulate: cup your hands tightly over your ears — you can still hear some things\n\nSENSORINEURAL:\n  • Cochlea and/or auditory nerve damaged\n  • PERMANENT\n  • Profound SNHL = deafness\n  • Sounds may be loud enough but SPEECH DISCRIMINATION is still difficult (hear someone talking but can't understand the words)\n  • Causes: birth defects, TBI, infections spreading from middle ear, OTOTOXICITY, teratogens, NIHL\n\nMIXED: outer/middle AND inner ear affected\nRETROCOCHLEAR: tumor/lesion on CN VIII or beyond; treat conductive component → still left with SNHL\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nNOISE-INDUCED HEARING LOSS — CLINICAL EMPHASIS\n━━━━━━━━━━━━━━━━━━━━━━━━━━\n★ KEY PHRASE: 'Noise-induced hearing loss is generally PAINLESS, PROGRESSIVE, and PERMANENT — and PREVENTABLE'\n• Sounds > 85 dB are most damaging\n• All ear-damaging sounds are man-made (loudest natural sound ≈ bottom of large waterfall)\n• Examples: loud concerts, earbuds at high volume, power tools, gunshots, jet engines\n• Protection in workplace: plastic covers on Starbucks blenders to attenuate blender noise (real example)\n• Single acoustic trauma can cause PERMANENT HL\n• NIHL is preventable → SLPs have a professional obligation to protect their own hearing AND educate others\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nTINNITUS, MENIERE'S, PRESBYCUSIS — CLINICAL NOTES\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nTINNITUS:\n  • Constant noise that does not go away → affects sleep, concentration, social functioning\n  • Can be debilitating\n  • Personal example: Prof. Kidwell's mother uses an old humming electric clock at the same pitch as her tinnitus to mask it and sleep\n  • Management often involves masking or habituation techniques\n\nMENIERE'S DISEASE:\n  • Inner ear; characterized by VERTIGO, tinnitus, sensorineural HL\n  • Audiologist evaluates and treats\n\nPRESBYCUSIS:\n  • Old-age hearing loss; affects most people eventually\n  • Caused by lifetime of loud sound exposure, ototoxic chemicals, and loss of blood flow\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nDEGREES OF HEARING LOSS (Table 19-2)\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nSLP language for degrees of HL:\n  Mild (25-40 dB) | Moderate (40-55 dB) | Moderate-Severe (55-70 dB) | Severe (70-90 dB) | Profound (>90 dB)\n★ 'Profound' = what we call DEAFNESS\n★ SLPs use these categories constantly when discussing hearing loss\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nCH. 19 PUBLISHER SLIDE OUTLINE (27 slides)\n━━━━━━━━━━━━━━━━━━━━━━━━━━\n1-2: Title + Learning Objectives\n3: Outer ear — auricle, canal, cerumen, TM, middle ear, ossicular chain\n4: Ossicle size vs. penny illustration\n5: Eustachian tubes, Valsalva maneuver, barotrauma\n6: Inner ear — cochlea + semicircular canals (superior view)\n7: Cochlea + hair cells (healthy vs. damaged)\n8: Vestibular mechanism + semicircular canals\n9: Auditory nervous system + bilateral representation\n10: Central auditory nervous system + Heschl's gyrus + How we hear\n11: Types/causes — prevalence, conductive HL, outer ear disorders\n12: Otitis media with effusion — normal vs. OME TM images\n13: OME behaviors, adenoids, tonsils, adenoidectomy\n14: Surgical management — myringotomy + PE tubes\n15: Otosclerosis\n16-17: Auditory NS impairments — inner ear disorders, prenatal causes, genetic abnormalities list\n18: Perinatal causes (RDS, CHD, CNS disorders, hypoxia)\n19: Postnatal/childhood causes; older children/adults; NIHL\n20: Decibel levels table\n21: (Image slide)\n22: Tinnitus, Meniere's, presbycusis, neural disorders\n23: Communication disorders — variables affecting type/degree\n24: Audiogram with phoneme placement\n25: Speech effects — final consonants, voiced/voiceless, suprasegmentals\n26: Degree of HL + effects on communication table\n27: Language — form, content, pragmatics, reading, writing"
-    },
     {
       "id": "ch21-n001",
       "title": "Chapter 21 — Essential Counseling Principles and Skills for SLPs and Audiologists",
