@@ -9,8 +9,9 @@ window.REPO_CONFIG = {
   dismissKey:   "commdis1a_repo_restore_dismissed",
   backupPrefix: "commdis1a_repository_backup_",
   dataFile:     "slp_data.json",
-  accentColor:      "#0e7c7b",
-  accentColorLight: "#14b8b7",
-  accentColorBg:    "#e0f5f5",
-  accentColorTag:   "#085958",
+  // Teal — clinical, medical feel
+  accentColor:      "#0d9488",
+  accentColorLight: "#2dd4bf",
+  accentColorBg:    "#f0fdfa",
+  accentColorTag:   "#0a7970",
 };
