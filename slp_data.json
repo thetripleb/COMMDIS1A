@@ -5739,70 +5739,70 @@
       "front": "What are the four processes of speech production in order?",
       "back": "Respiration → Phonation → Resonance → Articulation",
       "source": "Eugene Speech Language Therapy — How We Speak (YouTube, 11xf89bXaCg)",
-      "module": ""
+      "module": "mod-14"
     },
     {
       "id": "yt1-f002",
       "front": "What is the inhale-to-exhale ratio at rest vs. during speech?",
       "back": "At rest: ~50/50 (or 40/60). During speech: 10% inhale / 90% exhale.",
       "source": "Eugene Speech Language Therapy — How We Speak (YouTube, 11xf89bXaCg)",
-      "module": ""
+      "module": "mod-14"
     },
     {
       "id": "yt1-f003",
       "front": "Why does exhalation become active during speech?",
       "back": "The diaphragm pushes upward and abdominal muscles contract to force air out, supporting the long exhalations needed for speech and singing.",
       "source": "Eugene Speech Language Therapy — How We Speak (YouTube, 11xf89bXaCg)",
-      "module": ""
+      "module": "mod-14"
     },
     {
       "id": "yt1-f004",
       "front": "Where are the vocal folds located?",
       "back": "Above the trachea, which is above the lungs.",
       "source": "Eugene Speech Language Therapy — How We Speak (YouTube, 11xf89bXaCg)",
-      "module": ""
+      "module": "mod-14"
     },
     {
       "id": "yt1-f005",
       "front": "What are the three resonating cavities involved in speech?",
       "back": "The throat (pharyngeal cavity), the mouth (oral cavity), and the nose (nasal cavity).",
       "source": "Eugene Speech Language Therapy — How We Speak (YouTube, 11xf89bXaCg)",
-      "module": ""
+      "module": "mod-14"
     },
     {
       "id": "yt1-f006",
       "front": "What is the primary articulator?",
       "back": "The tongue. Other articulators include the lips, teeth, cheeks, and palate.",
       "source": "Eugene Speech Language Therapy — How We Speak (YouTube, 11xf89bXaCg)",
-      "module": ""
+      "module": "mod-14"
     },
     {
       "id": "yt1-f007",
       "front": "What role does an SLP play in respiration?",
       "back": "SLPs work with clients to strengthen respiratory muscles to increase speech loudness.",
       "source": "Eugene Speech Language Therapy — How We Speak (YouTube, 11xf89bXaCg)",
-      "module": ""
+      "module": "mod-14"
     },
     {
       "id": "yt1-f008",
       "front": "What can cause voice disorders?",
       "back": "Overuse or abuse of the vocal folds, surgery, accidents, or disease.",
       "source": "Eugene Speech Language Therapy — How We Speak (YouTube, 11xf89bXaCg)",
-      "module": ""
+      "module": "mod-14"
     },
     {
       "id": "yt1-f009",
       "front": "What happens in the brain before speech production begins?",
       "back": "The brain determines what it wants to say and creates a motor plan before the four processes are executed.",
       "source": "Eugene Speech Language Therapy — How We Speak (YouTube, 11xf89bXaCg)",
-      "module": ""
+      "module": "mod-14"
     },
     {
       "id": "yt1-f010",
       "front": "What is phonation and where does it occur?",
       "back": "Phonation is voicing — the vibration of the vocal folds located above the trachea. Air from the lungs forces the folds open, causing rapid vibration that creates sound.",
       "source": "Eugene Speech Language Therapy — How We Speak (YouTube, 11xf89bXaCg)",
-      "module": ""
+      "module": "mod-14"
     },
     {
       "id": "ch3-f001",
@@ -6888,7 +6888,7 @@
       "id": "slp-td-yt1-g004",
       "front": "Define: Articulation",
       "back": "The process of shaping sounds into recognizable words using the articulators. Occurs when parts of the mouth touch or interact with each other. The primary articulator is the tongue; others include the lips, teeth, cheeks, and palate.",
-      "module": "",
+      "module": "mod-14",
       "chapter": "",
       "source": "Eugene Speech Language Therapy — How We Speak (YouTube, 11xf89bXaCg)"
     },
@@ -6904,7 +6904,7 @@
       "id": "slp-td-yt1-g007",
       "front": "Define: Articulators",
       "back": "The structures of the mouth that shape sounds into speech. The main articulator is the tongue. Other articulators include the lips, teeth, cheeks, and palate.",
-      "module": "",
+      "module": "mod-14",
       "chapter": "",
       "source": "Eugene Speech Language Therapy — How We Speak (YouTube, 11xf89bXaCg)"
     },
@@ -7784,7 +7784,7 @@
       "id": "slp-td-yt1-g009",
       "front": "Define: Intelligibility",
       "back": "The degree to which speech can be understood by a listener. Speech-language pathologists work with clients to improve intelligibility across all four processes of speech production.",
-      "module": "",
+      "module": "mod-14",
       "chapter": "",
       "source": "Eugene Speech Language Therapy — How We Speak (YouTube, 11xf89bXaCg)"
     },
@@ -8040,7 +8040,7 @@
       "id": "slp-td-yt1-g008",
       "front": "Define: Motor Plan (Speech Motor Plan)",
       "back": "The plan created by the brain specifying how to produce intended speech. The brain first determines what it wants to say, then creates a motor plan before the four processes of speech production are executed.",
-      "module": "",
+      "module": "mod-14",
       "chapter": "",
       "source": "Eugene Speech Language Therapy — How We Speak (YouTube, 11xf89bXaCg)"
     },
@@ -8120,7 +8120,7 @@
       "id": "slp-td-yt1-g012",
       "front": "Define: Nasal Cavity",
       "back": "One of three resonating cavities used in speech production (along with the throat and oral cavity). Sound passes through the nasal cavity to contribute to resonance and voice quality.",
-      "module": "",
+      "module": "mod-14",
       "chapter": "",
       "source": "Eugene Speech Language Therapy — How We Speak (YouTube, 11xf89bXaCg)"
     },
@@ -8464,7 +8464,7 @@
       "id": "slp-td-yt1-g003",
       "front": "Define: Resonance",
       "back": "The process by which sound created at the vocal folds travels upward through cavities in the head — the throat, the oral cavity, and the nasal cavity — and is shaped to produce individual voice quality.",
-      "module": "",
+      "module": "mod-14",
       "chapter": "",
       "source": "Eugene Speech Language Therapy — How We Speak (YouTube, 11xf89bXaCg)"
     },
@@ -8488,7 +8488,7 @@
       "id": "slp-td-yt1-g001",
       "front": "Define: Respiration",
       "back": "The breathing process that provides the energy source behind speech production. During speech, the inhale-to-exhale ratio shifts dramatically to approximately 10% inhalation and 90% exhalation, compared to the resting ratio of 50/50 or 40/60.",
-      "module": "",
+      "module": "mod-14",
       "chapter": "",
       "source": "Eugene Speech Language Therapy — How We Speak (YouTube, 11xf89bXaCg)"
     },
@@ -8776,7 +8776,7 @@
       "id": "slp-td-yt1-g011",
       "front": "Define: Trachea",
       "back": "The airway (windpipe) located below the vocal folds and above the lungs through which air passes during respiration and speech.",
-      "module": "",
+      "module": "mod-14",
       "chapter": "",
       "source": "Eugene Speech Language Therapy — How We Speak (YouTube, 11xf89bXaCg)"
     },
@@ -8816,7 +8816,7 @@
       "id": "slp-td-yt1-g005",
       "front": "Define: Vocal Folds (Vocal Cords)",
       "back": "A pair of tissue structures located above the trachea and lungs. When pushed together and subjected to airflow from the lungs, they vibrate rapidly to produce sound. Also called vocal cords.",
-      "module": "",
+      "module": "mod-14",
       "chapter": "",
       "source": "Eugene Speech Language Therapy — How We Speak (YouTube, 11xf89bXaCg)"
     },
