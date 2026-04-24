@@ -177,6 +177,22 @@
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Textbook Glossary"
     },
     {
+      "id": "src-mod1xg02-g002",
+      "term": "Acquired Brain Injury (ABI)",
+      "def": "A brain injury that occurs after birth and is not hereditary, congenital, or degenerative; in the pediatric context it encompasses traumatic brain injuries resulting from external causes.",
+      "chapter": "web",
+      "source": "File: Traumatic Brain Injury in Children and Adolescents.pdf",
+      "module": ""
+    },
+    {
+      "id": "src-mod1ujwv-g009",
+      "term": "Acquired Disorder",
+      "def": "A communication or swallowing disorder that develops after a period of typical development or typical functioning, caused by an accident, injury, or medical problem such as a stroke, aneurysm, or TBI.",
+      "chapter": "web",
+      "source": "File: 8.2.2 Lecture - Chapter 11 Traumatic Brain Injury in Children and Adolescents.docx",
+      "module": ""
+    },
+    {
       "id": "fogle-acquired_disorders",
       "term": "Acquired disorders",
       "def": "A disorder that begins after an individual has developed normal communication abilities, such as a hearing loss from loud noise exposure or a speech, language, or cognitive disorder caused by a traumatic brain injury.",
@@ -223,6 +239,14 @@
       "chapter": "1",
       "module": "mod-1",
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Textbook Glossary"
+    },
+    {
+      "id": "src-mod1tqqc-g003",
+      "term": "Adaptive Behavior",
+      "def": "Skills that allow an individual to function similarly to same-aged peers, including conceptual skills (e.g., language, literacy), social skills (e.g., interpersonal skills), and practical skills (e.g., daily living activities).",
+      "chapter": "web",
+      "source": "File: 8.2.1 Lecture - Chapter 10 Autism Spectrum Disorders and Developmental Disabilities.docx",
+      "module": ""
     },
     {
       "id": "fogle-addition",
@@ -649,12 +673,28 @@
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Textbook Glossary"
     },
     {
+      "id": "src-mod1tqqc-g010",
+      "term": "Applied Behavior Analysis (ABA)",
+      "def": "A therapy approach used in the treatment of ASD that aims to decrease behaviors interfering with quality of life and increase behaviors that improve it. It is one of the primary evidence-based treatment methods for individuals with ASD.",
+      "chapter": "web",
+      "source": "File: 8.2.1 Lecture - Chapter 10 Autism Spectrum Disorders and Developmental Disabilities.docx",
+      "module": ""
+    },
+    {
       "id": "fogle-applied_behavioral_analysis_aba",
       "term": "Applied behavioral analysis (ABA)",
       "def": "An applied science devoted to developing procedures that produce measurable changes in behavior using principles of operant conditioning, classical conditioning, and social learning theory (formerly, behavior modification).",
       "chapter": "3",
       "module": "mod-3",
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Textbook Glossary"
+    },
+    {
+      "id": "src-mod1wwfe-g004",
+      "term": "Applied Behavioral Analysis (ABA)",
+      "def": "A behavioral intervention and treatment approach used for individuals with ASD, considered a core component of the combination of traditional therapy, augmentative and alternative education, and behavioral interventions.",
+      "chapter": "web",
+      "source": "File: Autism Spectrum Disorders.pdf",
+      "module": ""
     },
     {
       "id": "ch17-g002",
@@ -903,6 +943,14 @@
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Textbook Glossary"
     },
     {
+      "id": "src-mod1wwfe-g005",
+      "term": "Augmentative and Alternative Communication (AAC)",
+      "def": "A form of communication used in the treatment of ASD and other developmental disabilities that supplements or replaces verbal communication through tools, devices, or strategies.",
+      "chapter": "web",
+      "source": "File: Autism Spectrum Disorders.pdf",
+      "module": ""
+    },
+    {
       "id": "ch5-g043",
       "term": "Augmentative and Alternative Communication (AAC) / Assistive Technology (AT)",
       "def": "Any approach designed to support, enhance, or supplement the communication of individuals who are not independent verbal communicators in all situations. Augmentative approaches: ENHANCE conventional forms of communication. Alternative approaches: REPLACE conventional forms. Includes electronic (high-tech: speech-generating devices) and non-electronic (low-tech: communication boards) systems. Requires a multidisciplinary team. Selection techniques: direct (pointing) or scanning.",
@@ -933,6 +981,30 @@
       "chapter": "6",
       "module": "mod-6",
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Textbook Glossary"
+    },
+    {
+      "id": "src-mod1tqqc-g005",
+      "term": "Autism Spectrum Disorder (ASD)",
+      "def": "A complex developmental behavioral syndrome characterized by (1) persistent impairment in reciprocal social communication and social interactions, (2) restricted, repetitive patterns of behaviors, interests, or activities, and (3) symptoms present from early childhood that limit or impair everyday functioning. Severity ranges from mild to profound.",
+      "chapter": "web",
+      "source": "File: 8.2.1 Lecture - Chapter 10 Autism Spectrum Disorders and Developmental Disabilities.docx",
+      "module": ""
+    },
+    {
+      "id": "src-mod1v7h3-g001",
+      "term": "Autism Spectrum Disorder (ASD)",
+      "def": "A lifelong complex behavioral syndrome appearing by 3 years of age, characterized by markedly absent interest in social interactions and relationships, severely impaired communication skills, and repetitive, stereotyped movements with restricted, often obsessive or fixated interests.",
+      "chapter": "web",
+      "source": "File: 9781284235845_SLID_CH10.pptx",
+      "module": ""
+    },
+    {
+      "id": "src-mod1wwfe-g001",
+      "term": "Autism Spectrum Disorder (ASD)",
+      "def": "A developmental disability caused by differences in the brain, characterized by lack of verbal communication, minimal social skills, and receptive language abilities similar to mental age; affects 1 in 68 children in the United States.",
+      "chapter": "web",
+      "source": "File: Autism Spectrum Disorders.pdf",
+      "module": ""
     },
     {
       "id": "fogle-automatic_speech",
@@ -1117,6 +1189,14 @@
       "chapter": "10",
       "module": "mod-10",
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Textbook Glossary"
+    },
+    {
+      "id": "src-mod1v7h3-g006",
+      "term": "CARS-2 (Childhood Autism Rating Scale, Second Edition)",
+      "def": "A standardized assessment instrument used in the evidence-based evaluation of autism spectrum disorder in children.",
+      "chapter": "web",
+      "source": "File: 9781284235845_SLID_CH10.pptx",
+      "module": ""
     },
     {
       "id": "fogle-cartilage",
@@ -1343,6 +1423,30 @@
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Textbook Glossary"
     },
     {
+      "id": "src-mod1ujwv-g002",
+      "term": "Closed Head Injury",
+      "def": "A type of TBI in which the brain is injured without penetration of the skull; caused by a direct blow to the head, striking a hard surface, or abuse such as shaken baby syndrome.",
+      "chapter": "web",
+      "source": "File: 8.2.2 Lecture - Chapter 11 Traumatic Brain Injury in Children and Adolescents.docx",
+      "module": ""
+    },
+    {
+      "id": "src-mod1xg02-g004",
+      "term": "Closed Head Injury",
+      "def": "A type of traumatic brain injury resulting from an impact by a blunt object where the skull is not fractured and the brain is not directly exposed.",
+      "chapter": "web",
+      "source": "File: Traumatic Brain Injury in Children and Adolescents.pdf",
+      "module": ""
+    },
+    {
+      "id": "src-mod1wc80-g002",
+      "term": "Closed Head Injury (CHI)",
+      "def": "A type of traumatic brain injury caused by blunt force to the head without penetration of the skull; also called blunt force head injury.",
+      "chapter": "web",
+      "source": "File: 9781284235845_SLID_CH11.pptx",
+      "module": ""
+    },
+    {
       "id": "slp-ch16-g002",
       "term": "Closed Head Injury (CHI) and Coup-Contrecoup",
       "def": "CLOSED HEAD INJURY (CHI): the most common type of TBI in the civilian population. The skull is NOT penetrated — damage is caused by blunt force or the sudden deceleration of the head causing the brain to continue moving and strike the skull. Most common civilian causes: motor vehicle accidents and assaults. COUP-CONTRECOUP INJURY: brain is damaged at the SITE of impact (coup/primary) AND on the OPPOSITE side (contrecoup/secondary) as the brain 'flows' and compresses against the other side of the skull. Impact also causes significant SWELLING that may last days or weeks and cause additional damage. BLOOD-BRAIN BARRIER (BBB) may be disrupted.",
@@ -1471,6 +1575,14 @@
       "module": "mod-12"
     },
     {
+      "id": "src-mod1xg02-g009",
+      "term": "Cognitive Instability",
+      "def": "A cognitive effect of TBI involving inconsistent cognitive functioning that decreases a person's confidence in their memory, problem-solving abilities, and other cognitive functions.",
+      "chapter": "web",
+      "source": "File: Traumatic Brain Injury in Children and Adolescents.pdf",
+      "module": ""
+    },
+    {
       "id": "fogle-cognitive_rehabilitation",
       "term": "Cognitive rehabilitation",
       "def": "Individualized programs focused on specific cognitive areas (e.g., improving memory and language processing) to help brain injured individuals restore abilities or compensate for cognitive deficits to promote independent functioning in daily living.",
@@ -1479,12 +1591,36 @@
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Textbook Glossary"
     },
     {
+      "id": "src-mod1ujwv-g008",
+      "term": "Cognitive Rest",
+      "def": "A medically recommended period in which a child avoids cognitive activities, especially reading and academic tasks, to allow the brain to heal following a concussion or mild TBI.",
+      "chapter": "web",
+      "source": "File: 8.2.2 Lecture - Chapter 11 Traumatic Brain Injury in Children and Adolescents.docx",
+      "module": ""
+    },
+    {
       "id": "fogle-cognitive-behavioral_therapy",
       "term": "Cognitive-behavioral therapy",
       "def": "A model of counseling designed to help individuals recognize and examine problematic beliefs and replace them with more adaptive and flexible ways of thinking.",
       "chapter": "9",
       "module": "mod-9",
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Textbook Glossary"
+    },
+    {
+      "id": "src-mod1ujwv-g010",
+      "term": "Cognitive-Communication Challenges",
+      "def": "Difficulties with communication that arise from underlying cognitive deficits (such as memory, attention, or concentration impairments) following a TBI or concussion; addressed through direct one-to-one speech therapy by an SLP.",
+      "chapter": "web",
+      "source": "File: 8.2.2 Lecture - Chapter 11 Traumatic Brain Injury in Children and Adolescents.docx",
+      "module": ""
+    },
+    {
+      "id": "src-mod1wc80-g004",
+      "term": "Cognitive-Communication Disorder",
+      "def": "Difficulty with any aspect of communication that is caused by disruption of cognitive processes, including attention, memory, reasoning, organization, and executive function.",
+      "chapter": "web",
+      "source": "File: 9781284235845_SLID_CH11.pptx",
+      "module": ""
     },
     {
       "id": "slp-ch16-g001",
@@ -1591,12 +1727,28 @@
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Textbook Glossary"
     },
     {
+      "id": "src-mod1wc80-g003",
+      "term": "Concussion",
+      "def": "A form of mild traumatic brain injury (mTBI) resulting from biomechanical force to the head or body; may present with a range of symptoms including headache, dizziness, cognitive changes, and mood disturbances; no abnormality is typically seen on standard structural neuroimaging.",
+      "chapter": "web",
+      "source": "File: 9781284235845_SLID_CH11.pptx",
+      "module": ""
+    },
+    {
       "id": "slp-ch16-g003",
       "term": "Concussion (Mild TBI / mTBI) and Postconcussion Syndrome (PCS)",
       "def": "CONCUSSION (mTBI): mild traumatic brain injury caused by a blow to the head or violent shaking of the head/upper body. Usually does NOT result in loss of consciousness (LOC), although it may. Those with mild TBI often do not receive rehabilitation but may later notice they cannot perform at prior levels — problems at home and work, relationship deterioration. POSTCONCUSSION SYNDROME (PCS): long-lasting subtle impairments following concussion. Even mild TBI causes long-term structural changes in white and grey matter.",
       "chapter": "16",
       "source": "Ch. 16 PPTX; Kidwell lecture notes",
       "module": "mod-12"
+    },
+    {
+      "id": "src-mod1ujwv-g004",
+      "term": "Concussion (mTBI)",
+      "def": "A mild traumatic brain injury caused by a direct blow to the head or elsewhere that transmits force to the head; may or may not cause loss of consciousness, most often does not.",
+      "chapter": "web",
+      "source": "File: 8.2.2 Lecture - Chapter 11 Traumatic Brain Injury in Children and Adolescents.docx",
+      "module": ""
     },
     {
       "id": "ch12-g009",
@@ -1879,6 +2031,22 @@
       "source": "Lecture 2.2 — Ch. 3, Kidwell, SJDC Comm Dis 1A"
     },
     {
+      "id": "src-mod1tqqc-g001",
+      "term": "Developmental Disability",
+      "def": "A disability present before 18 years of age in which there are significant limitations in both intellectual functioning and adaptive behavior, including conceptual, social, and practical skills. Encompasses both intellectual and physical disabilities.",
+      "chapter": "web",
+      "source": "File: 8.2.1 Lecture - Chapter 10 Autism Spectrum Disorders and Developmental Disabilities.docx",
+      "module": ""
+    },
+    {
+      "id": "src-mod1wwfe-g002",
+      "term": "Developmental Disability",
+      "def": "An umbrella term that includes intellectual disabilities and physical disabilities that become apparent before 18 years of age and are likely to persist across the life span.",
+      "chapter": "web",
+      "source": "File: Autism Spectrum Disorders.pdf",
+      "module": ""
+    },
+    {
       "id": "ch5-g035",
       "term": "Developmental vs. Acquired Speech Sound Disorders",
       "def": "Developmental speech sound disorders: the child has NEVER spoken correctly — the disorder is present from the beginning of speech development. Acquired speech sound disorders: the person LOSES a previously established speech skill due to an accident, stroke, or disease process. Acquired disorders can occur in children but are more commonly seen in adults.",
@@ -1982,6 +2150,22 @@
       "source": "Lecture 1.2.1 — Chapter 1, Kidwell, SJDC Comm Dis 1A"
     },
     {
+      "id": "src-mod1ujwv-g007",
+      "term": "Disinhibition",
+      "def": "A behavioral effect of TBI in which the individual does not follow the usual social rules, resulting in socially inappropriate behavior.",
+      "chapter": "web",
+      "source": "File: 8.2.2 Lecture - Chapter 11 Traumatic Brain Injury in Children and Adolescents.docx",
+      "module": ""
+    },
+    {
+      "id": "src-mod1xg02-g006",
+      "term": "Disinhibition",
+      "def": "A behavioral effect of TBI in which a person loses the ability to regulate or suppress impulsive behaviors, emotions, or social responses that would normally be controlled.",
+      "chapter": "web",
+      "source": "File: Traumatic Brain Injury in Children and Adolescents.pdf",
+      "module": ""
+    },
+    {
       "id": "slp-ch18-g006",
       "term": "Disorders of the Four Swallowing Phases",
       "def": "ORAL PREPARATORY PHASE DISORDERS: Decreased cognition (impaired awareness); impulsivity (dangerously large bites, packing food); weak mandible, lip, or tongue muscles causing poor bolus control. ORAL PHASE DISORDERS: Poor lip seal causing anterior spillage (drooling); poor posterior seal causing premature spillage; weak tongue tip causing discoordinated posterior movement; pocketed food in sulcus (residue/stasis); insufficient tongue propulsive force. PHARYNGEAL PHASE DISORDERS: Delayed swallow response; impaired timing and coordination; weak soft palate (nasal regurgitation); weak laryngeal elevation (epiglottis fails to close — penetration/aspiration); weak vocal fold closure (aspiration); silent aspiration (no protective cough). ESOPHAGEAL PHASE DISORDERS: UEV does not open or stay open long enough; slow or absent esophageal peristalsis (residue, discomfort, infection risk); lower esophageal valve fails to relax (food cannot enter stomach).",
@@ -2012,6 +2196,38 @@
       "chapter": "4",
       "module": "mod-4",
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Textbook Glossary"
+    },
+    {
+      "id": "src-mod1tqqc-g004",
+      "term": "Down Syndrome",
+      "def": "The most common chromosomal cause of developmental and learning disabilities, caused by trisomy of chromosome 21. Those affected generally fall in the mild to moderate range of disability and may present with hypotonicity, delayed and disordered speech, and both sensorineural and conductive hearing loss.",
+      "chapter": "web",
+      "source": "File: 8.2.1 Lecture - Chapter 10 Autism Spectrum Disorders and Developmental Disabilities.docx",
+      "module": ""
+    },
+    {
+      "id": "src-mod1wwfe-g008",
+      "term": "Down Syndrome",
+      "def": "The most common chromosomal cause of developmental disabilities and learning disabilities, characterized by impaired receptive and expressive language and inconsistent distorted speech.",
+      "chapter": "web",
+      "source": "File: Autism Spectrum Disorders.pdf",
+      "module": ""
+    },
+    {
+      "id": "src-mod1v7h3-g007",
+      "term": "Down Syndrome (Chromosome 21-Trisomy Syndrome)",
+      "def": "A developmental disability caused by the presence of a third copy of chromosome 21, associated with distinct physical characteristics, congenital anomalies, and speech and language impairments; maternal age is a contributing risk factor.",
+      "chapter": "web",
+      "source": "File: 9781284235845_SLID_CH10.pptx",
+      "module": ""
+    },
+    {
+      "id": "src-mod1v7h3-g002",
+      "term": "DSM-5",
+      "def": "The Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition (2013), which provides the diagnostic criteria for ASD, including persistent impairment in reciprocal social communication, restricted/repetitive patterns of behavior, and symptoms present from early childhood that limit everyday functioning.",
+      "chapter": "web",
+      "source": "File: 9781284235845_SLID_CH10.pptx",
+      "module": ""
     },
     {
       "id": "ch9-g003",
@@ -2174,12 +2390,36 @@
       "source": "Ch. 4 PDF — Prof. Handy, SJDC"
     },
     {
+      "id": "src-mod1tqqc-g006",
+      "term": "Echolalia",
+      "def": "The mechanical repetition of words, phrases, or extended segments of language heard from others, without communicative intent. In ASD, may involve repeating entire commercials or video segments perseveratively. While normal in early language development, in ASD it does not serve communicative purposes.",
+      "chapter": "web",
+      "source": "File: 8.2.1 Lecture - Chapter 10 Autism Spectrum Disorders and Developmental Disabilities.docx",
+      "module": ""
+    },
+    {
+      "id": "src-mod1wwfe-g003",
+      "term": "Echolalia",
+      "def": "A characteristic of ASD in which an individual repeats words or phrases over and over, often without communicative intent.",
+      "chapter": "web",
+      "source": "File: Autism Spectrum Disorders.pdf",
+      "module": ""
+    },
+    {
       "id": "fogle-edema",
       "term": "Edema",
       "def": "Accumulation of excessive fluid in tissue that is associated with inflammatory conditions and results in swelling of the tissue.",
       "chapter": "10",
       "module": "mod-10",
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Textbook Glossary"
+    },
+    {
+      "id": "src-mod1xg02-g008",
+      "term": "Egocentrism",
+      "def": "A behavioral effect of TBI in which the individual becomes excessively focused on themselves, with limited ability to consider or empathize with the perspectives of others.",
+      "chapter": "web",
+      "source": "File: Traumatic Brain Injury in Children and Adolescents.pdf",
+      "module": ""
     },
     {
       "id": "fogle-electrolarynx_artificial_larynx",
@@ -2382,12 +2622,28 @@
       "source": "Lecture Ch. 9, Kidwell, SJDC"
     },
     {
+      "id": "src-mod1wc80-g005",
+      "term": "Executive Function",
+      "def": "Higher-level cognitive functions including inhibition, flexibility of thinking, problem solving, impulse control, concept formation, abstract thinking, and creativity; commonly impaired following TBI.",
+      "chapter": "web",
+      "source": "File: 9781284235845_SLID_CH11.pptx",
+      "module": ""
+    },
+    {
       "id": "ch3s-g016",
       "term": "Executive Functions",
       "def": "A composite of cognitive activities related to goal completion, governed by the frontal lobes. Includes: anticipation, goal selection, planning, initiation of activity, self-regulation/self-monitoring, and use of feedback to adjust future responses.",
       "module": "mod-2",
       "chapter": "3",
       "source": "CSD Ch3 PP (Fogle 3rd ed.)"
+    },
+    {
+      "id": "src-mod1xg02-g010",
+      "term": "Executive Functions",
+      "def": "Higher-order cognitive processes responsible for goal completion, planning, problem-solving, and regulating behavior; these functions are commonly impaired following traumatic brain injury in older children and adolescents.",
+      "chapter": "web",
+      "source": "File: Traumatic Brain Injury in Children and Adolescents.pdf",
+      "module": ""
     },
     {
       "id": "ch3s-g002",
@@ -2420,6 +2676,14 @@
       "module": "mod-6",
       "chapter": "7",
       "source": "Lecture Ch. 7, Kidwell / Ch. 7 slides"
+    },
+    {
+      "id": "src-mod1wwfe-g007",
+      "term": "Expressive Language",
+      "def": "The ability to produce and convey language; individuals with ASD and developmental disabilities often show significant expressive language delays and disorders.",
+      "chapter": "web",
+      "source": "File: Autism Spectrum Disorders.pdf",
+      "module": ""
     },
     {
       "id": "slp-ch15-g003",
@@ -2662,6 +2926,14 @@
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Textbook Glossary"
     },
     {
+      "id": "src-mod1v7h3-g003",
+      "term": "Functional Communication",
+      "def": "A form of communication focused on enabling individuals, particularly those with developmental disabilities, to meet their daily communicative needs effectively in real-world contexts, as addressed in the goals of ASD intervention.",
+      "chapter": "web",
+      "source": "File: 9781284235845_SLID_CH10.pptx",
+      "module": ""
+    },
+    {
       "id": "ch5-g025",
       "term": "Functional Disorder",
       "def": "A communication disorder with no identifiable anatomic, physiologic, or neurologic cause. The child has difficulty producing speech sounds, but examination reveals no structural or neurological reason. Contrasted with organic disorder. The cause is unknown. Also called 'idiopathic.'",
@@ -2732,6 +3004,14 @@
       "chapter": "15",
       "source": "Ch. 15 PPTX; Kidwell lecture notes",
       "module": "mod-11"
+    },
+    {
+      "id": "src-mod1v7h3-g010",
+      "term": "Global Developmental Delay",
+      "def": "A type of developmental disability in which a child shows significant delays across multiple areas of development, listed alongside intellectual disability and speech and language as categories of developmental disabilities.",
+      "chapter": "web",
+      "source": "File: 9781284235845_SLID_CH10.pptx",
+      "module": ""
     },
     {
       "id": "ch3-g019",
@@ -2926,6 +3206,14 @@
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Textbook Glossary"
     },
     {
+      "id": "src-mod1tqqc-g009",
+      "term": "Hypotonicity",
+      "def": "Abnormally low muscle tone, commonly seen in individuals with Down syndrome. Hypotonicity contributes to speech sound distortions and delayed motor development in speech production.",
+      "chapter": "web",
+      "source": "File: 8.2.1 Lecture - Chapter 10 Autism Spectrum Disorders and Developmental Disabilities.docx",
+      "module": ""
+    },
+    {
       "id": "ch6-g015",
       "term": "Hypotonicity vs. Hypertonicity",
       "def": "Hypotonicity: abnormally low muscle tone — muscles are floppy/weak. Hypertonicity: abnormally high muscle tone — muscles are rigid/stiff. Both affect speech production in dysarthria. The type present depends on the site and extent of neurological damage. CP can present with either type.",
@@ -3036,6 +3324,14 @@
       "chapter": "4",
       "module": "mod-4",
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Textbook Glossary"
+    },
+    {
+      "id": "src-mod1tqqc-g002",
+      "term": "Intellectual Disability",
+      "def": "A disability characterized by an IQ less than 70 and impaired adaptive skills. Ranges from mild (capable of approximately a sixth-grade educational level) to profound (may have no functional communication).",
+      "chapter": "web",
+      "source": "File: 8.2.1 Lecture - Chapter 10 Autism Spectrum Disorders and Developmental Disabilities.docx",
+      "module": ""
     },
     {
       "id": "yt1-g009",
@@ -3397,6 +3693,14 @@
       "source": "Ch. 6 PPTX — Fogle/SJDC"
     },
     {
+      "id": "src-mod1v7h3-g005",
+      "term": "M-CHAT (Modified Checklist for Autism in Toddlers)",
+      "def": "A standardized screening tool used as part of an evidence-based assessment approach to identify toddlers at risk for autism spectrum disorder.",
+      "chapter": "web",
+      "source": "File: 9781284235845_SLID_CH10.pptx",
+      "module": ""
+    },
+    {
       "id": "fogle-malocclusion",
       "term": "Malocclusion",
       "def": "Misalignment or incorrect relation between the teeth of the maxillary (upper) and mandibular (lower) dental arches when the dental arches close.",
@@ -3523,6 +3827,14 @@
       "chapter": "7",
       "module": "mod-7",
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Textbook Glossary"
+    },
+    {
+      "id": "src-mod1xg02-g005",
+      "term": "Mild Traumatic Brain Injury (mTBI) / Concussion",
+      "def": "The most common type of pediatric TBI, characterized by symptoms such as headache, dizziness, brief loss of consciousness, confusion, sleep disturbances, and seizures, resulting from a mild force impact to the head.",
+      "chapter": "web",
+      "source": "File: Traumatic Brain Injury in Children and Adolescents.pdf",
+      "module": ""
     },
     {
       "id": "ch1-g041",
@@ -3763,6 +4075,14 @@
       "source": "Lecture 2.2 — Ch. 3, Kidwell, SJDC Comm Dis 1A"
     },
     {
+      "id": "src-mod1wc80-g007",
+      "term": "Neuroplasticity (Neural Plasticity)",
+      "def": "The brain's ability to reorganize itself by forming new neural connections throughout life, particularly relevant in pediatric TBI recovery.",
+      "chapter": "web",
+      "source": "File: 9781284235845_SLID_CH11.pptx",
+      "module": ""
+    },
+    {
       "id": "fogle-noise-induced_hearing_loss",
       "term": "Noise-induced hearing loss",
       "def": "A permanent sensorineural hearing loss caused by exposure to excessive loud noise, often over long periods of time.",
@@ -3777,6 +4097,14 @@
       "chapter": "11",
       "module": "mod-11",
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Textbook Glossary"
+    },
+    {
+      "id": "src-mod1wwfe-g009",
+      "term": "Nonverbal",
+      "def": "A term used to describe individuals who do not use spoken language as a primary means of communication; approximately 50% of children with ASD are considered nonverbal.",
+      "chapter": "web",
+      "source": "File: Autism Spectrum Disorders.pdf",
+      "module": ""
     },
     {
       "id": "ch1-g003",
@@ -3841,6 +4169,22 @@
       "module": "mod-4",
       "chapter": "5",
       "source": "Lecture 4.2, Kidwell, SJDC"
+    },
+    {
+      "id": "src-mod1ujwv-g003",
+      "term": "Open Head Injury",
+      "def": "A type of TBI in which a strong force fractures the skull, causing direct brain damage through penetration of the skull.",
+      "chapter": "web",
+      "source": "File: 8.2.2 Lecture - Chapter 11 Traumatic Brain Injury in Children and Adolescents.docx",
+      "module": ""
+    },
+    {
+      "id": "src-mod1xg02-g003",
+      "term": "Open Head Injury",
+      "def": "A type of traumatic brain injury in which the skull is fractured and the brain is exposed or penetrated, typically by a projectile that pierces the head.",
+      "chapter": "web",
+      "source": "File: Traumatic Brain Injury in Children and Adolescents.pdf",
+      "module": ""
     },
     {
       "id": "fogle-open_head_injury_ohi",
@@ -4075,6 +4419,14 @@
       "source": "Lecture Ch. 17, Kidwell / Ch. 17 PPTX"
     },
     {
+      "id": "src-mod1xg02-g001",
+      "term": "Pediatric Traumatic Brain Injury (pTBI)",
+      "def": "A traumatic brain injury that occurs in children of any age, from newborns through adolescents, caused by external forces such as falls, accidents, sports injuries, assaults, or motor vehicle accidents.",
+      "chapter": "web",
+      "source": "File: Traumatic Brain Injury in Children and Adolescents.pdf",
+      "module": ""
+    },
+    {
       "id": "ch3-g042",
       "term": "Peripheral Nervous System (PNS)",
       "def": "Allows the CNS to communicate with the body. Composed of cranial nerves exiting the brainstem and spinal nerves exiting the spinal cord, plus sensory nerves throughout the body. Carries sensory information TO the brain and motor commands FROM the brain to muscles.",
@@ -4089,6 +4441,30 @@
       "chapter": "12",
       "module": "mod-12",
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Textbook Glossary"
+    },
+    {
+      "id": "src-mod1ujwv-g006",
+      "term": "Perseveration",
+      "def": "A behavioral effect of TBI characterized by the repetition of an idea or action over and over, beyond what is appropriate in context.",
+      "chapter": "web",
+      "source": "File: 8.2.2 Lecture - Chapter 11 Traumatic Brain Injury in Children and Adolescents.docx",
+      "module": ""
+    },
+    {
+      "id": "src-mod1xg02-g007",
+      "term": "Perseveration",
+      "def": "A behavioral symptom of TBI characterized by the uncontrollable repetition of a particular idea, response, or action even when it is no longer appropriate or relevant.",
+      "chapter": "web",
+      "source": "File: Traumatic Brain Injury in Children and Adolescents.pdf",
+      "module": ""
+    },
+    {
+      "id": "src-mod1v7h3-g008",
+      "term": "Perseverative Behavior",
+      "def": "A feature associated with autism spectrum disorder involving the persistent repetition of a particular response or behavior beyond what is contextually appropriate.",
+      "chapter": "web",
+      "source": "File: 9781284235845_SLID_CH10.pptx",
+      "module": ""
     },
     {
       "id": "ch21-g003",
@@ -4258,12 +4634,28 @@
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Textbook Glossary"
     },
     {
+      "id": "src-mod1ujwv-g005",
+      "term": "Post Concussive Syndrome",
+      "def": "A condition in which signs and symptoms of a concussion from the acute phase persist for several weeks or months; considered dangerous to brain health and healing if not treated, and can cause short-term memory impairments and lack of concentration.",
+      "chapter": "web",
+      "source": "File: 8.2.2 Lecture - Chapter 11 Traumatic Brain Injury in Children and Adolescents.docx",
+      "module": ""
+    },
+    {
       "id": "fogle-post-concussion_syndrome_pcs",
       "term": "Post-concussion syndrome (PCS)",
       "def": "Vague or nonspecific symptoms that are a continuation of symptoms seen in the acute phase of a mild TBI that may last for several weeks or months, with physical symptoms such as headache and dizziness, psychological symptoms such as depressed mood and irritability, and cognitive impairments such as memory and concentration difficulties.",
       "chapter": "12",
       "module": "mod-12",
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Textbook Glossary"
+    },
+    {
+      "id": "src-mod1wc80-g009",
+      "term": "Post-Concussion Syndrome (PCS)",
+      "def": "A condition characterized by the continuation of vague, nonspecific symptoms beyond the acute phase of mild TBI, potentially lasting weeks to months, including physical symptoms (headache, dizziness, sleep problems), psychological symptoms (depressed mood, irritability, anxiety), and cognitive impairments (memory, concentration, reasoning, judgment, problem solving).",
+      "chapter": "web",
+      "source": "File: 9781284235845_SLID_CH11.pptx",
+      "module": ""
     },
     {
       "id": "fogle-post-traumatic_stress_disorder_ptsd",
@@ -4474,6 +4866,14 @@
       "source": "Lecture 1.2.1 — Chapter 1, Kidwell, SJDC Comm Dis 1A"
     },
     {
+      "id": "src-mod1wwfe-g006",
+      "term": "Receptive Language",
+      "def": "The ability to understand spoken or written language; in individuals with ASD, receptive language abilities are often similar to their mental age.",
+      "chapter": "web",
+      "source": "File: Autism Spectrum Disorders.pdf",
+      "module": ""
+    },
+    {
       "id": "ch7-g009",
       "term": "Receptive Language (Language Comprehension)",
       "def": "The process by which a listener INFERS the meaning of an auditory message based on the context of the information and long-term stored memory of words and general knowledge. It is an ACTIVE process. Receptive language = what we understand WITHOUT producing words. Also called language comprehension or auditory comprehension. Children with SLI may struggle with: normal rate of conversation, direct and indirect questions, following directions, comprehension of individual words, and the subtleties of connected speech.\n★ Language impairment WITH a receptive component is MORE RESISTANT TO INTERVENTION and carries GREATER RISK for adverse academic outcomes than expressive-only impairment.",
@@ -4536,6 +4936,14 @@
       "source": "Lecture 1.2.1 — Chapter 1, Kidwell, SJDC Comm Dis 1A"
     },
     {
+      "id": "src-mod1wwfe-g010",
+      "term": "Restricted or Repetitive Behaviors",
+      "def": "A core category of ASD warning signs that includes lining up objects, echolalia, obsessive interests, strict adherence to routines, repetitive motor movements such as hand flapping, and unusual sensory reactions.",
+      "chapter": "web",
+      "source": "File: Autism Spectrum Disorders.pdf",
+      "module": ""
+    },
+    {
       "id": "ch19-g009",
       "term": "Retrocochlear hearing loss",
       "def": "A hearing disorder resulting from a neoplasm (tumor) or other lesion located on cranial nerve VIII or beyond in the auditory brainstem or cortex.",
@@ -4590,6 +4998,14 @@
       "module": "mod-13",
       "chapter": "21",
       "source": "Ch. 21 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
+    },
+    {
+      "id": "src-mod1wc80-g010",
+      "term": "Second Impact Syndrome",
+      "def": "A dangerous condition that can occur when a person sustains a second concussion before fully recovering from a first one, potentially leading to rapid and severe brain swelling; a critical consideration in return-to-sport decisions.",
+      "chapter": "web",
+      "source": "File: 9781284235845_SLID_CH11.pptx",
+      "module": ""
     },
     {
       "id": "fogle-second-impact_syndrome",
@@ -4704,12 +5120,28 @@
       "source": "Lecture 1.2.2 — Chapter 2: The Professionals, Kidwell, SJDC Comm Dis 1A"
     },
     {
+      "id": "src-mod1v7h3-g009",
+      "term": "Social (Pragmatic) Communication Disorder",
+      "def": "A disorder characterized by difficulties in using verbal and nonverbal communication for social purposes, which is listed as one of the features associated with autism spectrum disorder.",
+      "chapter": "web",
+      "source": "File: 9781284235845_SLID_CH10.pptx",
+      "module": ""
+    },
+    {
       "id": "fogle-social_pragmatic_communication_disorder_",
       "term": "Social (pragmatic) communication disorder (SCD)",
       "def": "A primary deficit in the social use of nonverbal and verbal communication characterized by difficulty in using language for social purposes, appropriately matching communication to the social context, following rules of the communication context, understanding nonliteral language, and integrating language with nonverbal communicative behaviors.",
       "chapter": "12",
       "module": "mod-12",
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Textbook Glossary"
+    },
+    {
+      "id": "src-mod1tqqc-g008",
+      "term": "Social (Pragmatic) Communication Disorder (SCD)",
+      "def": "A disorder characterized by inappropriate use of language, including deficits in following rules of communication, understanding nonliteral language, and integrating literal language. Distinguished from ASD by the absence of restricted, repetitive behaviors.",
+      "chapter": "web",
+      "source": "File: 8.2.1 Lecture - Chapter 10 Autism Spectrum Disorders and Developmental Disabilities.docx",
+      "module": ""
     },
     {
       "id": "ch4-g028",
@@ -4928,6 +5360,14 @@
       "source": "Lecture Ch. 12, Kidwell / Fluency_Disorders.pdf"
     },
     {
+      "id": "src-mod1wc80-g008",
+      "term": "Subconcussion",
+      "def": "A biomechanical force to the head or body similar to or less than that required for a symptomatic concussion, occurring without the symptoms and clinical presentation consistent with concussion, but potentially causing brain damage at the microscopic level.",
+      "chapter": "web",
+      "source": "File: 9781284235845_SLID_CH11.pptx",
+      "module": ""
+    },
+    {
       "id": "ch3-g057",
       "term": "Subglottic Air Pressure",
       "def": "Air pressure that builds up below the closed (adducted) vocal folds. When sufficient pressure builds, it forces the vocal folds open. Bernoulli's law then causes them to snap back shut, producing the vibration cycle that creates voice.",
@@ -5054,6 +5494,30 @@
       "chapter": "6",
       "module": "mod-6",
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Textbook Glossary"
+    },
+    {
+      "id": "src-mod1tqqc-g007",
+      "term": "Theory of Mind",
+      "def": "The cognitive ability to recognize and understand the mental states of other people, including their beliefs, thoughts, and feelings. Individuals with ASD often have deficits in theory of mind, impairing their ability to take others' perspectives and use pragmatic language appropriately.",
+      "chapter": "web",
+      "source": "File: 8.2.1 Lecture - Chapter 10 Autism Spectrum Disorders and Developmental Disabilities.docx",
+      "module": ""
+    },
+    {
+      "id": "src-mod1v7h3-g004",
+      "term": "Theory of Mind",
+      "def": "The ability to understand that other people have their own thoughts, beliefs, desires, and perspectives different from one's own; a deficit in theory of mind is a feature commonly associated with autism spectrum disorder.",
+      "chapter": "web",
+      "source": "File: 9781284235845_SLID_CH10.pptx",
+      "module": ""
+    },
+    {
+      "id": "src-mod1wc80-g006",
+      "term": "Theory of Mind",
+      "def": "The ability to see the world from the perspective of other people; to recognize the mental states (thoughts and feelings) of others and appreciate their beliefs about the world; essential for empathy; can be disrupted by TBI.",
+      "chapter": "web",
+      "source": "File: 9781284235845_SLID_CH11.pptx",
+      "module": ""
     },
     {
       "id": "ch3-g006",
@@ -5213,6 +5677,22 @@
       "chapter": "15",
       "source": "Ch. 15 PPTX; Kidwell lecture notes",
       "module": "mod-11"
+    },
+    {
+      "id": "src-mod1ujwv-g001",
+      "term": "Traumatic Brain Injury (TBI)",
+      "def": "An acquired injury to the brain caused by an external force, which may result in partial or total functional disability affecting communication, quality of life, psychosocial behavior, speech-language, and cognition.",
+      "chapter": "web",
+      "source": "File: 8.2.2 Lecture - Chapter 11 Traumatic Brain Injury in Children and Adolescents.docx",
+      "module": ""
+    },
+    {
+      "id": "src-mod1wc80-g001",
+      "term": "Traumatic Brain Injury (TBI)",
+      "def": "An injury to the brain caused by an external mechanical force, which may result in cognitive, physical, behavioral, and communicative impairments; encompasses pediatric TBI (PTBI), head injury (HI), and acquired brain injury (ABI).",
+      "chapter": "web",
+      "source": "File: 9781284235845_SLID_CH11.pptx",
+      "module": ""
     },
     {
       "id": "ch3-g017",
@@ -11075,6 +11555,246 @@
       "module": "mod-13",
       "chapter": "21",
       "source": "Ch. 21 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
+    },
+    {
+      "id": "src-mod1tqqc-f001",
+      "front": "What are the three core DSM-V characteristics of Autism Spectrum Disorder?",
+      "back": "1. Persistent impairment in reciprocal social communication and social interactions. 2. Restricted, repetitive patterns of behaviors, interests, or activities. 3. Symptoms present from early childhood that limit or impair everyday functioning. These characteristics may range from mild to profound.",
+      "chapter": "web",
+      "source": "File: 8.2.1 Lecture - Chapter 10 Autism Spectrum Disorders and Developmental Disabilities.docx",
+      "module": ""
+    },
+    {
+      "id": "src-mod1tqqc-f002",
+      "front": "What is the global incidence of ASD and what factors may explain its increase?",
+      "back": "The global incidence of ASD is now 1 in 160. Factors that may explain the increase include increased awareness, expansion of diagnostic criteria, and a possible true increase in incidence. The exact cause of the increase remains unknown.",
+      "chapter": "web",
+      "source": "File: 8.2.1 Lecture - Chapter 10 Autism Spectrum Disorders and Developmental Disabilities.docx",
+      "module": ""
+    },
+    {
+      "id": "src-mod1tqqc-f003",
+      "front": "What does research say about the relationship between childhood vaccinations and ASD?",
+      "back": "Research consistently shows NO relationship. A meta-analysis of 1,265,000 children worldwide found no link between vaccinations and ASD. The MMR vaccine showed no association in 95,727 children. Influenza vaccination during pregnancy showed no increased risk of ASD in 45,231 mothers' children.",
+      "chapter": "web",
+      "source": "File: 8.2.1 Lecture - Chapter 10 Autism Spectrum Disorders and Developmental Disabilities.docx",
+      "module": ""
+    },
+    {
+      "id": "src-mod1tqqc-f004",
+      "front": "What percentage of children later diagnosed with ASD showed symptoms in the first year of life, and what were those early signs?",
+      "back": "90% of children later diagnosed with ASD showed symptoms in the first year of life. Early signs include: extreme distress reactions, withdrawal from caregivers, unusual passivity, tendency to fixate on particular objects, decreased expression of positive affect by 12 months, and lower preverbal communication than typically developing children or those with other developmental delays.",
+      "chapter": "web",
+      "source": "File: 8.2.1 Lecture - Chapter 10 Autism Spectrum Disorders and Developmental Disabilities.docx",
+      "module": ""
+    },
+    {
+      "id": "src-mod1tqqc-f005",
+      "front": "What is the key difference between Social (Pragmatic) Communication Disorder (SCD) and Autism Spectrum Disorder (ASD)?",
+      "back": "Both SCD and ASD involve deficits in the use of language (pragmatics), including difficulty following rules of communication, understanding nonliteral language, and integrating literal language. The key difference is that a child with SCD does NOT have restricted, repetitive patterns of behaviors, interests, or activities, which is required for an ASD diagnosis.",
+      "chapter": "web",
+      "source": "File: 8.2.1 Lecture - Chapter 10 Autism Spectrum Disorders and Developmental Disabilities.docx",
+      "module": ""
+    },
+    {
+      "id": "src-mod1ujwv-f001",
+      "front": "What are the three primary causes of TBI in infants, toddlers, and preschoolers, in order?",
+      "back": "1. Falls, 2. Motor vehicle versus child accidents, 3. Child abuse (including shaken baby syndrome).",
+      "chapter": "web",
+      "source": "File: 8.2.2 Lecture - Chapter 11 Traumatic Brain Injury in Children and Adolescents.docx",
+      "module": ""
+    },
+    {
+      "id": "src-mod1ujwv-f002",
+      "front": "What is the difference between a closed head injury and an open head injury?",
+      "back": "A closed head injury involves injury to the brain WITHOUT penetrating the skull (caused by a direct blow, striking a hard surface, or abuse). An open head injury involves a strong force that actually fractures the skull, causing direct brain damage through penetration.",
+      "chapter": "web",
+      "source": "File: 8.2.2 Lecture - Chapter 11 Traumatic Brain Injury in Children and Adolescents.docx",
+      "module": ""
+    },
+    {
+      "id": "src-mod1ujwv-f003",
+      "front": "What is Post Concussive Syndrome and why is it concerning?",
+      "back": "Post Concussive Syndrome is a condition where signs and symptoms from the acute phase of a concussion persist for several weeks or months. It is dangerous because the brain is one of the slowest organs to heal, and the syndrome can impair brain health and healing if not treated, causing short-term memory impairments and lack of concentration.",
+      "chapter": "web",
+      "source": "File: 8.2.2 Lecture - Chapter 11 Traumatic Brain Injury in Children and Adolescents.docx",
+      "module": ""
+    },
+    {
+      "id": "src-mod1ujwv-f004",
+      "front": "What is the SLP's unique role on a school campus regarding concussions?",
+      "back": "The SLP is likely the only staff member on a school site who has studied mild TBI. They can promote best practices for returning to full school activity, help parents and teachers understand what the child should and should not do during recovery, provide direct one-to-one therapy for cognitive-communication challenges, monitor the effect of those challenges on academic performance, and help medical personnel decide when a child is ready to return to sports.",
+      "chapter": "web",
+      "source": "File: 8.2.2 Lecture - Chapter 11 Traumatic Brain Injury in Children and Adolescents.docx",
+      "module": ""
+    },
+    {
+      "id": "src-mod1ujwv-f005",
+      "front": "What is the recommended gradual return-to-sport progression for a school athlete recovering from a concussion?",
+      "back": "The athlete should first be completely asymptomatic before beginning any physical activity. The progression is: light aerobic exercise → noncontact drills → full contact drills. The child should refrain from gym and sports until completely asymptomatic so as not to re-injure the brain.",
+      "chapter": "web",
+      "source": "File: 8.2.2 Lecture - Chapter 11 Traumatic Brain Injury in Children and Adolescents.docx",
+      "module": ""
+    },
+    {
+      "id": "src-mod1v7h3-f001",
+      "front": "What is the current prevalence rate of ASD in the United States according to the CDC (2020)?",
+      "back": "1 in 54 children in the United States is diagnosed with ASD, according to CDC data from 2020. Rates have increased dramatically in recent decades.",
+      "chapter": "web",
+      "source": "File: 9781284235845_SLID_CH10.pptx",
+      "module": ""
+    },
+    {
+      "id": "src-mod1v7h3-f002",
+      "front": "What are the three core characteristics of Autism Spectrum Disorder as defined by the DSM-5 (2013)?",
+      "back": "1) Persistent impairment in reciprocal social communication and social interaction. 2) Restricted, repetitive patterns of behavior, interests, or activities. 3) Symptoms that are present from early childhood and limit or impair everyday functioning.",
+      "chapter": "web",
+      "source": "File: 9781284235845_SLID_CH10.pptx",
+      "module": ""
+    },
+    {
+      "id": "src-mod1v7h3-f003",
+      "front": "What did a meta-analysis of 1,265,000 children worldwide find regarding vaccines and ASD?",
+      "back": "The meta-analysis found NO relationship between multiple vaccinations and ASD. Additionally, the MMR vaccine showed no association with ASD in 95,727 children, and influenza vaccination during pregnancy showed no increased risk of ASD in the children of 45,231 mothers studied.",
+      "chapter": "web",
+      "source": "File: 9781284235845_SLID_CH10.pptx",
+      "module": ""
+    },
+    {
+      "id": "src-mod1v7h3-f004",
+      "front": "What are the key warning signs of ASD related to language development milestones?",
+      "back": "No single words by 16 months; no two-word phrases by 24 months; lack of babbling or gestures by 12 months; failure to look at what a parent is pointing to by 12 months; lack of response to child's own name by 12 months; regression or loss of language or social skills at any age.",
+      "chapter": "web",
+      "source": "File: 9781284235845_SLID_CH10.pptx",
+      "module": ""
+    },
+    {
+      "id": "src-mod1v7h3-f005",
+      "front": "What are the goals of intervention for communication deficits in ASD according to ASHA and evidence-based practice?",
+      "back": "There is no cure for ASD. Goals of intervention include: improving language impairments, modifying behaviors for quality of life, and improving social communication. ASHA specifically aims to decrease specific symptoms and increase positive, desirable behaviors.",
+      "chapter": "web",
+      "source": "File: 9781284235845_SLID_CH10.pptx",
+      "module": ""
+    },
+    {
+      "id": "src-mod1wc80-f001",
+      "front": "What percentage of children (birth to 20 years old) who sustain a TBI have disabilities?",
+      "back": "Approximately 20% of children who sustain a traumatic brain injury (birth to 20 years old) have disabilities.",
+      "chapter": "web",
+      "source": "File: 9781284235845_SLID_CH11.pptx",
+      "module": ""
+    },
+    {
+      "id": "src-mod1wc80-f002",
+      "front": "What are the key characteristics of a subconcussion?",
+      "back": "A subconcussion involves biomechanical force to the head or body similar to, or less than, that required for a symptomatic concussion, without symptoms and clinical presentation consistent with concussion, but with brain damage occurring at the microscopic level. Subconcussions represent the majority of head impacts in sports and accidents.",
+      "chapter": "web",
+      "source": "File: 9781284235845_SLID_CH11.pptx",
+      "module": ""
+    },
+    {
+      "id": "src-mod1wc80-f003",
+      "front": "What are the current medical treatment guidelines for initial management of mild TBI (concussion)?",
+      "back": "Current guidelines support 48 hours of cognitive and physical rest followed by a gradual increase in activity, staying below symptom-exacerbation thresholds. Treatment started immediately is most likely to result in recovery within 30 days.",
+      "chapter": "web",
+      "source": "File: 9781284235845_SLID_CH11.pptx",
+      "module": ""
+    },
+    {
+      "id": "src-mod1wc80-f004",
+      "front": "What is the role of the school SLP on the return-to-learn team following a student's concussion?",
+      "back": "The school SLP should be an immediate and active member of the school's return-to-learn team. Responsibilities include: promoting best practices for return to full school activity, providing one-to-one and group evidence-based cognitive-communication interventions, monitoring cognitive-communication skill development and its effect on academic performance, educating faculty and staff on long-term TBI effects, and building awareness that children are at risk for TBI across many activities, not just sports.",
+      "chapter": "web",
+      "source": "File: 9781284235845_SLID_CH11.pptx",
+      "module": ""
+    },
+    {
+      "id": "src-mod1wc80-f005",
+      "front": "What are the three symptom categories of Post-Concussion Syndrome (PCS) and give examples of each?",
+      "back": "1. Physical symptoms: headache, dizziness, sleep problems. 2. Psychological symptoms: depressed mood, irritability, anxiety. 3. Cognitive impairments: memory difficulties, poor concentration, impaired reasoning, judgment, and problem solving. PCS symptoms are a continuation of acute mild TBI symptoms and may last for weeks to months.",
+      "chapter": "web",
+      "source": "File: 9781284235845_SLID_CH11.pptx",
+      "module": ""
+    },
+    {
+      "id": "src-mod1wwfe-f001",
+      "front": "What is the prevalence of Autism Spectrum Disorder in the United States?",
+      "back": "ASD affects 1 in 68 children in the United States. It is present at birth and typically diagnosed between 18 months to 3 years of age, lasting a lifetime.",
+      "chapter": "web",
+      "source": "File: Autism Spectrum Disorders.pdf",
+      "module": ""
+    },
+    {
+      "id": "src-mod1wwfe-f002",
+      "front": "What percentage of children with ASD are considered nonverbal?",
+      "back": "50% of children with ASD are considered nonverbal.",
+      "chapter": "web",
+      "source": "File: Autism Spectrum Disorders.pdf",
+      "module": ""
+    },
+    {
+      "id": "src-mod1wwfe-f003",
+      "front": "What are the treatment approaches used for Autism Spectrum Disorder?",
+      "back": "Treatment for ASD includes a combination of traditional speech and language therapy, augmentative and alternative education, and behavioral interventions, including Applied Behavioral Analysis (ABA).",
+      "chapter": "web",
+      "source": "File: Autism Spectrum Disorders.pdf",
+      "module": ""
+    },
+    {
+      "id": "src-mod1wwfe-f004",
+      "front": "What is Down Syndrome and how does it relate to developmental disabilities?",
+      "back": "Down Syndrome is the most common chromosomal cause of developmental disabilities and learning disabilities. It is characterized by impaired receptive and expressive language and inconsistent distorted speech.",
+      "chapter": "web",
+      "source": "File: Autism Spectrum Disorders.pdf",
+      "module": ""
+    },
+    {
+      "id": "src-mod1wwfe-f005",
+      "front": "What are the two main categories of warning signs for Autism Spectrum Disorder?",
+      "back": "The two main categories of ASD warning signs are: (1) Social Communication and Interaction Skills (e.g., avoiding eye contact, not responding to name by 9 months, not using gestures by 12 months), and (2) Restricted or Repetitive Behaviors or Interests (e.g., echolalia, lining up objects, hand flapping, unusual sensory reactions).",
+      "chapter": "web",
+      "source": "File: Autism Spectrum Disorders.pdf",
+      "module": ""
+    },
+    {
+      "id": "src-mod1xg02-f001",
+      "front": "What is the most common type of pediatric traumatic brain injury?",
+      "back": "Mild Traumatic Brain Injury (mTBI), also known as a concussion, is the most common type of pediatric TBI.",
+      "chapter": "web",
+      "source": "File: Traumatic Brain Injury in Children and Adolescents.pdf",
+      "module": ""
+    },
+    {
+      "id": "src-mod1xg02-f002",
+      "front": "What are the two main types of traumatic brain injury based on skull integrity?",
+      "back": "Open head injury (skull is fractured and the brain is exposed or penetrated by a projectile) and closed head injury (result of an impact from a blunt object without skull penetration).",
+      "chapter": "web",
+      "source": "File: Traumatic Brain Injury in Children and Adolescents.pdf",
+      "module": ""
+    },
+    {
+      "id": "src-mod1xg02-f003",
+      "front": "What are the common causes of pediatric TBI across different age groups?",
+      "back": "Infants: drops, falls, and abuse. Children: accidents, sports, and injuries. Adolescents: assaults, altercations, and motor vehicle accidents.",
+      "chapter": "web",
+      "source": "File: Traumatic Brain Injury in Children and Adolescents.pdf",
+      "module": ""
+    },
+    {
+      "id": "src-mod1xg02-f004",
+      "front": "What is perseveration as a behavioral effect of TBI?",
+      "back": "Perseveration is the repetition of a particular idea or action over and over, and is one of the behavioral effects associated with traumatic brain injury in children and adolescents.",
+      "chapter": "web",
+      "source": "File: Traumatic Brain Injury in Children and Adolescents.pdf",
+      "module": ""
+    },
+    {
+      "id": "src-mod1xg02-f005",
+      "front": "What is cognitive instability in the context of pediatric TBI?",
+      "back": "Cognitive instability refers to inconsistent cognitive functioning following TBI that also decreases a person's confidence in their memory, problem-solving abilities, and other cognitive functions.",
+      "chapter": "web",
+      "source": "File: Traumatic Brain Injury in Children and Adolescents.pdf",
+      "module": ""
     }
   ],
   "questions": [
@@ -16536,9 +17256,501 @@
       "module": "mod-13",
       "chapter": "21",
       "source": "Ch. 21 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
+    },
+    {
+      "id": "src-mod1tqqc-q001",
+      "type": "mc",
+      "text": "What is the most common chromosomal cause of developmental and learning disabilities?",
+      "options": [
+        "Fragile X Syndrome",
+        "Down syndrome (chromosome 21-trisomy syndrome)",
+        "Turner Syndrome",
+        "Klinefelter Syndrome"
+      ],
+      "answer": "Down syndrome (chromosome 21-trisomy syndrome)",
+      "chapter": "web",
+      "source": "File: 8.2.1 Lecture - Chapter 10 Autism Spectrum Disorders and Developmental Disabilities.docx",
+      "module": ""
+    },
+    {
+      "id": "src-mod1tqqc-q002",
+      "type": "mc",
+      "text": "According to the lecture, what IQ score and additional criterion define an intellectual disability?",
+      "options": [
+        "IQ less than 85 and impaired academic skills",
+        "IQ less than 70 and impaired adaptive skills",
+        "IQ less than 50 and impaired social skills",
+        "IQ less than 70 and impaired academic achievement"
+      ],
+      "answer": "IQ less than 70 and impaired adaptive skills",
+      "chapter": "web",
+      "source": "File: 8.2.1 Lecture - Chapter 10 Autism Spectrum Disorders and Developmental Disabilities.docx",
+      "module": ""
+    },
+    {
+      "id": "src-mod1tqqc-q003",
+      "type": "mc",
+      "text": "Which of the following best describes echolalia as seen in children with ASD, compared to typical development?",
+      "options": [
+        "It is identical to the echolalia seen in typically developing toddlers and serves the same communicative function",
+        "It involves only immediate repetition of single words and is used to request items",
+        "It may involve memorizing and perseveratively repeating whole sections of videos without any communicative intent",
+        "It is a form of pragmatic language that helps children with ASD initiate conversations"
+      ],
+      "answer": "It may involve memorizing and perseveratively repeating whole sections of videos without any communicative intent",
+      "chapter": "web",
+      "source": "File: 8.2.1 Lecture - Chapter 10 Autism Spectrum Disorders and Developmental Disabilities.docx",
+      "module": ""
+    },
+    {
+      "id": "src-mod1tqqc-q004",
+      "type": "mc",
+      "text": "What percentage of children initially diagnosed with ASD later lose the diagnosis, and what is one reason this may happen?",
+      "options": [
+        "5%, due to spontaneous neurological recovery",
+        "25%, due to changes in DSM criteria",
+        "13%, due to misdiagnosis, maturation, or treatment",
+        "20%, due to early intensive behavioral intervention"
+      ],
+      "answer": "13%, due to misdiagnosis, maturation, or treatment",
+      "chapter": "web",
+      "source": "File: 8.2.1 Lecture - Chapter 10 Autism Spectrum Disorders and Developmental Disabilities.docx",
+      "module": ""
+    },
+    {
+      "id": "src-mod1tqqc-q005",
+      "type": "mc",
+      "text": "How does Theory of Mind deficit specifically impact individuals with ASD in daily communication?",
+      "options": [
+        "It causes difficulty with phonological processing and speech sound production",
+        "It prevents individuals from recognizing and understanding the mental states, facial expressions, and emotions of others, leading to severe pragmatic communication difficulties",
+        "It results in hypersensitivity to auditory stimuli and phonophobia",
+        "It causes individuals to over-interpret the emotions of others, leading to social anxiety"
+      ],
+      "answer": "It prevents individuals from recognizing and understanding the mental states, facial expressions, and emotions of others, leading to severe pragmatic communication difficulties",
+      "chapter": "web",
+      "source": "File: 8.2.1 Lecture - Chapter 10 Autism Spectrum Disorders and Developmental Disabilities.docx",
+      "module": ""
+    },
+    {
+      "id": "src-mod1ujwv-q001",
+      "type": "mc",
+      "text": "Which of the following is the PRIMARY cause of TBI in infants, toddlers, and preschoolers?",
+      "options": [
+        "Auto accidents",
+        "Falls",
+        "Sports injuries",
+        "Child abuse"
+      ],
+      "answer": "Falls",
+      "chapter": "web",
+      "source": "File: 8.2.2 Lecture - Chapter 11 Traumatic Brain Injury in Children and Adolescents.docx",
+      "module": ""
+    },
+    {
+      "id": "src-mod1ujwv-q002",
+      "type": "mc",
+      "text": "A concussion is also referred to as which of the following?",
+      "options": [
+        "A penetrating brain injury",
+        "An open head injury",
+        "A mild TBI (mTBI)",
+        "A closed skull fracture"
+      ],
+      "answer": "A mild TBI (mTBI)",
+      "chapter": "web",
+      "source": "File: 8.2.2 Lecture - Chapter 11 Traumatic Brain Injury in Children and Adolescents.docx",
+      "module": ""
+    },
+    {
+      "id": "src-mod1ujwv-q003",
+      "type": "mc",
+      "text": "Which behavioral effect of TBI is defined as repeating an idea or action over and over?",
+      "options": [
+        "Disinhibition",
+        "Egocentrism",
+        "Impulsivity",
+        "Perseveration"
+      ],
+      "answer": "Perseveration",
+      "chapter": "web",
+      "source": "File: 8.2.2 Lecture - Chapter 11 Traumatic Brain Injury in Children and Adolescents.docx",
+      "module": ""
+    },
+    {
+      "id": "src-mod1ujwv-q004",
+      "type": "mc",
+      "text": "According to the lecture, why are individuals with sports-related concussions at risk for suffering MULTIPLE concussions?",
+      "options": [
+        "Sports equipment is not designed to prevent concussions",
+        "Acute symptoms might go unrecognized or their significance is unknown to players, coaches, and parents",
+        "Players are required to return to play before fully recovering",
+        "Sports-related concussions are always more severe than other types"
+      ],
+      "answer": "Acute symptoms might go unrecognized or their significance is unknown to players, coaches, and parents",
+      "chapter": "web",
+      "source": "File: 8.2.2 Lecture - Chapter 11 Traumatic Brain Injury in Children and Adolescents.docx",
+      "module": ""
+    },
+    {
+      "id": "src-mod1ujwv-q005",
+      "type": "mc",
+      "text": "When a doctor recommends cognitive rest for a child recovering from a concussion, which of the following activities should the child AVOID?",
+      "options": [
+        "Attending school assemblies",
+        "Participating in social conversations",
+        "Reading",
+        "Walking at a slow pace"
+      ],
+      "answer": "Reading",
+      "chapter": "web",
+      "source": "File: 8.2.2 Lecture - Chapter 11 Traumatic Brain Injury in Children and Adolescents.docx",
+      "module": ""
+    },
+    {
+      "id": "src-mod1v7h3-q001",
+      "type": "mc",
+      "text": "According to the CDC (2020), what is the current prevalence rate of Autism Spectrum Disorder in the United States?",
+      "options": [
+        "1 in 100 children",
+        "1 in 68 children",
+        "1 in 54 children",
+        "1 in 36 children"
+      ],
+      "answer": "1 in 54 children",
+      "chapter": "web",
+      "source": "File: 9781284235845_SLID_CH10.pptx",
+      "module": ""
+    },
+    {
+      "id": "src-mod1v7h3-q002",
+      "type": "mc",
+      "text": "Which of the following is NOT listed as a warning sign of ASD?",
+      "options": [
+        "No single words by 16 months",
+        "No two-word phrases by 24 months",
+        "Lack of babbling or gestures by 12 months",
+        "Lack of response to own name by 6 months"
+      ],
+      "answer": "Lack of response to own name by 6 months",
+      "chapter": "web",
+      "source": "File: 9781284235845_SLID_CH10.pptx",
+      "module": ""
+    },
+    {
+      "id": "src-mod1v7h3-q003",
+      "type": "mc",
+      "text": "How many gene mutations have been identified as potentially contributing to ASD?",
+      "options": [
+        "Over 10",
+        "Over 30",
+        "Over 50",
+        "Over 65"
+      ],
+      "answer": "Over 65",
+      "chapter": "web",
+      "source": "File: 9781284235845_SLID_CH10.pptx",
+      "module": ""
+    },
+    {
+      "id": "src-mod1v7h3-q004",
+      "type": "mc",
+      "text": "Which standardized tool is specifically listed as part of the evidence-based assessment of communication deficits in children with ASD?",
+      "options": [
+        "Peabody Picture Vocabulary Test (PPVT)",
+        "Modified Checklist for Autism in Toddlers (M-CHAT)",
+        "Clinical Evaluation of Language Fundamentals (CELF)",
+        "Preschool Language Scale (PLS)"
+      ],
+      "answer": "Modified Checklist for Autism in Toddlers (M-CHAT)",
+      "chapter": "web",
+      "source": "File: 9781284235845_SLID_CH10.pptx",
+      "module": ""
+    },
+    {
+      "id": "src-mod1v7h3-q005",
+      "type": "mc",
+      "text": "Down syndrome is caused by which chromosomal abnormality?",
+      "options": [
+        "Deletion of chromosome 15",
+        "Trisomy of chromosome 18",
+        "Trisomy of chromosome 21",
+        "Monosomy of chromosome 7"
+      ],
+      "answer": "Trisomy of chromosome 21",
+      "chapter": "web",
+      "source": "File: 9781284235845_SLID_CH10.pptx",
+      "module": ""
+    },
+    {
+      "id": "src-mod1wc80-q001",
+      "type": "mc",
+      "text": "Which of the following best describes a cognitive-communication disorder in the context of pediatric TBI?",
+      "options": [
+        "A motor speech disorder caused by weakness of the oral musculature",
+        "Difficulty with any aspect of communication that is affected by disruption of cognition",
+        "A hearing loss resulting directly from the traumatic brain injury",
+        "An inability to produce intelligible speech due to apraxia of speech"
+      ],
+      "answer": "Difficulty with any aspect of communication that is affected by disruption of cognition",
+      "chapter": "web",
+      "source": "File: 9781284235845_SLID_CH11.pptx",
+      "module": ""
+    },
+    {
+      "id": "src-mod1wc80-q002",
+      "type": "mc",
+      "text": "According to the consensus about concussion in sports, which of the following statements is accurate?",
+      "options": [
+        "Abnormalities are consistently visible on CT or MRI scans following concussion",
+        "Children recover from concussions more quickly than adults",
+        "No abnormality is seen on standard structural neuroimaging studies such as CT or MRI",
+        "Concussion symptoms always appear immediately at the time of injury"
+      ],
+      "answer": "No abnormality is seen on standard structural neuroimaging studies such as CT or MRI",
+      "chapter": "web",
+      "source": "File: 9781284235845_SLID_CH11.pptx",
+      "module": ""
+    },
+    {
+      "id": "src-mod1wc80-q003",
+      "type": "mc",
+      "text": "Which CDC program is specifically aimed at concussion awareness in youth sports?",
+      "options": [
+        "SAFE SPORTS Initiative",
+        "HEADS UP Concussion in Youth Sports",
+        "Return to Play Protocol",
+        "Concussion Legacy Foundation Program"
+      ],
+      "answer": "HEADS UP Concussion in Youth Sports",
+      "chapter": "web",
+      "source": "File: 9781284235845_SLID_CH11.pptx",
+      "module": ""
+    },
+    {
+      "id": "src-mod1wc80-q004",
+      "type": "mc",
+      "text": "What unique risk factor is identified in the chapter regarding girls in soccer?",
+      "options": [
+        "Girls are more likely to sustain open head injuries during soccer",
+        "Heading a soccer ball is a particularly high-risk activity for concussion, especially for girls",
+        "Girls wear less protective equipment than boys in soccer",
+        "Girls are more susceptible to second impact syndrome than boys in all sports"
+      ],
+      "answer": "Heading a soccer ball is a particularly high-risk activity for concussion, especially for girls",
+      "chapter": "web",
+      "source": "File: 9781284235845_SLID_CH11.pptx",
+      "module": ""
+    },
+    {
+      "id": "src-mod1wc80-q005",
+      "type": "mc",
+      "text": "According to the multicultural considerations section, minority children who sustain a TBI are at higher risk for lower functional outcomes for which combination of reasons?",
+      "options": [
+        "They are more likely to be older, uninsured, and treated at pediatric specialty centers",
+        "They are more likely to be younger, have Medicaid, and be cared for at nonpediatric facilities",
+        "They are more likely to sustain open head injuries and have limited family support",
+        "They are more likely to play contact sports and have a prior history of concussion"
+      ],
+      "answer": "They are more likely to be younger, have Medicaid, and be cared for at nonpediatric facilities",
+      "chapter": "web",
+      "source": "File: 9781284235845_SLID_CH11.pptx",
+      "module": ""
+    },
+    {
+      "id": "src-mod1wwfe-q001",
+      "type": "mc",
+      "text": "What is the prevalence of Autism Spectrum Disorder among children in the United States?",
+      "options": [
+        "1 in 100 children",
+        "1 in 68 children",
+        "1 in 45 children",
+        "1 in 200 children"
+      ],
+      "answer": "1 in 68 children",
+      "chapter": "web",
+      "source": "File: Autism Spectrum Disorders.pdf",
+      "module": ""
+    },
+    {
+      "id": "src-mod1wwfe-q002",
+      "type": "mc",
+      "text": "What term describes the ASD warning sign in which a child repeats words or phrases over and over?",
+      "options": [
+        "Apraxia",
+        "Dysarthria",
+        "Echolalia",
+        "Perseveration"
+      ],
+      "answer": "Echolalia",
+      "chapter": "web",
+      "source": "File: Autism Spectrum Disorders.pdf",
+      "module": ""
+    },
+    {
+      "id": "src-mod1wwfe-q003",
+      "type": "mc",
+      "text": "By what age should a child typically point to show something interesting as a social communication milestone, the absence of which may indicate ASD?",
+      "options": [
+        "12 months",
+        "15 months",
+        "18 months",
+        "24 months"
+      ],
+      "answer": "18 months",
+      "chapter": "web",
+      "source": "File: Autism Spectrum Disorders.pdf",
+      "module": ""
+    },
+    {
+      "id": "src-mod1wwfe-q004",
+      "type": "mc",
+      "text": "Which of the following is identified as the most common chromosomal cause of developmental disabilities and learning disabilities?",
+      "options": [
+        "Fragile X Syndrome",
+        "Down Syndrome",
+        "Turner Syndrome",
+        "Williams Syndrome"
+      ],
+      "answer": "Down Syndrome",
+      "chapter": "web",
+      "source": "File: Autism Spectrum Disorders.pdf",
+      "module": ""
+    },
+    {
+      "id": "src-mod1wwfe-q005",
+      "type": "mc",
+      "text": "What is the definition of Developmental Disability as presented in Chapter 10?",
+      "options": [
+        "A condition caused solely by genetic mutations that affects cognitive functioning after age 21",
+        "A mental health disorder that emerges during adolescence and affects social skills",
+        "An umbrella term that includes intellectual disabilities and physical disabilities that become apparent before 18 years of age and are likely to persist across the life span",
+        "A neurological condition limited to speech and language impairments present at birth"
+      ],
+      "answer": "An umbrella term that includes intellectual disabilities and physical disabilities that become apparent before 18 years of age and are likely to persist across the life span",
+      "chapter": "web",
+      "source": "File: Autism Spectrum Disorders.pdf",
+      "module": ""
+    },
+    {
+      "id": "src-mod1xg02-q001",
+      "type": "mc",
+      "text": "Which of the following best describes an open head injury?",
+      "options": [
+        "An injury resulting from impact by a blunt object without skull fracture",
+        "An injury in which the skull is fractured and the brain is exposed or penetrated by a projectile",
+        "An injury that causes only mild cognitive symptoms such as headache and dizziness",
+        "An injury that occurs exclusively in adolescents due to motor vehicle accidents"
+      ],
+      "answer": "An injury in which the skull is fractured and the brain is exposed or penetrated by a projectile",
+      "chapter": "web",
+      "source": "File: Traumatic Brain Injury in Children and Adolescents.pdf",
+      "module": ""
+    },
+    {
+      "id": "src-mod1xg02-q002",
+      "type": "mc",
+      "text": "Which type of pediatric TBI is identified as the most common?",
+      "options": [
+        "Severe closed head injury",
+        "Open head injury caused by projectile",
+        "Mild Traumatic Brain Injury (mTBI) / concussion",
+        "Acquired brain injury from abuse"
+      ],
+      "answer": "Mild Traumatic Brain Injury (mTBI) / concussion",
+      "chapter": "web",
+      "source": "File: Traumatic Brain Injury in Children and Adolescents.pdf",
+      "module": ""
+    },
+    {
+      "id": "src-mod1xg02-q003",
+      "type": "mc",
+      "text": "Which of the following is listed as a behavioral effect of TBI in children and adolescents?",
+      "options": [
+        "Improved abstract thinking",
+        "Increased social skills",
+        "Perseveration",
+        "Enhanced executive function"
+      ],
+      "answer": "Perseveration",
+      "chapter": "web",
+      "source": "File: Traumatic Brain Injury in Children and Adolescents.pdf",
+      "module": ""
+    },
+    {
+      "id": "src-mod1xg02-q004",
+      "type": "mc",
+      "text": "Which cognitive change is described as inconsistent cognitive functioning that decreases a person's confidence in their memory and problem-solving abilities?",
+      "options": [
+        "Impaired auditory processing",
+        "Cognitive instability",
+        "Reduced flexibility of thinking",
+        "Decreased orientation"
+      ],
+      "answer": "Cognitive instability",
+      "chapter": "web",
+      "source": "File: Traumatic Brain Injury in Children and Adolescents.pdf",
+      "module": ""
+    },
+    {
+      "id": "src-mod1xg02-q005",
+      "type": "mc",
+      "text": "Which of the following is a sign or symptom specifically listed under mTBI / concussion?",
+      "options": [
+        "Increased motivation",
+        "Improved coordination",
+        "Seizures",
+        "Enhanced memory consolidation"
+      ],
+      "answer": "Seizures",
+      "chapter": "web",
+      "source": "File: Traumatic Brain Injury in Children and Adolescents.pdf",
+      "module": ""
     }
   ],
   "notes": [
+    {
+      "id": "src-mod1xg02-n001",
+      "title": "Traumatic Brain Injury in Children and Adolescents (Chapter 11)",
+      "chapter": "web",
+      "body": "TRAUMATIC BRAIN INJURY IN CHILDREN AND ADOLESCENTS — CHAPTER 11\n\nWHAT IS PEDIATRIC TRAUMATIC BRAIN INJURY?\n- Pediatric TBI (pTBI) / head injury (HI) and acquired brain injury (ABI) can occur in children of any age, from newborns through adolescents.\n\nCAUSES (by age group):\n- Infants: drop, fall, abuse\n- Children: accidents, sports, injuries\n- Adolescents: assaults, altercations, motor vehicle accidents\n\nTYPES:\n- Open head injury: skull is fractured and the brain is exposed or penetrated; skull and brain are penetrated by a projectile that pierces the head\n- Closed head injury: result of an impact from a blunt object\n\nSEVERITY:\n- Ranges from mild to severe in its effects\n- Mild Traumatic Brain Injury (mTBI) / concussion is the most common type of pediatric TBI\n\nSYMPTOMS:\n- Cognitive-communication impairments: speech, language, cognitive and executive function disorders\n- Swallowing disorders\n\nEFFECTS:\n- Behavioral and emotional challenges associated with these injuries are difficult to manage for families, friends, and teachers\n\n---\n\nWHAT ARE THE SIGNS AND SYMPTOMS OF mTBI / CONCUSSION?\n- Change in eating or nursing habits\n- Difficulty sleeping or sleeping more than usual\n- Dizziness or loss of balance\n- Headaches\n- Loss of consciousness for a few seconds to a few minutes\n- Loss of coordination\n- No loss of consciousness, but dazed, confused, or disoriented affect\n- Persistent crying and inability to be consoled\n- Sad or depressed\n- Seizures\n\n---\n\nWHAT ARE THE BEHAVIORAL EFFECTS OF TBI IN CHILDREN AND ADOLESCENTS?\n- Aggression (both verbal and physical)\n- Decreased social skills\n- Disinhibition\n- Distortion of reality\n- Egocentrism (focused mostly on self)\n- Impulsivity\n- Inability to tolerate frustration\n- Lack of cooperation\n- Lack of initiation and motivation\n- Perseveration (repeating an idea or action over and over)\n\n---\n\nWHAT ARE THE COGNITIVE AND EXECUTIVE FUNCTION CHANGES IN OLDER CHILDREN AND ADOLESCENTS?\n- Change in ability to pay attention and concentrate\n- Decreased orientation to person, place, time, situation, and purpose\n- Difficulty with problem solving needed to complete activities of daily living (ADLs)\n- Difficulty with abstract thought\n- Slowed response time\n- Impaired auditory processing\n- Impaired executive functions (goal completion)\n- Impaired memory for events before or after the injury\n- Receptive and expressive language problems\n- Reduced flexibility of thinking and actions\n- Cognitive instability: inconsistent cognitive functioning that also decreases a person's confidence in their memory, problem-solving abilities, and other cognitive functions",
+      "module": ""
+    },
+    {
+      "id": "src-mod1wwfe-n001",
+      "title": "Autism Spectrum Disorders and Developmental Disabilities – Chapter 10",
+      "chapter": "web",
+      "body": "AUTISM SPECTRUM DISORDERS AND DEVELOPMENTAL DISABILITIES – CHAPTER 10\n\nWHAT IS AUTISM SPECTRUM DISORDER?\n- Autism spectrum disorder (ASD) is a developmental disability caused by differences in the brain.\n- Major disability: Intellectual Deficit\n- Characteristics:\n  • General lack of verbal communication, especially initiation of verbal interactions\n  • Minimal social skills; individuals often prefer to play alone\n  • Receptive language abilities similar to mental age\n  • 50% of children with ASD are considered nonverbal\n- Multiple causes: genetics, environment, or unknown origin\n- Prevalence: 1 in 68 children in the United States\n- Onset: present at birth; typically diagnosed between 18 months to 3 years of age; lasts a lifetime\n- Treatment: Combination of traditional speech and language therapy, augmentative and alternative education, and behavioral interventions; Applied Behavioral Analysis (ABA)\n\nWHAT ARE WARNING SIGNS OF AUTISM SPECTRUM DISORDER?\n\nSocial Communication and Interaction Skills:\n- Avoids or does not keep eye contact\n- Does not respond to name by 9 months of age\n- Does not show facial expressions like happy, sad, angry, and surprised by 9 months of age\n- Does not play simple interactive games like pat-a-cake by 12 months\n- Uses few or no gestures by 12 months of age (for example, does not wave goodbye)\n- Does not share interests with others by 15 months of age (for example, shows you an object that they like)\n- Does not point to show you something interesting by 18 months of age\n- Does not notice when others are hurt or upset by 24 months of age\n- Does not notice other children and join them in play by 36 months\n- Does not pretend to be something else, like a teacher or superhero, during play by 48 months of age\n- Does not sing, dance, or act for you by 60 months of age\n\nRestricted or Repetitive Behaviors or Interests:\n- Lines up toys or other objects and gets upset when order is changed\n- Repeats words or phrases over and over (called echolalia)\n- Plays with toys the same way every time\n- Is focused on parts of objects (for example, wheels)\n- Gets upset by minor changes\n- Has obsessive interests\n- Must follow certain routines\n- Flaps hands, rocks body, or spins self in circles\n- Has unusual reactions to the way things sound, smell, taste, look, or feel\n\nOTHER CHARACTERISTICS OF ASD\n- Delayed language skills\n- Delayed movement skills\n- Delayed cognitive or learning skills\n- Hyperactive, impulsive, and/or inattentive behavior\n- Epilepsy or seizure disorder\n- Unusual eating and sleeping habits\n- Gastrointestinal issues (for example, constipation)\n- Unusual mood or emotional reactions\n- Anxiety, stress, or excessive worry\n- Lack of fear or more fear than expected\n\nWHAT IS DEVELOPMENTAL DISABILITY?\n- Developmental Disability is an umbrella term that includes intellectual disabilities and physical disabilities that become apparent before 18 years of age and are likely to persist across the life span.\n- Characteristics:\n  • Significant receptive and expressive language delays and disorders\n  • Speech intelligibility problems\n- Down Syndrome:\n  • Most common chromosomal cause of developmental disabilities and learning disabilities\n  • Impaired receptive and expressive language\n  • Inconsistent distorted speech\n- Developmental disabilities can cause significant stress and strains on both children and families.",
+      "module": ""
+    },
+    {
+      "id": "src-mod1wc80-n001",
+      "title": "Traumatic Brain Injury in Children – Chapter 11",
+      "chapter": "web",
+      "body": "TRAUMATIC BRAIN INJURY IN CHILDREN\nCHAPTER 11\n\nLEARNING OBJECTIVES\n- Define traumatic brain injury in children and adolescents.\n- Identify various speech, language, and cognitive disorders of children and adolescents with traumatic brain injuries.\n- Discuss the cognitive and behavioral effects of mild traumatic brain injury (concussion) in children and adolescents.\n- Discuss the role of the speech-language pathologist with children and adolescents who have concussions.\n\nTRAUMATIC BRAIN INJURY (1 OF 30) – DEFINITIONS\n- Traumatic brain injury (TBI)\n- Pediatric TBI (PTBI)\n- Head injury (HI)\n- Acquired brain injury (ABI)\n- Closed head injury (CHI) – also called blunt force head injury\n- Concussion\n- Open head injury (OHI)\n- Neural plasticity (neuroplasticity)\n\nTRAUMATIC BRAIN INJURY (2 OF 30) – INCIDENCE\n- Incidence of TBI in children spans birth to 20 years old.\n- Approximately 20% of children who sustain a TBI have disabilities.\n- Causes vary by age group:\n  - Under 5 years\n  - School-age children\n  - Teenagers\n\nTRAUMATIC BRAIN INJURY (3 OF 30) – EFFECTS OF PEDIATRIC TBI\n- Cognitive disorders:\n  - Memory\n  - Orientation: Person, place, time, purpose\n  - Sequencing\n  - Organization of information\n  - Reasoning\n  - Judgment\n  - Problem solving\n  - Executive dysfunction\n- Attention disorders\n- Auditory processing disorders\n- Cognitive-communication disorders\n\nTRAUMATIC BRAIN INJURY (4 OF 30) – COGNITIVE-COMMUNICATION DISORDER AND EXECUTIVE FUNCTION\n- Cognitive-communication disorder: Difficulty with any aspect of communication that is affected by disruption of cognition.\n- Executive function refers to 'higher level' cognitive functions including:\n  - Inhibition\n  - Flexibility of thinking\n  - Problem solving\n  - Impulse control\n  - Concept formation\n  - Abstract thinking\n  - Creativity\n\nTRAUMATIC BRAIN INJURY (5 OF 30) – THEORY OF MIND\n- Theory of mind: Ability to see the world from the perspective of other people; to recognize the mental states (thoughts and feelings) of other people and appreciate their beliefs about the world; essential for empathy.\n\nTRAUMATIC BRAIN INJURY (6 OF 30) – ADDITIONAL DISORDERS\n- Receptive and expressive language disorders\n- Literacy disorders\n- Intellectual abilities (affected)\n- Academic abilities (affected)\n- Motor speech disorders (apraxia of speech, dysarthria)\n- Swallowing disorders\n\nTRAUMATIC BRAIN INJURY (7 OF 30) – BEHAVIORAL EFFECTS OF TBI\n- Aggression (both verbal and physical)\n- Decreased social skills\n- Disinhibition\n- Distortion of reality\n- Egocentrism (focused mostly on self)\n- Impulsivity\n- Inability to tolerate frustration\n- Lack of cooperation\n- Lack of initiation and motivation\n- Perseveration (repeating an idea or action over and over)\n\nTRAUMATIC BRAIN INJURY (8 OF 30) – MILD TBI: SIGNS AND SYMPTOMS\n- Mild TBI is also referred to as: mTBI, concussion, mild head injury (MHI), mild head trauma (MHT)\n- Signs and symptoms include:\n  - Change in eating or nursing habits\n  - Difficulty sleeping or sleeping more than usual\n  - Dizziness or loss of balance\n  - Headaches\n  - Loss of consciousness for a few seconds to a few minutes\n  - Loss of coordination\n  - No loss of consciousness, but dazed, confused, or disoriented affect\n  - Persistent crying and inability to be consoled\n  - Sad or depressed mood\n  - Seizures\n\nTRAUMATIC BRAIN INJURY (9 OF 30) – COGNITIVE CHANGES IN OLDER CHILDREN AND ADOLESCENTS\n- Change in ability to pay attention or concentrate\n- Decreased orientation to person, place, time, and purpose\n- Difficulty with problem solving needed to complete activities of daily living (ADLs)\n- Difficulty with abstract thought\n- Slowed response time\n- Impaired auditory processing\n- Impaired executive functions\n- Impaired memory for events before and after the injury\n- Receptive and expressive language problems\n- Reduced flexibility of thinking and actions\n- Cognitive instability\n\nTRAUMATIC BRAIN INJURY (10 OF 30) – CONCUSSIONS IN SPORTS\n- CDC program: HEADS UP Concussion in Youth Sports\n- Hard contact sports (e.g., American football, ice hockey, rugby, boxing) have the highest incidence rates of concussions.\n- Subconcussions:\n  - Represent the majority of head impacts in sports and accidents.\n  - Brain damage occurs at the microscopic level.\n  - Biomechanical force to the head or body similar to, or less than, that required for symptomatic concussion but without symptoms and clinical presentation consistent with concussion.\n\nTRAUMATIC BRAIN INJURY (11 OF 30) – RISK FACTORS FOR CONCUSSION\n- Sport played: Hard contact vs. collision sports (e.g., soccer, lacrosse)\n- History of concussion: Cumulative impacts increase risk\n- Gender: Especially girls heading soccer balls\n\nTRAUMATIC BRAIN INJURY (12 OF 30) – NO CONCUSSION-PROOF HELMET\n- There is no concussion-proof helmet.\n- Referenced in context of high school football.\n\nTRAUMATIC BRAIN INJURY (13 OF 30) – YOUTH RUGBY AND YOUTH HOCKEY\n- Youth rugby and youth hockey are cited as high-risk contact sports for concussion.\n\nTRAUMATIC BRAIN INJURY (14 OF 30) – GIRLS SOCCER\n- Girls soccer is a notable context for concussion risk.\n- 'Heading' is a particularly high-risk activity.\n\nTRAUMATIC BRAIN INJURY (15 OF 30) – CONSENSUS ABOUT CONCUSSION IN SPORTS\n- Signs and symptoms of a concussion can show up immediately or may not appear or be noticed until minutes, hours, days, or weeks after a head injury.\n- No abnormality is seen on standard structural neuroimaging studies (e.g., computed tomography [CT] or MRI scans).\n- Children generally take longer to recover from concussions compared to adults.\n- Concussion is considered one of the most complex injuries in sport medicine to diagnose, assess, and manage.\n\nTRAUMATIC BRAIN INJURY (16 OF 30) – INITIAL MEDICAL TREATMENT OF MILD TBI\n- Current guidelines support 48 hours of cognitive and physical rest followed by gradual increase in activity, staying below symptom-exacerbation thresholds.\n- Treatment started immediately is most likely to result in recovery within 30 days.\n- Recovery window and SLP support are important considerations.\n\nTRAUMATIC BRAIN INJURY (17 OF 30) – PATIENT–FAMILY-CENTERED CARE\n- Principles include:\n  - Respectfulness\n  - Communicate information\n  - Participation\n  - Work together\n\nTRAUMATIC BRAIN INJURY (18 OF 30) – ROLE OF HOSPITAL SPEECH-LANGUAGE PATHOLOGISTS\n- Most children with mild TBI are not seen by an SLP.\n- Hospital SLPs are usually involved with moderate to severe TBIs.\n\nTRAUMATIC BRAIN INJURY (19 OF 30) – ROLE OF SCHOOL SPEECH-LANGUAGE PATHOLOGISTS\n- School SLPs are in an essential position.\n- They review reports from hospital SLPs (if available).\n- Need to be an immediate and active member of the school's return-to-learn team.\n- Multidisciplinary team includes: child, parents, teachers, psychologists, school nurses, coaches, and athletic trainers.\n\nTRAUMATIC BRAIN INJURY (20 OF 30) – SLP RESPONSIBILITIES IN SCHOOLS\n- Promote best practices for student return to full school activity.\n- Provide one-to-one interventions for ongoing cognitive-communication challenges.\n- Offer structured, evidence-based cognitive-communication group treatment that supports carryover.\n- Monitor cognitive-communication skill development and the effect of ongoing cognitive-communication challenges on academic performance.\n- Provide education and training to school faculty and staff on the long-term effects of TBI.\n- Build awareness that children are at risk for TBI across many activities, not just when they are athletes playing sports.\n\nTRAUMATIC BRAIN INJURY (21 OF 30) – SLP ASSESSMENT OF CONCUSSION: EVIDENCE-BASED PRACTICE\n- Standardized language tests are not helpful for cognitive-communicative disorders following concussion.\n- For preschool children, use structured interviews with parents.\n\nTRAUMATIC BRAIN INJURY (22 OF 30) – SLP EVALUATION TOOLS\n- Several standardized tests for cognitive-communication impairments are available.\n- These do not always reflect functioning outside the testing environment.\n- Nonstandardized evaluation (clinician-devised) can be helpful.\n- Developmental assessments used for infants and toddlers.\n\nTRAUMATIC BRAIN INJURY (23 OF 30) – TREATMENT FOR TODDLERS AND PRESCHOOLERS\n- Follow up is essential.\n- Use family-centered care.\n\nTRAUMATIC BRAIN INJURY (24 OF 30) – TREATMENT FOR ELEMENTARY AND SECONDARY SCHOOL STUDENTS\n- Promote best practices.\n- Provide one-on-one intervention.\n- Structured evidence-based treatment.\n- Monitor cognitive-communication development.\n- Provide education and training for faculty and staff.\n- Build awareness of risk for TBI.\n\nTRAUMATIC BRAIN INJURY (25 OF 30) – POST-CONCUSSION SYNDROME (PCS)\n- Also called post-concussive syndrome.\n- Characterized by vague, nonspecific symptoms; continuation of symptoms in the acute phase of mild TBI; may last for weeks to months.\n- Physical symptoms: Headache, dizziness, sleep problems.\n- Psychological symptoms: Depressed mood, irritability, anxiety.\n- Cognitive impairments: Memory, concentration, reasoning, judgment, problem solving.\n\nTRAUMATIC BRAIN INJURY (26 OF 30) – RETURN TO SCHOOL AND RETURN TO LEARN\n- Applies to mild TBI.\n- Requires parent and teacher flexibility.\n- Balance brain healing with maintaining routines.\n- Return to sport considerations.\n- Second impact syndrome is a critical concern.\n\nTRAUMATIC BRAIN INJURY (27 OF 30) – COLLEGE STUDENTS WITH CONCUSSIONS\n- Most concussions in college occur in nonathletes.\n- May need one or more months to recover.\n- Program: Success in College after Concussion with Effective Student Support (SUCCESS).\n\nTRAUMATIC BRAIN INJURY (28 OF 30) – MULTICULTURAL CONSIDERATIONS\n- Minority children are more likely to be younger than nonminority children when they sustain a TBI.\n- More likely to have Medicaid.\n- More likely to be cared for at nonpediatric facilities.\n- All of these factors increase their risk for lower functional outcomes.\n\nTRAUMATIC BRAIN INJURY (29 OF 30) – EMOTIONAL AND SOCIAL EFFECTS OF TBI IN CHILDREN AND ADOLESCENTS\n- Anxiety\n- Depression\n- Emotional lability\n- Rapid mood swings\n- Emotional outbursts\n- Irritability\n- Difficulty adjusting\n- Behavioral problems\n\nTRAUMATIC BRAIN INJURY (30 OF 30) – FAMILY EFFECTS\n- Family members of children with TBI may experience:\n  - Anxiety\n  - Depression\n  - Fear\n  - Financial stresses",
+      "module": ""
+    },
+    {
+      "id": "src-mod1v7h3-n001",
+      "title": "Autism Spectrum Disorders and Developmental Disabilities – Chapter 10",
+      "chapter": "web",
+      "body": "AUTISM SPECTRUM DISORDERS AND DEVELOPMENTAL DISABILITIES\nCHAPTER 10\n\nLEARNING OBJECTIVES\n- List the three hallmark characteristics of children on the autism spectrum disorder.\n- Discuss the role of the speech-language pathologist in the diagnosis and treatment of children on the autism spectrum.\n- Explain functional communication.\n- State the basic receptive and expressive language characteristics of children with Down syndrome.\n- Recognize the major points in ASHA's 2005 'Philosophical Perspective: Rights of Persons with Intellectual Disabilities/Developmental Disabilities.'\n\nASD AND DEVELOPMENTAL DISABILITIES (1 OF 14)\nAutism Spectrum Disorder (ASD)\n- A lifelong complex behavioral syndrome that appears by 3 years of age.\n- Children have a markedly absent interest in social interactions and relationships.\n- Severely impaired communication skills.\n- Repetitive, stereotyped movements, combined with restricted interests that are often obsessive or fixated.\n\nASD AND DEVELOPMENTAL DISABILITIES (2 OF 14)\nRates of ASD have increased dramatically in recent decades.\n- United States: now 1 in 54 children (CDC, 2020).\nEtiologies:\n- Genetics: over 65 gene mutations may contribute to ASD.\n- Numerous other causes:\n  - Maternal diseases: gestational diabetes mellitus, maternal infection, prolonged fever, maternal inflammation.\n  - Uses of alcohol, drugs, smoking during pregnancy.\n  - Exposure to pesticides, air pollution.\n  - Infant/child severe infections; exposure to toxins.\n\nASD AND DEVELOPMENTAL DISABILITIES (3 OF 14)\nDo vaccines cause ASD?\n- Meta-analysis of 1,265,000 children worldwide: No relationship between multiple vaccinations and ASD.\n- Mumps, measles, rubella (MMR) vaccine: No association of ASD in 95,727 children studied.\n- Influenza vaccination during pregnancy: Of 45,231 mothers, no relation to vaccination and increased risk of ASD in their children.\n\nASD AND DEVELOPMENTAL DISABILITIES (4 OF 14)\nCharacteristics of ASD per DSM-5 (2013):\n- Persistent impairment in reciprocal social communication and social interaction.\n- Restricted, repetitive patterns of behavior, interests, or activities.\n- Symptoms that are present from early childhood and limit or impair everyday functioning.\n\nASD AND DEVELOPMENTAL DISABILITIES (5 OF 14)\nWarning Signs:\n- Social smiling later than 4 months of age.\n- Reduced or absent eye contact with caregivers.\n- Lack of response to child's own name by 12 months.\n- Failure to look at what a parent is pointing to by 12 months.\n- Lack of babbling or gestures by 12 months.\n- No single words by 16 months.\n- No two-word phrases by 24 months.\n- Regression or loss of language or social skills at any age.\n\nASD AND DEVELOPMENTAL DISABILITIES (6 OF 14)\nSymptoms before 1 year of age:\n- Lack of attempts to connect with caregivers.\n- Withdrawal from caregivers, unusual passivity.\n- Less than normal activity at 6 months of age.\n- Extreme distress reactions.\n- Tendency to fixate on particular objects in the environment.\n- Decreased expression of positive affect by 12 months of age.\n\nASD AND DEVELOPMENTAL DISABILITIES (7 OF 14)\nFeatures associated with autism spectrum disorder:\n- Intellectual deficits.\n- ADHD.\n- Obsessive-compulsive disorder (OCD).\n- Depression.\n- Executive dysfunction.\n- Aggression and tantrums.\n\nASD AND DEVELOPMENTAL DISABILITIES (8 OF 14)\nFeatures associated with autism spectrum disorder (cont'd):\n- Motor deficits.\n- Seizures.\n- Perseverative and self-injurious behaviors.\n- Theory of mind difficulty.\n- Sensory processing disorder.\n- Auditory abnormalities.\n- Language disorders.\n- Selective or elective mutism.\n- Social (pragmatic) communication disorder.\n\nASD AND DEVELOPMENTAL DISABILITIES (9 OF 14)\nAssessment – Team:\n- Screening involves: developmental pediatrician, neurologist, child psychologist, SLP.\n- Stable diagnosis of ASD possible before 2 years old.\n- Girls are usually diagnosed later than boys.\n\nASD AND DEVELOPMENTAL DISABILITIES (10 OF 14)\nAssessment of communication deficits related to ASD: Evidence-Based Practice:\n- Team approach.\n- Standardized assessment tools include:\n  - Modified Checklist for Autism in Toddlers (M-CHAT).\n  - Childhood Autism Rating Scale, Second Edition (CARS-2).\n- Parent/teacher/self-report measures.\n- Analog tasks.\n- Naturalistic observation.\n- Dynamic assessment.\n\nASD AND DEVELOPMENTAL DISABILITIES (11 OF 14)\nAssessment of communication deficits related to ASD: Evidence-Based Practice (cont'd)\nSLP assessment areas:\n- Receptive and expressive language.\n- Literacy skills.\n- Social communication.\n- Conversational skills.\n\nASD AND DEVELOPMENTAL DISABILITIES (12 OF 14)\nTreatment of communication deficits related to ASD: Evidence-Based Practice:\n- There is NO cure for ASD.\n- Goals of intervention:\n  - Improve language impairments.\n  - Modify behaviors for quality of life.\n  - Improve social communication.\n- ASHA goal: Decrease specific symptoms and increase positive, desirable behaviors.\n\nASD AND DEVELOPMENTAL DISABILITIES (13 OF 14)\nDevelopmental Disabilities:\n- Global developmental delay.\n- Intellectual (developmental) disability.\n- Speech and language.\n\nASD AND DEVELOPMENTAL DISABILITIES (14 OF 14)\nDown Syndrome (Chromosome 21-Trisomy Syndrome):\n- Physical characteristics associated with Down syndrome.\n- Mother's age is a contributing factor.\n- Congenital anomalies associated with Down syndrome.\n- Speech and language characteristics.\n- Philosophical perspective: Rights of persons with intellectual or developmental disabilities.\n- Risk of bullying and violence against children and adults with disabilities.",
+      "module": ""
+    },
+    {
+      "id": "src-mod1ujwv-n001",
+      "title": "Chapter 11: Traumatic Brain Injury in Children and Adolescents",
+      "chapter": "web",
+      "body": "INTRODUCTION: ACQUIRED VS. DEVELOPMENTAL DISORDERS\n- Previous topics covered developmental communication and swallowing disorders in children\n- Acquired disorders = child was developing normally until something happened, OR an adult who grew up with typical skills had an accident, injury, or medical problem causing a communication or swallowing problem\n- Just like adults, children can have a stroke, aneurysm, or mild to severe traumatic brain injury\n\nTRAUMATIC BRAIN INJURY IN CHILDREN — DEFINITION\n- TBI = an acquired injury to the brain caused by an external force\n- The injury may result in partial or total functional disability\n- Effects can include: communication, quality of life, psychosocial behavior, speech-language, and cognition\n\nBEHAVIORAL EFFECTS OF TBI\n- Aggression (both verbal and physical)\n- Decreased social skills\n- Disinhibition (not following the usual social rules)\n- Distortion of reality\n- Egocentrism (focused mostly on self)\n- Impulsivity\n- Inability to tolerate frustration\n- Lack of cooperation\n- Lack of initiation and motivation\n- Perseveration (repeating an idea or action over and over)\n\nTYPES OF HEAD INJURY\n- Closed Head Injury: injury WITHOUT penetrating the brain; caused by a direct blow to the head, striking a hard surface, or abuse such as shaken baby syndrome\n- Open Head Injury: a wound in which a strong force actually fractures the skull to cause brain damage\n\nPRIMARY CAUSES OF PEDIATRIC TBI BY AGE GROUP\n- Infant/Toddler/Preschooler (in order): falls, motor vehicle versus child accidents, child abuse\n- School-Age Child: auto accidents, bicycle accidents, sports injuries\n- Teen: auto accidents, sports injuries, then assaults/altercations\n- NOTE: Speech, language, cognitive, and swallowing disorders may occur depending on the location and severity of the damage\n\nCONCUSSION / MILD TBI\n- A concussion may also be referred to as a mild TBI (mTBI)\n- Caused by injury from a direct blow to the head or elsewhere that transmits force to the head\n- A concussion may or may not cause a loss of consciousness — most often does NOT cause loss of consciousness\n- Reference: TBI in Children — National Institute of Health\n\nRISK OF MULTIPLE CONCUSSIONS IN SPORTS\n- Individuals with sports-related injuries are at risk of suffering multiple concussions\n- Acute symptoms might go unrecognized or their significance may be unknown to players, coaches, and parents\n- SLPs need to be aware of signs and symptoms of concussions in young children and in older children and adolescents\n\nROLE OF THE SLP AND SLPA WITH TBI ON A SCHOOL CASELOAD\n- An SLP with a child with PTBI or mTBI on caseload must obtain medical records with any information needed to help with assessment and treatment\n- The SLP and SLPA may need to provide information and support to school staff\n- Lecturer personal note: had maybe 4 students with TBI over many years; in all cases, school nurse and SLP were heavily involved in providing staff information and support\n- SLP provided direct therapy to the children and acted as their advocate in terms of appropriate accommodations needed before they could return to full participation in all school activities including PE and sports\n\nROLE OF SLPs IN TREATMENT OF CONCUSSIONS\n- SLPs can promote best practices for students to return to full school activity\n- The SLP is likely the only staff member on a school site who has studied mild TBI\n- Can help parents and teachers understand what the child should and should not do during recovery\n- Many families may never have heard of a concussion actually being a mild brain injury\n- SLPs provide direct therapy: one-to-one interventions for ongoing cognitive-communication challenges\n- Speech therapy is available to help children as they return to school\n- SLPs help medical personnel decide when a child is ready to return to sports\n- SLP monitors cognitive-communication skill development and the effect of ongoing cognitive-communication challenges on academic performance\n- Important task: provide education and training to school faculty and staff on the long-term effects of TBI\n- Build awareness that children are at risk for TBI across MANY activities, not just when they are athletes playing sports\n- TBI related to concussions in sports is a NEW area of concern for SLPs even though concussions themselves have been around since kids started playing\n\nPOST CONCUSSIVE SYNDROME\n- Some signs and symptoms from the acute phase may last for several weeks or months (chronic phase)\n- NOTE: Reference to the difference between acute and chronic studied in voice disorders\n- The brain is one of the slowest organs to heal\n- Post Concussive Syndrome is real and can be dangerous to brain health and healing if not treated\n- Signs and symptoms can impact communication causing: short-term memory impairments and lack of concentration\n\nCOGNITIVE AND PHYSICAL REST RECOMMENDATIONS\n- Doctor may recommend COGNITIVE REST: child should not participate in academic activities, especially reading\n- Family and school staff must understand this to support it\n- PHYSICAL REST is also needed\n- Child may need to minimize stress by decreasing external visual, auditory, and vestibular stimulation\n- This means minimizing what the child sees, hears, and the movement they feel\n- Activities to AVOID: swinging, jumping, running, riding a bike, playing video games, reading, playing music, or even listening to it\n- Family and school may need to minimize bright light to allow healing of neurons, axons, and dendrites — the brain connections that have been disrupted\n\nRETURN TO SCHOOL VS. RETURN TO LEARNING\n- Important to balance: the importance for the child to return to typical routines AND enough rest (cognitive and physical) to allow for brain healing\n- Realistic to expect the child to need a modified school environment at first when returning to school\n- Gradually increase to normal academic activities\n- Refrain from gym and sports until COMPLETELY ASYMPTOMATIC so as not to re-injure the brain\n- Gradual progression for a school athlete: light aerobic exercise → noncontact drills → full contact drills\n- NOTE: Consider the pressure put on school athletes by both parents and coaches to return to play\n\nRESOURCES\n- Textbook: Essentials of Communication Sciences and Disorders, 3rd edition, by Paul T. Fogle, Ph.D.\n- Lecture/PowerPoint Content: Kidwell, Susan M.S. CCC SLP, 'Introduction to Communication Disorders', Comm Dis 1A, San Joaquin Delta College, Stockton CA, Spring 2022",
+      "module": ""
+    },
+    {
+      "id": "src-mod1tqqc-n001",
+      "title": "Chapter 10: Autism Spectrum Disorders and Developmental Disabilities",
+      "chapter": "web",
+      "body": "DEVELOPMENTAL DISABILITIES\n- A developmental disability is defined as a disability present before 18 years of age in which significant limitations in both intellectual functioning AND adaptive behavior are present.\n- Adaptive behaviors include skills that allow one to function the same as same-aged peers.\n- Adaptive behaviors may include: conceptual skills, social skills, and practical skills.\n- Developmental disabilities include both intellectual disabilities AND physical disabilities.\n- It is possible to have a developmental disability such as Cerebral Palsy with intact intellectual function.\n- It is also possible to have an intellectual disability without any physical disability, or a person can have both.\n\nINTELLECTUAL DISABILITY\n- Presents as an IQ less than 70 AND impaired adaptive skills.\n- Intellectual disabilities may range from mild to profound.\n- A child in the 'mild' range will typically be able to achieve a sixth-grade educational level.\n- A child in the 'profound' range may not have any functional communication.\n- Antiquated/outdated terms: mentally retarded, mentally challenged, idiot/imbecile — these are no longer appropriate terms.\n\nSPEECH AND LANGUAGE IN DEVELOPMENTAL DISABILITIES\n- Those with developmental disabilities will typically have receptive language delays similar to their mental age.\n- Expressive language skills may see more of a negative impact than receptive language.\n- Pragmatic language and speech intelligibility are also common areas of weakness.\n\nDOWN SYNDROME\n- The most common chromosomal cause of developmental and learning disabilities.\n- Also called chromosome 21-trisomy syndrome.\n- Those affected generally fall into the mild to moderate range of disabilities.\n- Speech and language delays or disorders may be mild to severe in this population.\n- NOTE: Table 10-2 compares rates for developmental milestones in the 'typical' child and the child with Down syndrome.\n- The individual with Down syndrome may have both delayed AND disordered speech.\n- Many sounds are developed at a slower rate.\n- Speech sound distortions may be related to hypotonicity (low muscle tone) and delayed motor development.\n- Both sensorineural AND conductive hearing loss are more common in the Down syndrome population.\n- Receptive language skills usually exceed expressive language and articulation skills.\n- The person may reach a language development plateau.\n\nAUTISM SPECTRUM DISORDER (ASD) — BACKGROUND AND HISTORY\n- Used to be considered very rare; now occurs frequently.\n- Prior to current understanding, experts believed Autism was an emotional or psychiatric disorder attributed to a lack of interaction on the part of caregivers.\n- Now correctly considered a developmental disorder.\n- Leo Kanner was the first to describe 'autism.'\n- In the initial diagnosing stage, parents were held responsible for the child's disorder.\n- Since then, ASD is seen as a developmental disorder, not an emotional one.\n- Global incidence is now 1 in 160.\n- Factors for increase may include: increased awareness and expansion of diagnostic criteria, as well as a true increase in incidence.\n- Exact etiology is unknown; both genetics and environment contribute.\n- Over 65 genes and gene mutations have been identified as possible contributors.\n- Maternal diseases during pregnancy contributing: pregestational diabetes, maternal infections (e.g., rubella, cytomegalovirus).\n\nVACCINATIONS AND ASD\n- Routine childhood vaccinations are NOT to blame for ASD.\n- Meta-analysis: 1,265,000 children worldwide — no relationship between multiple vaccinations and ASD.\n- Mumps, measles, rubella (MMR) vaccine: no association of ASD found in study of 95,727 children.\n- Influenza vaccination during pregnancy: of 45,231 mothers, no relation to vaccination and increased risk of ASD in their children.\n- Research methodology: reviewed medical records comparing % of vaccinated children who developed ASD vs. % of unvaccinated children who developed ASD — no significant difference found.\n- Same methodology and outcome applied to flu shots during pregnancy.\n\nDSM-V DESCRIPTION OF ASD (APA, 2013)\n- ASD is a complex behavioral syndrome that includes 3 characteristics:\n  1. Persistent impairment in reciprocal social communication and social interactions.\n  2. Restricted, repetitive patterns of behaviors, interests, or activities.\n  3. Symptoms present from early childhood that limit/impair everyday functioning.\n- These characteristics may range from mild to profound.\n- Autism does not discriminate — consistent across race and ethnicity.\n\nWARNING SIGNS AND EARLY SYMPTOMS\n- Warning signs listed on page 194 of the text.\n- Studies looking back following diagnosis indicate that 90% of those later diagnosed with ASD showed symptoms in the first year of life.\n- Early symptoms include: extreme distress reactions, withdrawal from caregivers, unusual passivity, tendency to fixate on particular objects, decreased expression of positive affect by 12 months.\n- Preverbal communication is lower than in typically developing children OR even those with other developmental delays without ASD.\n\nDIAGNOSIS CONSIDERATIONS\n- Getting a diagnosis is often complicated by denial and the grief cycle on the part of the family, which may delay diagnosis and therefore services.\n- Early intervention is critical to long-term progress and improved communication and quality of life.\n- 13% lose the diagnosis due to misdiagnosis, maturation, or treatment.\n- Those who lost the diagnosis were less likely to have been diagnosed by a specialist in ASD — importance of seeing a specialist with appropriate qualifications for more accurate diagnosis.\n- Regional Center services and evaluations are available for FREE to families who suspect ASD.\n- A pediatrician, SLP, or family can self-refer for an evaluation.\n- An SLP will NOT diagnose a child with ASD; however, they may be part of a team that does.\n- The SLP is sometimes the first specialist contact a child/parent has.\n\nASSOCIATED CHARACTERISTICS AND CO-OCCURRING CONDITIONS\n- Intellectual deficits\n- ADD/ADHD\n- OCD\n- Depression\n- Executive dysfunction\n- Aggression/tantrums\n- Motor deficits\n- Seizures\n- Perseverative and self-injurious behaviors\n- Theory of Mind deficits\n- Sensory processing disorders\n\nAUDITORY ABNORMALITIES IN ASD\n- Auditory abnormalities occur at a higher incidence in ASD population compared to the general population.\n- Includes: hypo or hypersensitivity to sound, phonophobia, Auditory Processing Disorder (APD), significant hearing loss or deafness.\n- Children with ASD are more likely to have middle ear infections and develop mastoiditis.\n\nLANGUAGE ABILITIES IN ASD\n- Language abilities vary greatly among children with ASD.\n- Many children on the spectrum have difficulty with the 'use' of language (pragmatics).\n- May not initiate verbal interactions or imitate parts of a conversation.\n- Some are nonverbal with selective mutism.\n- Neologisms and idiosyncratic language are also often used.\n- Overall intelligibility varies — some have typical patterns, others have atypical ones.\n- Speech inflection may be atypical.\n\nECHOLALIA\n- People with ASD may mechanically imitate others — this is called echolalia.\n- Echolalia is one of the normal prelinguistic vocalizations typically developing children make.\n- In ASD, children may go beyond immediately repeating a word or phrase — they may memorize whole sections of a video and perseverate (get stuck) repeating it over and over.\n- They repeat language WITHOUT any communicative intent — not trying to communicate.\n- Example: A child who repeated entire commercials but would not gesture or vocalize to get needs met (e.g., juice, crackers).\n\nGENERALIZATION OF LEARNING\n- Children with ASD have difficulty generalizing learning from one situation to another.\n- They only understand skills in one specific context.\n- Skills must be explicitly taught in multiple situations.\n- A child would need multiple hours of therapy to learn how to request a snack at home, then repeat that same kind of training in each new environment.\n\nSOCIAL (PRAGMATIC) COMMUNICATION DISORDER (SCD)\n- A disorder where language 'use' is inappropriate.\n- Think of SCD as a condition where a child did NOT meet diagnostic criteria for ASD.\n- Communication deficits include: not following rules of communication, not understanding nonliteral language, difficulty integrating literal language.\n- KEY DIFFERENCE from ASD: A child with SCD would NOT typically have restricted, repetitive behaviors.\n\nTHEORY OF MIND\n- Refers to difficulty recognizing and understanding the mental states of other people (e.g., beliefs, thoughts, feelings).\n- People with ASD do not see the world from the perspective of other people.\n- Causes problems with communication, especially pragmatic language skills.\n- Pragmatics = use of language appropriate to the situation (e.g., how to ask for a drink differs based on context — at a professor's office vs. at a close family member's home).\n- People with ASD have difficulty with pragmatic language AND do not understand facial expressions and emotions of those around them.\n- This leads to severe/profound communication difficulty in activities of daily living and school progress.\n\nTREATMENT OF ASD\n- There is NO cure for ASD.\n- Therapies aim to better the child's (or adult's) quality of life.\n- Goal: decrease behaviors that interfere with life quality and increase behaviors that will improve it.\n- Applied Behavior Analysis (ABA) is mentioned as a treatment approach.",
+      "module": ""
+    },
     {
       "id": "ch21-n001",
       "title": "Chapter 21 — Essential Counseling Principles and Skills for SLPs and Audiologists",
