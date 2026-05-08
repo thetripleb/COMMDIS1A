@@ -17539,6 +17539,11 @@
       "asked": 1,
       "correct": 0,
       "incorrect": 1
+    },
+    "ch21-q008": {
+      "asked": 1,
+      "correct": 1,
+      "incorrect": 0
     }
   }
 }
