@@ -17554,6 +17554,16 @@
       "asked": 1,
       "correct": 0,
       "incorrect": 1
+    },
+    "ch6-q003": {
+      "asked": 1,
+      "correct": 0,
+      "incorrect": 1
+    },
+    "ch5-q014": {
+      "asked": 1,
+      "correct": 1,
+      "incorrect": 0
     }
   }
 }
