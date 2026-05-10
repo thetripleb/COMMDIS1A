@@ -329,6 +329,15 @@
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Textbook Glossary"
     },
     {
+      "id": "ch21-g026",
+      "term": "Affective Mode (Therapeutic Relationship)",
+      "def": "The clinician's attunement to and awareness of the emotional tone, reactions, and feelings present during clinical encounters — both the client's and the clinician's own. Recognizing and responding to the affective mode is one of the key variables contributing to the quality of the therapeutic relationship. The clinician's unresolved personal 'baggage' can negatively influence the affective mode.",
+      "image": null,
+      "module": "mod-15",
+      "chapter": "21",
+      "source": "Fogle (2023) Ch. 21; Kidwell, S. M.S. CCC-SLP, SJDC Lecture 15.2"
+    },
+    {
       "id": "fogle-agrammatism_agrammatic",
       "term": "Agrammatism (agrammatic)",
       "def": "Impairment of grammar and syntax and the ability to produce words in their correct sequence and with all necessary morphemes.",
@@ -837,6 +846,15 @@
       "module": "mod-1",
       "chapter": "2",
       "source": "Lecture 1.2.2 — Chapter 2: The Professionals, Kidwell, SJDC Comm Dis 1A"
+    },
+    {
+      "id": "ch21-g025",
+      "term": "Audiology Scope of Practice in Counseling",
+      "def": "Per ASHA (2018), audiologists counsel by providing information, education, guidance, and support to individuals and their families. Counseling includes discussion of assessment results and treatment options, and facilitates decision making regarding intervention, management, educational environment, and mode of communication. The role includes interactions related to emotions, thoughts, feelings, and behaviors resulting from hearing, balance, and related disorders.",
+      "image": null,
+      "module": "mod-15",
+      "chapter": "21",
+      "source": "ASHA (2018) Scope of Practice in Audiology; Fogle (2023) Ch. 21"
     },
     {
       "id": "fogle-audiometer",
@@ -1367,6 +1385,15 @@
       "module": "mod-12"
     },
     {
+      "id": "ch21-g022",
+      "term": "Closed Questions (Counseling)",
+      "def": "Counseling questions that elicit brief, specific answers — typically yes/no or one word. Useful for obtaining factual information but limit client elaboration. Best used selectively alongside open-ended questions to balance efficiency with therapeutic depth.",
+      "image": null,
+      "module": "mod-15",
+      "chapter": "21",
+      "source": "Fogle (2023) Ch. 21; Kidwell, S. M.S. CCC-SLP, SJDC Lecture 15.2"
+    },
+    {
       "id": "ch5-g033",
       "term": "Cluster Reduction",
       "def": "A common phonological process in which part of a consonant cluster (blend) is omitted. Example: 'pider' for 'spider', 'poon' for 'spoon', 'pill' for 'spill', 'pot' for 'spot'. Key distinction: the child will omit the /s/ only when it is part of a blend — NOT when /s/ precedes a vowel (e.g., 'song' and 'same' are produced correctly). One of the most common phonological processes seen in disordered children.",
@@ -1583,12 +1610,30 @@
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Textbook Glossary"
     },
     {
+      "id": "ch21-g019",
+      "term": "Comorbid Relationship (Communication Disorders & Mental Health)",
+      "def": "The co-occurrence of communication disorders with mental health conditions. Mental health effects include: depression, anxiety, low self-esteem, fear of failure, anger, attachment issues, friendship challenges, social phobias, shame, and isolation. Approximately 5–10% of Americans may have a communication disorder (ASHA); 37.5 million Americans report hearing trouble.",
+      "image": null,
+      "module": "mod-15",
+      "chapter": "21",
+      "source": "Kidwell, S. M.S. CCC-SLP, SJDC Lecture 15.2; ASHA"
+    },
+    {
       "id": "fogle-comorbidity",
       "term": "Comorbidity",
       "def": "The presence of two or more conditions, disorders, or disabilities.",
       "chapter": "1",
       "module": "mod-1",
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Textbook Glossary"
+    },
+    {
+      "id": "ch21-g023",
+      "term": "Comparison Questions (Counseling Microskill)",
+      "def": "A counseling microskill in which the clinician asks the client to compare their current status, feelings, or functioning to a previous state or situation. Example: 'How is your communication different from what it was six months ago?' Helps clients recognize and articulate change or ongoing difficulty.",
+      "image": null,
+      "module": "mod-15",
+      "chapter": "21",
+      "source": "Fogle (2023) Ch. 21; Kidwell, S. M.S. CCC-SLP, SJDC Lecture 15.2"
     },
     {
       "id": "ch20-g001",
@@ -3062,6 +3107,15 @@
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Textbook Glossary"
     },
     {
+      "id": "ch21-g017",
+      "term": "Informational Counseling",
+      "def": "Also referred to as client and family/caregiver education. A type of counseling that involves discussing with individuals and their families/caregivers the nature of a disorder or situation, intervention considerations and techniques, prognosis, and material and community resources. One of two main counseling categories within SLP/audiology scope of practice (Flasher & Fogle, 2012).",
+      "image": null,
+      "module": "mod-15",
+      "chapter": "21",
+      "source": "Flasher & Fogle (2012); Kidwell, S. M.S. CCC-SLP, SJDC Lecture 15.2"
+    },
+    {
       "id": "ch3-g011",
       "term": "Inhalation-to-Exhalation Ratio",
       "def": "At rest the ratio is approximately 50:50 (or 40:60). During speech and singing, it shifts dramatically to approximately 10% inhalation and 90% exhalation — a quick short breath in, then a long sustained breath out to support speech.",
@@ -3939,6 +3993,15 @@
       "module": "mod-12"
     },
     {
+      "id": "ch21-g021",
+      "term": "Open-Ended Questions (Counseling)",
+      "def": "Counseling questions that invite free, detailed responses from the client. Best used for gathering information about experiences, feelings, and perspectives (e.g., 'Can you tell me about how your communication affects you at home?'). They contrast with closed questions, which elicit brief, specific answers.",
+      "image": null,
+      "module": "mod-15",
+      "chapter": "21",
+      "source": "Fogle (2023) Ch. 21; Kidwell, S. M.S. CCC-SLP, SJDC Lecture 15.2"
+    },
+    {
       "id": "ch4-g029",
       "term": "Operant Conditioning",
       "def": "A learning model (Skinner's behavioral theory) in which a behavior is immediately reinforced after it occurs, increasing the likelihood it will recur. In language therapy, used as stimulus-response: a child approximates a word, the SLP reinforces it and shapes it toward the correct form.",
@@ -4185,6 +4248,15 @@
       "module": "mod-1",
       "chapter": "2",
       "source": "Ch. 2 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
+    },
+    {
+      "id": "ch21-g018",
+      "term": "Personal Adjustment Counseling",
+      "def": "A type of counseling that addresses feelings, emotions, thoughts, and beliefs expressed by individuals and their families/caregivers — for example, the realization of the pervasive impact of a communication disorder on day-to-day life. One of two main counseling categories within SLP/audiology scope of practice (Flasher & Fogle, 2012).",
+      "image": null,
+      "module": "mod-15",
+      "chapter": "21",
+      "source": "Flasher & Fogle (2012); Kidwell, S. M.S. CCC-SLP, SJDC Lecture 15.2"
     },
     {
       "id": "ch9-g016",
@@ -4584,6 +4656,15 @@
       "module": "mod-6",
       "chapter": "7",
       "source": "Ch. 7 slides / Lecture Ch. 7, Kidwell"
+    },
+    {
+      "id": "ch21-g024",
+      "term": "Requests for Clarification (Counseling Microskill)",
+      "def": "A counseling microskill in which the clinician asks the client to explain or expand on something they have already said, ensuring accurate understanding. Signals active listening and genuine interest. Example: 'Can you tell me more about what you meant by that?'",
+      "image": null,
+      "module": "mod-15",
+      "chapter": "21",
+      "source": "Fogle (2023) Ch. 21; Kidwell, S. M.S. CCC-SLP, SJDC Lecture 15.2"
     },
     {
       "id": "yt1-g003",
@@ -5206,6 +5287,15 @@
       "module": "mod-2",
       "chapter": "3",
       "source": "Lecture 2.2 — Ch. 3, Kidwell, SJDC Comm Dis 1A"
+    },
+    {
+      "id": "ch21-g020",
+      "term": "Three Absolutes (Counseling)",
+      "def": "Three realities every clinician must accept: (1) You are going to make mistakes. (2) You are going to get tired. (3) You are never going to know enough. Accepting these realities supports realistic expectations, self-compassion, and ongoing professional growth.",
+      "image": null,
+      "module": "mod-15",
+      "chapter": "21",
+      "source": "Fogle (2023) Ch. 21; Kidwell, S. M.S. CCC-SLP, SJDC Lecture 15.2"
     },
     {
       "id": "ch5-g027",
@@ -11427,6 +11517,78 @@
       "chapter": "20",
       "module": "mod-14",
       "source": "HealthyHearing.com — Healthy Hearing, M. Burry (2022)"
+    },
+    {
+      "id": "ch21-f021",
+      "front": "What is Theory of Mind and why is it clinically important for SLPs and audiologists?",
+      "back": "Theory of Mind is the ability to make reasonable inferences about others' thoughts, feelings, knowledge, intentions, and desires. Clinically, it helps the clinician understand what to say and do, predict a client's likely response, and adapt therapeutic communication accordingly. Developing accurate Theory of Mind is essential for working effectively with clients, patients, and their families.",
+      "image": null,
+      "module": "mod-15",
+      "chapter": "21",
+      "source": "Kidwell, S. M.S. CCC-SLP, SJDC Lecture 15.2; Fogle (2023) Ch. 21"
+    },
+    {
+      "id": "ch21-f022",
+      "front": "What are the two main types of counseling within SLP/audiology scope of practice, and how do they differ?",
+      "back": "1. Informational counseling (= client and family/caregiver education) — discusses the nature of the disorder, intervention options, prognosis, and community resources.\n2. Personal adjustment counseling — addresses feelings, emotions, thoughts, and beliefs about living with the disorder (e.g., its pervasive impact on daily life).\nBoth fall within SLP/audiology purview (Flasher & Fogle, 2012).",
+      "image": null,
+      "module": "mod-15",
+      "chapter": "21",
+      "source": "Flasher & Fogle (2012); Kidwell, S. M.S. CCC-SLP, SJDC Lecture 15.2"
+    },
+    {
+      "id": "ch21-f023",
+      "front": "What mental health conditions are commonly comorbid with communication disorders?",
+      "back": "Depression, anxiety, low self-esteem, fear of failure, anger, attachment issues, friendship challenges, social phobias, shame, and isolation. These reflect the comorbid relationship between communication disorders and mental health — a key reason why counseling is a core clinical skill for SLPs and audiologists.",
+      "image": null,
+      "module": "mod-15",
+      "chapter": "21",
+      "source": "Kidwell, S. M.S. CCC-SLP, SJDC Lecture 15.2; ASHA"
+    },
+    {
+      "id": "ch21-f024",
+      "front": "What are the Three Absolutes every clinician must accept, according to the chapter?",
+      "back": "1. You are going to make mistakes.\n2. You are going to get tired.\n3. You are never going to know enough.\nAccepting these realities is part of professional maturity and supports realistic expectations and ongoing growth as a clinician.",
+      "image": null,
+      "module": "mod-15",
+      "chapter": "21",
+      "source": "Fogle (2023) Ch. 21; Kidwell, S. M.S. CCC-SLP, SJDC Lecture 15.2"
+    },
+    {
+      "id": "ch21-f025",
+      "front": "What is the difference between open-ended and closed questions in counseling, and when is each most useful?",
+      "back": "Open-ended questions invite free, detailed responses — best for gathering information about feelings and experiences (e.g., 'Can you tell me about how your stutter affects you at work?').\nClosed questions elicit brief yes/no or one-word answers — best for specific factual information (e.g., 'Do you use your hearing aid every day?').\nEffective clinicians use both strategically depending on the clinical goal.",
+      "image": null,
+      "module": "mod-15",
+      "chapter": "21",
+      "source": "Fogle (2023) Ch. 21; Kidwell, S. M.S. CCC-SLP, SJDC Lecture 15.2"
+    },
+    {
+      "id": "ch21-f026",
+      "front": "What is a comparison question and when would a clinician use it?",
+      "back": "A comparison question asks the client to compare their current state, feelings, or functioning to a previous time or situation. Example: 'How is your communication different from six months ago?' It helps clients recognize progress, articulate change, and reflect on their own perception of improvement or ongoing difficulty.",
+      "image": null,
+      "module": "mod-15",
+      "chapter": "21",
+      "source": "Fogle (2023) Ch. 21; Kidwell, S. M.S. CCC-SLP, SJDC Lecture 15.2"
+    },
+    {
+      "id": "ch21-f027",
+      "front": "What is a request for clarification in counseling and why is it a valuable microskill?",
+      "back": "A request for clarification asks the client to explain or expand on something they have already said, ensuring the clinician understands accurately. Example: 'Can you tell me more about what you meant by that?' It signals active listening, prevents misunderstanding, and demonstrates genuine interest in the client's perspective.",
+      "image": null,
+      "module": "mod-15",
+      "chapter": "21",
+      "source": "Fogle (2023) Ch. 21; Kidwell, S. M.S. CCC-SLP, SJDC Lecture 15.2"
+    },
+    {
+      "id": "ch21-f028",
+      "front": "What DSM-5 diagnoses can both SLPs and psychologists make, and how do their roles differ for other conditions?",
+      "back": "Shared DSM-5 diagnoses: childhood onset fluency disorder (stuttering), developmental communication disorders (language, social/pragmatic communication, speech sound disorders), neurocognitive disorders (e.g., aphasia), and neurodevelopmental motor disorders (e.g., childhood apraxia of speech, dysarthria).\nFor some conditions (e.g., Alzheimer's disease, ADHD, ASD, specific learning disorders): psychologists make the diagnosis; SLPs provide the treatment.",
+      "image": null,
+      "module": "mod-15",
+      "chapter": "21",
+      "source": "Fogle (2023) Ch. 21; DSM-5 (2013)"
     }
   ],
   "questions": [
@@ -17298,9 +17460,180 @@
       "chapter": "19",
       "module": "mod-14",
       "source": "Kidwell, Susan M.S. CCC-SLP — Lecture 14.1.1, Ch. 19, SJDC Comm Dis 1A"
+    },
+    {
+      "id": "ch21-q027",
+      "type": "mc",
+      "text": "Theory of Mind, as applied to clinical counseling, is BEST defined as:",
+      "options": [
+        "A) The clinician's emotional regulation strategy during difficult sessions",
+        "B) The ability to make reasonable inferences about others' thoughts, feelings, intentions, and desires",
+        "C) A formal assessment tool used to evaluate clients' cognitive and social functioning",
+        "D) The shared understanding between a clinician and supervisor about treatment goals"
+      ],
+      "answer": "B) The ability to make reasonable inferences about others' thoughts, feelings, intentions, and desires",
+      "image": null,
+      "module": "mod-15",
+      "chapter": "21",
+      "source": "Kidwell, S. M.S. CCC-SLP, SJDC Lecture 15.2; Fogle (2023) Ch. 21"
+    },
+    {
+      "id": "ch21-q028",
+      "type": "mc",
+      "text": "A clinician says, 'Can you tell me more about how your stutter affects you at work?' This is an example of which type of counseling question?",
+      "options": [
+        "A) Closed question",
+        "B) Comparison question",
+        "C) Open-ended question",
+        "D) Broken record"
+      ],
+      "answer": "C) Open-ended question",
+      "image": null,
+      "module": "mod-15",
+      "chapter": "21",
+      "source": "Fogle (2023) Ch. 21; Kidwell, S. M.S. CCC-SLP, SJDC Lecture 15.2"
+    },
+    {
+      "id": "ch21-q029",
+      "type": "mc",
+      "text": "Which of the following is NOT listed as a mental health effect commonly comorbid with communication disorders?",
+      "options": [
+        "A) Social phobias",
+        "B) Shame",
+        "C) Obsessive-compulsive behavior",
+        "D) Fear of failure"
+      ],
+      "answer": "C) Obsessive-compulsive behavior",
+      "image": null,
+      "module": "mod-15",
+      "chapter": "21",
+      "source": "Kidwell, S. M.S. CCC-SLP, SJDC Lecture 15.2; Fogle (2023) Ch. 21"
+    },
+    {
+      "id": "ch21-q030",
+      "type": "mc",
+      "text": "Which of the following is an example of a counseling activity WITHIN the SLP's scope of practice boundaries?",
+      "options": [
+        "A) Providing ongoing therapy for a client's marital problems",
+        "B) Treating a client's chronic depression as a primary condition",
+        "C) Empowering the client and family to make informed decisions about communication issues",
+        "D) Providing chemical dependence counseling to a client with aphasia"
+      ],
+      "answer": "C) Empowering the client and family to make informed decisions about communication issues",
+      "image": null,
+      "module": "mod-15",
+      "chapter": "21",
+      "source": "Fogle (2023) Ch. 21; ASHA (2016)"
+    },
+    {
+      "id": "ch21-q031",
+      "type": "tf",
+      "text": "SLPs and audiologists may refer to themselves as 'counselors' as long as they are using evidence-based counseling microskills during their sessions.",
+      "answer": "False — SLPs and audiologists cannot call themselves 'counselors' unless they also hold a separate M.A. in counseling. Preferred alternative terms include client/patient/family training or education, conference, or consultation.",
+      "image": null,
+      "module": "mod-15",
+      "chapter": "21",
+      "source": "Fogle (2023) Ch. 21; Kidwell, S. M.S. CCC-SLP, SJDC Lecture 15.2"
+    },
+    {
+      "id": "ch21-q032",
+      "type": "tf",
+      "text": "Theory of Mind helps SLPs predict a client's likely response to what is said or done during a clinical encounter.",
+      "answer": "True — Theory of Mind involves making reasonable inferences about others' thoughts, feelings, and intentions, which directly helps clinicians anticipate and adapt to client reactions.",
+      "image": null,
+      "module": "mod-15",
+      "chapter": "21",
+      "source": "Kidwell, S. M.S. CCC-SLP, SJDC Lecture 15.2; Fogle (2023) Ch. 21"
+    },
+    {
+      "id": "ch21-q033",
+      "type": "tf",
+      "text": "ASHA has separate scope of practice documents for SLPs and audiologists that each specifically address counseling roles.",
+      "answer": "True — ASHA (2016) addresses the SLP counseling scope, and ASHA (2018) addresses audiology counseling scope. Both describe counseling activities with profession-specific emphases.",
+      "image": null,
+      "module": "mod-15",
+      "chapter": "21",
+      "source": "ASHA (2016); ASHA (2018); Fogle (2023) Ch. 21"
+    },
+    {
+      "id": "ch21-q034",
+      "type": "fitb",
+      "text": "The two main types of counseling within SLP/audiology scope of practice are __________ counseling and personal __________ counseling.",
+      "answer": "informational; adjustment",
+      "image": null,
+      "module": "mod-15",
+      "chapter": "21",
+      "source": "Flasher & Fogle (2012); Kidwell, S. M.S. CCC-SLP, SJDC Lecture 15.2"
+    },
+    {
+      "id": "ch21-q035",
+      "type": "fitb",
+      "text": "According to the chapter, counseling skills are used __________ or spontaneously in every clinical encounter with clients, patients, or family members (Luterman, 2008).",
+      "answer": "intentionally",
+      "image": null,
+      "module": "mod-15",
+      "chapter": "21",
+      "source": "Luterman (2008); Fogle (2023) Ch. 21"
+    },
+    {
+      "id": "ch21-q036",
+      "type": "fitb",
+      "text": "A clinician who asks 'How is your communication different from what it was six months ago?' is using a __________ question.",
+      "answer": "comparison",
+      "image": null,
+      "module": "mod-15",
+      "chapter": "21",
+      "source": "Fogle (2023) Ch. 21; Kidwell, S. M.S. CCC-SLP, SJDC Lecture 15.2"
+    },
+    {
+      "id": "ch21-q037",
+      "type": "match",
+      "text": "Match each counseling question type to its correct description.",
+      "pairs": [
+        {
+          "prompt": "Open-ended question",
+          "match": "Invites free, detailed responses about experiences or feelings"
+        },
+        {
+          "prompt": "Closed question",
+          "match": "Elicits brief yes/no or one-word answers for specific facts"
+        },
+        {
+          "prompt": "Comparison question",
+          "match": "Asks the client to compare current status to a previous state or situation"
+        },
+        {
+          "prompt": "Request for clarification",
+          "match": "Asks the client to explain or expand on something already said"
+        }
+      ],
+      "answer": "Open-ended → free detailed responses; Closed → yes/no or one-word; Comparison → compare to prior state; Clarification → explain or expand",
+      "image": null,
+      "module": "mod-15",
+      "chapter": "21",
+      "source": "Fogle (2023) Ch. 21; Kidwell, S. M.S. CCC-SLP, SJDC Lecture 15.2"
+    },
+    {
+      "id": "ch21-q038",
+      "type": "sa",
+      "text": "Describe the comorbid relationship between communication disorders and mental health. List at least five mental health effects and explain why awareness of this relationship is important for SLPs in clinical practice.",
+      "answer": "Communication disorders have a well-documented comorbid relationship with mental health. Common mental health effects include (any 5+): depression, anxiety, low self-esteem, fear of failure, anger, attachment issues, friendship challenges, social phobias, shame, and isolation. Awareness is important because: (1) it underscores why counseling is a core SLP clinical skill, not optional; (2) clients may present with significant emotional distress directly tied to their disorder; (3) SLPs must recognize when to address these feelings within scope and when to refer to mental health professionals; and (4) the psychological burden of communication disorders directly affects client participation in and benefit from therapy.",
+      "image": null,
+      "module": "mod-15",
+      "chapter": "21",
+      "source": "Kidwell, S. M.S. CCC-SLP, SJDC Lecture 15.2; Fogle (2023) Ch. 21"
     }
   ],
   "notes": [
+    {
+      "id": "ch21-n002",
+      "title": "Chapter 21 — Lecture Notes: Counseling Principles and Skills (Kidwell / SJDC + Publisher Slides)",
+      "body": "SOURCE: Kidwell, Susan M.S. CCC-SLP, SJDC Lecture 15.2 — Chapter 21\nSLIDES: Fogle (2023) Ch. 21 Publisher PPTX (9781284235845)\nCOURSE: Comm Dis 1A, SJDC\n\nNOTE: Supplements ch21-n001 (Fogle textbook). Emphasizes lecture content, slide-specific detail, and clinical context not covered in the primary textbook note.\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nCOUNSELING — DEFINITIONS & TYPES\n━━━━━━━━━━━━━━━━━━━━━━━━━━\n• Counseling = assistance provided interactively to clients and families dealing with challenging emotions and life situations; facilitates realistic goals and improves quality of life (Flasher & Fogle, 2012; Tellis & Barone, 2018)\n• Counseling skills are used INTENTIONALLY or SPONTANEOUSLY in every clinical encounter (Luterman, 2008)\n• SLPs/audiologists must recognize when referral to related professionals is warranted\n\nTWO MAIN TYPES (both within SLP/audiology scope):\n  1. Informational counseling (= client/family/caregiver education):\n     — Discusses nature of disorder, intervention options, prognosis, community resources\n  2. Personal adjustment counseling:\n     — Addresses feelings, emotions, thoughts, beliefs about the pervasive impact of the disorder on daily life\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nCOMORBID RELATIONSHIP: COMMUNICATION DISORDERS & MENTAL HEALTH\n━━━━━━━━━━━━━━━━━━━━━━━━━━\n• PREVALENCE: 5–10% of Americans may have a communication disorder (ASHA); 37.5 million report hearing trouble\n• A comorbid relationship between communication disorders and mental health is well established\n\nMENTAL HEALTH EFFECTS (full list):\n  • Depression\n  • Anxiety\n  • Low self-esteem\n  • Fear of failure\n  • Anger\n  • Attachment issues\n  • Friendship challenges\n  • Social phobias\n  • Shame\n  • Isolation\n★ These effects are a core reason why counseling is a REQUIRED clinical skill, not a bonus\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nIMPACT OF COMMUNICATION DISORDERS\n━━━━━━━━━━━━━━━━━━━━━━━━━━\n• Communication = essential to learning, play, social interaction; affects every aspect of a child's life\n• Impaired communication may disrupt: social/emotional skills, cognitive skills, later academic skills (reading/writing)\n• Even transitory delays can affect the child's ability to form relationships → impacts overall development\n• Early delays → increased risk of language-based learning disabilities, including reading disabilities\n• Children with early phoneme processing problems are likely to later manifest reading disabilities (Shaywitz, 1998)\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nSLP SCOPE OF PRACTICE — COUNSELING\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nPer ASHA (2016) — SLPs counsel by providing education, guidance, and support:\n• Clients and families counseled re: acceptance, adaptation, decision making about communication/swallowing\n• SLP role = interactions related to emotional reactions, thoughts, feelings, and behaviors from living with the disorder\n\nSLP counseling activities include:\n  ✓ Empower individual and family to make informed decisions\n  ✓ Educate individual, family, and community members about disorders\n  ✓ Provide support and/or peer-to-peer groups\n  ✓ Provide skills to enable self-advocacy\n  ✓ Discuss, evaluate, and address negative emotions/thoughts\n  ✓ Refer to other professionals when needs fall outside communication/swallowing scope\n\nAUDIOLOGY SCOPE (ASHA 2018):\n• Audiologists counsel by providing information, education, guidance, and support\n• Includes: assessment results, treatment options, decision making re: intervention, educational environment, communication mode\n• Role includes interactions related to emotions, thoughts, feelings, behaviors from hearing/balance disorders\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nWITHIN VS. BEYOND SCOPE OF PRACTICE\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nWITHIN our boundaries:\n  • Interviewing client/patient and family\n  • Presenting the diagnosis of delays/disorders\n  • Providing information about delays/disorders\n  • Discussing interventions\n  • Addressing client's/family's emotional reactions to diagnosis\n  • Supporting client's strengths in regaining function and independence\n  • Supporting family strengths to optimize interaction with client\n  • Empowering client/family for self-management and independence from clinician\n\nBEYOND our boundaries (→ REFER OUT):\n  • Chemical dependence\n  • Child or elder abuse\n  • Chronic depression\n  • Legal conflicts\n  • Marital problems\n  • Personality or character disorders\n  • Sexual abuse and sexual problems\n  • Suicidal ideation\n\nCHALLENGES to our boundaries:\n  • The 'slippery slope' — boundaries can blur gradually over time\n  • Clinician 'baggage' — unresolved personal issues that affect clinical judgment\n  • Knowledge about communication disorders alone is NOT sufficient to be an excellent clinician\n  • 'Affective mode' — the emotional tone present in the session (clinician + client both contribute)\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nCOUNSELING AS SCIENCE AND ART\n━━━━━━━━━━━━━━━━━━━━━━━━━━\n• Science: Understanding psychological/counseling theories, principles, skills, and supporting research\n• Art: Knowing WHEN and HOW to use them; interpersonal sensitivity; best timing\n• Counseling skills can be LEARNED — many need to be TAUGHT, not just 'caught'\n• Focus: communication problems and how they affect coping abilities of client and family\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nOVERLAP: SLPs AND PSYCHOLOGISTS (DSM-5, 2013)\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nShared diagnoses (both SLPs and psychologists can make):\n  • Childhood onset fluency disorder (stuttering)\n  • Developmental communication disorders:\n    — Language disorders\n    — Social (pragmatic) communication disorders\n    — Speech sound disorders\n  • Neurocognitive disorders (e.g., aphasia, cognitive-communication disorders)\n  • Neurodevelopmental motor disorders (e.g., childhood apraxia of speech, dysarthria)\n\nPsychologist diagnoses; SLP provides treatment:\n  • Alzheimer's disease\n  • ADHD\n  • Autism spectrum disorders\n  • Specific learning disorders\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nPERSONAL QUALITIES OF EFFECTIVE HELPERS\n━━━━━━━━━━━━━━━━━━━━━━━━━━\n(Expanded PPTX list — 9 qualities)\n  1. Congruent\n  2. Unconditional positive regard\n  3. Empathic understanding\n  4. Flexible\n  5. Encouraging attitude\n  6. Emotional stability\n  7. Self-awareness\n  8. Positive self-esteem\n  9. Patience\n\nTHREE WAYS PEOPLE CHANGE:\n  1. Evolution — gradual change over time\n  2. Revolution — sudden, dramatic change\n  3. Resolution — decision to accept or adjust to the situation\n  + Tolerance for ambiguity — essential for both client and clinician\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nTHREE ABSOLUTES (CLINICIAN SELF-AWARENESS)\n━━━━━━━━━━━━━━━━━━━━━━━━━━\n  1. You are going to make mistakes.\n  2. You are going to get tired.\n  3. You are never going to know enough.\n★ Accepting these = professional maturity and realistic expectations\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nFOUNDATIONAL COUNSELING SKILLS\n━━━━━━━━━━━━━━━━━━━━━━━━━━\n(Pompon, 2021 — Five Areas)\n  1. Self-awareness\n  2. Attending\n  3. Gathering information\n  4. Providing information\n  5. Promoting change\n\nTHEORY OF MIND:\n  • Definition: Making reasonable inferences about others' thoughts, feelings, knowledge, intentions, desires\n  • Helps clinicians understand what to say/do and predict likely responses\n  • Developing accurate Theory of Mind is ESSENTIAL for clinical work with clients and families\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nCOUNSELING QUESTION TYPES — FULL TAXONOMY\n━━━━━━━━━━━━━━━━━━━━━━━━━━\n  1. Closed questions — brief, factual, yes/no responses\n  2. Open-ended questions — free, detailed responses; best for feelings/experiences\n  3. Funneling questions — guide conversation from general → specific\n  4. Requests for clarification — ask client to explain/expand on something said\n  5. Comparison questions — ask client to compare current to prior state or situation\n  6. Counterquestions — return client's question back to the client\n  7. Broken record — calmly restate a message when client deflects or avoids\n\nCAUTIONS:\n  • 'Why' questions tend to feel accusatory — use sparingly\n  • Overuse of closed questions limits the client's voice and therapeutic depth\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nCOUNSELING THEORIES & PERSON/FAMILY-CENTERED CARE\n━━━━━━━━━━━━━━━━━━━━━━━━━━\n• ~400 counseling theories and approaches exist\n• Person- and Family-Centered Care core concepts:\n  1. Respect and dignity\n  2. Sharing information\n  3. Participation\n  4. Collaboration\n• Family Systems Theory: family is interdependent; subsystems; homeostasis/equilibrium; all relationships are fragile\n  → Leverage family strengths into therapy\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━\n★ KEY EXAM POINTS\n━━━━━━━━━━━━━━━━━━━━━━━━━━\n★ SLPs CANNOT call themselves 'counselors' — use: education, conference, consultation\n★ Informational counseling = info/education about disorder; Personal adjustment counseling = feelings/emotions about disorder\n★ Comorbid mental health effects: depression, anxiety, shame, isolation, low self-esteem, fear of failure, anger, attachment issues, friendship challenges, social phobias\n★ Theory of Mind = inferring others' thoughts/feelings/intentions → predicts and shapes clinical responses\n★ Three Absolutes: you will make mistakes / get tired / never know enough\n★ Within scope: diagnosis education, reactions to diagnosis, empowerment, self-advocacy skills\n★ Beyond scope → REFER: depression, abuse, suicidal ideation, legal/marital/personality/sexual issues\n★ SLPs share some DSM-5 diagnoses with psychologists; psychologists diagnose ASD/ADHD/Alzheimer's/SLD — SLPs provide treatment\n★ Question types: Open-ended = detailed; Closed = brief/factual; Comparison = compare to prior; Clarification = expand meaning; Funneling = general→specific; Counterquestion = reflect back; Broken record = restate calmly\n★ Counseling is used INTENTIONALLY or SPONTANEOUSLY in EVERY clinical encounter (Luterman, 2008)\n★ PPTX lists 9 personal qualities of effective helpers (textbook lists 6 — see ch21-g015 for textbook version)",
+      "image": null,
+      "module": "mod-15",
+      "chapter": "21",
+      "source": "Kidwell, S. M.S. CCC-SLP, SJDC Lecture 15.2; Fogle (2023) Ch. 21 Publisher PPTX (9781284235845)"
+    },
     {
       "id": "lec14-resource-n001",
       "title": "Supplemental Resource — Healthy Hearing (HealthyHearing.com, M. Burry, 2022)",
@@ -17484,121 +17817,5 @@
       "body": "SOURCE: Lecture 1.2.2 | Kidwell, Susan M.S. CCC-SLP | Comm Dis 1A, SJDC\nTEXTBOOK: Essentials of Communication Sciences and Disorders, 2nd ed. — Fogle\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nHISTORICAL ORIGINS\n━━━━━━━━━━━━━━━━━━━━━━━━━━\n• Traced to Alexander Graham Bell — father & grandfather were elocutionists (1860s)\n• Bell & father became interested in deaf/hard of hearing individuals\n• 1900s: Speech correction groups formed → became American Speech and Hearing Association\n• Now known as: American Speech-Language-Hearing Association (ASHA)\n• 1960s: Special education became federally mandated\n• 1975: Public Law 94-142 — FAPE in the LRE for all children with disabilities\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nASHA — THE GOVERNING BODY\n━━━━━━━━━━━━━━━━━━━━━━━━━━\n• Primary professional org for SLPs & Audiologists in the U.S.\n• Establishes: Scope of Practice + Code of Ethics\n• Maintains credentials: CCC-SLP and CCC-A\n• Website: www.asha.org\n• Student org: NSSLHA — www.nsslha.org\n★ Code of Ethics violations = loss of certification or licensure\n★ Primary ethical obligation: PUT THE CLIENT'S NEEDS FIRST\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nSPEECH-LANGUAGE PATHOLOGIST (SLP)\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nCore functions: IDENTIFY → EVALUATE → DIAGNOSE → TREAT\nFocus: Communication AND swallowing disorders\n\nEducation pathway:\n  1. Bachelor's in Communication Disorders (or related field)\n  2. Master's in Communication Disorders (or Ph.D.)\n  3. Pass national exam\n  4. Earn CCC-SLP from ASHA\n  5. Obtain state licensure\n\nWork settings (largest first):\n  • Public schools ← LARGEST EMPLOYER\n  • Hospitals: acute, subacute, convalescent\n  • Inpatient/outpatient clinics\n  • Private practices\n  • Universities\n\nAlternate titles:\n  speech-language pathologist | speech-language therapist | speech therapist\n  speech teacher | speech & hearing specialist | language speech & hearing specialist\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nAUDIOLOGIST\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nCore functions: IDENTIFY → EVALUATE → DIAGNOSE → TREAT\nFocus: Auditory AND vestibular disorders\n\nEducation pathway:\n  1. Bachelor's in related field\n  2. Ph.D. or Au.D.\n  3. Complete Clinical Fellowship Year\n  4. Pass national exam\n  5. Earn CCC-A from ASHA\n  6. State licensure + ongoing CEUs\n\nScope of practice includes:\n  • Determining type and extent of hearing loss\n  • Assessing benefits of amplification (hearing aids)\n  • Assessing potential for habilitation or rehabilitation\n\nWork settings: same as SLP (schools, hospitals, clinics, private practice, universities)\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nSUPPORT PERSONNEL\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nSLPA (Speech-Language Pathology Assistant):\n  • Tasks prescribed, directed & supervised by CCC-SLP\n  • Earns A.S. degree from SLPA training program\n  • See p. 32 in textbook for full list of responsibilities\n\nAudiology Assistant:\n  • Duties directed & supervised by licensed Audiologist\n  • Requires high school diploma + competency-based training\n  • Assists with routine tasks only\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nTEAM APPROACH\n━━━━━━━━━━━━━━━━━━━━━━━━━━\n• Often required for treatment of communication disorders\n• Involves professionals + family members\n★ Most important team member = THE CLIENT (and parent if applicable)\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━\n★ KEY CONCEPTS TO REMEMBER\n━━━━━━━━━━━━━━━━━━━━━━━━━━\n★ SLPs work from conception (prenatal care) to death\n★ An individual is NOT defined by their disorder\n★ You may need to fight for what is right for your client\n★ Movies featuring SLPs: My Fair Lady, The King's Speech, Children of a Lesser God\n★ FAPE and LRE remain significant legal standards today\n★ The SLP is the supervisor of the SLPA — always"
     }
   ],
-  "questionStats": {
-    "ch3-q004": {
-      "asked": 1,
-      "correct": 0,
-      "incorrect": 1
-    },
-    "ch3s-q012": {
-      "asked": 1,
-      "correct": 0,
-      "incorrect": 1
-    },
-    "slp-ch16-q001": {
-      "asked": 1,
-      "correct": 1,
-      "incorrect": 0
-    },
-    "ch1-q006": {
-      "asked": 1,
-      "correct": 1,
-      "incorrect": 0
-    },
-    "ch1-q013": {
-      "asked": 1,
-      "correct": 1,
-      "incorrect": 0
-    },
-    "ch6-q011": {
-      "asked": 1,
-      "correct": 1,
-      "incorrect": 0
-    },
-    "slp-ch16-q021": {
-      "asked": 1,
-      "correct": 1,
-      "incorrect": 0
-    },
-    "ch5-q027": {
-      "asked": 1,
-      "correct": 0,
-      "incorrect": 0
-    },
-    "ch12-hq002": {
-      "asked": 1,
-      "correct": 1,
-      "incorrect": 0
-    },
-    "ch19-q018": {
-      "asked": 1,
-      "correct": 0,
-      "incorrect": 1
-    },
-    "slp-ch18-q018": {
-      "asked": 1,
-      "correct": 0,
-      "incorrect": 1
-    },
-    "ch21-q008": {
-      "asked": 1,
-      "correct": 1,
-      "incorrect": 0
-    },
-    "ch3-q016": {
-      "asked": 1,
-      "correct": 1,
-      "incorrect": 0
-    },
-    "ch4-q002": {
-      "asked": 1,
-      "correct": 0,
-      "incorrect": 1
-    },
-    "ch6-q003": {
-      "asked": 1,
-      "correct": 0,
-      "incorrect": 1
-    },
-    "ch5-q014": {
-      "asked": 1,
-      "correct": 1,
-      "incorrect": 0
-    },
-    "ch3s-q002": {
-      "asked": 1,
-      "correct": 1,
-      "incorrect": 0
-    },
-    "ch3s-q004": {
-      "asked": 1,
-      "correct": 0,
-      "incorrect": 1
-    },
-    "ch12-q003": {
-      "asked": 1,
-      "correct": 1,
-      "incorrect": 0
-    },
-    "ch3-q002": {
-      "asked": 1,
-      "correct": 1,
-      "incorrect": 0
-    },
-    "ch7-q006": {
-      "asked": 1,
-      "correct": 1,
-      "incorrect": 0
-    },
-    "ch20-q009": {
-      "asked": 1,
-      "correct": 1,
-      "incorrect": 0
-    },
-    "ch20-q018": {
-      "asked": 1,
-      "correct": 0,
-      "incorrect": 1
-    }
-  }
+  "questionStats": {}
 }
