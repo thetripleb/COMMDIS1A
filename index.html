@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>SLP Study Repository</title>
+<title>SLP1A Study Repository</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="preload" href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700&family=Inter:wght@300;400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
@@ -1700,7 +1700,7 @@
 
 <header>
   <div class="header-brand">
-    <h1>SLP Study Repository</h1>
+    <h1>SLP1A Study Repository</h1>
     <span class="subtitle">Speech-Language Pathology</span>
   </div>
   <div class="header-search">
@@ -2121,7 +2121,7 @@
 // DATA STORE — separate localStorage key from SLP repo
 // ============================================================
 let db = {
-  meta: { name: "SLP Study Repository", course: "Speech-Language Pathology", created: new Date().toISOString() },
+  meta: { name: "SLP1A Study Repository", course: "Speech-Language Pathology", created: new Date().toISOString() },
   modules: [],
   glossary: [],
   flashcards: [],
@@ -2140,8 +2140,8 @@ let saveTimer = null;       // debounce handle
 let lastSavedSha = null;    // SHA of data.json on GitHub (needed for updates)
 let syncPending   = false;
 let isPushing     = false;
-const APP_VERSION = '2026-05-09 21:12';
-const BUILD_TS = '20260509211217';
+const APP_VERSION = '2026-05-10 16:03';
+const BUILD_TS = '20260510160343';
 let _searchBackQuery = null;  // tracks query for deep-link back navigation
 let _lastSyncError = null;
 
@@ -4222,7 +4222,7 @@ async function initApp() {
     renderDashboard();
     updateQuestionForm();
   } catch(e) {
-    console.error('SLP Study Repository: Initial render error:', e);
+    console.error('SLP1A Study Repository: Initial render error:', e);
   }
   // Load data (async — fetches from GitHub if configured, else localStorage)
   try {
@@ -4231,7 +4231,7 @@ async function initApp() {
     updateBadges();
     checkDataAndShowPrompts();
   } catch(e) {
-    console.warn('SLP Study Repository: Load error:', e);
+    console.warn('SLP1A Study Repository: Load error:', e);
   }
 }
 
