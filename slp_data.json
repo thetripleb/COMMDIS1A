@@ -141,6 +141,13 @@
       "desc": "",
       "chapters": [],
       "created": "2026-02-17T23:15:41.318Z"
+    },
+    {
+      "id": "mod-wiki",
+      "name": "Wiki Entries",
+      "desc": "Student wiki glossary entries from all chapters",
+      "chapters": [],
+      "created": "2026-05-11"
     }
   ],
   "glossary": [
@@ -175,6 +182,15 @@
       "chapter": "1",
       "module": "mod-1",
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Textbook Glossary"
+    },
+    {
+      "id": "ch1-g072",
+      "term": "Acquired Disorder",
+      "def": "Those that begin after an individual has developed normal communication abilities, such as a hearing loss from loud noise exposure, or a speech, language, or cognitive disorder caused by a traumatic brain injury (TBI; head trauma). Essentials of Communication Disorders (2nd ed.). (p.p. 9). Jones & Bartlett Learning.]",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "1",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
     },
     {
       "id": "fogle-acquired_disorders",
@@ -362,6 +378,15 @@
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Textbook Glossary"
     },
     {
+      "id": "ch15-g021",
+      "term": "Alexia",
+      "def": "Impaired ability to read as the result of neurological damage. Fogle, P. (2023). Essentials of Communication Sciences & Disorders (3rd ed), Jones & Bartlett Learning(p.p. 337-338) Tabitha Clinton",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "15",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
       "id": "fogle-alexia_acquired_dyslexia",
       "term": "Alexia (acquired dyslexia)",
       "def": "Impaired ability to read as the result of neurological damage.",
@@ -386,6 +411,15 @@
       "source": "Quiz answer key — Ch. 5 / Lecture 4.2, Kidwell"
     },
     {
+      "id": "ch8-g008",
+      "term": "Alphabet Knowledge",
+      "def": "Receptive and expressive knowledge of the individual letters of the alphabet. (p.p. #183) - Beth Doupe",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "8",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
       "id": "fogle-alphabetic_principle",
       "term": "Alphabetic principle",
       "def": "Letters and combinations of letters represent speech sounds; speech can be turned into print; and print can be turned into speech.",
@@ -400,6 +434,15 @@
       "module": "mod-5",
       "chapter": "17",
       "source": "Lecture Ch. 17, Kidwell / Ch. 17 PPTX"
+    },
+    {
+      "id": "ch5-g057",
+      "term": "Alveolar",
+      "def": "Produced when the tip of the tongue is in contact with the alveolar ridge of the maxilla, just behind the upper incisor teeth (/t,d,s,z,n,l/). This point of contact produces more sounds than any other, however it is the pressure of the tongue tip against the alveolar ridge and the length of time the tongue tip is in contact with the alveolar ridge that allow us to produce the various sounds. (p 86)",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "5",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
     },
     {
       "id": "ch3-g032",
@@ -474,6 +517,15 @@
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Textbook Glossary"
     },
     {
+      "id": "ch20-g021",
+      "term": "American Sign Language",
+      "def": "A manual system of communication commonly used by members of the Deaf culture in the United States; sometimes referred to as Ameslan.Fogle, P. (2023). Essentials of Communication Disorders (3rd ed.). (p.p. #505). Jones & Bartlett Learning - Emma Sarment",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "20",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
       "id": "fogle-american_sign_language_asl",
       "term": "American Sign Language (ASL)",
       "def": "A manual system of communication commonly used by members of the Deaf culture in the United States; sometimes referred to as Ameslan.",
@@ -482,12 +534,30 @@
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Textbook Glossary"
     },
     {
+      "id": "ch2-g039",
+      "term": "American Speech-Language-Hearing Association (ASHA)",
+      "def": "The professional organization that represents speech-language pathologists and audiologists and sets standards for their education, training, and certification. The organization was formerly called the American Speech and Hearing Association, and retained the ASHA abbreviation",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "2",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
       "id": "fogle-amyotrophic_lateral_sclerosis_als;_lou_g",
       "term": "Amyotrophic lateral sclerosis (ALS; Lou Gehrig's disease)",
       "def": "A rare, rapidly progressive degenerative disease of motor neurons that control movement of all muscle systems, including the speech systems.",
       "chapter": "5",
       "module": "mod-5",
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Textbook Glossary"
+    },
+    {
+      "id": "ch17-g027",
+      "term": "Amyotrophic Lateral Sclerosis (ALS)",
+      "def": "(also called Lou Gehrig's Disease) \"A rare, rapidly progressive degenerative disease of motor neurons that control movement of all muscle systems, including the speech systems\" (Fogle, 2023, p.p. 434)",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "17",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
     },
     {
       "id": "fogle-anarthric_anarthria",
@@ -514,6 +584,15 @@
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Textbook Glossary"
     },
     {
+      "id": "ch15-g017",
+      "term": "Anomia",
+      "def": "consistent inability to recall the appropriate word to identify an object, person's name, or numbers. (Fogle Glossary) -Benjamin Bartle",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "15",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
       "id": "slp-ch15-g009",
       "term": "Anomia (Anomic Aphasia) — Types",
       "def": "Anomia = consistent inability to recall the appropriate word to identify an object, person's name, or numbers. A deficit of EXPRESSIVE language; receptive language (understanding) is not impaired. THREE TYPES: (1) LEXICAL ANOMIA — patient knows how to use an object and can select it from a group but cannot name it; may have selective impairment for specific categories (e.g., animals or colors). (2) PHONOLOGICAL ANOMIA (Conduction Aphasia) — patient knows the word but selects wrong sounds; long words especially difficult. (3) SEMANTIC ANOMIA — meaning of words becomes lost; patient cannot select the correct object from a group even when given the name.",
@@ -536,6 +615,15 @@
       "chapter": "15",
       "source": "Ch. 15 PPTX; Kidwell lecture notes; Handy Handout #435",
       "module": "mod-11"
+    },
+    {
+      "id": "ch16-g014",
+      "term": "Anosognosia",
+      "def": "Decreased awareness of deficits or disabilities often seen in right-hemisphere damage; impairment of an individual's ability to relate to parts of his body ( Fogle ) - Calista Aguallo",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "16",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
     },
     {
       "id": "slp-ch16-g011",
@@ -666,6 +754,15 @@
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Textbook Glossary"
     },
     {
+      "id": "ch10-g011",
+      "term": "Applied Behavioral Analysis",
+      "def": "\"An applied science devoted to developing procedures that produce measurable changes in behavior using principles of operant conditioning, classical conditioning, and social learning theory (formerly, behavior modification).\"",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "10",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
       "id": "fogle-applied_behavioral_analysis_aba",
       "term": "Applied behavioral analysis (ABA)",
       "def": "An applied science devoted to developing procedures that produce measurable changes in behavior using principles of operant conditioning, classical conditioning, and social learning theory (formerly, behavior modification).",
@@ -792,6 +889,15 @@
       "module": "mod-13"
     },
     {
+      "id": "ch8-g002",
+      "term": "Assessment",
+      "def": "SLPs conduct assessments in collaboration with others that help identify students with communication disorders as well as to inform instruction and intervention, consistent with EBP",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "8",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
       "id": "fogle-assistive_listening_device_ald",
       "term": "Assistive listening device (ALD)",
       "def": "Amplification systems, other than conventional hearing aids, that are designed for specific listening situations (e.g., personal amplifiers, telephone amplifiers, personal text telephones, and personal FM systems).",
@@ -800,12 +906,39 @@
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Textbook Glossary"
     },
     {
+      "id": "ch6-g041",
+      "term": "assistive technology (AT)",
+      "def": "Any approach designed to support, enhance, or supplement the communication of individuals who are not independent verbal communicators in all situations. Fogle textbook p.p. #125). Tabitha Clinton",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "6",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
+      "id": "ch6-g038",
+      "term": "ataxic",
+      "def": "Ataxia is seen primarily as an impaired ability to coordinate movements and maintain balance. (p.p., 123) - Benjamin Bartle",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "6",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
       "id": "fogle-atherosclerosis",
       "term": "Atherosclerosis",
       "def": "A common disorder characterized by yellowish plaques of cholesterol and other lipids (fats) in the inner layers of the walls of arteries; often associated with tobacco use, obesity, hypertension, diabetes mellitus, and aging.",
       "chapter": "11",
       "module": "mod-11",
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Textbook Glossary"
+    },
+    {
+      "id": "ch21-g037",
+      "term": "Attending",
+      "def": "\"active listening (eye contact, facial expressions, posture, subtle gestures) and communication of understanding\" - (Fogle, Page 526) Kristopher Hayes",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "21",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
     },
     {
       "id": "ch21-g009",
@@ -887,6 +1020,15 @@
       "module": "mod-4",
       "chapter": "5",
       "source": "Ch. 5 slides — Fogle/SJDC"
+    },
+    {
+      "id": "ch9-g023",
+      "term": "auditory figure-ground",
+      "def": "the perception of relevant sounds from extraneous background sounds and noise; the ability to hear the voice of one speaker over background noise",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "9",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
     },
     {
       "id": "ch9-g011",
@@ -1025,6 +1167,15 @@
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Textbook Glossary"
     },
     {
+      "id": "ch4-g042",
+      "term": "Behavioral Theory",
+      "def": "In reference to speech and language a perspective of development that asserts that speech and language are behaviors learned through operant conditioning. (Fogle, p.67) - Emma Jellen",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "4",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
       "id": "ch4-g025",
       "term": "Behavioral Theory (Language Development)",
       "def": "Perspective that language is a set of verbal behaviors learned through operant conditioning (B.F. Skinner). Key mechanisms: reinforcement (behavior reinforced immediately after it occurs), imitation, and successive approximation. SLPs apply this through stimulus-response therapy and shaping. Limitation: cannot explain novel sentences or rapid vocabulary acquisition without direct teaching.",
@@ -1041,6 +1192,15 @@
       "source": "Lecture 2.2 — Ch. 3, Kidwell, SJDC Comm Dis 1A"
     },
     {
+      "id": "ch18-g015",
+      "term": "Best Practice",
+      "def": "Procedures based on the best available evidence (research and expert opinion); procedures that are accepted or prescribed as being correct or most effective and efficient",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "18",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
       "id": "fogle-best_practices",
       "term": "Best practices",
       "def": "Procedures based on the best available evidence (research and expert opinion); procedures that are accepted or prescribed as being correct or most effective.",
@@ -1049,12 +1209,39 @@
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Textbook Glossary"
     },
     {
+      "id": "ch21-g029",
+      "term": "Beyond Our Boundaries",
+      "def": "Beyond our boundaries for counseling are areas or issues that are clearly out of our scope of practice, although we may believe they may have contributed to the cause or the continuation of the communication problems on which we are working. Tenishia A. Fogle, P. (2023). Essentials of Communication Sciences & Disorders (3rd ed), Jones & Bartlett Learning (a.k.a. CSD Textbook). (519-520)",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "21",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
       "id": "ch5-g013",
       "term": "Bilabial",
       "def": "Place of articulation involving both lips coming together. 'Bi' = two, 'labial' = lip. Bilabial sounds include /p/, /b/, and /m/. Example: /b/ — both lips are pressed together, the airflow stops, and the vocal folds vibrate (voiced stop bilabial).",
       "module": "mod-4",
       "chapter": "5",
       "source": "Lecture 4.2, Kidwell, SJDC"
+    },
+    {
+      "id": "ch5-g064",
+      "term": "bilabials",
+      "def": "Referring to the two lips or bilabial sounds, /p/ and /b/",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "5",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
+      "id": "ch4-g053",
+      "term": "Bilingual",
+      "def": "Speaker of two languages Fogle, P. (2023). Essentials of Communication Sciences & Disorders (3rd ed.). (p.p. 70). Jones & Bartlett Learning.. - Janelle Estrada",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "4",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
     },
     {
       "id": "fogle-bioethics",
@@ -1079,6 +1266,15 @@
       "module": "mod-2",
       "chapter": "3",
       "source": "Lecture 2.2 — Ch. 3, Kidwell, SJDC Comm Dis 1A"
+    },
+    {
+      "id": "ch4-g066",
+      "term": "Blends (Consonant Cluster)",
+      "def": "Two or three consonant sounds together with no vowel separation (e.g., st, tr, str).Fogle, P. (2023). Essentials of Communication Sciences & Disorders (3rd ed.). (p. 79). Jones & Bartlett Learning. - Tori Roche",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "4",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
     },
     {
       "id": "fogle-blood-brain_barrier",
@@ -1113,6 +1309,15 @@
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Textbook Glossary"
     },
     {
+      "id": "ch15-g022",
+      "term": "Broca's Aphasia",
+      "def": "A nonfluent expressive aphasia characterized by agrammatic language with omissions of articles, conjunctions, prepositions, plurals, possessives, and verb morphemes and auxiliary verbs; speech is often limited to high-frequency content words, making it sound telegraphic; apraxia of speech, dysarthria, or both often coexist. Fogle, P. (2023). Essentials of Communication Sciences & Disorders (3rd ed.). (p.540). Jones & Bartlett Learning.- Janelle Estrada",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "15",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
       "id": "slp-ch15-g012",
       "term": "Broca's Aphasia (Expressive Aphasia)",
       "def": "A nonfluent aphasia with lesion in or around Broca's area in the left frontal lobe. Characteristics: effortful, trial-and-error groping of articulators; AGRAMMATISM — impaired syntax; TELEGRAPHIC SPEECH — content words (nouns, verbs) are preserved but functor words (articles, prepositions) are omitted; poor repetition; mildly to moderately impaired comprehension. Patient knows what they want to say but finds it very difficult to produce the words. May be limited to single words or very short sentences (under 4 words). Also features limited vocabulary, clumsy sound formation, and difficulty writing. Fluency: −, Comprehension: +, Repetition: −, Naming: −.",
@@ -1143,6 +1348,15 @@
       "module": "mod-13",
       "chapter": "21",
       "source": "Ch. 21 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
+    },
+    {
+      "id": "ch21-g043",
+      "term": "Broken Record-Yannet Rodriguez",
+      "def": "Broken Record is a technique of repeating a word or statement until you get the person’s attention or asking the same question over (and over) again with the same loudness, voice tone, and facial expression until the person answers that question. (Young children learn to use this technique automatically, like a four-year-old who says.) “Mommy? pause Mommy? pause Mommy?” and the mother says, “Huh? Did you say something?”) Clinicians may use this technique when a client does not respond to a question that the clinician feels is important",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "21",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
     },
     {
       "id": "fogle-cancer_carcinoma",
@@ -1225,12 +1439,30 @@
       "source": "Lecture 2.2 — Ch. 3, Kidwell, SJDC Comm Dis 1A"
     },
     {
+      "id": "ch15-g007",
+      "term": "Cerebral Embolism",
+      "def": "\"An abnormal condition in which a blood clot, piece of tumor, or other material (embolus) circulates in the bloodstream until it becomes lodged in a cerebral blood vessel, causing an occlusion; at the location of the occlusion, the embolus begins to function as a thrombus. Fogle, P. (2023). Essentials of Communication Sciences & Disorders (3rd ed.). (p. 329). Jones & Bartlett Learning - Dani Sierra",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "15",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
       "id": "fogle-cerebral_hemisphere",
       "term": "Cerebral hemisphere",
       "def": "Either of the two halves of the brain that contains a frontal lobe, parietal lobe, occipital lobe, and temporal lobe.",
       "chapter": "2",
       "module": "mod-2",
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Textbook Glossary"
+    },
+    {
+      "id": "ch15-g008",
+      "term": "Cerebral Hemorrhage",
+      "def": "(hemorrhagic stroke) a stroke caused by rupturing (hemorrhaging) of a blood vessel that results in blood leaking or flowing into the brain tissue, damaging or killing neurons, axons, dendrites and synapses. Fogle, P. (2023). Essentials of Communication Sciences & Disorders (3rd ed.). (p. 329). Jones & Bartlett Learning - Tyra Ford",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "15",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
     },
     {
       "id": "ch5-g042",
@@ -1247,6 +1479,24 @@
       "module": "mod-5",
       "chapter": "6",
       "source": "Ch. 6 PPTX / Lecture Ch. 6, Kidwell"
+    },
+    {
+      "id": "ch15-g005",
+      "term": "Cerebral Thrombosis",
+      "def": "An abnormal condition in which a clot (thrombus) develops within a blood vessel. (Fogle, p. 371) -Emma Jellen",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "15",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
+      "id": "ch15-g001",
+      "term": "Cerebrovascular Accidents (CVA)",
+      "def": "\"A disruption of blood supply to the brain caused by an occluded (blocked) artery or an artery that has ruptured.\" Fogle, P. (2023). Essentials of Communication Sciences & Disorders (3rd ed.). (p.p. 326). Jones & Bartlett Learning. - Dakota Dailey",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "15",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
     },
     {
       "id": "ch3s-g020",
@@ -1271,6 +1521,15 @@
       "module": "mod-1",
       "chapter": "2",
       "source": "Lecture 1.2.2 — Chapter 2: The Professionals, Kidwell, SJDC Comm Dis 1A"
+    },
+    {
+      "id": "ch21-g030",
+      "term": "Challenges to Our Boundaries",
+      "def": "Can occur even during our first interaction with a client. We cannot completely avoid all possible encounters with situations that challenge our boundaries, so we need to recognize them and have the tools to respond to them appropriately",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "21",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
     },
     {
       "id": "ch6-g012",
@@ -1329,6 +1588,15 @@
       "module": "mod-12"
     },
     {
+      "id": "ch7-g043",
+      "term": "Chronological age",
+      "def": "The actual age of a person that is derived from date of birth and expressed in days, months, and years (Fogle, 2023, p.164). -N. Castano",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "7",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
       "id": "fogle-chronological_age_ca",
       "term": "Chronological age (CA)",
       "def": "The actual age of a person that is derived from date of birth and expressed in days, months, and years.",
@@ -1337,12 +1605,30 @@
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Textbook Glossary"
     },
     {
+      "id": "ch7-g033",
+      "term": "circumlocution",
+      "def": "The use of a description or \"talking around\" a word when the specific word cannot be recalled",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "7",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
       "id": "ch12-h001",
       "term": "Circumlocution (Stuttering Avoidance)",
       "def": "A specific avoidance behavior in which a person who stutters TALKS AROUND a feared word rather than saying it directly — choosing a longer alternate phrase or description to sidestep the word they anticipate stuttering on. Circumlocution is one of several escape/avoidance behaviors driven by fear of specific sounds, words, people, or speaking situations. Other avoidance behaviors include: substituting a different word, delaying a comment, interjecting starter sounds ('um,' 'ah,' 'you know'), covering the mouth, avoiding eye contact, refusing to speak, or using vocal abnormalities (speaking rapidly, in a whisper, slowly, in a monotone, or with an accent).",
       "module": "mod-9",
       "chapter": "12",
       "source": "306_BehaviorsOfStuttering.pdf — Hodgson, CCC-SLP"
+    },
+    {
+      "id": "ch6-g036",
+      "term": "Classification of Cerebral Palsy",
+      "def": "Cerebral Palsy is a heterogeneous group of non-progressive, permanent disorders of movement and postural development, often accompanied by abnormal muscle tone, loss of selective motor control, muscle weakness, and impaired balance (p.p., 121)",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "6",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
     },
     {
       "id": "slp-ch18-g007",
@@ -1361,6 +1647,15 @@
       "source": "Lecture 1.2.2 — Chapter 2: The Professionals, Kidwell, SJDC Comm Dis 1A"
     },
     {
+      "id": "ch2-g041",
+      "term": "Clinical fellowship year (CFY)",
+      "def": "A 36-week full-time (35 hours per week) or the equivalent part-time mentored clinical experience totaling a minimum of 1,260 hours begun after all academic coursework and university clinic training are completed; required by ASHA to be eligible for the Certificate of Clinical Competence (CCC) -",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "2",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
       "id": "fogle-clinical_judgment",
       "term": "Clinical judgment",
       "def": "The application of information based on actual observation of a person, combined with objective and subjective data that lead to a decision or conclusion.",
@@ -1377,12 +1672,30 @@
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Textbook Glossary"
     },
     {
+      "id": "ch11-g001",
+      "term": "Closed Head Injury",
+      "def": "Brain Injury without a penetrating injury into a brain that may be the result of a direct blow to the head, the moving head being abruptly stopped, such as when a person's head hits a windshield in a car accident, or the abrupt stopping of the head without striking another object. - Calista Aguallo",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "11",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
       "id": "slp-ch16-g002",
       "term": "Closed Head Injury (CHI) and Coup-Contrecoup",
       "def": "CLOSED HEAD INJURY (CHI): the most common type of TBI in the civilian population. The skull is NOT penetrated — damage is caused by blunt force or the sudden deceleration of the head causing the brain to continue moving and strike the skull. Most common civilian causes: motor vehicle accidents and assaults. COUP-CONTRECOUP INJURY: brain is damaged at the SITE of impact (coup/primary) AND on the OPPOSITE side (contrecoup/secondary) as the brain 'flows' and compresses against the other side of the skull. Impact also causes significant SWELLING that may last days or weeks and cause additional damage. BLOOD-BRAIN BARRIER (BBB) may be disrupted.",
       "chapter": "16",
       "source": "Ch. 16 PPTX; Kidwell lecture notes",
       "module": "mod-12"
+    },
+    {
+      "id": "ch21-g040",
+      "term": "Closed Questions",
+      "def": "\"Closed questions elicit a yes, no, or other brief response and often include the words is, are, or do—for example, “What is your name?” “How many children do you have?” Closed questions are often used initially in an interview; however, too many closed questions can sound like an interrogation\"( Fogle, 2023, p. 530) Hannah thomas",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "21",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
     },
     {
       "id": "ch21-g022",
@@ -1482,6 +1795,15 @@
       "source": "Quiz answer key — Ch. 5 / Lecture 4.2, Kidwell"
     },
     {
+      "id": "ch11-g002",
+      "term": "Cognition",
+      "def": "\"The integrated mental functions such as attention, language processing, memory, learning, orientation, organization of information, creativity, association, planning, reasoning, judgement, problem solving, and executive functions\" (Fogle, 2023, p.p. 253)",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "11",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
       "id": "ch4-g019",
       "term": "Cognitive Development",
       "def": "The progressive and continuous growth of perception, memory, imagination, conception, judgment, and reasoning. The intellectual counterpart of a person's biological adaptation to the environment. Closely linked to language development — sufficient cognitive function is required for language to emerge and be cultivated.",
@@ -1506,12 +1828,30 @@
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Textbook Glossary"
     },
     {
+      "id": "ch16-g005",
+      "term": "Cognitive Impairments",
+      "def": "Difficulty with any aspect of communication that is affected by disruption of cognition. Impaired ability to process and use incoming information for memory, organization of information, reasoning, judgment, and problem-solving for adequate functioning in activities of daily living, including a person’s work. A diagnostic term that implies a certain set of characteristics apply to a patient. Fogle, P. (2023). Essentials of Communication Sciences & Disorders (3rd ed.) (p.395). Jones & Bartlett Learning. Hannah Thomas",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "16",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
       "id": "slp-ch16-g006",
       "term": "Cognitive Impairments from TBI",
       "def": "TBI may produce a comatose or semicomatose state followed by multiple cognitive impairments: ATTENTION deficits (difficulty maintaining focus), MEMORY deficits (working memory, recent memory, long-term/remote memory), ORIENTATION deficits (disorientation to person, place, time, and purpose), REASONING and PROBLEM-SOLVING deficits, and EXECUTIVE FUNCTION deficits. Executive functions include: abstract thinking, anticipating needs, setting goals, planning strategies, implementing strategies, determining if strategies are working, and regulating emotions and behaviors. When executive dysfunction is present, everyday activities are negatively impacted.",
       "chapter": "16",
       "source": "Ch. 16 PPTX; Kidwell lecture notes",
       "module": "mod-12"
+    },
+    {
+      "id": "ch1-g060",
+      "term": "Cognitive Process",
+      "def": "the things individuals do with their brains that involve attention, perception, memory, addition, imagination, belief, reasoning, use of language, volatation, emotion and others; the process of thinking. The ability to take an information and transform it, store it recover it, and use it. Fogle, P. (2023). Essentials of Communication Disorders (3rd ed.). (p.p. 7). Jones & Bartlett Learning",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "1",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
     },
     {
       "id": "fogle-cognitive_rehabilitation",
@@ -1522,12 +1862,30 @@
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Textbook Glossary"
     },
     {
+      "id": "ch16-g018",
+      "term": "Cognitive Reserve",
+      "def": "The brain's resilience, its ability to cope with increasing damage while still functioning adequately; the brain's ability to improvise and find alternate ways to accomplish a task. Fogle, p. 413 - Nicole Castano",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "16",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
       "id": "fogle-cognitive-behavioral_therapy",
       "term": "Cognitive-behavioral therapy",
       "def": "A model of counseling designed to help individuals recognize and examine problematic beliefs and replace them with more adaptive and flexible ways of thinking.",
       "chapter": "9",
       "module": "mod-9",
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Textbook Glossary"
+    },
+    {
+      "id": "ch1-g092",
+      "term": "Cognitive-communication disorders",
+      "def": "Are defined as “difficulty with any aspect of communication that is affected by disruption of cognition” Essentials of Communication Disorders (2nd ed.). (p.p.14). Jones & Bartlett Learning.]",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "1",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
     },
     {
       "id": "slp-ch16-g001",
@@ -1544,6 +1902,24 @@
       "chapter": "12",
       "module": "mod-12",
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Textbook Glossary"
+    },
+    {
+      "id": "ch18-g005",
+      "term": "Common etiologies of dysphagia",
+      "def": "\"In children, dysphagia has numerous etiologies, such as prematurity and low birth weight, heart disease, conditions affecting the airway, meningitis, and cerebral palsy, among others\"",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "18",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
+      "id": "ch1-g043",
+      "term": "Communicate",
+      "def": "Any means by which individuals relate their wants, needs, thoughts, feelings, and knowledge to another person",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "1",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
     },
     {
       "id": "ch1-g001",
@@ -1684,6 +2060,15 @@
       "source": "Lecture 1.2.1 — Chapter 1, Kidwell, SJDC Comm Dis 1A"
     },
     {
+      "id": "ch1-g070",
+      "term": "Congenital Disorder",
+      "def": "Are those that are present at birth and are usually considered either hereditary (e.g some syndromes, such as Down syndrome), problems caused during pregnancy (e.g material drug or alcohol abuse), or a complication at birth (e.g fetal anoxia no oxygen or hypoxia inadequate oxygen) Essentials of Communication Disorders (2nd ed.). (p.p. 9). Jones & Bartlett Learning.]",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "1",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
       "id": "fogle-congenital_disorders",
       "term": "Congenital disorders",
       "def": "A disorder that is present at birth.",
@@ -1724,12 +2109,30 @@
       "source": "Ch. 5 slides — Fogle/SJDC / Lecture 4.2, Kidwell"
     },
     {
+      "id": "ch13-g035",
+      "term": "Contact Ulcer",
+      "def": "A benign vocal fold ulceration at the juncture of the middle one-third and posterior one-third of a fold that is caused by persistent and excessive vocal hyperfunction with a chronic low-pitched voice, hard glottal attacks, and other vocal fold abuses and misuses. Contact ulcers tend to occur in hard-driving men and women who frequently experience gastroesophageal reflux that causes irritation, coughing, and repeated throat clearing. (Fogle, 2023, P. 319) - Emma Sarment",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "13",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
       "id": "ch13-g008",
       "term": "Contact Ulcers",
       "def": "Vocal fold lesions occurring in the POSTERIOR region where the vocal folds make contact (arytenoid cartilage area). Result from vocal hyperfunction or hard glottal attacks. A functional/organic lesion — among the most frequent benign vocal fold diagnoses. Medical clearance and ENT evaluation are required before SLP treatment.",
       "module": "mod-10",
       "chapter": "13",
       "source": "Lecture Ch. 13, Kidwell / Ch. 13 PPTX"
+    },
+    {
+      "id": "ch8-g010",
+      "term": "conventional literacy",
+      "def": "\" Reading and writing according to the rule-governed system of the alphabetic principle and being able to read to learn.\" Fogle, P. (2023). Essentials of Communication Sciences & Disorders (3rd ed.). (p.p. 185). Jones & Bartlett Learning. Hannah Thomas",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "8",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
     },
     {
       "id": "ch4-g005",
@@ -1764,6 +2167,15 @@
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Textbook Glossary"
     },
     {
+      "id": "ch21-g031",
+      "term": "Counseling",
+      "def": "Science and Art: Science: Understanding of psychological and counseling theories, principles, and skills, and the research that supports their use. Art: Understanding when and how to use the theories, principles, and skills, and demonstrating the interpersonal sensitivity to use the best \"timing\" possible",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "21",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
       "id": "ch21-g001",
       "term": "Counseling (as Applied to SLPs and Audiologists)",
       "def": "An applied social science and a helping, interpersonal relationship in which the clinician's intentions are to assist a person or family member to understand a hearing, communication, or swallowing disorder and its impact on the person's life, and ways of preventing, managing, adjusting to, or coping with these disorders (Flasher & Fogle, 2012). NOT synonymous with giving advice. Used in EVERY clinical encounter, whether intentionally or spontaneously. Counseling skills are a flexible set of basic concepts and approaches useful across all clinical situations and environments.",
@@ -1780,12 +2192,30 @@
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Textbook Glossary"
     },
     {
+      "id": "ch21-g039",
+      "term": "Counseling Microskills",
+      "def": "A term used in counseling psychology that refers to specific communication skills that help clinicians interact more intentionally with clients - that is, to choose responses to clients thoughtfully but quickly from a wide range of possibilities (Fogle, 2023, p. 529). - Alannah Soeur",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "21",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
       "id": "ch21-g012",
       "term": "Counterquestions",
       "def": "A counseling microskill involving answering an individual's or family member's question WITH A QUESTION. Counterquestions allow the client or family member to reveal their own thoughts, decisions, or feelings so the clinician does not have to agree or disagree. Helps clinicians avoid being 'hooked' into answering a question the person has already made a decision about. When a client asks 'What do you think?', respond with a what or how question repeating the essence of the topic. Example: To 'How much longer do I need therapy?', respond with 'What do you think about the progress you have made so far?'",
       "module": "mod-13",
       "chapter": "21",
       "source": "Ch. 21 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
+    },
+    {
+      "id": "ch16-g001",
+      "term": "Coup-contrecoup Injury",
+      "def": "In closed head injuries, damage to the brain at both the site of impact (coup) and the opposite side (contrecoup), because the brain \"flows\" and causes intense compression; for example, when an impact to the right frontal area of the skull results in brain damage directly behind the impact and on the opposite side left posterior area.Fogle, P. (2023). Essentials of Communication Sciences & Disorders (3rd ed.). (p.p. 397). Jones & Bartlett Learning. - Emma Sarment",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "16",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
     },
     {
       "id": "fogle-covert_reactions",
@@ -1860,6 +2290,15 @@
       "source": "Ch. 4 PDF — Prof. Handy, SJDC"
     },
     {
+      "id": "ch16-g023",
+      "term": "Custodial Care",
+      "def": "Services and care of a non-medical nature(e.g., bathing, feeding, toileting) provided long term, usually for convalescent and chronically ill patients. Fogle, P. (2023). Essentials of Communication Sciences & Disorders (3rd ed), Jones & Bartlett Learning (p.p. 486) Tabitha Clinton",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "16",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
       "id": "fogle-deaf_community",
       "term": "Deaf community",
       "def": "Individuals who are deaf or hard of hearing who share a common language (usually manual communication), common experiences and values, and a common way of interacting with each other and with hearing people.",
@@ -1892,6 +2331,15 @@
       "source": "CSD Ch3 PP (Fogle 3rd ed.)"
     },
     {
+      "id": "ch21-g027",
+      "term": "Definition of Counseling",
+      "def": "\"An applied social science and a helping, interpersonal relationship in which the clinician's intentions are to assist a person or family member to understand a hearing, communication, or swallowing disorder and its impact on their lives, and ways of preventing, managing, adjusting to, or coping with these disorders.\"",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "21",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
       "id": "fogle-degenerative_disease",
       "term": "Degenerative disease",
       "def": "Any condition that causes gradual deterioration of normal body functions.",
@@ -1922,6 +2370,15 @@
       "module": "mod-9",
       "chapter": "12",
       "source": "Lecture Ch. 12, Kidwell, SJDC"
+    },
+    {
+      "id": "ch1-g093",
+      "term": "Dementia",
+      "def": "A neurological disorder that is a progressive deterioration of cognitive functioning and personality. Essentials of Communication Disorders (2nd ed.). (p.p.14). Jones & Bartlett Learning.]",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "1",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
     },
     {
       "id": "slp-ch16-g017",
@@ -1972,6 +2429,15 @@
       "source": "Ch. 6 PPTX — Fogle/SJDC"
     },
     {
+      "id": "ch2-g043",
+      "term": "Diagnosis",
+      "def": "The determination of the type and cause of a speech, language, cognitive, swallowing, or hearing disorder based on the signs and symptoms of the client or patient obtained through case history, observations, interviews, formal and informal evaluations, and other methods. (",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "2",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
       "id": "ch2-tx-g006",
       "term": "Diagnosis (SLP/Audiology)",
       "def": "The SLP's professional decision as to the specific diagnostic terms that best represent the client's or patient's communication, cognitive, or swallowing problems. Based on signs, symptoms, and test results. For insurance reimbursement, specific CPT (Current Procedural Terminology) codes from the AMA and ICD-10 codes from the WHO must be included in billing. A formal written description of the client's problems and all therapy goals, rationales, and procedures is required documentation.",
@@ -1986,6 +2452,15 @@
       "module": "mod-3",
       "chapter": "4",
       "source": "Ch. 4 PDF — Prof. Handy, SJDC"
+    },
+    {
+      "id": "ch4-g052",
+      "term": "Dialect Accent",
+      "def": "A specific form of speech and language used in a geographical region or among a large group of people (social or ethnic dialects) that differs significantly from the standard of the larger language community in pronunciation, vocabulary, grammar, and idiomatic use of words. Fogle, P. (2023). Essentials of Communication Sciences & Disorders (3rd ed.). (p.p.70 ). Jones & Bartlett Learning. Hannah Thomas",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "4",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
     },
     {
       "id": "yt1-g006",
@@ -2059,12 +2534,39 @@
       "source": "Ch. 4 PDF — Prof. Handy, SJDC"
     },
     {
+      "id": "ch1-g085",
+      "term": "Disfluency",
+      "def": "A disruption in the forward flow of speech, encompassing behaviors such as repetitions, prolongations, and hesitations “Stuttering, Cluttering, and Fluency.” Asha.orgLinks to an external site., 2019",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "1",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
       "id": "ch1-g031",
       "term": "Disfluency (Dysfluency / Stuttering)",
       "def": "A fluency disorder involving unusual repetitions of sounds, syllables, words, or phrases; prolongations of sounds; and/or abnormal stoppages (silent blocks). May include visible tension and struggle behaviors. 'Disfluency' is currently the preferred term over 'stuttering'.",
       "module": "mod-1",
       "chapter": "1",
       "source": "Lecture 1.2.1 — Chapter 1, Kidwell, SJDC Comm Dis 1A"
+    },
+    {
+      "id": "ch1-g063",
+      "term": "Disorder",
+      "def": "As defined by the World Health Organization (WHO), any loss or abnormality of psychological, physiological, or anatomical structure or function that interferes with normal activities. (",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "1",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
+      "id": "ch1-g061",
+      "term": "Disorders of Communication",
+      "def": "A communication disorder may be defined as an impairment in the ability to receive, comprehend, or send messages, verbally, nonverbally, or graphically. Alternatively, based on the earlier definition of communication (i.e., any means by which individuals relate their wants, needs, thoughts, feelings, and knowledge to another person), a communication disorder may be defined as any speech, language, cognitive, voice, resonance, or hearing impairment that interferes with conveying or understanding a person’s wants, needs, thoughts, feelings, and knowledge",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "1",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
     },
     {
       "id": "slp-ch18-g006",
@@ -2081,6 +2583,15 @@
       "module": "mod-4",
       "chapter": "5",
       "source": "Quiz answer key — Ch. 5"
+    },
+    {
+      "id": "ch5-g052",
+      "term": "Distinctive Features",
+      "def": "The smallest individual differences required to differentiate one phoneme from another in a language. (Fogle, 2023, p.p. 95)",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "5",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
     },
     {
       "id": "ch5-g020",
@@ -2195,6 +2706,15 @@
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Textbook Glossary"
     },
     {
+      "id": "ch8-g011",
+      "term": "dyslexia",
+      "def": "A specific learning disability that is neurological in origin. It is characterized by difficulties with accurate and/or fluent recognition and by poor spelling and decoding abilities (p.p., 166) - Benjamin Bartle",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "8",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
       "id": "ch6-g023",
       "term": "Dysphagia",
       "def": "A swallowing disorder. May co-occur with dysarthria since both involve the same muscles of the oral mechanism. Children and adults with CP, dysarthria, and other neuromotor impairments frequently have dysphagia in addition to speech impairment. Dysphagia management is within the SLP's scope of practice.",
@@ -2273,6 +2793,15 @@
       "chapter": "10",
       "module": "mod-10",
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Textbook Glossary"
+    },
+    {
+      "id": "ch7-g042",
+      "term": "Elicited",
+      "def": "Behavior that is drawn out of a person by presenting certain stimuli (e.g., asking a child to name or describe objects to observe his speech and language), (Fogle, 2023, p.164). -N. Castano",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "7",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
     },
     {
       "id": "ch2-g018",
@@ -2379,6 +2908,15 @@
       "source": "Ch. 21 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
     },
     {
+      "id": "ch21-g032",
+      "term": "Encouraging Attitude",
+      "def": "\"The ability to be encouraging and to instill hope may be one of the most important qualities of clinicians. We need to be the client's cheerleader and support the client's gradual progress. Encouragement helps people learn to believe in their potential for improvement. Being encouraging also implies that we have the confidence that our clients can improve and that we can be helpful in promoting their improvement. \"",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "21",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
       "id": "fogle-endoscopy",
       "term": "Endoscopy",
       "def": "Methods of viewing the velopharyngeal mechanism, vocal tract, or both that use a rigid endoscope introduced intraorally or flexible fiberoptic endoscope transnasally with a camera lens and fiber-optic light source at the tip of the scope.",
@@ -2395,6 +2933,15 @@
       "source": "Ch. 4 PDF — Prof. Handy, SJDC"
     },
     {
+      "id": "ch18-g020",
+      "term": "Enteral Feeding",
+      "def": "\"The delivery of hydration and nutrition into the gastrointestinal (GI) tract by way of tube feedings through the nose or stomach.\"",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "18",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
       "id": "ch3-g016",
       "term": "Epiglottis",
       "def": "A leaf-shaped cartilage at the top of the larynx. During swallowing, it folds down over the laryngeal opening to prevent food and liquid from entering the airway (trachea).",
@@ -2409,6 +2956,24 @@
       "module": "mod-9",
       "chapter": "12",
       "source": "306_BehaviorsOfStuttering.pdf — Hodgson, CCC-SLP"
+    },
+    {
+      "id": "ch18-g012",
+      "term": "Esophageal Peristalsis",
+      "def": "\"The sequential, coordinated contraction wave that travels the length of the esophagus that provides motility of food and liquid from the upper esophageal valve to the lower esophageal valve and into the stomach (much like the hand movement when milking a cow.\"Fogle, P. (2023). Essentials of Communication Sciences & Disorders (3rd ed.). (p.p. 446). Jones & Bartlett Learning. Hannah Thomas",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "18",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
+      "id": "ch18-g009",
+      "term": "Esophageal Phase",
+      "def": "When the bolus passes the upper esophageal valve (UEV), the sphincter closes and the peristaltic squeezing action of the esophageal muscles (like the hand movement used in milking a cow) carries the bolus to the lower esophageal valve (LEV) at the bottom of the esophagus",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "18",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
     },
     {
       "id": "fogle-esophageal_speech",
@@ -2433,6 +2998,24 @@
       "chapter": "7",
       "module": "mod-7",
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Textbook Glossary"
+    },
+    {
+      "id": "ch19-g020",
+      "term": "Eustachian Tubes",
+      "def": "The Eustachian tubes keep the air in the middle ear cavities at atmospheric pressure. Until around 6 months of age, the openings of the Eustachian tubes remain open. However, past that age, the orifices open with oral and pharyngeal movements during things like swallowing, chewing, yawning, and sneezing. Tenishia A. \"Hearing Disorder Lecture Notes, Professor Handy\"",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "19",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
+      "id": "ch2-g042",
+      "term": "Evaluation",
+      "def": "The overall clinical activities designed to understand an individual's communication abilities and disorders before a treatment program is determined and established. (",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "2",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
     },
     {
       "id": "ch2-tx-g007",
@@ -2587,6 +3170,15 @@
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Textbook Glossary"
     },
     {
+      "id": "ch18-g014",
+      "term": "Fiber-Optic Endoscopic Evaluation of Swallowing",
+      "def": "A procedure used to provide visual information about the pharyngeal phase of swallowing. A flexible endoscope is passed through the nasal passageway into the nasopharynx to view the laryngopharynx and the patient is asked to swallow food or liquid that has been dyed green for contrast. Tenishia A. (Essentials of Communication Sciences & Disorders 3rd Edition) Paul Fogle (p.465)",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "18",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
       "id": "fogle-fiber-optic_endoscopic_evaluation_of_swa",
       "term": "Fiber-optic endoscopic evaluation of swallowing (FEES)",
       "def": "A procedure used to provide visual information about the pharyngeal phase of swallowing using a flexible endoscope passed through the nasal passageway into the nasopharynx.",
@@ -2619,12 +3211,30 @@
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Textbook Glossary"
     },
     {
+      "id": "ch20-g019",
+      "term": "Finger Spell",
+      "def": "The use of certain finger and hand shapes to represent letters of the alphabet and spell individual words .Fogle, P. (2023). Essentials of Communication Disorders (3rd ed.). (p.p. #505). Jones & Bartlett Learning - Emma Sarment",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "20",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
       "id": "ch20-g002",
       "term": "Finger spelling",
       "def": "The use of certain finger and hand shapes to represent letters of the alphabet and spell individual words.",
       "chapter": "20",
       "module": "mod-13",
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 20"
+    },
+    {
+      "id": "ch17-g025",
+      "term": "flaccid",
+      "def": "Bulbar palsy, myasthenia gravis, lower motor neuron, audible inspiration, hypernasality, nasal emission, breathiness (Fogle, Page 433) - Emma Sarment",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "17",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
     },
     {
       "id": "ch12-g001",
@@ -2673,6 +3283,15 @@
       "chapter": "15",
       "source": "Ch. 15 PPTX; Kidwell lecture notes",
       "module": "mod-11"
+    },
+    {
+      "id": "ch18-g018",
+      "term": "Food Placement",
+      "def": "Food is normally placed in the midline of the tongue; however, some patients benefit from having food placed on the stronger side of the mouth, especially if it is food that needs to be chewed. Controlling bolus size is also important, usually limiting it to a small amount such as 5 cc (approximately 1 teaspoon)",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "18",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
     },
     {
       "id": "ch7-g021",
@@ -2747,6 +3366,15 @@
       "source": "Lecture 2.2 — Ch. 3, Kidwell, SJDC Comm Dis 1A"
     },
     {
+      "id": "ch4-g065",
+      "term": "Fricatives",
+      "def": "Consonant produced by forcing air through a narrow channel made by placing two articulators together; the lower lip against the upper teeth (labiodental - /f/, /v/), the tongue between the front teeth (linguadental - voiced \"th\" /q/, unvoiced \"th\" /0/), and the tongue against the alveolar ridge (lingualveolar - /s/, /z/). Fogle, P. (2023). Essentials of Communication Disorders (3rd ed.). (p.p 546 glossary). Jones & Bartlett Learning",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "4",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
       "id": "ch3-g049",
       "term": "Frontal Lobe",
       "def": "Essential for cognition, attention, reasoning, judgment, decision-making, and problem-solving. Anterior portion governs personality, character, beliefs, goal-setting, and self-regulation. Posterior portion contains Broca's area for motor speech control.",
@@ -2777,6 +3405,15 @@
       "module": "mod-4",
       "chapter": "5",
       "source": "Ch. 5 slides — Fogle/SJDC / Lecture 4.2, Kidwell"
+    },
+    {
+      "id": "ch13-g037",
+      "term": "Functional Dysphonia",
+      "def": "A voice disorder that may be either hyperfunctional or hyperfunctional and has no organic, physical, or neurological cause but is heard in patients with extreme tension in both the laryngeal and the supralaryngeal regions; the voice may have hypofunctional qualities such as low-pitch and breathiness or hyperfunctional qualities such as high-pitch, stridency, or hoarseness. Fogle, P. (2023). Essentials of Communication Sciences & Disorders (3rd ed.). (p.546). Jones & Bartlett Learning.- Janelle Estrada",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "13",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
     },
     {
       "id": "ch13-g009",
@@ -2835,12 +3472,39 @@
       "source": "Lecture 4.2, Kidwell, SJDC"
     },
     {
+      "id": "ch5-g065",
+      "term": "glide (semivowel)",
+      "def": "A type of consonant that has a gradual (gliding) change in an articulator (lips or tongue) position and a relative long long production of sound; /w/, /j/. (",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "5",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
+      "id": "ch4-g064",
+      "term": "Glides",
+      "def": "a constant(/r/ , /w/ , /j/ , /hw/) produced when the tongue approaches a point of reticulation within the mouth but does not come close enough to attract or constrict the flow of air. The air is allowed to escape through the mouth, but its direction of flow is altered by having it Glide over the tongue or lips before exiting. Fogle, P. (2023). Essentials of Communication Disorders (3rd ed.). (p.p. 77). Jones & Bartlett Learning - Darren",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "4",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
       "id": "slp-ch15-g014",
       "term": "Global Aphasia",
       "def": "The most severe form of aphasia — a combination of fluent and nonfluent features with severe impairments of BOTH receptive and expressive abilities. Large lesion affecting multiple language areas. All modalities are severely impaired: auditory comprehension, verbal expression, reading, and writing. Repetition is poor. The patient may retain some ability for self-expression through facial expressions, intonation, and gestures. Apraxia or dysarthria may also be present. Prognosis is often poor due to the severe extent of the damage. Fluency: −, Comprehension: −, Repetition: −, Naming: −.",
       "chapter": "15",
       "source": "Ch. 15 PPTX; Kidwell lecture notes",
       "module": "mod-11"
+    },
+    {
+      "id": "ch5-g060",
+      "term": "Glottal",
+      "def": "Produced at the level of the vocal folds by having the vocal folds in an open position and briefly exhaling air (/h/) (p 86)",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "5",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
     },
     {
       "id": "ch3-g019",
@@ -2881,6 +3545,15 @@
       "chapter": "3",
       "module": "mod-3",
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Textbook Glossary"
+    },
+    {
+      "id": "ch1-g066",
+      "term": "Habilitate",
+      "def": "The process of developing a skill or ability to be able to function within the environment; the initial learning and development of a new skill. Fogle, P. (2023). Essentials of Communication Disorders (2nd ed.). (p.p. 8). Jones & Bartlett Learning. - Janelle Estrada",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "1",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
     },
     {
       "id": "ch2-g020",
@@ -2931,12 +3604,30 @@
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 19"
     },
     {
+      "id": "ch19-g027",
+      "term": "Hearing Sensitivity Impairments",
+      "def": "\"The most common type of hearing loss; a reduction in the sensitivity of the auditory mechanism that results in sounds needing to be a higher intensity than normal before they can be heard by the listener.\" (Fogle, 2023, p. 467) - Lourdes Medrano",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "19",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
       "id": "fogle-hearing_threshold",
       "term": "Hearing threshold",
       "def": "In audiometry, the level at which a stimulus sound, such as a pure tone, is barely perceptible; usual clinical criteria demand that the level be just high enough for the subject to be aware of the sound at least 50% of the time it is presented.",
       "chapter": "7",
       "module": "mod-7",
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Textbook Glossary"
+    },
+    {
+      "id": "ch7-g028",
+      "term": "heterogeneous",
+      "def": "Consisting of dissimilar or diverse individuals from all ethnic, racial, and cultural backgrounds",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "7",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
     },
     {
       "id": "fogle-hoarseness",
@@ -2969,6 +3660,15 @@
       "module": "mod-2",
       "chapter": "3",
       "source": "CSD Ch3 PP (Fogle 3rd ed.)"
+    },
+    {
+      "id": "ch9-g020",
+      "term": "Hyperactivity",
+      "def": "Seems unable to sit still. Appears restless and fidgety. May bounce from one activity to the next. Often tries to do more than one thing at once. (Fogle, 2023, p. 177) Tabitha Clinton",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "9",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
     },
     {
       "id": "fogle-hyperadduction",
@@ -3067,6 +3767,15 @@
       "source": "Ch. 6 PPTX / Lecture Ch. 6, Kidwell"
     },
     {
+      "id": "ch10-g008",
+      "term": "idiosyncratic language",
+      "def": "An individual's choice of words and use of words in sentences that have their own unique meaning, which may or may not be interpretable to a listener (Fogle, 2023, p. 223). - Alannah Soeur",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "10",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
       "id": "fogle-impairment",
       "term": "Impairment",
       "def": "Any loss or abnormality of psychological, physiological, or anatomical structure or function.",
@@ -3097,6 +3806,15 @@
       "module": "mod-5",
       "chapter": "17",
       "source": "Motor_Speech_Disorders.pdf / Lecture Ch. 17, Kidwell"
+    },
+    {
+      "id": "ch6-g029",
+      "term": "Individual Education Plan (IEP)",
+      "def": "A plan or program developed to ensure that a child with an identified disability or impairment who is attending an elementary or secondary school receives appropriate specialized instruction and related services (Fogle, 2023, p. 129). -Nicole Castano",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "6",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
     },
     {
       "id": "fogle-infarction",
@@ -3140,6 +3858,15 @@
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Textbook Glossary"
     },
     {
+      "id": "ch2-g049",
+      "term": "Inpatient",
+      "def": "A patient who has been admitted to a hospital or other healthcare facility for at least an overnight stay",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "2",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
       "id": "ch2-tx-g004",
       "term": "Inpatient vs. Outpatient",
       "def": "INPATIENT: a patient who is admitted to and resides in a hospital or rehabilitation facility while receiving care. Inpatient SLP services are provided bedside or in clinical rooms within the facility.\nOUTPATIENT: a patient who receives services at a clinic, hospital clinic, or rehabilitation center WITHOUT being admitted to the facility — they come for scheduled appointments and return home afterward. Outpatient settings allow SLPs to treat patients with less severe or more stable communication and swallowing disorders.",
@@ -3162,6 +3889,15 @@
       "chapter": "4",
       "module": "mod-4",
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Textbook Glossary"
+    },
+    {
+      "id": "ch10-g013",
+      "term": "Intellectual Disability (intellectual developmental disability)",
+      "def": "A disability characterized by significant limitations in both intellectual functioning (intelligence) and adaptive behavior, and originates before 18 years of age.Fogle, P. (2023). Essentials of Communication Sciences & Disorders (3rd ed), Jones & Bartlett Learning(p.p. 204) Tabitha Clinton",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "10",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
     },
     {
       "id": "yt1-g009",
@@ -3243,6 +3979,24 @@
       "source": "CSD Ch3 PP (Fogle 3rd ed.)"
     },
     {
+      "id": "ch14-g002",
+      "term": "intraoral air pressure",
+      "def": "\"A buildup of air pressure in the oral cavity that provides the force for the production of oral consonants, particularly plosives, fricatives, and affricates\" (Fogle, 2023, p.p. 346)",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "14",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
+      "id": "ch5-g047",
+      "term": "IPA",
+      "def": "\"Specially devised signs and symbols designed to represent the individual speech and sounds of all languages\" -",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "5",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
       "id": "ch17-g007",
       "term": "Islands of Fluency (AOS)",
       "def": "Brief periods of fluent, error-free speech that occur amid otherwise effortful, struggling communication in Apraxia of Speech. Stereotypic phrases (well-rehearsed expressions) may be produced correctly even in severe AOS. For example, a person with severe/profound AOS may be able to say 'hello' or 'I love you' perfectly but cannot produce volitional speech on command.",
@@ -3275,12 +4029,39 @@
       "source": "Lecture 3.2 — Ch. 4, Kidwell, SJDC Comm Dis 1A"
     },
     {
+      "id": "ch1-g078",
+      "term": "Key Term",
+      "def": "Intelligibility: A perceptual judgment of how much of a speaker’s speech a listener understands. Soriano, Jennifer U., et al. Characterizing the Relationship between the Intelligibility in Context Scale and Transcription Intelligibility in Typically Developing English-Speaking Children between Ages 2;6 and 9;11. American Journal of Speech-Language Pathology, vol. 34, no.5 pp.2877-2892 Asha.org",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "1",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
       "id": "ch9-g019",
       "term": "Kidwell's Analogy: APD and Second Language Processing",
       "def": "Kidwell explains APD using a second-language analogy: 'I cannot listen to Spanish radio while talking to someone and then report what was just said. I require careful listening, context cues, a slower rate of speech, and a quiet background to understand Spanish.' A person with APD experiences the same difficulty — but in their PRIMARY language. The ear functions correctly; the problem is that the brain cannot make sense of the incoming signals in difficult or competing listening conditions.",
       "module": "mod-7",
       "chapter": "9",
       "source": "Lecture Ch. 9, Kidwell, SJDC"
+    },
+    {
+      "id": "ch5-g055",
+      "term": "Labiodental",
+      "def": "Produced with the upper incisor teeth contacting the lower lip (/f,v/) (p 86)",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "5",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
+      "id": "ch5-g066",
+      "term": "labiodental fricatives",
+      "def": "The /f/ and /v/ sounds, where the upper front teeth are in contact with the lower lip. (",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "5",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
     },
     {
       "id": "ch1-g005",
@@ -3321,6 +4102,15 @@
       "module": "mod-3",
       "chapter": "4",
       "source": "Lecture 3.2 — Ch. 4, Kidwell, SJDC Comm Dis 1A"
+    },
+    {
+      "id": "ch1-g082",
+      "term": "Language difference",
+      "def": "Are variations in speech and language production that are the results of a person’s cultural, linguistic, and social environments Essentials of Communication Disorders (2nd ed.). (p.p.11). Jones & Bartlett Learning.]",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "1",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
     },
     {
       "id": "ch7-g003",
@@ -3427,6 +4217,15 @@
       "source": "Lecture 2.2 — Ch. 3, Kidwell, SJDC Comm Dis 1A"
     },
     {
+      "id": "ch7-g035",
+      "term": "Learning Disabilities (LD)",
+      "def": "\"a disorder in one or more of basic psychological processes involved in understanding or using language, spoken or written, that may manifest itself as difficulty listening, speaking, reading, writing, spelling, mathematical calculations, reasoning, and problem solving.\" (pg. 157) Fogle 2023. Essentials of Communication Sciences & Disorders 3rd ed. Jones & Bartlett Learning",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "7",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
       "id": "ch7-g007",
       "term": "Learning Disability (LD)",
       "def": "A disorder in one or more of the basic psychological processes involved in understanding or using language, spoken or written, that may manifest as difficulty with: listening, speaking, reading, writing, spelling, mathematical computations, reasoning, and/or problem solving. NOT diagnosed until school age (when the child has had the opportunity to attempt academic tasks). Often has roots in an underlying language disorder. Approximately 15% of children with LDs also have difficulty with gross and fine motor skills and coordination.",
@@ -3451,12 +4250,30 @@
       "source": "Lecture 2.2 — Ch. 3, Kidwell, SJDC Comm Dis 1A"
     },
     {
+      "id": "ch13-g031",
+      "term": "Lesions",
+      "def": "A wound, injury, or area of pathological change in tissue.Fogle, P. (2023). Essentials of Communication Sciences & Disorders (3rd ed.). (p.p. 317) Jones & Bartlett Learning",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "13",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
       "id": "ch4-g014",
       "term": "Lexicon",
       "def": "A person's vocabulary — the total set of words known and used. Between 12–18 months, toddlers develop an expressive vocabulary (lexicon) of approximately 90 words. By 2 years: ~300 words. Vocabulary continues to grow throughout life.",
       "module": "mod-3",
       "chapter": "4",
       "source": "Ch. 4 PDF — Prof. Handy, SJDC"
+    },
+    {
+      "id": "ch15-g024",
+      "term": "Life Participation Approach to Aphasia",
+      "def": "Emotional and Social Effects of Aphasia:",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "15",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
     },
     {
       "id": "slp-ch15-g021",
@@ -3473,6 +4290,24 @@
       "module": "mod-5",
       "chapter": "6",
       "source": "Ch. 6 PPTX — Fogle/SJDC"
+    },
+    {
+      "id": "ch5-g056",
+      "term": "Linguadental",
+      "def": "Produced when the tongue tip is placed between the upper and lower incisor teeth (th) (p 86)",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "5",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
+      "id": "ch5-g067",
+      "term": "linguadental (interdental)",
+      "def": "Voiced and unvoiced /th/ sounds with the tongue tip placed lightly between the top and bottom front teeth",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "5",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
     },
     {
       "id": "ch1-g011",
@@ -3499,6 +4334,33 @@
       "source": "Lecture 2.2 — Ch. 3, Kidwell, SJDC Comm Dis 1A"
     },
     {
+      "id": "ch1-g059",
+      "term": "Literacy",
+      "def": "The ability to communicate through written language,both reading and writing. Fogle, P. (2023). Essentials of Communication Sciences & Disorders (3rd ed), Jones & Bartlette Learning (pg. 7) - Tallis L",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "1",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
+      "id": "ch15-g018",
+      "term": "Literal (phonemic) paraphasia",
+      "def": "Sounds and syllables that are correctly articulated but may be extraneous, transposed, or substituted, usually with the preservation of the vowels and intended number of syllables in a word. (Fogle Glossary) -Benjamin Bartle",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "15",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
+      "id": "ch4-g051",
+      "term": "Living Language",
+      "def": "A language that people still speak and use in their ordinary lives. (A dead language is no longer spoken in everyday use, such as Latin)-Tabitha Clinton",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "4",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
       "id": "fogle-loss_of_consciousness_loc",
       "term": "Loss of consciousness (LOC)",
       "def": "Impaired responsiveness, usually caused by diffuse brain dysfunction or damage to the brainstem and the reticular activating system; duration is often used as a measure of traumatic brain injury severity.",
@@ -3515,12 +4377,30 @@
       "source": "Lecture 2.2 — Ch. 3, Kidwell, SJDC Comm Dis 1A"
     },
     {
+      "id": "ch5-g072",
+      "term": "Low Birth Weight",
+      "def": "“An infant whose weight at birth is less than 5.5 pounds (2,500 grams), regardless of gestational age.”",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "5",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
       "id": "ch6-g020",
       "term": "LSVT LOUD (Lee Silverman Voice Treatment)",
       "def": "A research-based voice treatment approach used in dysarthria therapy that focuses on increasing vocal loudness as the primary target. Based on the principle that increasing loudness through intensive vocal effort improves overall speech system function. Originally developed for Parkinson's disease but applicable to other dysarthria populations.",
       "module": "mod-5",
       "chapter": "6",
       "source": "Ch. 6 PPTX — Fogle/SJDC"
+    },
+    {
+      "id": "ch16-g010",
+      "term": "Magnetic Resonance Imaging (MRI)",
+      "def": "An imaging study that does not expose patients to radiation and often provides images with sharper detail than those from computerized tomography (CT) scans. Medical imaging based on the resonance of atomic nuclei in a strong magnetic field. Fogle, P. (2023). Essentials of Communication Sciences & Disorders (3rd ed.). (p.p. 404). Jones & Bartlett Learning. - Emma Sarment",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "16",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
     },
     {
       "id": "fogle-malocclusion",
@@ -3537,6 +4417,15 @@
       "module": "mod-2",
       "chapter": "3",
       "source": "Lecture 2.2 — Ch. 3, Kidwell, SJDC Comm Dis 1A"
+    },
+    {
+      "id": "ch5-g061",
+      "term": "Manner",
+      "def": "The way the in which the air stream is modified as the result of the interaction of the articulators; direction of the airflow (e.g, oral or nasal sounds), or the degree of narrowing of the vocal tract by the articulators in the various places",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "5",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
     },
     {
       "id": "ch5-g014",
@@ -3619,6 +4508,33 @@
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Textbook Glossary"
     },
     {
+      "id": "ch19-g031",
+      "term": "Meniere’s Disease",
+      "def": "\"A chronic disease of the inner ear characterized by recurrent episodes of vertigo, tinnitus, and sensorineural hearing loss that may be bilateral\" (Fogle, 2023, p.p. 477)",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "19",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
+      "id": "ch16-g011",
+      "term": "Mental Status Examination",
+      "def": "A structured interview and observations conducted by a psychologist or neuropsychologist of a patient's orientation, attention, concentration, memory, language comprehension and expression, visual-spatial skills, abstraction abilities, general cognitive functioning, and insight into problems to provide direction for cognitive-linguistic rehabilitation that is typically provided by a speech-language pathologist. Fogle, P. (2023). Essentials of Communication Sciences & Disorders (3rd ed.). (p.550). Jones & Bartlett Learning.- Janelle Estrada",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "16",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
+      "id": "ch7-g034",
+      "term": "Metalinguistic",
+      "def": "The ability to think about and talk about language",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "7",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
       "id": "ch7-g014",
       "term": "Metalinguistic Problems in SLI",
       "def": "Metalinguistics = awareness of language as an object/tool — 'talking about language.' Problems include difficulty with: multiple meanings of words, making inferences, figurative language, sequencing, understanding similarities/differences, distinguishing literal vs. figurative meanings, and working with sentence types (declarative, interrogative, imperative, exclamatory, compound/complex). Children with SLI and LLD are particularly challenged in this area as school demands for metalinguistic skills increase with grade level.",
@@ -3651,12 +4567,39 @@
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Textbook Glossary"
     },
     {
+      "id": "ch6-g039",
+      "term": "mixed",
+      "def": "Symptoms from more than one of the common types of cerebral palsy. (p.p., 123) - Benjamin Bartle",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "6",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
       "id": "ch1-g041",
       "term": "Mixed Hearing Loss",
       "def": "A hearing loss that involves both conductive and sensorineural components simultaneously.",
       "module": "mod-1",
       "chapter": "1",
       "source": "Lecture 1.2.1 — Chapter 1, Kidwell, SJDC Comm Dis 1A"
+    },
+    {
+      "id": "ch1-g048",
+      "term": "Modalities",
+      "def": "Any sensory avenue through which information may be received, that is auditory, visual, tactile, taste, and olfactory",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "1",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
+      "id": "ch18-g013",
+      "term": "Modified Barium Swallow Study",
+      "def": "A dynamic (moving) imaging radiographic (X-ray) procedure focusing on the mouth, pharynx, larynx, and cervical esophagus used to examine the process of swallowing; a video recording of real-time movement of a bolus from entering the mouth to entering the stomach",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "18",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
     },
     {
       "id": "fogle-modified_barium_swallow_study_mbss",
@@ -3746,6 +4689,15 @@
       "source": "Lecture Ch. 7, Kidwell, SJDC"
     },
     {
+      "id": "ch4-g050",
+      "term": "Multiculture",
+      "def": "\"a society characterized by multiple cultures, languages, traditions, religions, and values...\" Fogle, P. (2023). Essentials of Communication Sciences & Disorders (3rd ed.). (pg. 70). Jones & Bartlett Learning. - Kristopher Hayes",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "4",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
       "id": "ch17-g016",
       "term": "Multiple Sclerosis (MS) and Dysarthria",
       "def": "A progressive autoimmune disease that demyelinates the CNS — causes variable neurological symptoms depending on lesion location. May cause mixed or ataxic dysarthria among other symptoms. Speech may fluctuate with relapse/remission cycles. One of the four neuromuscular disorders commonly associated with dysarthria.",
@@ -3768,6 +4720,24 @@
       "module": "mod-10",
       "chapter": "13",
       "source": "Lecture Ch. 13, Kidwell / Ch. 13 PPTX"
+    },
+    {
+      "id": "ch10-g007",
+      "term": "mutism",
+      "def": "\"The inability to speak; usually used in reference to voice disorders where an individual may use selective or elective mutism (i.e., unconsiously or consciously not able to use voice or speak.\" (Fogle, 2023, p. 223) - Lourdes Medrano",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "10",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
+      "id": "ch17-g028",
+      "term": "Myasthenia Gravis",
+      "def": "\"A neuromuscular disorder more commonly seen in women than men; characterized by chronic fatigue and muscle weakness, especially in the facial and articulatory muscles, resulting in dysarthria\" (Fogle, 2023, p.p. 434)",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "17",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
     },
     {
       "id": "ch17-g017",
@@ -3825,6 +4795,15 @@
       "source": "CSD Ch3 PP (Fogle 3rd ed.)"
     },
     {
+      "id": "ch4-g063",
+      "term": "Nasals",
+      "def": "“Approximately 90% of the sounds produced by infants between 11 and 12 months of age are nasals (/m/n/),” Fogle, P. (2023). Essentials of Communication Disorders (3rd ed.). (p.p. 77). Jones & Bartlett Learning - Olivia Polk",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "4",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
       "id": "fogle-nasopharyngoscopy",
       "term": "Nasopharyngoscopy",
       "def": "A minimally invasive procedure commonly used by SLPs for evaluation of velopharyngeal dysfunction that allows visual observation and analysis of the velopharyngeal mechanism during speech.",
@@ -3841,12 +4820,39 @@
       "module": "mod-13"
     },
     {
+      "id": "ch4-g047",
+      "term": "Nativist Theory",
+      "def": "A perspective of language development that emphasizes the acquisition of language as an innate, physiologically Determined and genetically transmitted phenomenon. Fogle. (2023). Essentials of Communication Sciences &Disorders (3rd ed.). (p.p. 59). Jones and Barlett Learning. - Calista Aguallo",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "4",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
       "id": "ch4-g026",
       "term": "Nativist Theory (Language Development)",
       "def": "Perspective that language acquisition is innate, physiologically determined, and genetically transmitted. Newborns are 'prewired' for language — they will acquire it unless there are physical or mental limitations. Language is universal and unique to humans. Clinical application: target age-appropriate language structures not acquired naturally. Limitation: does not fully account for environmental influence.",
       "module": "mod-3",
       "chapter": "4",
       "source": "Lecture 3.2 — Ch. 4, Kidwell / Ch. 4 PDF — Prof. Handy"
+    },
+    {
+      "id": "ch4-g068",
+      "term": "Natural Process",
+      "def": "The phonological processes that are common in speech development of children across languages. Fogle, P. (2023). Essentials of Communication Sciences & Disorders (3rd ed.). (p.p 551 glossary). Jones & Bartlett Learning - Janelle Estrada",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "4",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
+      "id": "ch7-g046",
+      "term": "Naturalistic Approach",
+      "def": "\"A therapy approach that creates opportunities for a child to use targeted language structures in the child’s natural environments – home, school, and community.\"",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "7",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
     },
     {
       "id": "fogle-necrosis",
@@ -3863,6 +4869,15 @@
       "chapter": "11",
       "module": "mod-11",
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Textbook Glossary"
+    },
+    {
+      "id": "ch4-g059",
+      "term": "Neonate",
+      "def": "An infant less than 4 weeks old. Fogle, P. (2023). Essentials of Communication Sciences & Disorders (3rd ed.). (p.p. 65). Jones & Bartlett Learning. - Tyra Ford",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "4",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
     },
     {
       "id": "slp-ch15-g004",
@@ -3887,6 +4902,15 @@
       "module": "mod-2",
       "chapter": "3",
       "source": "Lecture 2.2 — Ch. 3, Kidwell, SJDC Comm Dis 1A"
+    },
+    {
+      "id": "ch15-g011",
+      "term": "Neuroplasticity",
+      "def": "The brains' ability to reorganize itself throughout life by forming new neural connections(pathways) through synapses, which allows for new learning and for neurons to compensate for injury and disease, and to adjust their activities in response to new situations or changes in their environment. Fogle, P. (2023). Essentials of Communication Sciences & Disorders (3rd ed.). (p.p. 374). Jones & Bartlett Learning. - Emma Sarment",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "15",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
     },
     {
       "id": "fogle-noise-induced_hearing_loss",
@@ -3937,6 +4961,24 @@
       "source": "Ch. 21 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
     },
     {
+      "id": "ch7-g040",
+      "term": "normative data",
+      "def": "\"Data that characterize what is usual in a defined population and that describe rather than explain a particular occurrence; an average of performance of a sample drawn randomly from a population\" (Fogle, 2023, p.p. 163)",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "7",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
+      "id": "ch18-g019",
+      "term": "NPO (Nothing by Mouth)",
+      "def": "A patient care instruction advising that a patient is prohibited from orally ingesting food, beverage, or medicine; patients must receive nutrition through enteral feeding (Fogle, 2023, p. 452). - Alannah Soeur",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "18",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
       "id": "slp-ch18-g012",
       "term": "NPO (Nothing by Mouth) and Enteral Feeding",
       "def": "NPO (nil per os): A patient care instruction advising that a patient is PROHIBITED from orally ingesting food, beverage, or medicine; patients must receive nutrition through enteral feeding. Used when dysphagia is so severe that oral intake cannot be managed safely. ENTERAL FEEDING: The delivery of hydration and nutrition into the gastrointestinal (GI) tract by way of tube feedings — through the nose (NASOGASTRIC TUBE / NG-tube) or through the stomach (GASTROSTOMY TUBE / G-tube). May be temporary or permanent. Common nutrition supplement: Ensure (Pediasure for children) — contains protein, carbohydrates, fat, vitamins, and minerals. Usually after swallowing therapy, patients are able to eat orally again.",
@@ -3953,6 +4995,15 @@
       "source": "Lecture 1.2.2 — Chapter 2: The Professionals, Kidwell, SJDC Comm Dis 1A"
     },
     {
+      "id": "ch10-g002",
+      "term": "obsessive-compulsive disorder",
+      "def": "\"An anxiety disorder characterized by repetitive thoughts, behaviors, and rituals.\"Fogle, P. (2023). Essentials of Communication Sciences & Disorders (3rd ed.). (p. 220). Jones & Bartlett Learning - Tori Roche",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "10",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
       "id": "ch3-g052",
       "term": "Occipital Lobe",
       "def": "Located at the posterior (back) of the brain. Where visual images are received and processed. Damage can cause visual field deficits or cortical blindness.",
@@ -3961,12 +5012,30 @@
       "source": "Lecture 2.2 — Ch. 3, Kidwell, SJDC Comm Dis 1A"
     },
     {
+      "id": "ch5-g078",
+      "term": "Occlusion",
+      "def": "\"In a dental context, the contact between the teeth and the relationship of the maxillary (upper) and mandibular (lower) dental arches during rest and chewing\" (Fogle, 2023, p.p. 109)",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "5",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
       "id": "fogle-occlusive_ischemic_stroke",
       "term": "Occlusive (ischemic) stroke",
       "def": "A partial or complete blockage (occlusion) of a cerebral artery, causing decreased blood supply to brain tissue.",
       "chapter": "11",
       "module": "mod-11",
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Textbook Glossary"
+    },
+    {
+      "id": "ch5-g074",
+      "term": "Omission",
+      "def": "The absence of a speech sound where one should occur in a word (e.g., k-on for crayon)",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "5",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
     },
     {
       "id": "ch5-g019",
@@ -3993,6 +5062,15 @@
       "module": "mod-12"
     },
     {
+      "id": "ch21-g041",
+      "term": "Open-ended Questions",
+      "def": "■ Open-ended questions do not elicit a specific response; instead, they allow for",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "21",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
       "id": "ch21-g021",
       "term": "Open-Ended Questions (Counseling)",
       "def": "Counseling questions that invite free, detailed responses from the client. Best used for gathering information about experiences, feelings, and perspectives (e.g., 'Can you tell me about how your communication affects you at home?'). They contrast with closed questions, which elicit brief, specific answers.",
@@ -4002,12 +5080,39 @@
       "source": "Fogle (2023) Ch. 21; Kidwell, S. M.S. CCC-SLP, SJDC Lecture 15.2"
     },
     {
+      "id": "ch4-g043",
+      "term": "Operant (instrumental) conditioning",
+      "def": "A learning model for changing behavior in which a desired behavior is reinforced immediately after it spontaneously occurs. Fogle. (2023). Essentials of Communication Sciences &Disorders (3rd ed.). (p.p. 68). Jones and Barlett Learning",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "4",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
       "id": "ch4-g029",
       "term": "Operant Conditioning",
       "def": "A learning model (Skinner's behavioral theory) in which a behavior is immediately reinforced after it occurs, increasing the likelihood it will recur. In language therapy, used as stimulus-response: a child approximates a word, the SLP reinforces it and shapes it toward the correct form.",
       "module": "mod-3",
       "chapter": "4",
       "source": "Lecture 3.2 — Ch. 4, Kidwell, SJDC Comm Dis 1A"
+    },
+    {
+      "id": "ch7-g045",
+      "term": "Operationally Defined Goals",
+      "def": "\"A specific behavior that is observable (can be heard or seen) and measurable\" (Fogle, 2023, p.p. 168)",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "7",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
+      "id": "ch6-g025",
+      "term": "oral apraxia",
+      "def": "Impaired control of articulatory and or facial muscles without impaired automatic and reflex functions. Individuals with this condition often have difficulty producing the correct movements of the face or lips. (Fogle, p.p. 127) -Alexa H",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "6",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
     },
     {
       "id": "ch17-g008",
@@ -4034,6 +5139,42 @@
       "source": "Ch. 6 PPTX / Lecture Ch. 6, Kidwell"
     },
     {
+      "id": "ch8-g007",
+      "term": "Oral Language",
+      "def": "“Grammatical, lexical, and narrative abilities,” i.e., Fogle, P. (2023). Essentials of Communication Disorders (3rd ed.). (p.p. #183). Jones & Bartlett Learning.- Olivia Polk",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "8",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
+      "id": "ch18-g007",
+      "term": "Oral Phase",
+      "def": "The oral phase begins when chewing stops and the tongue tip elevates to touch the alveolar ridge. The food is on top of the tongue and the tongue quickly sweeps back, pulling the food to the back of the mouth toward the pharynx. The soft palate moves up to make contact with the posterior pharyngeal wall to prevent food from accidentally entering the nasal passage",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "18",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
+      "id": "ch18-g010",
+      "term": "Oral Phase Disorders",
+      "def": "Involves the movement of the bolus to the posterior oral cavity on its way to the pharynx",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "18",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
+      "id": "ch18-g006",
+      "term": "Oral Preparatory Phase",
+      "def": "All of a person's senses come into play during the oral preparatory phase-that is, vision, hearing, touch, smell and taste. The oral preparatory phase may be considered to begin with ta person's cognitive awareness that food or drink is available to be consumed. Fogle, P. (2023). Essentials of Communication Sciences & Disorders (3rd ed), Jones & Bartlett Learning (p.p. 393) Tabitha Clinton",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "18",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
       "id": "ch20-g008",
       "term": "Oralism",
       "def": "A philosophy in the education of the deaf that maintains language should be oral — that is, from the mouth — and that sign language and teachers who are deaf should be excluded from the classroom.",
@@ -4048,6 +5189,24 @@
       "module": "mod-4",
       "chapter": "5",
       "source": "Ch. 5 slides — Fogle/SJDC / Lecture 4.2, Kidwell"
+    },
+    {
+      "id": "ch16-g008",
+      "term": "Orientation",
+      "def": "Orientation is typically divided into four areas: person, place, time, and person/ situation (i.e., oriented x 4). This sequence roughly represents increasingly complex cognitive processing. Patients with TBIs often are disoriented to person (who the person is and what the person is doing), place (where the person is and what the surrounding environment is, including the room, building, city, state, and country), time (month, season, and year, and approximate time, day, and date), and purpose Fogle, P. (2023). Essentials of Communication Disorders (3rd ed.). (p.p. #403). Jones & Bartlett Learning - Tallis L",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "16",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
+      "id": "ch8-g009",
+      "term": "orthography",
+      "def": "The learning of printing and writing and the study of spelling and how the letters combine to represent sounds and form words",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "8",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
     },
     {
       "id": "fogle-ossicular_chain",
@@ -4106,6 +5265,24 @@
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 19"
     },
     {
+      "id": "ch19-g015",
+      "term": "Outer Ear",
+      "def": "collects and resonates sound, assists in localizing the direction from which the sound is coming and helps protect the middle ear from damage. (Fogle 2023 p. 461) -Alexa Henson",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "19",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
+      "id": "ch2-g050",
+      "term": "Outpatient",
+      "def": "A patient who is not hospitalized but is being treated in an office, clinic, or medical facility",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "2",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
       "id": "ch3-g004",
       "term": "Overlaid Function",
       "def": "The adapted, secondary use of a body structure for communication. Humans have learned to use structures designed for biological survival (breathing, eating) and adapt them for speech. Example: lips biologically hold food in → overlaid function is producing speech sounds.",
@@ -4130,6 +5307,15 @@
       "source": "Fluency_Disorders.pdf / Lecture Ch. 12, Kidwell"
     },
     {
+      "id": "ch5-g058",
+      "term": "Palatal",
+      "def": "Produced when the blade or body of the tongue is near the hard palate (sh, ch, /j/, r) (p 86)",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "5",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
       "id": "fogle-palatal_lift",
       "term": "Palatal lift",
       "def": "A prosthetic device that can be used to raise the soft palate for speech if the soft palate is long enough to achieve velopharyngeal closure but does not move well, often because of central or peripheral neurological impairment.",
@@ -4144,6 +5330,15 @@
       "chapter": "10",
       "module": "mod-10",
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Textbook Glossary"
+    },
+    {
+      "id": "ch13-g040",
+      "term": "Papillomas",
+      "def": "Wart-like growths on the vocal cords ( Fogle, 2023,p. ) - Calista Aguallo",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "13",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
     },
     {
       "id": "ch13-g012",
@@ -4194,6 +5389,15 @@
       "source": "Lecture 3.2 — Ch. 4, Kidwell, SJDC Comm Dis 1A"
     },
     {
+      "id": "ch6-g034",
+      "term": "paresis",
+      "def": "Weakness of a muscle group or limb that can range from mild to severe, but is not complete paralysis. Fogle, P. (2023). Essentials of Communication Sciences & Disorders (3rd ed.). (p.p. 133). Jones & Bartlett Learning. - Beth Doupe",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "6",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
       "id": "ch6-g013",
       "term": "Paresis vs. Paralysis",
       "def": "Paresis: partial weakness or reduced strength of a muscle or group of muscles. Paralysis: complete loss of voluntary movement. Both can affect the speech muscles in dysarthria. Dysarthria may involve paresis, paralysis, OR incoordination of the muscles of respiration, phonation, resonation, and articulation.",
@@ -4210,12 +5414,30 @@
       "source": "Lecture 2.2 — Ch. 3, Kidwell, SJDC Comm Dis 1A"
     },
     {
+      "id": "ch17-g026",
+      "term": "Parkinson's Disease",
+      "def": "“Is caused by a gradual deterioration of certain nerve centers in the brain that are important in the delicate balance of chemicals needed for transmission of nerve impulses for control of movement of the body, including the articulators. An especially common symptom of Parkinson’s disease is tremors at rest- for example, tremors of the hands or head when the person does not consciously move them,” Fogle, P. (2023). Essentials of Communication Sciences & Disorders (3rd ed.). (p.p. 433). Jones & Bartlett Learning.- Olivia Polk",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "17",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
       "id": "ch17-g014",
       "term": "Parkinson's Disease (PD) and Dysarthria",
       "def": "A progressive neurodegenerative disease of the basal ganglia causing hypokinetic dysarthria. Associated speech characteristics: reduced vocal loudness (hypophonia), monopitch (reduced pitch variation), monoloudness, imprecise consonants, rapid rate with short rushes of speech (festination), and reduced intelligibility. LSVT LOUD (Lee Silverman Voice Treatment) is the most evidence-based treatment for PD-related dysarthria. PD is one of the most commonly associated neuromuscular disorders with dysarthria.",
       "module": "mod-5",
       "chapter": "17",
       "source": "Lecture Ch. 17, Kidwell / Ch. 17 PPTX"
+    },
+    {
+      "id": "ch21-g034",
+      "term": "Patience",
+      "def": "The ability and willingness to persevere during the often long, slow road of speech and language development or rehabilitation of our clients and patients. A big challenge for many of our clients is the slow process of change and the impatience that comes from it. People change in 3 ways: Evolution- the long slow process of development and improvement (ex. growing from an infant to an adult, your education evolution, etc.), Revolution- an event that suddenly and dramatically changes a person (ex. getting married, having kids), and Resolution- when a person makes a conscious and determined decision about what he or she needs to do (ex. stop using drugs, get a job, go back to school)",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "21",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
     },
     {
       "id": "ch3-g042",
@@ -4232,6 +5454,15 @@
       "chapter": "12",
       "module": "mod-12",
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Textbook Glossary"
+    },
+    {
+      "id": "ch2-g036",
+      "term": "Person First Language",
+      "def": "Problems individuals experience do not define who they are. People are not their problems; problems are something people experience. Therefore, as clinicians and researchers, we follow the \"person-first\" convention as closely as possible; we refer to '\"a boy with an articulation disorder,\" \"a girl with a hearing impairment,\" \"a client/patient with a voice disorder,\" and so on. Avoid statement such as \"He's an articulation client,\" \"She's hearing impaired\", because such wording implies that the person's problem is his or her identity",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "2",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
     },
     {
       "id": "ch21-g003",
@@ -4273,6 +5504,15 @@
       "module": "mod-13",
       "chapter": "21",
       "source": "Ch. 21 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
+    },
+    {
+      "id": "ch18-g008",
+      "term": "Pharyngeal Phase",
+      "def": "“Passage of food through the pharynx and into the esophagus inviting during the pharyngeal phase of swallowing. It has four physiological activities, all of which occur in a second.” Fogle, P. (2023). Essentials of Communication Sciences & Disorders (3rd ed), Jones & Bartlett Learning (p.p. 445)- Olivia Polk",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "18",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
     },
     {
       "id": "fogle-pharynx",
@@ -4322,6 +5562,24 @@
       "source": "Ch. 5 slides — Fogle/SJDC"
     },
     {
+      "id": "ch8-g006",
+      "term": "phonics method",
+      "def": "A method for teaching reading and writing of the English language by developing learners' phonemic awareness--the ability to hear, identify, and manipulate phonemes--in order to teach the correspondence between these sounds and the spelling patterns (graphemes) that represent them. Fogle, P. (2023). Essentials of Communication Sciences & Disorders (3rd ed.). (p.553). Jones & Bartlett Learning.- Janelle Estrada",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "8",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
+      "id": "ch1-g076",
+      "term": "Phonological",
+      "def": "Present when errors are predictable and rule-based (e.g., fronting, stopping, and final consonant deletion) that affect more than one sound and form phoneme patterns in which a child simplifies individual sounds or sound combinations (i.e., the child unintentionally trying to make the sounds easier for himself to say). Essentials of Communication Disorders (2nd ed.). (p.p.9). Jones & Bartlett Learning.]",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "1",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
       "id": "ch4-g038",
       "term": "Phonological (Natural) Processes",
       "def": "Systematic, rule-based sound simplification patterns children use during speech development. Include: syllable structure processes (e.g., reducing consonant clusters), substitution processes (replacing harder sounds with easier ones), and assimilatory processes (sounds influenced by neighboring sounds). Most resolve by age 5.",
@@ -4354,6 +5612,15 @@
       "source": "Quiz answer key + Lecture 4.2, Kidwell / Ch. 5 slides"
     },
     {
+      "id": "ch4-g067",
+      "term": "Phonological Processes",
+      "def": "The simplification of sounds that are difficult for children to produce in an adult manner. Phonological processes help explain errors of substitution, omission, and addition that children may use to simplify the production of difficult sounds. Fogle, P. (2023). Essentials of Communication Sciences & Disorders (3rd ed.). (p.p 553 glossary). Jones & Bartlett Learning - Janelle Estrada",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "4",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
       "id": "ch5-g032",
       "term": "Phonological Processes (Common in Typical Development)",
       "def": "Rule-based sound simplification patterns that are normal in young children but become disordered when they persist beyond expected ages. Common processes from Table 5-3:\n• Context-sensitive voicing: voiceless sound replaced by voiced (pig→big)\n• Final-consonant devoicing: voiced final consonant replaced by voiceless (bag→bat)\n• Final-consonant deletion: final consonant omitted (home→hoe)\n• Velar fronting: velar consonant /k,g/ replaced by alveolar /t,d/ (key→tea)\n• Palatal fronting: /sh,zh/ replaced by alveolar sounds\n• Consonant harmony: whole word influenced by single sound (dog→gog)\n• Weak-syllable deletion: unstressed syllables omitted (telephone→teffone)\n• Cluster reduction: part of consonant cluster omitted (spider→pider, spoon→poon)\n• Gliding of liquids: /r,l/ replaced by /w,j/ (red→wed)\n• Stopping: fricative/affricate replaced by stop (funny→punny)",
@@ -4368,6 +5635,15 @@
       "module": "mod-1",
       "chapter": "1",
       "source": "Lecture 1.2.1 — Chapter 1, Kidwell, SJDC Comm Dis 1A"
+    },
+    {
+      "id": "ch10-g005",
+      "term": "phonophobia",
+      "def": "Fear of loud sounds, particular sounds or frequencies, particular voices, or a fear of one's own voice. It is a very rare phobia that is often a symptom of hyperacusis. (Fogle, P.222) ~ Emma Sarment",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "10",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
     },
     {
       "id": "ch3-g002",
@@ -4402,6 +5678,15 @@
       "source": "Ch. 5 slides — Fogle/SJDC"
     },
     {
+      "id": "ch4-g069",
+      "term": "Plosive",
+      "def": "“Stop consonants produced when impounded air pressure in the portion of the vocal tract behind the constriction is released through the oral cavity; bilabial plosives (p) and (b). lingua-alveolar plosives /t/ and /d/,” Fogle, P. (2023). Essentials of Communication Sciences & Disorders (3rd ed.). (p. 79). Jones & Bartlett Learning.- Olivia Polk",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "4",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
       "id": "fogle-polypoid_degeneration_reinke's_edema",
       "term": "Polypoid degeneration (Reinke's edema)",
       "def": "Swelling of the vocal folds as a result of fluid collection (edema) in the superficial layers of the epithelial tissue.",
@@ -4416,6 +5701,15 @@
       "chapter": "12",
       "module": "mod-12",
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Textbook Glossary"
+    },
+    {
+      "id": "ch21-g033",
+      "term": "Positive Self-Esteem",
+      "def": "\"Positive Self-Esteem tempered with humility, can help clinicians cope with the trials and tribulations of therapy. Also, when clinicians feel positively about themselves, they tend to see the positive attributes of other people. Conversely, when clinicians feels negatively and insecure about themselves, they are more likely to become defensive when suggestions are made by supervisors and employers about how to improve their work.\" {Fogle, P. 524. CH 21 (2023). Essentials of Communication Sciences & Disorders (3rd ed), Jones & Bartlett Learning}= Gomez",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "21",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
     },
     {
       "id": "fogle-post-concussion_syndrome_pcs",
@@ -4456,6 +5750,15 @@
       "module": "mod-2",
       "chapter": "3",
       "source": "CSD Ch3 PP (Fogle 3rd ed.)"
+    },
+    {
+      "id": "ch4-g055",
+      "term": "Prelinguistic (preverbal) vocalizations",
+      "def": "The sounds produced by an infant before the production of true words and language (e.g., crying, cooing, babbling, and echolalia). Fogle, P. (2023). Essentials of Communication Sciences & Disorders (3rd ed.). (p.p. 554 glossary). Jones & Bartlett Learning.. -Janelle Estrada",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "4",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
     },
     {
       "id": "ch4-g003",
@@ -4506,6 +5809,24 @@
       "source": "Lecture 1.2.1 — Chapter 1, Kidwell, SJDC Comm Dis 1A"
     },
     {
+      "id": "ch8-g001",
+      "term": "Prevention",
+      "def": "\"to prevent academic failure in schools in whatever form...\" Fogle, P. (2023). Essentials of Communication Sciences & Disorders (3rd ed), Jones & Bartlett Learning (pg. 181) - Kristopher Hayes",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "8",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
+      "id": "ch19-g025",
+      "term": "Primary auditory cortex",
+      "def": "The portion of the posterior superior region of both temporal lobes (Heschl's gyrus) that receives auditory signals from the ears and processes the signals as environmental sounds, human speech sounds, and human nonspeech sounds (cough, burbs, etc). Fogle, P. (2023). Essentials of Communication Sciences & Disorders (3rd ed.). (p. 417). Jones & Bartlett Learning] - Tyra Ford",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "19",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
       "id": "ch3s-g018",
       "term": "Primary Auditory Cortex (Heschl's Gyrus)",
       "def": "Located in the temporal lobe. Responsible for auditory processing — perceives human speech sounds and environmental sounds. Auditory input is then passed to Wernicke's area for language interpretation.",
@@ -4552,6 +5873,15 @@
       "module": "mod-5",
       "chapter": "6",
       "source": "Ch. 6 PPTX — Fogle/SJDC"
+    },
+    {
+      "id": "ch6-g030",
+      "term": "proprioception",
+      "def": "(proprioceptive) The ability to sense stimuli within the body regarding position, motion, and equilibrium (e.g., with eyes closed a person knows the position of his arms). Speech is monitored through auditory feedback and proprioceptive feedback of the articulators. (Fogle, P. (2023). Essentials of Communication Sciences & Disorders (3rd ed.). (p.p. 554). Jones & Bartlett Learning.) -Janelle Estrada",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "6",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
     },
     {
       "id": "ch1-g019",
@@ -4618,12 +5948,30 @@
       "source": "CSD Ch3 PP (Fogle 3rd ed.)"
     },
     {
+      "id": "ch7-g041",
+      "term": "rate of speaking",
+      "def": "Is the rate unusually slow or rapid? Are there unusual pauses within utterances or between utterances? Does the child use fillers (e.g., uh-uh, um-um) Frequently? Is the fluency a concern?",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "7",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
       "id": "fogle-reading_disability_dyslexia",
       "term": "Reading disability (dyslexia)",
       "def": "An inability or difficulty reading that is of neurological origin.",
       "chapter": "6",
       "module": "mod-6",
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Textbook Glossary"
+    },
+    {
+      "id": "ch16-g009",
+      "term": "Reasoning and Problem-Solving",
+      "def": "Difficulty identifying that there is a problem (e.g., ran out of medication) and generating solutions (e.g., call the pharmacy). Fogle, P. (2023). Essentials of Communication Sciences & Disorders (3rd ed.). (p.363). Jones & Bartlett Learning. - Tyra Ford",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "16",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
     },
     {
       "id": "fogle-receptive_aphasia",
@@ -4656,6 +6004,15 @@
       "module": "mod-6",
       "chapter": "7",
       "source": "Ch. 7 slides / Lecture Ch. 7, Kidwell"
+    },
+    {
+      "id": "ch1-g067",
+      "term": "Rehabilitate",
+      "def": "Restoration to normal or to as satisfactory a status as possible of impaired functions and abilities",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "1",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
     },
     {
       "id": "ch21-g024",
@@ -4745,6 +6102,15 @@
       "source": "Sariah video transcript / Lecture Ch. 7, Kidwell"
     },
     {
+      "id": "ch10-g006",
+      "term": "savant syndrome",
+      "def": "The co-occurrence of unexpected or unusaul high-level skills (e.g., math caculations, days and dates in historyor the future, or remarkable memory for unrelated information) with generally low intelligence that is most commonly associated with autism spectrum disorders. (Fogle, P. 222) ~ Emma Sarment",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "10",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
       "id": "fogle-scaffolding",
       "term": "Scaffolding",
       "def": "Support that adults provide to children for them to achieve competence in an activity (e.g., reading and writing), with the support gradually removed until the child is able to perform independently.",
@@ -4769,12 +6135,30 @@
       "source": "Ch. 21 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
     },
     {
+      "id": "ch7-g029",
+      "term": "screening",
+      "def": "In speech, any gross measure used to identify individuals who may require further assessment in a specific area (e.g., articulation, language, hearing, fluency, or voice)",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "7",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
       "id": "fogle-second-impact_syndrome",
       "term": "Second-impact syndrome",
       "def": "A rare injury in which an individual receives a second concussion before the symptoms of a prior concussion are completely resolved; occurs primarily in teens and young adults who play hard contact sports and can cause diffuse and catastrophic cerebral edema that results in permanent disability or death.",
       "chapter": "12",
       "module": "mod-12",
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Textbook Glossary"
+    },
+    {
+      "id": "ch21-g036",
+      "term": "Self-Awareness",
+      "def": "\"Self-awareness is related to other concepts of self, such as self-acceptance and self esteem. Having a positive sense of self and being comfortable \"in their own skin\" is important for SLPs and audiologists to maintain their emotional stability.\"",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "21",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
     },
     {
       "id": "ch7-g013",
@@ -4817,6 +6201,33 @@
       "source": "Lecture Ch. 7, Kidwell, SJDC"
     },
     {
+      "id": "ch16-g007",
+      "term": "Semicomatose (semiconsciousness)",
+      "def": "Partially conscious; not completely aware of sensations and stimuli. Fogle, P. (2023). Essentials of Communication Sciences & Disorders (3rd ed.). (p.p. 403). Jones & Bartlett Learning. - Emma Sarment",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "16",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
+      "id": "ch16-g019",
+      "term": "Senility",
+      "def": "A medical term that refers to the normal loss of cognitive functioning with advanced age. Fogle, P. (2023). Essentials of Communication Sciences & Disorders (3rd ed.). (p. 413). Jones & Bartlett Learning - Tori Roche",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "16",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
+      "id": "ch6-g024",
+      "term": "sensorimotor",
+      "def": "The combination of input of sensations and output of motor activity; motor activity reflects what is happening in the sensory systems",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "6",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
       "id": "ch17-g022",
       "term": "Sensorimotor Nature of Motor Speech Disorders",
       "def": "Motor speech disorders have a sensory component — they are SENSORIMOTOR in nature, not purely motor dysfunction. The sensory feedback systems (proprioception, auditory, tactile) that monitor and regulate speech production are also affected. This is why treatment approaches that incorporate multiple sensory modalities (tactile cues, visual feedback, auditory monitoring) are more effective than purely motor-based approaches.",
@@ -4831,6 +6242,42 @@
       "module": "mod-1",
       "chapter": "1",
       "source": "Lecture 1.2.1 — Chapter 1, Kidwell, SJDC Comm Dis 1A"
+    },
+    {
+      "id": "ch10-g004",
+      "term": "sensory processing disorders (SPD)",
+      "def": "A neurological disorder that causes difficulties with processing information from the five senses: vision, auditory, touch, olfaction, and taste, as well as from the sense of movement (vestibular system), and/or the positional sense (proprioception) (Fogle, P. 221) - Beth Doupe",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "10",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
+      "id": "ch6-g028",
+      "term": "sequential/alternating movement repetitions",
+      "def": "\"In speech, the ability to execute rapid repetitive or alternating movements of the articulators that is often tested using specific CVCVCV sequence, e.g.\"Fogle, P. (2023). Essentials of Communication Sciences & Disorders (3rd ed.). (p.p. 129). Jones & Bartlett Learning.]",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "6",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
+      "id": "ch10-g012",
+      "term": "Shared attention",
+      "def": "The shared focus of two people on an object when one person alerts another to an object by means of eye-gaze, pointing, or other verbal or nonverbal indications. (Fogle, 2023, p. 229). - Nicole Castano",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "10",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
+      "id": "ch5-g063",
+      "term": "sibilants",
+      "def": "A fricative sound whose production is accompanied by a \"hissing\" sound (/s/,/z/)",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "5",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
     },
     {
       "id": "ch20-g010",
@@ -4863,6 +6310,15 @@
       "module": "mod-5",
       "chapter": "17",
       "source": "Lecture Ch. 17, Kidwell / Ch. 17 PPTX"
+    },
+    {
+      "id": "ch2-g048",
+      "term": "Skilled nursing facility",
+      "def": "(SNF) (Convalescent hospital)- A medical facility that provides long-term medical, nursing, or custodial care for individuals (e.g., during the course of a chronic illness or the rehabilitation phase after an a acute illness or injury)",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "2",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
     },
     {
       "id": "ch2-tx-g002",
@@ -4905,12 +6361,48 @@
       "source": "Ch. 2 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
     },
     {
+      "id": "ch10-g010",
+      "term": "Social",
+      "def": "picture exchange communication system (PECS): Developed by two SLPs, PECS is a form of augmentative and alternative communication (AAC) used widely with children and adults with ASD and other disorders. PECS is designed to teach functional communication with an initial focus on spontaneous communication. (Fogle Glossary) – Benjamin Bartle",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "10",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
       "id": "fogle-social_pragmatic_communication_disorder_",
       "term": "Social (pragmatic) communication disorder (SCD)",
       "def": "A primary deficit in the social use of nonverbal and verbal communication characterized by difficulty in using language for social purposes, appropriately matching communication to the social context, following rules of the communication context, understanding nonliteral language, and integrating language with nonverbal communicative behaviors.",
       "chapter": "12",
       "module": "mod-12",
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Textbook Glossary"
+    },
+    {
+      "id": "ch12-g021",
+      "term": "Social anxiety",
+      "def": "Fear of social situations and the interaction with other people that can automatically bring on feelings of self-consciousness, judgement, evaluation, and inferiority (Fogle, 2023, p. 306). - Alannah Soeur",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "12",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
+      "id": "ch1-g083",
+      "term": "Social Communication Disorder",
+      "def": "Are characterized by difficulties with the use of verbal and nonverbal language for social purposes. Essentials of Communication Disorders (2nd ed.). (p.p.12). Jones & Bartlett Learning.]",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "1",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
+      "id": "ch4-g048",
+      "term": "Social-Pragmatic Theory",
+      "def": "\"A perspective of language development that considers communication as the basic function of language\" Fogle, P. (2023). Essentials of Communication Sciences & Disorders (3rd ed.). (p.p. 69). Jones & Bartlett Learning. -Lourdes Medrano",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "4",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
     },
     {
       "id": "ch4-g028",
@@ -4937,12 +6429,30 @@
       "source": "Lecture Ch. 13, Kidwell / Ch. 13 PPTX"
     },
     {
+      "id": "ch6-g037",
+      "term": "spastic",
+      "def": "The most common form where the most common symptom is hypertonicity of flexor muscles which results in stiff, inflexible muscles and joints. Individuals have jerky, abrupt, rigid, and slow, labored movements. (p.p., 123) - Benjamin Bartle",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "6",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
       "id": "fogle-spasticity",
       "term": "Spasticity",
       "def": "Abnormal excessive muscle tone that interferes with normal relaxed movement of the limbs and body.",
       "chapter": "5",
       "module": "mod-5",
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Textbook Glossary"
+    },
+    {
+      "id": "ch7-g031",
+      "term": "Specific Language Impairment",
+      "def": "Significant receptive and/or expressive language impairments that cannot be attributed to any general or specific cause or condition",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "7",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
     },
     {
       "id": "ch7-g004",
@@ -5001,12 +6511,30 @@
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Textbook Glossary"
     },
     {
+      "id": "ch1-g046",
+      "term": "Speech-Language Pathologist",
+      "def": "A professional who is specifically educated and trained to identify, evaluate, treat, and prevent speech, language, cognitive, and swallowing disorders",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "1",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
       "id": "ch2-g006",
       "term": "Speech-Language Pathologist (SLP)",
       "def": "A licensed professional who identifies, evaluates, diagnoses, and treats communication and swallowing disorders. Requires a Master's degree in Communication Disorders (or Ph.D.), passage of a national exam, and state licensure. Works in schools, hospitals, clinics, private practice, and universities.",
       "module": "mod-1",
       "chapter": "2",
       "source": "Lecture 1.2.2 — Chapter 2: The Professionals, Kidwell, SJDC Comm Dis 1A"
+    },
+    {
+      "id": "ch2-g052",
+      "term": "Speech-Language Pathology Assistant (SLPA)",
+      "def": "A support person who performs tasks as prescribed, directed, and supervised by ASHA-certified SLPs",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "2",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
     },
     {
       "id": "ch20-g011",
@@ -5017,12 +6545,57 @@
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 20"
     },
     {
+      "id": "ch21-g035",
+      "term": "Spirituality",
+      "def": "For SLPs and audiologists, appropriate way of honoring and respecting spirituality include being sensitive to and accepting of the religious and spiritual values and beliefs of our clients/patients, and their families, and ourselves. Fogle, P. (2023). Essentials of Communication Sciences & Disorders (3rd ed), Jones & Bartlett Learning (p.p. 476-477) Tabitha Clinton",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "21",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
       "id": "fogle-spontaneous_recovery",
       "term": "Spontaneous recovery",
       "def": "The physiological healing of the brain's damaged tissue, including reduction of cerebral edema, development of collateral blood vessels, and rerouting of neural pathways.",
       "chapter": "11",
       "module": "mod-11",
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Textbook Glossary"
+    },
+    {
+      "id": "ch16-g020",
+      "term": "Stage I",
+      "def": "Mild Alzheimer’s, Early-Stage Alzheimer’s, Forgetfulness Stage",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "16",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
+      "id": "ch16-g021",
+      "term": "Stage II",
+      "def": "Moderate Alzheimer’s, Middle-Stage Alzheimer’s, Confusion Stage",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "16",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
+      "id": "ch16-g022",
+      "term": "Stage III",
+      "def": "Severe Alzheimer’s, Late-Stage Alzheimer’s, Terminal Stage",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "16",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
+      "id": "ch7-g039",
+      "term": "standardized (norm-referenced) test",
+      "def": "\"A test that has been administered to a large group of individuals to determine uniform or standard procedures and methods of administration. scoring, and interpretation, and has adequate normative data on validity and reliability; tests that are administered to compare one child's performance to others the same age\"",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "7",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
     },
     {
       "id": "ch5-g023",
@@ -5041,12 +6614,39 @@
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Textbook Glossary"
     },
     {
+      "id": "ch5-g062",
+      "term": "stop-plosives",
+      "def": "Consonants that are produced when a complete occlusion between two articulators occurs-for example, /p/, /b/, /t/, /d/, /k/, and /g/. Fogle, P. (2023). Essentials of Communication Sciences & Disorders (3rd ed.). (p.p.97). Jones & Bartlett Learning",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "5",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
+      "id": "ch4-g062",
+      "term": "Stops",
+      "def": "Sound made by blocking the air pressure in the mouth and then suddenly releasing it. The air flow can be blocked by pressing the tongue against either the gums (alveolar - /t/, /d/) or soft palate (velar - /k/, /g/). Fogle, P. (2023). Essentials of Communication Disorders (3rd ed.). (p.p 557 glossary). Jones & Bartlett Learning -Janelle Estrada",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "4",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
       "id": "slp-ch15-g002",
       "term": "Stroke (Cerebrovascular Accident / CVA)",
       "def": "Disruption of blood flow to the brain, preventing oxygenated blood and nutrients from reaching brain areas. The second most common cause of death in the world and the most common cause of aphasia in older adults. Men have a higher risk but women are more likely to die from a stroke. Types: OCCLUSIVE (ISCHEMIC) stroke — blocked artery; CEREBRAL THROMBOSIS — artery blocked by debris (atherosclerosis); CEREBRAL EMBOLISM — blood clot lodged in a cerebral blood vessel; CEREBRAL HEMORRHAGE — ruptured blood vessel, most common in those with chronic hypertension. Time is critical — use F.A.S.T. (Face, Arms, Speech, Time).",
       "chapter": "15",
       "source": "Ch. 15 PPTX; Kidwell lecture notes",
       "module": "mod-11"
+    },
+    {
+      "id": "ch1-g086",
+      "term": "Stuttering",
+      "def": "Is an interruption in the flow of speaking due to disinfluencies. “Stuttering, Cluttering, and Fluency.” Asha.orgLinks to an external site., 2019",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "1",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
     },
     {
       "id": "ch12-g008",
@@ -5145,6 +6745,15 @@
       "source": "Lecture 2.2 — Ch. 3, Kidwell, SJDC Comm Dis 1A"
     },
     {
+      "id": "ch5-g073",
+      "term": "Substitution",
+      "def": "The replacement of one standard speech sound by another (e.g., /th/ for /s/)",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "5",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
       "id": "ch5-g018",
       "term": "Substitution (Articulation Error)",
       "def": "An articulation error in which one sound is replaced by another. The most common type of articulation error. Example: 'tat' for 'cat' (/t/ substituted for /k/ in initial position). In IPA notation written as: initial /t/ for initial /k/.",
@@ -5159,6 +6768,15 @@
       "module": "mod-3",
       "chapter": "4",
       "source": "Ch. 4 PDF — Prof. Handy, SJDC"
+    },
+    {
+      "id": "ch4-g044",
+      "term": "Successive approximations (shaping)",
+      "def": "A language learning model followed by Behaviorists who believe that language is learned by imitation, reinforcement and successive approximations or shaping towards adult language behaviors. Fogle. (2019) Essentials of Communication Sciences and Disorders (2nd Ed) - Benjamin Bartle",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "4",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
     },
     {
       "id": "ch1-g020",
@@ -5177,12 +6795,48 @@
       "source": "Ch. 2 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
     },
     {
+      "id": "ch1-g051",
+      "term": "Syllables",
+      "def": "Multiple sounds organized to create words. Either a single vowel or a vowel and one or more consonants. [Fogle, P. (2019) Essentials of Communication Disorders (2nd Ed.)",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "1",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
+      "id": "ch5-g077",
+      "term": "Symmetry",
+      "def": "\"Both sides (e.g., the lips) in balanced proportions for size, shape, and relative position\" (Fogle, 2023, p.p. 109)",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "5",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
+      "id": "ch2-g044",
+      "term": "Symptoms",
+      "def": "A subjective indication of a disorder, disability, disease, or change of condition as perceived by a client, patient, or other nonmedical or rehabilitation specialist, such as a family member",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "2",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
       "id": "ch3s-g014",
       "term": "Synapse",
       "def": "The junction between two neurons where a nerve impulse passes from one cell to another via neurotransmitters. Articulation therapy works by causing changes in neuronal firing and synaptic connections — essentially retraining the brain.",
       "module": "mod-2",
       "chapter": "3",
       "source": "CSD Ch3 PP (Fogle 3rd ed.)"
+    },
+    {
+      "id": "ch1-g071",
+      "term": "Syndromes",
+      "def": "A complex of signs and symptoms resulting from a common etiology or appearing together that presents a clinical picture of a disease or inherited anomaly. Essentials of Communication Disorders (2nd ed.). (p.p. 9). Jones & Bartlett Learning.]",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "1",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
     },
     {
       "id": "ch1-g016",
@@ -5241,6 +6895,15 @@
       "source": "Ch. 4 PDF — Prof. Handy / Quiz answer key"
     },
     {
+      "id": "ch4-g075",
+      "term": "Telegraphic speech (language)",
+      "def": "Condensed language where only the essential words are used, such as nouns, verbs and objects, often used by three-year-old children or college students taking notes. Fogle. (2019) Essentials of Communication Sciences and Disorders (2nd Ed) (Glossary) - Benjamin Bartle",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "4",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
       "id": "slp-ch15-g017",
       "term": "Telegraphic Speech and Agrammatism",
       "def": "TELEGRAPHIC SPEECH: speech condensed to only the most essential content words (nouns, verbs), with functor words (articles a/an/the, prepositions, conjunctions) omitted — like the content of a telegram. Associated with Broca's aphasia. AGRAMMATISM: impaired syntax — difficulty formulating grammatically correct sentences; word order may be wrong, morphological markers omitted. FUNCTOR WORDS (noncontent words): grammatical function words such as 'the,' 'of,' 'was,' 'and' — tend to be omitted in nonfluent aphasias.",
@@ -5263,6 +6926,15 @@
       "module": "mod-2",
       "chapter": "3",
       "source": "CSD Ch3 PP (Fogle 3rd ed.)"
+    },
+    {
+      "id": "ch14-g001",
+      "term": "teratogen",
+      "def": "Any substance, agent, or process that interferes with prenatal development, causing the formation of one or more developmental abnormalities in a fetus. [Fogle, P. (2023). Essentials of Communication Sciences and Disorders (3rd Ed.). (Glossary). Jones and Bartlett Learning. - Benjamin Bartle",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "14",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
     },
     {
       "id": "slp-ch18-g002",
@@ -5457,6 +7129,33 @@
       "module": "mod-11"
     },
     {
+      "id": "ch2-g045",
+      "term": "Treatment",
+      "def": "Using therapy and developing creative strategies to help clients and patients using evidence based practices",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "2",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
+      "id": "ch18-g017",
+      "term": "Treatment Effectiveness",
+      "def": "The extent to which services are shown to be beneficial under typical (or real-world) conditions",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "18",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
+      "id": "ch18-g016",
+      "term": "Treatment Efficacy",
+      "def": "The extent to which an intervention can be shown to be beneficial under optimal (or ideal) conditions",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "18",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
       "id": "ch3-g017",
       "term": "True Vocal Folds",
       "def": "Muscles covered with mucous membranes located within the larynx. Biological function: close the airway to prevent food/liquid from entering the trachea. Overlaid function: vibrate to produce voice. Must abduct (open) for breathing and adduct (close) to phonate.",
@@ -5479,6 +7178,15 @@
       "chapter": "10",
       "module": "mod-10",
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Textbook Glossary"
+    },
+    {
+      "id": "ch19-g016",
+      "term": "Tympanic membrane",
+      "def": "\"A thin, semitransparent membrane that separates the ear canal from the middle ear and transmits sound vibrations into the middle ear.\" { Fogle, P. 461 (2023). Essentials of Communication Sciences & Disorders (3rd ed), Jones & Bartlett Learning} = GOMEZ",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "19",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
     },
     {
       "id": "fogle-tympanic_membrane_eardrum",
@@ -5505,6 +7213,15 @@
       "source": "Ch. 21 — Fogle, Essentials of Communication Sciences & Disorders, 2023 / Comm Dis 1A, SJDC"
     },
     {
+      "id": "ch4-g046",
+      "term": "Utterances",
+      "def": "A unit of vocal expression that is preceded and followed by silence; may be made up of a word or words, phrases, clauses or sentences. Fogle. (2019) Essentials of Communication Sciences and Disorders (2nd Ed) Glossary - Benjamin Bartle",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "4",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
       "id": "ch3-g031",
       "term": "Uvula",
       "def": "The small, fleshy projection hanging at the posterior end of the soft palate. Moves with the soft palate during speech and swallowing.",
@@ -5519,6 +7236,15 @@
       "chapter": "19",
       "module": "mod-13",
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Ch. 19"
+    },
+    {
+      "id": "ch5-g059",
+      "term": "Velars",
+      "def": "Produced by the back of the tongue (root) approaching the soft palate (/k/, /g/) (p 86)",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "5",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
     },
     {
       "id": "ch3-g030",
@@ -5585,12 +7311,30 @@
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Textbook Glossary"
     },
     {
+      "id": "ch16-g016",
+      "term": "Visual-spatial impairments",
+      "def": "\"Difficulty associating seen objects with their spatial relationships what is around the objects and the environment; often results in disorientation.\" (Fogle 364). - Dani Sierra",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "16",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
       "id": "fogle-vocal_abuse_phonotrauma",
       "term": "Vocal abuse (phonotrauma)",
       "def": "Harmful acute or chronic vocal behaviors, such as excessive yelling, screaming, cheering, coughing, and hard glottal attacks that are damaging to the vocal folds and the laryngeal and pharyngeal muscles and tissues.",
       "chapter": "10",
       "module": "mod-10",
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Textbook Glossary"
+    },
+    {
+      "id": "ch13-g036",
+      "term": "Vocal Fold Cyst",
+      "def": "Are benign masses that are enclosed sac-like structures, which are usually found in a unilateral position on the midpoint of the medial edge of the vocal folds. (Fogle, 2023, P.319) - Emma Sarment",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "13",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
     },
     {
       "id": "fogle-vocal_fold_paralysis",
@@ -5695,6 +7439,15 @@
       "source": "Lecture 2.2 — Ch. 3, Kidwell, SJDC Comm Dis 1A"
     },
     {
+      "id": "ch5-g068",
+      "term": "Voiced",
+      "def": "the distinctive feature that refers to a sound produced either with vocal folds vibrating or not vibrating.Fogle, P. (2023). Essentials of Communication Sciences & Disorders (3rd ed), Jones & Bartlett Learning (pg # 95). - Tallis L",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "5",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
       "id": "ch5-g015",
       "term": "Voicing",
       "def": "Whether the vocal folds are vibrating or not during sound production. Voiced sounds: vocal folds vibrate (e.g., /b/, /d/, /g/, /v/, /z/). Voiceless sounds: vocal folds do not vibrate (e.g., /p/, /t/, /k/, /f/, /s/). All vowels are voiced. Feeling throat vibration is a common way to detect voicing (though pairing with a vowel can be misleading).",
@@ -5719,6 +7472,15 @@
       "source": "Ch. 5 slides — Fogle/SJDC / Lecture 4.2, Kidwell"
     },
     {
+      "id": "ch15-g016",
+      "term": "Wernicke’s Aphasia",
+      "def": "A fluent aphasia caused by damage to the regions in or around Wernicke's area in the posterior superior left temporal lobe (i.e., the auditory association cortex). It is characterized by impaired auditory comprehension and verbal expression, and by impaired reading and writing (Fogle, 2023, p. 378). - Alannah Soeur",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "15",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
       "id": "slp-ch15-g007",
       "term": "Wernicke's Aphasia (Receptive Aphasia)",
       "def": "A fluent aphasia caused by damage in or around Wernicke's area in the auditory association cortex of the left temporal lobe. Characteristics: impaired AUDITORY COMPREHENSION (cannot grasp meaning of spoken words), impaired verbal expression, impaired reading comprehension, impaired written language. Patient can speak fluently with normal rate and intonation but speech may not make sense; patient may not know their speech is wrong and get frustrated when misunderstood. Features include: literal and verbal paraphasias, neologisms, jargon, difficulty with yes/no questions, difficulty following rapid speech, lacking awareness of errors. Fluency: +, Comprehension: −, Repetition: −, Naming: −.",
@@ -5735,6 +7497,15 @@
       "source": "Lecture 2.2 — Ch. 3, Kidwell, SJDC Comm Dis 1A"
     },
     {
+      "id": "ch21-g028",
+      "term": "Within Our Boundaries",
+      "def": "\"Areas within our boundaries include, but are not limited to, the following: ■ Interviewing the client/patient and family ■ Presenting the diagnosis of delays and disorders ■ Providing information about the delays and disorders ■ Discussing interventions for the delays and disorders ■ Working with the client/patient’s and family’s reactions to the diagnosis ■ Supporting the strengths of the person and his or her efforts to regain functions and be independent ■ Supporting the strengths of the family to help them interact optimally with the client/patient ■ Creating supportive empowerment for the client/patient and family to develop the ability to manage their own problems and be independent of the clinician\"",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "21",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
+    },
+    {
       "id": "ch5-g022",
       "term": "Word Position (Initial, Medial, Final)",
       "def": "The location within a word where an articulation error occurs. Initial position = beginning of the word (e.g., 'cat' → /k/ is initial). Medial position = middle of the word. Final position = end of the word. SLPs document whether a child consistently makes an error in one, two, or all three positions, which influences therapy targeting.",
@@ -5749,6 +7520,15 @@
       "chapter": "2",
       "module": "mod-2",
       "source": "Fogle, P.T. (2019). Essentials of Communication Sciences & Disorders, 3rd ed. — Textbook Glossary"
+    },
+    {
+      "id": "ch4-g054",
+      "term": "Worldview",
+      "def": "An individuals or groups perception of reality and framework of ideas, beliefs, and attitudes about the worlds, life , and themselves. Fogle, P. (2023). Essentials of Communication Sciences & Disorders (3rd ed), Jones & Bartlette Learning (pg. 73)- Tallis L",
+      "image": null,
+      "module": "mod-16",
+      "chapter": "4",
+      "source": "Fogle (2023) Essentials of Communication Sciences & Disorders (3rd ed.) — COMMDIS1A Student Wiki"
     }
   ],
   "flashcards": [
