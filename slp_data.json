@@ -19602,6 +19602,11 @@
       "asked": 1,
       "correct": 1,
       "incorrect": 0
+    },
+    "ch21-q002": {
+      "asked": 1,
+      "correct": 0,
+      "incorrect": 1
     }
   }
 }
